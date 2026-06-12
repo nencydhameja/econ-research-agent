@@ -39,7 +39,9 @@ def load_df() -> pd.DataFrame:
             rows.append(json.loads(line))
     df = pd.DataFrame(rows)
     if not df.empty and "published" in df.columns:
-        df["published"] = pd.to_datetime(df["published"], errors="coerce").dt.date
+        # Keep as datetime64 (not .dt.date) so .max() / sort_values work cleanly
+        # on Streamlit Cloud's Python 3.14 + numpy combo.
+        df["published"] = pd.to_datetime(df["published"], errors="coerce")
     return df
 
 
@@ -53,10 +55,12 @@ if df.empty:
     )
     st.stop()
 
+_latest = df["published"].dropna().max()
+_latest_str = _latest.date().isoformat() if pd.notna(_latest) else "n/a"
 st.caption(
     f"{len(df):,} papers · "
     f"{df['source'].nunique()} sources · "
-    f"latest publication: {df['published'].max()}"
+    f"latest publication: {_latest_str}"
 )
 
 # --- Sidebar filters ---
@@ -92,8 +96,9 @@ with st.sidebar:
 filt = df.copy()
 filt = filt[filt["source"].isin(src_sel)]
 if start and end:
-    pub = pd.to_datetime(filt["published"], errors="coerce").dt.date
-    filt = filt[(pub.isna()) | ((pub >= start) & (pub <= end))]
+    pub = pd.to_datetime(filt["published"], errors="coerce")
+    pub_dates = pub.dt.date
+    filt = filt[pub.isna() | ((pub_dates >= start) & (pub_dates <= end))]
 if field_sel:
     filt = filt[filt["fields"].apply(
         lambda fs: bool(set(fs or []) & set(field_sel))
@@ -151,7 +156,9 @@ with tab_papers:
             src = row.get("raw", {}).get("journal") or row["source"].replace("_", " ")
             meta_bits.append(src)
             if pd.notna(row.get("published")):
-                meta_bits.append(str(row["published"]))
+                _pub = row["published"]
+                meta_bits.append(_pub.date().isoformat()
+                                 if hasattr(_pub, "date") else str(_pub))
             if fields:
                 meta_bits.append(" · ".join(fields[:3]))
             st.markdown(
