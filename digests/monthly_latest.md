@@ -1,83 +1,246 @@
-# Economics Research Digest — 2026-06-01
+# Economics Research Digest — 2026-06-12
 
-Window: last **60 days** · 10 papers across 5 fields · drawn from 1 sources.
+Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Towards an Ideometrics-Based General Theory of Human Progress](https://arxiv.org/abs/2605.30683v1)
-*Igor Rudan, Steven Kerr* — **arxiv**, 2026-05-29 — _Agricultural & Environmental Economics, Health, Education & Welfare_
+### [Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21084?af=R)
+*Nicholas Ryan* — **Econometrica**, 2026-06-08 — _Agricultural & Environmental Economics_
 
-This paper proposes ideometrics as the foundation for a generalised and potentially testable theory of human progress and civilisational progress, thus linking ideometrics to studies in economics and history. Building on prior work that conceptualises the human brain as a sensor of ideas, human progress is understood not primarily through outcomes such as wealth, health, or technological advancement, but through the dynamic process of the "idea life cycle" that shapes future states. The paper advances a formal definition of human progress as a measurable improvement in the ability of individua...
-
----
-
-## International Economics
-
-### [Comparing Market Mechanism Efficiencies](https://arxiv.org/abs/2605.31072v1)
-*Irene Aldridge* — **arxiv**, 2026-05-29 — _International Economics_
-
-We develop a game-theoretic framework that compares welfare efficiency across three market mechanisms: continuous double auctions with transparent order books (lit exchanges), opaque order books (dark pools), and periodic batch auctions. Each mechanism is modeled as a queuing system where heterogeneous traders face trade-offs between the execution price, waiting costs, and transaction costs. Our main result establishes that under moderate arrival rates and bounded adverse selection, dark pools dominate both alternatives in aggregate ex-ante welfare. Observable order books create costly strateg...
+Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-## Labor & Demographic Economics
+### [Water Works: Causes and Consequences of Safe Drinking Water in America](https://www.nber.org/papers/w35288#fromrss)
+*David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S. Shapiro* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Health, Education & Welfare, Public Economics_
 
-### [A Geometric Approach to the Transformation Problem of Values](https://arxiv.org/abs/2605.30890v1)
-*Jiyuan Lyu* — **arxiv**, 2026-05-29 — _Labor & Demographic Economics_
+Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings ex...
 
-The reduction of complex labour to simple labour is an unresolved difficulty in Marx's labour theory of value, and a key obstacle that has prevented the transformation problem from being settled definitively. This paper proposes a two-step solution framework. First, we prove that as long as the macroeconomy generates a physical surplus, the reduction coefficients that respect the floor of labour-power reproduction form a bounded ``value feasible region''; within this region the two macro aggregate equalities can hold simultaneously for a reasonable range of the profit rate. Second, we propose ...
+---
+
+### [Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach](https://www.nber.org/papers/w35294#fromrss)
+*Alex Bell, Sophie Calder-Wang, Shusheng Zhong* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics_
+
+This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a...
+
+---
+
+## Business Economics & Innovation
+
+### [What Investment Data Implies about the AI Transition](https://www.nber.org/papers/w35290#fromrss)
+*Jessica Wachter, Jonathan Wachter* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation_
+
+The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate a two-year window of a 50% annual probability of an increase of the same magnitude, generating a ra...
+
+---
+
+## Health, Education & Welfare
+
+### [Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up](https://www.nber.org/papers/w35291#fromrss)
+*Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare_
+
+Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, compared with 83% in the original trial. Implementation was no higher among schools that previously ...
+
+---
+
+### [Predicting Labor Force Types](https://www.nber.org/papers/w35295#fromrss)
+*Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, Labor & Demographic Economics_
+
+A small group of people accounts for a large majority of flows between labor market states and of spells in un- and non-employment. In this paper, we ask whether it is possible to identify those weakly attached to the labor market during their prime working-age years using information available early in their lives. First, we use information on labor force transitions between ages 30 and 50 contained in the long panel provided by the NLSY79 to identify those weakly connected to the labor market during their prime age. To do so, we use k-means clustering on moments describing observed spells in...
+
+---
+
+## Macroeconomics
+
+### [Cash Heterogeneity and the Payout Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70059?af=R)
+*ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-06-01 — _Macroeconomics_
+
+The Journal of Finance, EarlyView.
 
 ---
 
 ## Unclassified
 
-### [Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](https://arxiv.org/abs/2605.31443v1)
-*Naoki Chihara, Tatsushi Oka, Yasuko Matsubara, Yasushi Sakurai et al.* — **arxiv**, 2026-05-29 — _Unclassified_
+### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
+*HUI CHEN, 
+ZHIYAO CHEN, 
+JUN LI* — **Journal of Finance**, 2026-06-09 — _Unclassified_
 
-We present a regression-adjustment framework designed for the estimation of longitudinal treatment effects in randomized experiments under static regimes. While regression-adjustment methods are useful for variance reduction in randomized experiments by using pre-treatment covariates, they usually focus only on average effects, from which we cannot obtain valuable insights into when the effects appear and how long they continue. To address this issue, we consider intermediate outcomes and evolving post-treatment covariates over time, and we represent such dynamic trajectories using transition ...
-
----
-
-### [Posterior and Likelihood Sensitivity in Bayesian Distributionally Robust Optimization](https://arxiv.org/abs/2605.31306v1)
-*Jun-ya Gotoh, Andrew E. B. Lim, Michael Jong Kim* — **arxiv**, 2026-05-29 — _Unclassified_
-
-We introduce the notion of worst-case posterior and worst-case likelihood sensitivity. These measure, respectively, the sensitivity of the expected cost to worst-case perturbations of the posterior distribution and worst-case perturbations of the likelihood of a Bayesian model. Each defines a quantitative measure of robustness. A decision maker concerned about the sensitivity of the out-of-sample expected cost to deviations from her assumptions will want a decision for which both sensitivities are small. We derive posterior and likelihood sensitivities for uncertainty sets defined in terms of ...
+The Journal of Finance, EarlyView.
 
 ---
 
-### [Welfare, Improvability, and Variance: A Principal-Agent Approach to Optimal Benchmark Item Aggregation](https://arxiv.org/abs/2605.30916v1)
-*Andreas Haupt, Justin Hartenstein, Anka Reuel, Mykel Kochenderfer et al.* — **arxiv**, 2026-05-29 — _Unclassified_
+### [Backmatter of Econometrica Vol. 94 Iss. 3](https://onlinelibrary.wiley.com/doi/10.3982/ECTA943BM?af=R)
+** — **Econometrica**, 2026-06-08 — _Unclassified_
 
-AI benchmarks have well-documented limitations, with prior work examining contamination, saturation, and construct underspecification. Aggregation has received far less attention: benchmarks are typically summarized by uniformly averaging item-level scores, implicitly treating every test item as equally valuable. We model benchmarking as a multitask principal-agent game and show that the welfare loss from a benchmark is determined jointly by three item-level primitives: alignment with normative welfare priorities, marginal improvability, and performance variance. We translate the theory into a...
-
----
-
-### [A Lecture Note on Offline RL and IRL, Part II: Foundations of Inverse Reinforcement Learning and Dynamic Discrete Choice Models](https://arxiv.org/abs/2605.30843v1)
-*Enoch Hyunwook Kang* — **arxiv**, 2026-05-29 — _Unclassified_
-
-In the forward reinforcement-learning problem, the reward is fixed and known; the learner is asked to find a good policy or value function. Here we turn the question around. Given offline data generated by an expert, can we recover the reward the expert was optimizing? This is the inverse reinforcement learning problem, and remarkably, two communities, structural econometricians studying dynamic discrete choice (DDC) and machine learners studying entropy-regularized IRL, have been working on exactly the same probabilistic model under different names. We begin by proving their equivalence. We t...
+Econometrica, Volume 94, Issue 3, Page iii-v, May 2026.
 
 ---
 
-### [Kalimati Vegetable Price Index Forecasting with a Momentum Corrected Online Stacking Ensemble](https://arxiv.org/abs/2605.30720v1)
-*Sahaj Raj Malla* — **arxiv**, 2026-05-29 — _Unclassified_
+### [Frontmatter of Econometrica 94 Iss. 3](https://onlinelibrary.wiley.com/doi/10.3982/ECTA943FM?af=R)
+** — **Econometrica**, 2026-06-08 — _Unclassified_
 
-Forecasting agricultural commodity prices in emerging economies is difficult due to high volatility, frequent supply disruptions, and strong cultural influences on demand. This study introduces the Kalimati Vegetable Price Index (KVPI), a new inverse-volatility weighted composite index that aggregates 135 daily wholesale commodities from Kathmandu over ten years (2013-2023). By creating a stable macro-level signal, the KVPI reduces the noise inherent in modelling individual crops. A rich set of 64 causally valid features was developed, including festival lead-lag effects, rolling statistics, a...
+Econometrica, Volume 94, Issue 3, Page i-ii, May 2026.
+
+---
+
+### [The Econometric Society 2025 Annual Report of the President](https://onlinelibrary.wiley.com/doi/10.3982/ECTA943PRES?af=R)
+** — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 1045-1060, May 2026.
+
+---
+
+### [Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23938?af=R)
+*Sylvia Hristakeva* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 735-737, May 2026.
+
+---
+
+### [Reply to comments on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24816?af=R)
+*Kate Ho, 
+Robin S. Lee* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 739-740, May 2026.
+
+---
+
+### [Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22488?af=R)
+*Kate Ho, 
+Robin S. Lee* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 689-728, May 2026.
+
+---
+
+### [Continuity of the Distribution Function of the argmax of a Gaussian Process](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23862?af=R)
+*Matias D. Cattaneo, 
+Gregory F. Cox, 
+Michael Jansson, 
+Kenichi Nagasawa* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 941-955, May 2026.
+
+---
+
+### [Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24210?af=R)
+*Rena M. Conti* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 729-733, May 2026.
+
+---
+
+### [Assortative Matching on Income](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21097?af=R)
+*Pierre‐André Chiappori, 
+Carlo Fiorio, 
+Alfred Galichon, 
+Stefano Verzillo* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 957-989, May 2026.
+
+---
+
+### [Training Specificity and Occupational Mobility: Evidence From German Apprenticeships](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21835?af=R)
+*Dita Eckardt* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 741-766, May 2026.
+
+---
+
+### [Work Hours Mismatch](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21849?af=R)
+*Marta Lachowska, 
+Alexandre Mas, 
+Raffaele Saggio, 
+Stephen A. Woodbury* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 991-1025, May 2026.
+
+---
+
+### [Outside Options, Reputations, and the Partial Success of the Coase Conjecture](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22022?af=R)
+*Jack Fanning* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 877-910, May 2026.
+
+---
+
+### [Communicating Scientific Uncertainty via Approximate Posteriors](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22613?af=R)
+*Isaiah Andrews, 
+Jesse M. Shapiro* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 843-875, May 2026.
+
+---
+
+### [Existence of Myopic‐Farsighted Stable Sets in Matching Markets](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24060?af=R)
+*Battal Doğan, 
+Lars Ehlers* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 811-841, May 2026.
+
+---
+
+### [Comment on ‘Asset Bubbles and Overlapping Generations’ by Jean Tirole](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24365?af=R)
+*Ngoc‐Sang Pham, 
+Alexis Akira Toda* — **Econometrica**, 2026-06-08 — _Unclassified_
+
+Econometrica, Volume 94, Issue 3, Page 1027-1044, May 2026.
+
+---
+
+### [Private Equity and Pay Gaps Inside the Firm](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70043?af=R)
+*LILY FANG, 
+JIM GOLDMAN, 
+ALEXANDRA ROULET* — **Journal of Finance**, 2026-06-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Report of the Editor of The Journal of Finance for the Year 2025](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70061?af=R)
+*ANTOINETTE SCHOAR* — **Journal of Finance**, 2026-06-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Detecting Informed Trading Risk from Undercutting Activity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70047?af=R)
+*YASHAR H. BARARDEHI, 
+PETER DIXON, 
+QIYU LIU* — **Journal of Finance**, 2026-06-01 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Tatonnement and Price Setting in General Equilibrium](https://www.nber.org/papers/w35205#fromrss)
+*Iván Werning, Guido Lorenzoni* — **NBER WP**, 2026-06-11 — _Unclassified_
+
+A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.
+
+---
+
+### [Reducing Gun Violence at Scale](https://www.nber.org/papers/w35292#fromrss)
+*Max Kapustin, Aaron Chalfin, Jeremy Biddle, Brian A. Wade et al.* — **NBER WP**, 2026-06-11 — _Unclassified_
+
+Baltimore's homicide rate fell by roughly 60% between 2022 and 2025, an exceptional decline among large U.S. cities. At the start of this period, Baltimore launched a strategy that concentrated police and social service resources on a small set of people thought to be driving group-involved gun violence. The approach—“focused deterrence”—has been implemented in some form by cities across the U.S. The strategy was introduced first in the Western police district, one of the highest-violence communities in the U.S. Relative to comparable Baltimore neighborhoods, we estimate that within 18 months ...
+
+---
+
+### [The Effect of Height on Adolescents' Body Image Perceptions and Behaviors](https://www.nber.org/papers/w35293#fromrss)
+*Monica Deza, Neiva J. Fortes, Maria Zhu* — **NBER WP**, 2026-06-11 — _Unclassified_
+
+This paper estimates the causal effect of height on adolescents’ body image, encompassing self-perceptions of weight, the accuracy of those perceptions, and weight-management aspirations. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97), we leverage within-individual variation in height during adolescence and condition on body mass index (BMI) to isolate the effects of height on body image outcomes. We find that taller adolescents are more likely to perceive themselves as overweight, even holding BMI constant, and are less likely to underestimate their weight category. H...
 
 ---
 
 ## Urban, Rural & Regional Economics
 
-### [Competitive Many-to-One Matching: Sorting vs. Equality](https://arxiv.org/abs/2605.30879v1)
-*Anton Kolotilin, Alexander Wolitzky* — **arxiv**, 2026-05-29 — _Urban, Rural & Regional Economics_
+### [Rural Migrants and Urban Informality: Evidence From Brazil](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21854?af=R)
+*Clement Imbert, 
+Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
-We study many-to-one matching with transfers and peer effects, such as matching workers to firms, students to schools, residents to neighborhoods, or consumers to status goods. With flexible prices (as in the labor market), competitive equilibrium exists and is efficient under general conditions. We characterize when workforces are segregated by skill and matched to firms in a positively assortative manner. In general, equilibrium features alternating intervals of workforce segregation and compression (mixing). Comparative statics characterize when workforces are more segregated or more compre...
-
----
-
-### [Moment-Based Inference for Regression with Latent Dirichlet Covariates](https://arxiv.org/abs/2605.30718v1)
-*Ziyu Jiang* — **arxiv**, 2026-05-29 — _Urban, Rural & Regional Economics_
-
-Topic models are often used as dimension-reduction tools before regression, with estimated document-level topic shares treated as observed covariates. This plug-in workflow creates two inferential difficulties: valid inference requires a regular first-stage-to-second-stage expansion that propagates topic-estimation uncertainty, and, at fixed document length, a document's topic mixture cannot be consistently recovered from its own words even when the population topic matrix is known. Corrected spectral moment methods for latent Dirichlet allocation (LDA) offer a starting point: when the total D...
+Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
 
 ---
