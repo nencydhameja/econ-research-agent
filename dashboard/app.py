@@ -179,12 +179,27 @@ with tab_papers:
                         unsafe_allow_html=True,
                     )
             elif row.get("abstract"):
-                with st.expander("Abstract", expanded=False):
+                abs_text = row["abstract"]
+                PREVIEW = 500
+                if len(abs_text) <= PREVIEW:
                     st.markdown(
                         f"<div style='font-size:0.83rem;line-height:1.4'>"
-                        f"{row['abstract']}</div>",
+                        f"{abs_text}</div>",
                         unsafe_allow_html=True,
                     )
+                else:
+                    preview = abs_text[:PREVIEW].rsplit(" ", 1)[0] + "…"
+                    st.markdown(
+                        f"<div style='font-size:0.83rem;line-height:1.4'>"
+                        f"{preview}</div>",
+                        unsafe_allow_html=True,
+                    )
+                    with st.expander("Read full abstract", expanded=False):
+                        st.markdown(
+                            f"<div style='font-size:0.83rem;line-height:1.4'>"
+                            f"{abs_text}</div>",
+                            unsafe_allow_html=True,
+                        )
 
 with tab_overview:
     col1, col2 = st.columns(2)
