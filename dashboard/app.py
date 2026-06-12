@@ -89,12 +89,17 @@ with st.sidebar:
     all_sources = sorted(df["source"].dropna().unique().tolist())
     src_sel = st.multiselect("Sources", all_sources, default=all_sources)
 
-    # Field labels = exploded `fields` column, dropping NaN + nep- tags
-    field_series = df["fields"].dropna().explode().dropna()
-    field_series = field_series[field_series.apply(lambda x: isinstance(x, str))]
-    field_series = field_series[~field_series.str.startswith("nep-")]
+    # Field labels = exploded `fields`, dropping NaN + nep- + method: prefixes
+    all_tags = df["fields"].dropna().explode().dropna()
+    all_tags = all_tags[all_tags.apply(lambda x: isinstance(x, str))]
+    field_series = all_tags[~all_tags.str.startswith(("nep-", "method:"))]
     all_fields = sorted(field_series.unique().tolist())
     field_sel = st.multiselect("Fields", all_fields)
+
+    # Method tags = stored with "method:" prefix; strip the prefix for display
+    method_series = all_tags[all_tags.str.startswith("method:")].str[len("method:"):]
+    all_methods = sorted(method_series.unique().tolist())
+    method_sel = st.multiselect("Method", all_methods)
 
     q = st.text_input("Search title / abstract", "")
 
@@ -107,6 +112,11 @@ if start and end:
     pub = pd.to_datetime(filt["published"], errors="coerce")
     pub_dates = pub.dt.date
     filt = filt[pub.isna() | ((pub_dates >= start) & (pub_dates <= end))]
+if method_sel:
+    method_tags_wanted = {f"method:{m}" for m in method_sel}
+    filt = filt[filt["fields"].apply(
+        lambda fs: bool(set(fs or []) & method_tags_wanted)
+    )]
 if field_sel:
     filt = filt[filt["fields"].apply(
         lambda fs: bool(set(fs or []) & set(field_sel))
@@ -155,8 +165,10 @@ with tab_papers:
                 f"{text}</span>")
 
     for _, row in filt.iloc[start_i:start_i + PAGE].iterrows():
-        fields = [f for f in (row.get("fields") or [])
-                  if isinstance(f, str) and not f.startswith("nep-")]
+        all_tags_row = [f for f in (row.get("fields") or [])
+                        if isinstance(f, str) and not f.startswith("nep-")]
+        fields = [f for f in all_tags_row if not f.startswith("method:")]
+        methods = [f[len("method:"):] for f in all_tags_row if f.startswith("method:")]
         with st.container(border=True):
             st.markdown(
                 f"<div style='font-size:0.95rem;font-weight:600;line-height:1.3;"
@@ -199,12 +211,14 @@ with tab_papers:
                     unsafe_allow_html=True,
                 )
 
-            # Tag row: source chip + field chips
+            # Tag row: source (indigo) + field (green) + method (amber) chips
             src_label = (row.get("raw", {}).get("journal")
                          or row["source"].replace("_", " "))
-            chips = [_chip(src_label, "#e8eaf6", "#1a237e")]  # source = indigo
+            chips = [_chip(src_label, "#e8eaf6", "#1a237e")]
             for f in fields:
-                chips.append(_chip(f, "#e8f5e9", "#1b5e20"))  # fields = green
+                chips.append(_chip(f, "#e8f5e9", "#1b5e20"))
+            for m in methods:
+                chips.append(_chip(m, "#fff3e0", "#e65100"))
             st.markdown(
                 f"<div style='margin-top:0.5rem'>{''.join(chips)}</div>",
                 unsafe_allow_html=True,
@@ -217,10 +231,19 @@ with tab_overview:
         st.bar_chart(filt["source"].value_counts())
     with col2:
         st.subheader("Papers by field")
-        flat_fields = filt["fields"].dropna().explode().dropna()
-        flat_fields = flat_fields[flat_fields.apply(lambda x: isinstance(x, str))]
-        flat_fields = flat_fields[~flat_fields.str.startswith("nep-")]
+        flat_tags = filt["fields"].dropna().explode().dropna()
+        flat_tags = flat_tags[flat_tags.apply(lambda x: isinstance(x, str))]
+        flat_fields = flat_tags[~flat_tags.str.startswith(("nep-", "method:"))]
         st.bar_chart(flat_fields.value_counts().head(15))
+
+    col3, col4 = st.columns(2)
+    with col3:
+        st.subheader("Papers by method")
+        flat_methods = flat_tags[flat_tags.str.startswith("method:")].str[len("method:"):]
+        if len(flat_methods) > 0:
+            st.bar_chart(flat_methods.value_counts())
+        else:
+            st.caption("No method tags in current filter.")
 
     st.subheader("Publication timeline")
     pub = pd.to_datetime(filt["published"], errors="coerce")
