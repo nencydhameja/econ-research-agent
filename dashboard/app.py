@@ -27,7 +27,10 @@ st.set_page_config(page_title="Econ Research Agent", layout="wide",
 
 
 @st.cache_data(ttl=600)
-def load_df() -> pd.DataFrame:
+def load_df(_mtime: float) -> pd.DataFrame:
+    """Mtime is in the signature only so cache invalidates when the file
+    is updated by the GitHub Actions cron — Streamlit Cloud otherwise
+    keeps serving the prior parse for the full ttl."""
     if not PAPERS_PATH.exists():
         return pd.DataFrame()
     rows = []
@@ -39,13 +42,18 @@ def load_df() -> pd.DataFrame:
             rows.append(json.loads(line))
     df = pd.DataFrame(rows)
     if not df.empty and "published" in df.columns:
-        # Keep as datetime64 (not .dt.date) so .max() / sort_values work cleanly
-        # on Streamlit Cloud's Python 3.14 + numpy combo.
         df["published"] = pd.to_datetime(df["published"], errors="coerce")
+    # Defensive: always ensure these columns exist as the right type, even
+    # if the JSONL is empty or missing fields for one source.
+    for col, default in [("title", ""), ("abstract", ""), ("summary", ""),
+                          ("source", ""), ("url", ""), ("fields", None),
+                          ("authors", None), ("published", pd.NaT)]:
+        if col not in df.columns:
+            df[col] = default
     return df
 
 
-df = load_df()
+df = load_df(PAPERS_PATH.stat().st_mtime if PAPERS_PATH.exists() else 0.0)
 
 st.title("Economics Research Agent")
 if df.empty:
@@ -120,14 +128,18 @@ tab_papers, tab_overview, tab_digest = st.tabs(["Papers", "Overview", "Latest di
 with tab_papers:
     sort_by = st.radio("Sort by", ["Newest", "Source quality", "Title"],
                        horizontal=True, label_visibility="collapsed")
-    if sort_by == "Newest":
-        filt = filt.sort_values("published", ascending=False, na_position="last")
-    elif sort_by == "Source quality":
-        order = {"journal_rss": 4, "nber": 3, "repec_nep": 2, "openalex_ssrn": 1, "arxiv": 1}
-        filt = filt.assign(_rank=filt["source"].map(order).fillna(0))
-        filt = filt.sort_values(["_rank", "published"], ascending=[False, False])
-    else:
-        filt = filt.sort_values("title")
+    if len(filt) > 0:
+        if sort_by == "Newest" and "published" in filt.columns:
+            filt = filt.sort_values("published", ascending=False, na_position="last")
+        elif sort_by == "Source quality" and "source" in filt.columns:
+            order = {"journal_rss": 5, "nber": 4, "iza": 3,
+                     "repec_nep": 2, "openalex_ssrn": 1, "arxiv": 1}
+            filt = filt.assign(_rank=filt["source"].map(order).fillna(0))
+            sort_keys = ["_rank"] + (["published"] if "published" in filt.columns else [])
+            ascending = [False] + ([False] if "published" in filt.columns else [])
+            filt = filt.sort_values(sort_keys, ascending=ascending)
+        elif "title" in filt.columns:
+            filt = filt.sort_values("title")
 
     # Paginate
     PAGE = 25
