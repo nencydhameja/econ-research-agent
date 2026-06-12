@@ -1,11 +1,18 @@
-"""RePEc NEP (New Economic Papers) reports via RSS.
+"""RePEc NEP (New Economic Papers) reports.
 
-NEP is a free email/RSS service that distributes new working papers,
-hand-classified by volunteer editors into ~100 field reports (nep-lab,
-nep-dev, nep-iue, etc.). The NEP field tag is itself a high-quality
-field label — we use it as a primary classification signal.
+DISABLED in v1: NEP discontinued its public RSS feeds (all /rss/{code}.xml
+return 404 as of 2026-06). The HTML report pages at nep.repec.org/nep-{code}/
+use obfuscated CSS classes that resist scraping. The RePEc API at
+api.repec.org requires registration and has no NEP-listing method.
 
-Each NEP RSS feed contains the papers from the most recent report.
+Future options to re-enable:
+  - Apply for a RePEc API key and request a NEP method
+  - Parse RePEc's OAI-PMH endpoint at oai.repec.org and re-classify against
+    our own taxonomy (loses NEP editor signal)
+  - Email contact NEP director for a stable bibliographic export
+
+For now this module is a no-op; the other four sources cover ~90% of new
+econ working papers anyway.
 """
 
 from __future__ import annotations
@@ -53,44 +60,5 @@ def _feed_url(nep_code: str) -> str:
 
 
 def fetch(nep_fields: list[str] | None = None, per_field_limit: int = 30) -> list[Paper]:
-    fields = nep_fields or DEFAULT_NEP_FIELDS
-    out: dict[str, Paper] = {}  # paper_id -> Paper, accumulating NEP tags
-
-    for code in fields:
-        url = _feed_url(code)
-        try:
-            feed = parse_feed(url)
-        except Exception as e:
-            log.warning("NEP %s: fetch failed: %s", code, e)
-            continue
-
-        for entry in feed.entries[:per_field_limit]:
-            entry_url = entry.get("link", "")
-            # NEP entries are RePEc handles like RePEc:nbr:nberwo:33145
-            handle = entry.get("id", "") or entry_url
-            source_id = handle.split("/")[-1] if "/" in handle else handle
-
-            pid = make_paper_id("repec_nep", source_id)
-            if pid in out:
-                # Same paper appeared in another NEP report — accumulate the tag
-                out[pid].fields = sorted(set(out[pid].fields + [f"nep-{code}"]))
-                continue
-
-            p = Paper(
-                id=pid,
-                source="repec_nep",
-                source_id=source_id,
-                title=clean_html(entry.get("title", "")).strip(),
-                abstract=clean_html(entry.get("summary", entry.get("description", ""))),
-                url=entry_url,
-                published=parsed_to_date(
-                    entry.get("published_parsed") or entry.get("updated_parsed")
-                ),
-                fields=[f"nep-{code}"],
-                raw={"repec_handle": handle},
-            )
-            out[pid] = p
-
-    papers = list(out.values())
-    log.info("RePEc NEP: fetched %d unique papers across %d fields", len(papers), len(fields))
-    return papers
+    log.info("RePEc NEP: disabled (no public listing API; see module docstring)")
+    return []
