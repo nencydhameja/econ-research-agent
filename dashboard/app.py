@@ -77,9 +77,10 @@ with st.sidebar:
     all_sources = sorted(df["source"].dropna().unique().tolist())
     src_sel = st.multiselect("Sources", all_sources, default=all_sources)
 
-    # Field labels = exploded `fields` column, dropping nep- tags
-    field_series = df["fields"].dropna().explode()
-    field_series = field_series[~field_series.astype(str).str.startswith("nep-")]
+    # Field labels = exploded `fields` column, dropping NaN + nep- tags
+    field_series = df["fields"].dropna().explode().dropna()
+    field_series = field_series[field_series.apply(lambda x: isinstance(x, str))]
+    field_series = field_series[~field_series.str.startswith("nep-")]
     all_fields = sorted(field_series.unique().tolist())
     field_sel = st.multiselect("Fields", all_fields)
 
@@ -131,7 +132,8 @@ with tab_papers:
     start_i = (page_n - 1) * PAGE
 
     for _, row in filt.iloc[start_i:start_i + PAGE].iterrows():
-        fields = [f for f in (row.get("fields") or []) if not f.startswith("nep-")]
+        fields = [f for f in (row.get("fields") or [])
+                  if isinstance(f, str) and not f.startswith("nep-")]
         with st.container(border=True):
             st.markdown(f"### [{row['title']}]({row['url']})")
             meta_bits = []
@@ -163,8 +165,9 @@ with tab_overview:
         st.bar_chart(filt["source"].value_counts())
     with col2:
         st.subheader("Papers by field")
-        flat_fields = (filt["fields"].dropna().explode()
-                       .pipe(lambda s: s[~s.astype(str).str.startswith("nep-")]))
+        flat_fields = filt["fields"].dropna().explode().dropna()
+        flat_fields = flat_fields[flat_fields.apply(lambda x: isinstance(x, str))]
+        flat_fields = flat_fields[~flat_fields.str.startswith("nep-")]
         st.bar_chart(flat_fields.value_counts().head(15))
 
     st.subheader("Publication timeline")
