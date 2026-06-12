@@ -136,6 +136,12 @@ with tab_papers:
                              value=1, step=1)
     start_i = (page_n - 1) * PAGE
 
+    def _chip(text: str, bg: str, fg: str) -> str:
+        return (f"<span style='display:inline-block;background:{bg};color:{fg};"
+                f"font-size:0.72rem;padding:0.1rem 0.5rem;border-radius:10px;"
+                f"margin-right:0.35rem;margin-top:0.25rem;white-space:nowrap'>"
+                f"{text}</span>")
+
     for _, row in filt.iloc[start_i:start_i + PAGE].iterrows():
         fields = [f for f in (row.get("fields") or [])
                   if isinstance(f, str) and not f.startswith("nep-")]
@@ -153,14 +159,10 @@ with tab_papers:
                 if len(row["authors"]) > 4:
                     a += " et al."
                 meta_bits.append(a)
-            src = row.get("raw", {}).get("journal") or row["source"].replace("_", " ")
-            meta_bits.append(src)
             if pd.notna(row.get("published")):
                 _pub = row["published"]
                 meta_bits.append(_pub.date().isoformat()
                                  if hasattr(_pub, "date") else str(_pub))
-            if fields:
-                meta_bits.append(" · ".join(fields[:3]))
             st.markdown(
                 f"<div style='font-size:0.78rem;color:#666;margin-bottom:0.3rem'>"
                 f"{' — '.join(meta_bits)}</div>",
@@ -184,6 +186,17 @@ with tab_papers:
                     f"{row['abstract']}</div>",
                     unsafe_allow_html=True,
                 )
+
+            # Tag row: source chip + field chips
+            src_label = (row.get("raw", {}).get("journal")
+                         or row["source"].replace("_", " "))
+            chips = [_chip(src_label, "#e8eaf6", "#1a237e")]  # source = indigo
+            for f in fields:
+                chips.append(_chip(f, "#e8f5e9", "#1b5e20"))  # fields = green
+            st.markdown(
+                f"<div style='margin-top:0.5rem'>{''.join(chips)}</div>",
+                unsafe_allow_html=True,
+            )
 
 with tab_overview:
     col1, col2 = st.columns(2)
