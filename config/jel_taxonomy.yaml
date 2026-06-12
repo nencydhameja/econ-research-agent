@@ -1,0 +1,94 @@
+# JEL classification mapped to readable field labels.
+# Used by the keyword/JEL classifier. Keywords are case-insensitive and
+# matched against title + abstract.
+
+fields:
+  - label: General Economics & Methodology
+    jel_prefixes: [A, B]
+    keywords: [methodology, history of thought]
+
+  - label: Microeconomics
+    jel_prefixes: [D]
+    keywords: [household behavior, choice theory, welfare economics, utility]
+
+  - label: Macroeconomics
+    jel_prefixes: [E]
+    keywords: [inflation, business cycle, monetary policy, fiscal policy, output gap]
+
+  - label: International Economics
+    jel_prefixes: [F]
+    keywords: [trade, tariff, exchange rate, current account, globalization, FDI]
+
+  - label: Financial Economics
+    jel_prefixes: [G]
+    keywords: [asset pricing, banking, household finance, corporate finance, risk premium, ETF]
+
+  - label: Public Economics
+    jel_prefixes: [H]
+    keywords: [taxation, government spending, fiscal, public goods, transfer]
+
+  - label: Health, Education & Welfare
+    jel_prefixes: [I]
+    keywords: [health, mortality, education, schooling, poverty, inequality, Medicare, Medicaid]
+
+  - label: Labor & Demographic Economics
+    jel_prefixes: [J]
+    keywords: [wage, employment, unemployment, labor supply, labor demand, minimum wage,
+               immigration, gender gap, retirement, fertility]
+
+  - label: Law & Economics
+    jel_prefixes: [K]
+    keywords: [crime, court, prison, regulation, contract enforcement, legal]
+
+  - label: Industrial Organization
+    jel_prefixes: [L]
+    keywords: [market structure, antitrust, merger, market power, advertising, oligopoly]
+
+  - label: Business Economics & Innovation
+    jel_prefixes: [M, O]
+    keywords: [innovation, R&D, productivity, growth, technology adoption, patent]
+
+  - label: Urban, Rural & Regional Economics
+    jel_prefixes: [R]
+    keywords: [housing, urban, neighborhood, gentrification, real estate, commute, zoning]
+
+  - label: Agricultural & Environmental Economics
+    jel_prefixes: [Q]
+    keywords: [agriculture, climate, pollution, energy, emission, environmental, water]
+
+  - label: Econometrics & Methods
+    jel_prefixes: [C]
+    keywords: [instrumental variable, difference in differences, regression discontinuity,
+               synthetic control, machine learning, structural estimation, identification strategy]
+
+  - label: Political Economy
+    jel_prefixes: [P]
+    keywords: [political economy, voting, election, democracy, autocracy, conflict, war]
+
+# Mapping from NEP report codes to our field labels (light layer on top of NEP).
+nep_to_field:
+  nep-lab: Labor & Demographic Economics
+  nep-dev: Development Economics
+  nep-ure: Urban, Rural & Regional Economics
+  nep-law: Law & Economics
+  nep-iue: Public Economics
+  nep-pub: Public Economics
+  nep-mac: Macroeconomics
+  nep-mon: Macroeconomics
+  nep-fin: Financial Economics
+  nep-hea: Health, Education & Welfare
+  nep-edu: Health, Education & Welfare
+  nep-env: Agricultural & Environmental Economics
+  nep-ene: Agricultural & Environmental Economics
+  nep-exp: Microeconomics
+  nep-cbe: Microeconomics
+  nep-ecm: Econometrics & Methods
+  nep-mic: Microeconomics
+  nep-ind: Industrial Organization
+  nep-int: International Economics
+  nep-ifn: International Economics
+  nep-his: General Economics & Methodology
+  nep-pol: Political Economy
+  nep-ger: Labor & Demographic Economics
+  nep-tid: Business Economics & Innovation
+  nep-cna: Development Economics

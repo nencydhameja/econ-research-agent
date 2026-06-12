@@ -1,0 +1,46 @@
+# Top economics & finance journals. Edit freely.
+# Most use the Atom "current issue" feed; some publishers do not expose one.
+# If a feed breaks, comment it out — the pipeline tolerates per-feed failures.
+
+feeds:
+  # --- Top-5 economics ---
+  - name: American Economic Review
+    url: https://www.aeaweb.org/aer/rss
+  - name: Quarterly Journal of Economics
+    url: https://academic.oup.com/rss/site_5390/3380.xml
+  - name: Journal of Political Economy
+    url: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
+  - name: Econometrica
+    url: https://onlinelibrary.wiley.com/feed/14680262/most-recent
+  - name: Review of Economic Studies
+    url: https://academic.oup.com/rss/site_5395/3389.xml
+
+  # --- Other AEA journals ---
+  - name: AEJ Applied Economics
+    url: https://www.aeaweb.org/aej-applied/rss
+  - name: AEJ Macroeconomics
+    url: https://www.aeaweb.org/aej-macro/rss
+  - name: AEJ Microeconomics
+    url: https://www.aeaweb.org/aej-micro/rss
+  - name: AEJ Economic Policy
+    url: https://www.aeaweb.org/aej-policy/rss
+  - name: Journal of Economic Literature
+    url: https://www.aeaweb.org/jel/rss
+  - name: Journal of Economic Perspectives
+    url: https://www.aeaweb.org/jep/rss
+
+  # --- Top finance ---
+  - name: Journal of Finance
+    url: https://onlinelibrary.wiley.com/feed/15406261/most-recent
+  - name: Review of Financial Studies
+    url: https://academic.oup.com/rss/site_5398/3393.xml
+  - name: Journal of Financial Economics
+    url: https://rss.sciencedirect.com/publication/science/0304405X
+
+  # --- Strong field journals (small sample; expand as you like) ---
+  - name: Journal of Labor Economics
+    url: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jole
+  - name: Journal of Public Economics
+    url: https://rss.sciencedirect.com/publication/science/00472727
+  - name: Journal of Development Economics
+    url: https://rss.sciencedirect.com/publication/science/03043878

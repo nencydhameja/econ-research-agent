@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Raw caches; processed papers.jsonl IS committed (Streamlit Cloud reads it)
+data/raw/
+data/cache/

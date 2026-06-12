@@ -1,0 +1,52 @@
+name: Weekly refresh
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # Mondays 09:00 UTC
+  workflow_dispatch:        # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install
+        run: |
+          pip install -e .
+
+      - name: Collect
+        run: |
+          python -m econ_agent.cli -v collect
+
+      - name: Enrich (Claude)
+        if: ${{ env.ANTHROPIC_API_KEY != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python -m econ_agent.cli -v enrich --limit 80 --trend
+
+      - name: Build digests
+        run: |
+          python -m econ_agent.cli -v digest monthly --limit 30 --window 30
+          python -m econ_agent.cli -v digest weekly --limit 8 --window 14
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/papers.jsonl digests/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "weekly refresh: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
