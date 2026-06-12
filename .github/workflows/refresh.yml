@@ -1,8 +1,9 @@
-name: Weekly refresh
+name: Refresh papers
 
 on:
   schedule:
-    - cron: "0 9 * * 1"   # Mondays 09:00 UTC
+    - cron: "0 7 * * *"    # daily 07:00 UTC (catches NBER overnight drops)
+    - cron: "0 19 * * *"   # daily 19:00 UTC (catches afternoon arXiv/SSRN)
   workflow_dispatch:        # manual trigger from Actions tab
 
 permissions:
