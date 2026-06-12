@@ -19,7 +19,7 @@ Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provid
 ---
 
 ### [Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach](https://www.nber.org/papers/w35294#fromrss)
-*Alex Bell, Sophie Calder-Wang, Shusheng Zhong* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics_
+*Alex Bell, Sophie Calder-Wang, Shusheng Zhong* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics, method:Applied Micro_
 
 This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a...
 
@@ -37,7 +37,7 @@ The five largest U.S. technology firms spent $380 billion on capital expenditure
 ## Health, Education & Welfare
 
 ### [Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up](https://www.nber.org/papers/w35291#fromrss)
-*Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare_
+*Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, method:Experimental_
 
 Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, compared with 83% in the original trial. Implementation was no higher among schools that previously ...
 
