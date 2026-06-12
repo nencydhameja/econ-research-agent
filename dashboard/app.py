@@ -135,7 +135,13 @@ with tab_papers:
         fields = [f for f in (row.get("fields") or [])
                   if isinstance(f, str) and not f.startswith("nep-")]
         with st.container(border=True):
-            st.markdown(f"### [{row['title']}]({row['url']})")
+            st.markdown(
+                f"<div style='font-size:0.95rem;font-weight:600;line-height:1.3;"
+                f"margin-bottom:0.15rem'>"
+                f"<a href='{row['url']}' target='_blank' "
+                f"style='text-decoration:none'>{row['title']}</a></div>",
+                unsafe_allow_html=True,
+            )
             meta_bits = []
             if row.get("authors"):
                 a = ", ".join(row["authors"][:4])
@@ -143,20 +149,35 @@ with tab_papers:
                     a += " et al."
                 meta_bits.append(a)
             src = row.get("raw", {}).get("journal") or row["source"].replace("_", " ")
-            meta_bits.append(f"**{src}**")
+            meta_bits.append(src)
             if pd.notna(row.get("published")):
                 meta_bits.append(str(row["published"]))
             if fields:
-                meta_bits.append(" · ".join(f"`{f}`" for f in fields[:3]))
-            st.caption(" — ".join(meta_bits))
+                meta_bits.append(" · ".join(fields[:3]))
+            st.markdown(
+                f"<div style='font-size:0.78rem;color:#666;margin-bottom:0.3rem'>"
+                f"{' — '.join(meta_bits)}</div>",
+                unsafe_allow_html=True,
+            )
 
             if row.get("summary"):
-                st.write(row["summary"])
+                st.markdown(
+                    f"<div style='font-size:0.85rem;line-height:1.4'>{row['summary']}</div>",
+                    unsafe_allow_html=True,
+                )
                 if row.get("why_it_matters"):
-                    st.markdown(f"**Why it matters:** {row['why_it_matters']}")
+                    st.markdown(
+                        f"<div style='font-size:0.82rem;color:#444;margin-top:0.3rem'>"
+                        f"<b>Why it matters:</b> {row['why_it_matters']}</div>",
+                        unsafe_allow_html=True,
+                    )
             elif row.get("abstract"):
-                with st.expander("Abstract"):
-                    st.write(row["abstract"])
+                with st.expander("Abstract", expanded=False):
+                    st.markdown(
+                        f"<div style='font-size:0.83rem;line-height:1.4'>"
+                        f"{row['abstract']}</div>",
+                        unsafe_allow_html=True,
+                    )
 
 with tab_overview:
     col1, col2 = st.columns(2)
