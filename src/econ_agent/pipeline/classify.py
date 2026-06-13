@@ -34,31 +34,40 @@ def _jel_to_label(jel: str) -> str | None:
     return None
 
 
-def _keyword_match_block(entries: list[dict], text_lower: str) -> list[str]:
-    """Generic keyword matcher used for both field labels and method tags."""
+def _keyword_match_block(entries: list[dict], text: str) -> list[str]:
+    """Generic keyword matcher used for both field labels and method tags.
+
+    Keywords containing at least one uppercase letter match case-sensitively
+    (so "DiD" doesn't fire on every English "did", "IV" doesn't fire on
+    Roman-numeral chapter headings, "RCT"/"TWFE" require the all-caps form).
+    Fully-lowercase keywords match case-insensitively.
+    """
+    text_lower = text.lower()
     hits: list[str] = []
     for entry in entries:
         for kw in entry.get("keywords", []):
-            kw_l = kw.lower()
-            if " " in kw_l or "-" in kw_l:
-                if kw_l in text_lower:
+            case_sensitive = any(c.isupper() for c in kw)
+            haystack = text if case_sensitive else text_lower
+            needle = kw if case_sensitive else kw.lower()
+            if " " in needle or "-" in needle:
+                if needle in haystack:
                     hits.append(entry["label"])
                     break
             else:
-                if re.search(rf"\b{re.escape(kw_l)}\b", text_lower):
+                if re.search(rf"\b{re.escape(needle)}\b", haystack):
                     hits.append(entry["label"])
                     break
     return sorted(set(hits))
 
 
 def _keyword_labels(text: str) -> list[str]:
-    return _keyword_match_block(_taxonomy()["fields"], text.lower())
+    return _keyword_match_block(_taxonomy()["fields"], text)
 
 
 def _method_labels(text: str) -> list[str]:
     """Apply method-orientation tags (Applied Micro / Theory / Structural /
     Experimental). Orthogonal to field labels — runs in addition, not instead."""
-    return _keyword_match_block(_taxonomy().get("method_tags", []), text.lower())
+    return _keyword_match_block(_taxonomy().get("method_tags", []), text)
 
 
 def _nep_labels(nep_tags: list[str]) -> list[str]:

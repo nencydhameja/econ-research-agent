@@ -65,32 +65,64 @@ fields:
     jel_prefixes: [P]
     keywords: [political economy, voting, election, democracy, autocracy, conflict, war]
 
-# Method-orientation tags. ORTHOGONAL to fields — a Labor paper can also be
-# tagged Applied Micro, a Macro paper can also be tagged Structural, etc.
-# Stored in `fields` with a "method:" prefix so the dashboard can split them.
+# Method tags. ORTHOGONAL to fields — a Labor paper can also be tagged DiD,
+# a Macro paper can also be tagged Structural, etc. Stored in `fields` with
+# a "method:" prefix so the dashboard can split them visually.
+#
+# Each method is a first-class label, not a sub-bucket: papers get tagged
+# "DiD" or "RDD" specifically rather than the coarse "Applied Micro".
+#
+# Case rule: a keyword with any uppercase letter matches case-sensitively
+# (so "DiD" doesn't fire on every English "did"; "IV" doesn't fire on
+# Roman numerals; "RCT"/"TWFE" require the all-caps form). Fully-lowercase
+# keywords are matched case-insensitively.
 method_tags:
-  - label: Applied Micro
+  - label: DiD
     keywords: [difference-in-differences, difference in differences, "diff-in-diff",
-               regression discontinuity, "RD design", event study, synthetic control,
-               instrumental variable, natural experiment, quasi-experiment,
-               quasi-experimental, identification strategy, "two-way fixed effects",
-               TWFE, shift-share, Bartik, propensity score]
+               "DiD", "DID estimator", "DID design", "two-way fixed effects",
+               "TWFE", staggered adoption, "event study", parallel trends]
+  - label: RDD
+    keywords: [regression discontinuity, "RD design", "RDD",
+               running variable, sharp discontinuity, fuzzy discontinuity,
+               bandwidth selection, McCrary test]
+  - label: IV
+    keywords: [instrumental variable, "IV strategy", "IV estimate", "IV approach",
+               "2SLS", "two-stage least squares", "GMM",
+               exclusion restriction, weak instrument, shift-share, Bartik]
+  - label: Synthetic Control
+    keywords: [synthetic control, "SCM", donor pool, placebo unit]
+  - label: RCT
+    keywords: [randomized controlled trial, "RCT", randomized evaluation,
+               randomized experiment, treatment arm, intent-to-treat, "ITT"]
+  - label: Lab Experiment
+    keywords: [laboratory experiment, lab experiment, "incentivized experiment",
+               subject pool, "zTree", "oTree"]
+  - label: Field Experiment
+    keywords: [field experiment, large-scale experiment, natural field experiment]
+  - label: Survey Experiment
+    keywords: [survey experiment, vignette experiment, conjoint experiment,
+               online experiment]
+  - label: Structural
+    keywords: [structural estimation, structural model, dynamic discrete choice,
+               demand estimation, "BLP", merger simulation, structural parameter,
+               Euler equation estimation, indirect inference,
+               simulated method of moments, "moment inequalities",
+               auction model, search and matching model]
   - label: Theory
     keywords: [theoretical model, equilibrium analysis, game theory, game-theoretic,
                mechanism design, axiomatic, optimal contract, "social choice",
                revelation principle, Bayes-Nash, sequential equilibrium,
                implementation theory, comparative statics, welfare theorem]
-  - label: Structural
-    keywords: [structural estimation, structural model, dynamic discrete choice,
-               demand estimation, BLP, "merger simulation", structural parameter,
-               Euler equation estimation, indirect inference,
-               simulated method of moments, "moment inequalities",
-               GMM, "auction model", search and matching model]
-  - label: Experimental
-    keywords: [laboratory experiment, lab experiment, field experiment,
-               randomized controlled trial, "RCT", "randomized evaluation",
-               online experiment, vignette experiment, conjoint experiment,
-               "incentivized experiment", subject pool]
+  - label: Machine Learning
+    keywords: [machine learning, deep learning, neural network, random forest,
+               LASSO, causal forest, double machine learning, "double/debiased ML",
+               text-as-data, embeddings]
+  - label: Propensity Score
+    keywords: [propensity score, propensity-score matching, inverse probability,
+               weighted estimator, "IPW"]
+  - label: Natural Experiment
+    keywords: [natural experiment, quasi-experiment, quasi-experimental,
+               policy change, sudden change, exogenous shock]
 
 # Mapping from NEP report codes to our field labels (light layer on top of NEP).
 nep_to_field:
