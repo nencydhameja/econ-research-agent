@@ -1,84 +1,77 @@
-# Weekly Deep-Reading Queue — week of 2026-06-22
+# Weekly Deep-Reading Queue — week of 2026-06-23
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. The Econometric Society 2025 Annual Report of the President
+## 1. Reducing Gun Violence at Scale
 
-### [The Econometric Society 2025 Annual Report of the President](https://onlinelibrary.wiley.com/doi/10.3982/ECTA943PRES?af=R)
-** — **Econometrica**, 2026-06-08 — _Unclassified_
+### [Reducing Gun Violence at Scale](https://www.nber.org/papers/w35292#fromrss)
+*Max Kapustin, Aaron Chalfin, Jeremy Biddle, Brian A. Wade et al.* — **NBER WP**, 2026-06-11 — _Unclassified_
 
-Econometrica, Volume 94, Issue 3, Page 1045-1060, May 2026.
-
----
-
-## 2. Comment on ‘Asset Bubbles and Overlapping Generations’ by Jean Tirole
-
-### [Comment on ‘Asset Bubbles and Overlapping Generations’ by Jean Tirole](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24365?af=R)
-*Ngoc‐Sang Pham, 
-Alexis Akira Toda* — **Econometrica**, 2026-06-08 — _Unclassified_
-
-Econometrica, Volume 94, Issue 3, Page 1027-1044, May 2026.
+Baltimore's homicide rate fell by roughly 60% between 2022 and 2025, an exceptional decline among large U.S. cities. At the start of this period, Baltimore launched a strategy that concentrated police and social service resources on a small set of people thought to be driving group-involved gun violence. The approach—“focused deterrence”—has been implemented in some form by cities across the U.S. The strategy was introduced first in the Western police district, one of the highest-violence communities in the U.S. Relative to comparable Baltimore neighborhoods, we estimate that within 18 months ...
 
 ---
 
-## 3. Work Hours Mismatch
+## 2. Characterizing the File Drawer: Evidence from a Meta-Analysis of Parent-Interventions Around the World
 
-### [Work Hours Mismatch](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21849?af=R)
-*Marta Lachowska, 
-Alexandre Mas, 
-Raffaele Saggio, 
-Stephen A. Woodbury* — **Econometrica**, 2026-06-08 — _Unclassified_
+### [Characterizing the File Drawer: Evidence from a Meta-Analysis of Parent-Interventions Around the World](https://www.nber.org/papers/w35299#fromrss)
+*Peter Bergman, Nat Chowanajin* — **NBER WP**, 2026-06-11 — _method:RCT_
 
-Econometrica, Volume 94, Issue 3, Page 991-1025, May 2026.
+We conduct a meta-analysis of 82 randomized controlled trials across more than 20 countries to estimate the effects of low-cost, remote parental engagement interventions delivered through text messages, phone calls, and apps. We estimate a joint likelihood function that incorporates both written studies and unwritten studies identified through trial registries, funder records, research labs, evidence clearinghouses, and other sources. By also recording sample sizes for unwritten studies, the model estimates the distribution of standard errors, identifies write-up probabilities conditional on s...
 
 ---
 
-## 4. Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee
+## 3. GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health
 
-### [Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23938?af=R)
-*Sylvia Hristakeva* — **Econometrica**, 2026-06-08 — _Unclassified_
+### [GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health](https://www.nber.org/papers/w35296#fromrss)
+*J. Felipe Montano-Campos, Bryan Tysinger, Dana Goldman, Darius N. Lakdawalla* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation, Health, Education & Welfare_
 
-Econometrica, Volume 94, Issue 3, Page 735-737, May 2026.
-
----
-
-## 5. Reply to comments on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’
-
-### [Reply to comments on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24816?af=R)
-*Kate Ho, 
-Robin S. Lee* — **Econometrica**, 2026-06-08 — _Unclassified_
-
-Econometrica, Volume 94, Issue 3, Page 739-740, May 2026.
+GLP-1 therapies for obesity promise substantial health improvements, but little is known about how their benefits vary across socioeconomic and demographic groups. Using a nationally representative microsimulation model of US adults and Shapely-value decomposition, we estimate the lifetime health and economic benefits of GLP-1 treatment and examine how those gains vary across individuals. The largest differences emerge across education. Individuals with less than a high school education experience experience roughly 14% higher gains in lifetime net social value, 16-17% larger improvements in d...
 
 ---
 
-## 6. Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates
+## 4. Predicting Labor Force Types
 
-### [Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22488?af=R)
-*Kate Ho, 
-Robin S. Lee* — **Econometrica**, 2026-06-08 — _Unclassified_
+### [Predicting Labor Force Types](https://www.nber.org/papers/w35295#fromrss)
+*Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, Labor & Demographic Economics_
 
-Econometrica, Volume 94, Issue 3, Page 689-728, May 2026.
-
----
-
-## 7. Continuity of the Distribution Function of the argmax of a Gaussian Process
-
-### [Continuity of the Distribution Function of the argmax of a Gaussian Process](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23862?af=R)
-*Matias D. Cattaneo, 
-Gregory F. Cox, 
-Michael Jansson, 
-Kenichi Nagasawa* — **Econometrica**, 2026-06-08 — _Unclassified_
-
-Econometrica, Volume 94, Issue 3, Page 941-955, May 2026.
+A small group of people accounts for a large majority of flows between labor market states and of spells in un- and non-employment. In this paper, we ask whether it is possible to identify those weakly attached to the labor market during their prime working-age years using information available early in their lives. First, we use information on labor force transitions between ages 30 and 50 contained in the long panel provided by the NLSY79 to identify those weakly connected to the labor market during their prime age. To do so, we use k-means clustering on moments describing observed spells in...
 
 ---
 
-## 8. Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee
+## 5. Innovation without Borders? The Geography of Technological Diffusion
 
-### [Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24210?af=R)
-*Rena M. Conti* — **Econometrica**, 2026-06-08 — _Unclassified_
+### [Innovation without Borders? The Geography of Technological Diffusion](https://www.nber.org/papers/w35314#fromrss)
+*Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando et al.* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation, method:Field Experiment_
 
-Econometrica, Volume 94, Issue 3, Page 729-733, May 2026.
+How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms' perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors' current AI i...
+
+---
+
+## 6. Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development
+
+### [Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development](https://www.nber.org/papers/w35302#fromrss)
+*Julie Pernaudet, John A. List, Arnoldo Müller-Molina, Majid Ahmadi et al.* — **NBER WP**, 2026-06-11 — _method:Field Experiment_
+
+Parents play a critical role in shaping children’s skills during the first years of life. Yet, identifying the contributors to richer learning environments remains difficult due to various unobservable factors. In this paper, we combine field experiments with AI to explore new acoustic features of parental speech. Specifically, we develop a signal processing model that uses more than 600 hours of recorded parent-child interactions combined with assessment data from two home-visiting experiments conducted in the Chicagoland area to identify features of parental speech that map into children’s s...
+
+---
+
+## 7. The Debt‐Equity Spread
+
+### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
+*HUI CHEN, 
+ZHIYAO CHEN, 
+JUN LI* — **Journal of Finance**, 2026-06-09 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 8. Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly
+
+### [Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly](https://www.nber.org/papers/w35310#fromrss)
+*Caitlin K. Myers, Ezekiel Hooper* — **NBER WP**, 2026-06-11 — _Labor & Demographic Economics, Urban, Rural & Regional Economics, method:DiD, method:Natural Experiment_
+
+The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference...
 
 ---
