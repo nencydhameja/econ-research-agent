@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-06-23
+# Weekly Deep-Reading Queue — week of 2026-06-24
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -56,22 +56,20 @@ Parents play a critical role in shaping children’s skills during the first yea
 
 ---
 
-## 7. The Debt‐Equity Spread
-
-### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
-*HUI CHEN, 
-ZHIYAO CHEN, 
-JUN LI* — **Journal of Finance**, 2026-06-09 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly
+## 7. Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly
 
 ### [Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly](https://www.nber.org/papers/w35310#fromrss)
 *Caitlin K. Myers, Ezekiel Hooper* — **NBER WP**, 2026-06-11 — _Labor & Demographic Economics, Urban, Rural & Regional Economics, method:DiD, method:Natural Experiment_
 
 The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference...
+
+---
+
+## 8. Change from within? The strategies used by public officials to advance post-growth approaches
+
+### [Change from within? The strategies used by public officials to advance post-growth approaches](https://arxiv.org/abs/2606.24439v1)
+*Laura Angresius, Milena Büchs, Daniel W. O'Neill* — **arxiv**, 2026-06-23 — _Agricultural & Environmental Economics, Business Economics & Innovation_
+
+Current societies face interconnected environmental and social crises. Post-growth research argues that addressing these challenges requires a reorganization of society around the priorities of environmental sustainability, social equity, and human wellbeing over economic growth. While scholars highlight the state's potential role in enabling post-growth transformations through changes from within government institutions, post-growth-minded public officials face tensions between aspiring for radical changes of established structures while working within these structures. To understand how publ...
 
 ---
