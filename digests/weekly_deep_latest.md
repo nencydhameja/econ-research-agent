@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-06-24
+# Weekly Deep-Reading Queue — week of 2026-06-25
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -20,7 +20,25 @@ We conduct a meta-analysis of 82 randomized controlled trials across more than 2
 
 ---
 
-## 3. GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health
+## 3. Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games
+
+### [Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](https://arxiv.org/abs/2606.25997v1)
+*Sam Ganzfried* — **arxiv**, 2026-06-24 — _Unclassified_
+
+There has been significant recent progress in algorithms for approximation of Nash equilibrium in large two-player zero-sum imperfect-information games and exact computation of Nash equilibrium in multiplayer strategic-form games. While counterfactual regret minimization and fictitious play are scalable to large games and have convergence guarantees in two-player zero-sum games, they do not guarantee convergence to Nash equilibrium in multiplayer games. Recently, an approach has been presented for exact computation of Nash equilibrium in multiplayer imperfect-information games that solves a qu...
+
+---
+
+## 4. Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers
+
+### [Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers](https://arxiv.org/abs/2606.25910v1)
+*Nikolas Koumpis, Koushik Kar, Leandros Tassiulas, Manolis Zampetakis* — **arxiv**, 2026-06-24 — _Agricultural & Environmental Economics_
+
+A central challenge in modern energy market design is the formulation of a strategy-proof imbalance settlement layer that secures both the economic efficiency of the institution and the stability of the power grid. Public data reveals that the day-ahead market is strategically biased below actual consumer demand. Such empirical observations are explained by active prosumers which provide implementable incentives for demand under-reporting. Active prosumers buy energy in the day-ahead market and sell energy in the real-time market for balancing real-time energy deviations. By under-reporting th...
+
+---
+
+## 5. GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health
 
 ### [GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health](https://www.nber.org/papers/w35296#fromrss)
 *J. Felipe Montano-Campos, Bryan Tysinger, Dana Goldman, Darius N. Lakdawalla* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation, Health, Education & Welfare_
@@ -29,7 +47,7 @@ GLP-1 therapies for obesity promise substantial health improvements, but little 
 
 ---
 
-## 4. Predicting Labor Force Types
+## 6. Predicting Labor Force Types
 
 ### [Predicting Labor Force Types](https://www.nber.org/papers/w35295#fromrss)
 *Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, Labor & Demographic Economics_
@@ -38,7 +56,7 @@ A small group of people accounts for a large majority of flows between labor mar
 
 ---
 
-## 5. Innovation without Borders? The Geography of Technological Diffusion
+## 7. Innovation without Borders? The Geography of Technological Diffusion
 
 ### [Innovation without Borders? The Geography of Technological Diffusion](https://www.nber.org/papers/w35314#fromrss)
 *Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando et al.* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation, method:Field Experiment_
@@ -47,29 +65,11 @@ How well does innovation diffuse across geographic boundaries? To shed light on 
 
 ---
 
-## 6. Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development
+## 8. Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development
 
 ### [Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development](https://www.nber.org/papers/w35302#fromrss)
 *Julie Pernaudet, John A. List, Arnoldo Müller-Molina, Majid Ahmadi et al.* — **NBER WP**, 2026-06-11 — _method:Field Experiment_
 
 Parents play a critical role in shaping children’s skills during the first years of life. Yet, identifying the contributors to richer learning environments remains difficult due to various unobservable factors. In this paper, we combine field experiments with AI to explore new acoustic features of parental speech. Specifically, we develop a signal processing model that uses more than 600 hours of recorded parent-child interactions combined with assessment data from two home-visiting experiments conducted in the Chicagoland area to identify features of parental speech that map into children’s s...
-
----
-
-## 7. Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly
-
-### [Is the iPhone Birth Control? Causal Evidence from AT&T’s 2007–2011 Carrier Monopoly](https://www.nber.org/papers/w35310#fromrss)
-*Caitlin K. Myers, Ezekiel Hooper* — **NBER WP**, 2026-06-11 — _Labor & Demographic Economics, Urban, Rural & Regional Economics, method:DiD, method:Natural Experiment_
-
-The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference...
-
----
-
-## 8. Change from within? The strategies used by public officials to advance post-growth approaches
-
-### [Change from within? The strategies used by public officials to advance post-growth approaches](https://arxiv.org/abs/2606.24439v1)
-*Laura Angresius, Milena Büchs, Daniel W. O'Neill* — **arxiv**, 2026-06-23 — _Agricultural & Environmental Economics, Business Economics & Innovation_
-
-Current societies face interconnected environmental and social crises. Post-growth research argues that addressing these challenges requires a reorganization of society around the priorities of environmental sustainability, social equity, and human wellbeing over economic growth. While scholars highlight the state's potential role in enabling post-growth transformations through changes from within government institutions, post-growth-minded public officials face tensions between aspiring for radical changes of established structures while working within these structures. To understand how publ...
 
 ---
