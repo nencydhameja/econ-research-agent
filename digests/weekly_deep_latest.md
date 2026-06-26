@@ -29,47 +29,47 @@ A central challenge in modern energy market design is the formulation of a strat
 
 ---
 
-## 4. Too cheap to meter? A stochastic analysis of projected future fusion costs
+## 4. BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents
 
-### [Too cheap to meter? A stochastic analysis of projected future fusion costs](https://arxiv.org/abs/2606.26536v1)
-*Stefania Böhnlein, Fanny Böse, Christian von Hirschhausen, Claudia Kemfert et al.* — **arxiv**, 2026-06-25 — _Agricultural & Environmental Economics_
+### [BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents](https://doi.org/10.48550/arxiv.2606.25556)
+*Hanyang Wang, Weijieying Ren, Yuxiang Zhang, Ding Cao et al.* — **openalex ssrn**, 2026-06-24 — _Unclassified_
 
-In recent years, technological developments and activities by private actors have led a reemerged discussion of the potential of nuclear fusion to meet growing global energy demands. So far, however, fusion technologies remain at comparatively low development levels and their deployment in commercial power plants is probably still decades away. Regardless, over the last decades, many cost studies have been conducted that estimate the future cost of potential fusion power plants. But to date, there is no systematic and harmonized assessment of these projections. Therefore, this study conducts a...
-
----
-
-## 5. Change from within? The strategies used by public officials to advance post-growth approaches
-
-### [Change from within? The strategies used by public officials to advance post-growth approaches](https://arxiv.org/abs/2606.24439v1)
-*Laura Angresius, Milena Büchs, Daniel W. O'Neill* — **arxiv**, 2026-06-23 — _Agricultural & Environmental Economics, Business Economics & Innovation_
-
-Current societies face interconnected environmental and social crises. Post-growth research argues that addressing these challenges requires a reorganization of society around the priorities of environmental sustainability, social equity, and human wellbeing over economic growth. While scholars highlight the state's potential role in enabling post-growth transformations through changes from within government institutions, post-growth-minded public officials face tensions between aspiring for radical changes of established structures while working within these structures. To understand how publ...
+Stepwise group-based RL is an attractive way to train long-horizon LLM agents without a learned critic: it reuses multiple sampled rollouts to estimate local advantages. Its weakness is less visible but more fundamental: every group-relative estimator assumes that the steps it compares are equivalent for credit assignment. We show that current agentic variants violate this assumption through a state-action credit mismatch. The observation-hash partition is overly fine on the state side, creating singleton groups with zero step-level signal, while a single within-group mean is too coarse on the...
 
 ---
 
-## 6. Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War
+## 5. Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers
 
-### [Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War](https://doi.org/10.48550/arxiv.2606.24391)
-*Arnaud Ricci* — **openalex ssrn**, 2026-06-23 — _Political Economy_
+### [Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers](https://doi.org/10.48550/arxiv.2606.25910)
+*Nikolas Koumpis, Koushik Kar, Leandros Tassiulas, Manolis Zampetakis* — **openalex ssrn**, 2026-06-24 — _Agricultural & Environmental Economics_
 
-We introduce Age of LLM, a turn-based 1v1 benchmark in which two LLMs face off on a 13x7 grid to destroy the enemy base. Three stressors are deliberate: fog of war, full diplomacy (messages, ceasefires, ultimatums; uranium kept secret), and a reliability dimension where every turn must follow a strict JSON schema and an illegal action is silently discarded. The engine is private and each match uses a fresh random map seed and opponent, mitigating the data contamination that affects public benchmarks. Models receive a (near) rule-only prompt with no build-order advice (two tactical seed phrases...
-
----
-
-## 7. The Billion Dollar Surprise: How Solar Cycle 25 Cut Satellite Lifetimes in LEO
-
-### [The Billion Dollar Surprise: How Solar Cycle 25 Cut Satellite Lifetimes in LEO](https://doi.org/10.48550/arxiv.2606.24687)
-*Scott Shambaugh* — **openalex ssrn**, 2026-06-23 — _Unclassified_
-
-Solar Cycle 25 has run far stronger than the 2019 consensus forecast issued by the NOAA/NASA/ISES prediction panel, with densities in low Earth orbit from 2022-2026 holding at 2-3x the predicted levels. The cumulative drag impulse experienced by LEO satellites reached 5-6 standard deviations beyond the forecast's stated uncertainty. This means that even operators who designed conservatively against the two-sigma worst case fell short of their drag budgets. This paper quantifies a lower bound on the economic cost of that misprediction. Starting from the 13,704 payloads on-orbit below 800 km dur...
+A central challenge in modern energy market design is the formulation of a strategy-proof imbalance settlement layer that secures both the economic efficiency of the institution and the stability of the power grid. Public data reveals that the day-ahead market is strategically biased below actual consumer demand. Such empirical observations are explained by active prosumers which provide implementable incentives for demand under-reporting. Active prosumers buy energy in the day-ahead market and sell energy in the real-time market for balancing real-time energy deviations. By under-reporting th...
 
 ---
 
-## 8. Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees
+## 6. Zipf's law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds
 
-### [Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees](https://arxiv.org/abs/2606.26432v1)
-*Yingshuo Wang, Xian Sun, Yanhang Li, Zhichao Fan et al.* — **arxiv**, 2026-06-24 — _Microeconomics_
+### [Zipf's law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds](https://doi.org/10.48550/arxiv.2606.25303)
+*Hayafumi Watanabe* — **openalex ssrn**, 2026-06-24 — _Business Economics & Innovation_
 
-Tabular foundation models achieve strong accuracy on choice prediction tasks, but their predictions often violate the economic logic those tasks require: raising a price can increase predicted demand, implied willingness-to-pay estimates are frequently negative or implausible, and unavailable alternatives receive nonzero probability. We propose a two-stage adapter that takes a foundation model's predicted choice probabilities as a precomputed feature and embeds them inside a multinomial logit's utility. In Stage 1, we fit the multinomial logit's structural coefficients by maximum likelihood wi...
+This study analyzes the volume distribution of kofun, large mounded tombs constructed in the Japanese archipelago from the mid- to late third into the early seventh century. This period provides a rare empirical case for examining the distribution of politico-economic resources and mobilizing capacity in a society where systematic written records of administrative and economic transactions had not yet become established. Using a large-scale database containing mound length, height, and shape, we estimate kofun volumes and examine their distributions at the archipelago-wide scale and by region,...
+
+---
+
+## 7. Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets
+
+### [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://doi.org/10.48550/arxiv.2606.25811)
+*Yoonsik Hong, Diego Klabjan* — **openalex ssrn**, 2026-06-24 — _Unclassified_
+
+Commodity futures can be represented hierarchically, with underlying assets at the upper level and individual futures contracts at the lower level. Entities at each level can be connected by edges reflecting inherent correlations, with cross-level edges capturing contract-to-underlying asset connections. Building on our observations of these structures, we propose a hierarchical graph learning approach for calendar spread (CS) strategies in commodity futures markets, addressing two significant gaps in the machine-learning literature: (i) the absence of learning-based methods for CS strategies ...
+
+---
+
+## 8. Opinion Dynamics over Migration Networks
+
+### [Opinion Dynamics over Migration Networks](https://doi.org/10.48550/arxiv.2606.25682)
+*Lőrinc Márton, Stefanie Winkelmann, Mauricio J. del Razo, Nataša Djurdjevac Conrad* — **openalex ssrn**, 2026-06-24 — _Unclassified_
+
+Opinions play a crucial role in shaping collective phenomena such as political polarization, cultural integration and demographic change. By continuously changing social environments in which opinions evolve, human migration serves as an important driver of collective opinion formation. While migration and opinion dynamics have both been extensively studied, the few existing models that couple the two are primarily deterministic and therefore cannot capture demographic fluctuations, finite-size effects or stochastic transitions between emergent collective states. To address this limitation, we...
 
 ---
