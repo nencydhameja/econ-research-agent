@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-06-26
+# Weekly Deep-Reading Queue — week of 2026-06-27
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -11,65 +11,65 @@ We analyze usage data from OpenAI's Codex tool to present large-scale evidence o
 
 ---
 
-## 2. Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games
+## 2. On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon
 
-### [Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](https://arxiv.org/abs/2606.25997v1)
-*Sam Ganzfried* — **arxiv**, 2026-06-24 — _Unclassified_
+### [On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon](https://doi.org/10.48550/arxiv.2606.27149)
+*Beatriz Arregui-García, Lucio La Cava, Anees Baqir, Andrea Tagarelli et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
 
-There has been significant recent progress in algorithms for approximation of Nash equilibrium in large two-player zero-sum imperfect-information games and exact computation of Nash equilibrium in multiplayer strategic-form games. While counterfactual regret minimization and fictitious play are scalable to large games and have convergence guarantees in two-player zero-sum games, they do not guarantee convergence to Nash equilibrium in multiplayer games. Recently, an approach has been presented for exact computation of Nash equilibrium in multiplayer imperfect-information games that solves a qu...
-
----
-
-## 3. Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers
-
-### [Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers](https://arxiv.org/abs/2606.25910v1)
-*Nikolas Koumpis, Koushik Kar, Leandros Tassiulas, Manolis Zampetakis* — **arxiv**, 2026-06-24 — _Agricultural & Environmental Economics_
-
-A central challenge in modern energy market design is the formulation of a strategy-proof imbalance settlement layer that secures both the economic efficiency of the institution and the stability of the power grid. Public data reveals that the day-ahead market is strategically biased below actual consumer demand. Such empirical observations are explained by active prosumers which provide implementable incentives for demand under-reporting. Active prosumers buy energy in the day-ahead market and sell energy in the real-time market for balancing real-time energy deviations. By under-reporting th...
+Decentralized online social networks such as Mastodon distribute moderation power across thousands of independently governed servers, raising fundamental questions about how local block decisions shape global structure and information flow. In this paper, we analyze Mastodon at the instance level by constructing a signed, directed, temporal network in which positive edges aggregate inter-instance follow relationships and negative edges encode daily block actions. Using one year of data, we show that despite continuous moderation activity and changing roles among instances, the network exhibits...
 
 ---
 
-## 4. BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents
+## 3. Pretrained Time-Series Foundation Models for Financial Return Forecasting
 
-### [BiPACE: Bisimulation-Guided Policy Optimization with Action Counterfactual Estimation for LLM Agents](https://doi.org/10.48550/arxiv.2606.25556)
-*Hanyang Wang, Weijieying Ren, Yuxiang Zhang, Ding Cao et al.* — **openalex ssrn**, 2026-06-24 — _Unclassified_
+### [Pretrained Time-Series Foundation Models for Financial Return Forecasting](https://doi.org/10.48550/arxiv.2606.27100)
+*Miquel Noguer I Alonso, Rodolfo Pereira Franklin* — **openalex ssrn**, 2026-06-25 — _Public Economics_
 
-Stepwise group-based RL is an attractive way to train long-horizon LLM agents without a learned critic: it reuses multiple sampled rollouts to estimate local advantages. Its weakness is less visible but more fundamental: every group-relative estimator assumes that the steps it compares are equivalent for credit assignment. We show that current agentic variants violate this assumption through a state-action credit mismatch. The observation-hash partition is overly fine on the state side, creating singleton groups with zero step-level signal, while a single within-group mean is too coarse on the...
-
----
-
-## 5. Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers
-
-### [Restoring Incentive Compatibility in Two-Stage Energy Markets with Prosumers](https://doi.org/10.48550/arxiv.2606.25910)
-*Nikolas Koumpis, Koushik Kar, Leandros Tassiulas, Manolis Zampetakis* — **openalex ssrn**, 2026-06-24 — _Agricultural & Environmental Economics_
-
-A central challenge in modern energy market design is the formulation of a strategy-proof imbalance settlement layer that secures both the economic efficiency of the institution and the stability of the power grid. Public data reveals that the day-ahead market is strategically biased below actual consumer demand. Such empirical observations are explained by active prosumers which provide implementable incentives for demand under-reporting. Active prosumers buy energy in the day-ahead market and sell energy in the real-time market for balancing real-time energy deviations. By under-reporting th...
+Financial return forecasting is a difficult test case for time-series foundation models (TSFMs) due to low signal-to-noise ratios, structural breaks, heavy tails, and weak persistence. This paper benchmarks pretrained TSFMs against train-from-scratch neural baselines in a deliberately conservative financial setting. We evaluate TimeGPT/TimeGPT-LH, TimesFM-2.5, Moirai-2.0, Chronos, and Chronos-2 against NBEATS, NHITS, PatchTST, iTransformer, and KAN on five liquid U.S. equities (AAPL, AMZN, GOOG, JPM, META) using linear and log returns. Models are compared under an equalized context budget, a r...
 
 ---
 
-## 6. Zipf's law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds
+## 4. Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis
 
-### [Zipf's law before the monetary economy and written administration: volume distribution of kofun, ancient Japanese burial mounds](https://doi.org/10.48550/arxiv.2606.25303)
-*Hayafumi Watanabe* — **openalex ssrn**, 2026-06-24 — _Business Economics & Innovation_
+### [Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis](https://doi.org/10.48550/arxiv.2606.27150)
+*Ruimeng Hu, Byungdoo Kong* — **openalex ssrn**, 2026-06-25 — _Unclassified_
 
-This study analyzes the volume distribution of kofun, large mounded tombs constructed in the Japanese archipelago from the mid- to late third into the early seventh century. This period provides a rare empirical case for examining the distribution of politico-economic resources and mobilizing capacity in a society where systematic written records of administrative and economic transactions had not yet become established. Using a large-scale database containing mound length, height, and shape, we estimate kofun volumes and examine their distributions at the archipelago-wide scale and by region,...
-
----
-
-## 7. Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets
-
-### [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://doi.org/10.48550/arxiv.2606.25811)
-*Yoonsik Hong, Diego Klabjan* — **openalex ssrn**, 2026-06-24 — _Unclassified_
-
-Commodity futures can be represented hierarchically, with underlying assets at the upper level and individual futures contracts at the lower level. Entities at each level can be connected by edges reflecting inherent correlations, with cross-level edges capturing contract-to-underlying asset connections. Building on our observations of these structures, we propose a hierarchical graph learning approach for calendar spread (CS) strategies in commodity futures markets, addressing two significant gaps in the machine-learning literature: (i) the absence of learning-based methods for CS strategies ...
+We study endogenous reinsurance pricing in a competitive insurance market with one strategic reinsurer and many heterogeneous insurers. The reinsurer acts as a Stackelberg leader by choosing a common premium rate and an investment strategy, while insurers decide how much risk to retain and how to invest, taking into account their own performance, their performance relative to the insurer population, and common insurance-claim and financial-market noise. This creates a feedback loop absent from standard reinsurance models with exogenous premiums: a premium change affects insurers directly throu...
 
 ---
 
-## 8. Opinion Dynamics over Migration Networks
+## 5. The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens
 
-### [Opinion Dynamics over Migration Networks](https://doi.org/10.48550/arxiv.2606.25682)
-*Lőrinc Márton, Stefanie Winkelmann, Mauricio J. del Razo, Nataša Djurdjevac Conrad* — **openalex ssrn**, 2026-06-24 — _Unclassified_
+### [The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens](https://doi.org/10.48550/arxiv.2606.26704)
+*JJ Jia Jing Tan, Eva Meng, Josh Ng, Zack Zhang et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
 
-Opinions play a crucial role in shaping collective phenomena such as political polarization, cultural integration and demographic change. By continuously changing social environments in which opinions evolve, human migration serves as an important driver of collective opinion formation. While migration and opinion dynamics have both been extensively studied, the few existing models that couple the two are primarily deterministic and therefore cannot capture demographic fluctuations, finite-size effects or stochastic transitions between emergent collective states. To address this limitation, we...
+The tokenization of real-world assets (RWAs) has emerged as a transformative application of blockchain technology, with market projections estimating trillions of dollars in tokenized assets within the coming decade. However, a fundamental challenge remains unaddressed: physical assets such as precious metals, stored commodities, and warehoused goods incur structural negative carry -- custody, insurance, and audit costs that accumulate over time. While existing tokenization models have successfully established the market for digital gold and treasuries, they typically manage operational costs ...
+
+---
+
+## 6. Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns
+
+### [Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns](https://doi.org/10.48550/arxiv.2606.26625)
+*Nicholas Appiah, Ali Jaffri, Dilmi C. W. Hettiachchi-Halpe-Kankanamalage, Svetlozar T. Rachev* — **openalex ssrn**, 2026-06-25 — _Agricultural & Environmental Economics, Financial Economics_
+
+This paper examines portfolio optimization for commodity exchange-traded funds (ETFs) under heavy-tailed return behavior. Using daily Bloomberg data for 30 U.S.-listed commodity ETFs from 12 December 2018 to 16 December 2024, we study funds spanning agriculture, energy, metals, and broad commodity index exposure. We compare a passive buy-and-hold portfolio with rolling-window optimized portfolios formed under mean--variance and conditional value-at-risk (CVaR) criteria, considering both long-only and restricted long--short strategies. The results showed substantial heterogeneity across commodi...
+
+---
+
+## 7. State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading
+
+### [State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading](https://doi.org/10.48550/arxiv.2606.27032)
+*Jesper Klicks, Sander Vržina, Vincent François-Lavet* — **openalex ssrn**, 2026-06-25 — _Agricultural & Environmental Economics, Public Economics_
+
+Energy trading decisions depend not only on current market prices, but also on expected future market conditions, and operational constraints. This makes the state representation given to a reinforcement learning agent an important design choice. We study this in HydroDam, a pumped-storage arbitrage environment, using a fixed Double DQN agent. The environment, action space, reward function, network, and training protocol are kept fixed; only the market features are changed. We compare absolute price/calendar features, relative features that compare current prices with recent market history, fo...
+
+---
+
+## 8. Valuing American options and Flexible Forwards contracts in time-dependent models
+
+### [Valuing American options and Flexible Forwards contracts in time-dependent models](https://doi.org/10.48550/arxiv.2606.27335)
+*Leif Andersen, Andrey Itkin, Rakhymzhan Kazbek* — **openalex ssrn**, 2026-06-25 — _International Economics_
+
+A flexible forward (FF) is a customized FX hedging instrument that guarantees a fixed exchange rate while letting the holder choose the delivery date within a pre-agreed window. It is therefore an American-style option on timing, and its valuation must respect the volatility skew of the underlying currency pair. We price FF contracts (and, more generally, American options) under a time-inhomogeneous Heston model which captures the forward-skew term structure while preserving analytical tractability through a recursive (matrix) Riccati solution for the joint characteristic function. Extending t...
 
 ---
