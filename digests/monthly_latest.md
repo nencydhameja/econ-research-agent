@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-06-28
+# Economics Research Digest — 2026-06-29
 
-Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,42 +11,19 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-### [Water Works: Causes and Consequences of Safe Drinking Water in America](https://www.nber.org/papers/w35288#fromrss)
-*David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S. Shapiro* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Health, Education & Welfare, Public Economics_
+### [Quantifying Demand Shocks in the Green and Digital Transition](https://arxiv.org/abs/2606.27842v1)
+*Andrea Bastianin, Luca Rossini, Marco Zoso* — **arxiv**, 2026-06-26 — _Agricultural & Environmental Economics_
 
-Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings ex...
-
----
-
-### [Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach](https://www.nber.org/papers/w35294#fromrss)
-*Alex Bell, Sophie Calder-Wang, Shusheng Zhong* — **NBER WP**, 2026-06-11 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics, method:Natural Experiment_
-
-This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a...
+We use web search data to construct monthly indexes of derived demand for cobalt, copper, and nickel, which are key inputs in technologies driving the energy and digital transitions. We incorporate these indexes into Structural Vector Autoregressive (SVAR) models of global metal markets and identify structural shocks using zero, sign, and magnitude restrictions. This approach disentangles supply shocks from several demand-side drivers of metal prices and isolates a transition demand (TD) shock linked to the diffusion of metal-intensive technologies. We find that TD shocks generate persistent p...
 
 ---
 
-## Business Economics & Innovation
+## Econometrics & Methods
 
-### [What Investment Data Implies about the AI Transition](https://www.nber.org/papers/w35290#fromrss)
-*Jessica Wachter, Jonathan Wachter* — **NBER WP**, 2026-06-11 — _Business Economics & Innovation_
+### [How to deal with machine learning bias in economic history](https://arxiv.org/abs/2606.28063v1)
+*Torben S. D. Johansen, Julius Koschnick, Christian Vedel* — **arxiv**, 2026-06-26 — _Econometrics & Methods, method:Machine Learning_
 
-The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate a two-year window of a 50% annual probability of an increase of the same magnitude, generating a ra...
-
----
-
-## Health, Education & Welfare
-
-### [Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up](https://www.nber.org/papers/w35291#fromrss)
-*Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, method:RCT_
-
-Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, compared with 83% in the original trial. Implementation was no higher among schools that previously ...
-
----
-
-### [Predicting Labor Force Types](https://www.nber.org/papers/w35295#fromrss)
-*Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière et al.* — **NBER WP**, 2026-06-11 — _Health, Education & Welfare, Labor & Demographic Economics_
-
-A small group of people accounts for a large majority of flows between labor market states and of spells in un- and non-employment. In this paper, we ask whether it is possible to identify those weakly attached to the labor market during their prime working-age years using information available early in their lives. First, we use information on labor force transitions between ages 30 and 50 contained in the long panel provided by the NLSY79 to identify those weakly connected to the labor market during their prime age. To do so, we use k-means clustering on moments describing observed spells in...
+Machine learning (ML) has rapidly transformed economic history, lowering costs of digitization, data linkage, and imputation, and making information in historical text usable at scale. This paper offers a practical guide to using these tools well. However, ML tools have also created new problems. Prediction errors are often systematically correlated with covariates of interest, so even highly accurate models can distort and sometimes reverse coefficients, and standard validation cannot detect this. Given that ML tools often perform worse for historical data, this problem is especially severe f...
 
 ---
 
@@ -56,6 +33,22 @@ A small group of people accounts for a large majority of flows between labor mar
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-06-01 — _Macroeconomics_
 
 The Journal of Finance, EarlyView.
+
+---
+
+## Public Economics
+
+### [Heterogeneous Diffusion of Electric Vehicles in China: Demand, Learning, Product Entry, and the Incidence of Industrial Policy](https://arxiv.org/abs/2606.27924v1)
+*Yu, Hao, Jinge Li* — **arxiv**, 2026-06-26 — _Public Economics_
+
+China's electric-vehicle (EV) sales share rose from about 1% in 2015 to roughly 45% in 2024. We evaluate this technology transition with an equilibrium differentiated-products model of the Chinese auto market, and quantify both its attribution and its welfare and reallocation consequences. Every yuan of 2024 EV subsidy delivered about 3.38 yuan of private surplus, but this surplus accrued asymmetrically. Per-capita consumer-surplus loss from subsidy removal is about five times larger in Tier 1 than in the Rest tier; about half of the aggregate welfare loss operates through indirect Wright's-la...
+
+---
+
+### [LLM Agents as Static Level-k Players in Behavioural Games](https://arxiv.org/abs/2606.27845v1)
+*Po Han Teo* — **arxiv**, 2026-06-26 — _Public Economics_
+
+Large Language Models (LLMs) are increasingly used as stand-ins in behavioural games. These stand-ins rely on the assumption that the LLM's distribution of choices meaningfully matches how humans play the same game. This study tests that assumption through two games. The first is a p-beauty contest, and the second one is a public goods game. The study first investigates five local-model settings within the same model family. These settings are varied together in a 360-cell factorial, which balances temperature, scale (0.5-32B), quantisation, instruct vs base, and framing. Each cell's distribut...
 
 ---
 
@@ -214,24 +207,24 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Tatonnement and Price Setting in General Equilibrium](https://www.nber.org/papers/w35205#fromrss)
-*Iván Werning, Guido Lorenzoni* — **NBER WP**, 2026-06-11 — _Unclassified_
+### [Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy](https://arxiv.org/abs/2606.28295v1)
+*Avishek Bhandari* — **arxiv**, 2026-06-26 — _Unclassified_
 
-A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.
-
----
-
-### [Reducing Gun Violence at Scale](https://www.nber.org/papers/w35292#fromrss)
-*Max Kapustin, Aaron Chalfin, Jeremy Biddle, Brian A. Wade et al.* — **NBER WP**, 2026-06-11 — _Unclassified_
-
-Baltimore's homicide rate fell by roughly 60% between 2022 and 2025, an exceptional decline among large U.S. cities. At the start of this period, Baltimore launched a strategy that concentrated police and social service resources on a small set of people thought to be driving group-involved gun violence. The approach—“focused deterrence”—has been implemented in some form by cities across the U.S. The strategy was introduced first in the Western police district, one of the highest-violence communities in the U.S. Relative to comparable Baltimore neighborhoods, we estimate that within 18 months ...
+The competitive equilibrium of general equilibrium theory exists as a fixed point and is, by the theorys own results on aggregate excess demand, in general silent on whether that fixed point is unique, stable, or attained. This paper takes the economy to be not a configuration to be solved for but a process to be recovered, an asymptotically mean stationary information source carrying a partially identified operator of statistical dependence, populated by agents that are finite-capacity information channels. Within this adaptive order the competitive, rational expectations equilibrium is recov...
 
 ---
 
-### [The Effect of Height on Adolescents' Body Image Perceptions and Behaviors](https://www.nber.org/papers/w35293#fromrss)
-*Monica Deza, Neiva J. Fortes, Maria Zhu* — **NBER WP**, 2026-06-11 — _Unclassified_
+### [Rationalizable Behavior in Matching with Externalities](https://arxiv.org/abs/2606.28028v1)
+*Antonio Nicolò, Pietro Salmaso, Riccardo D. Saulle* — **arxiv**, 2026-06-26 — _Unclassified_
 
-This paper estimates the causal effect of height on adolescents’ body image, encompassing self-perceptions of weight, the accuracy of those perceptions, and weight-management aspirations. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97), we leverage within-individual variation in height during adolescence and condition on body mass index (BMI) to isolate the effects of height on body image outcomes. We find that taller adolescents are more likely to perceive themselves as overweight, even holding BMI constant, and are less likely to underestimate their weight category. H...
+In many matching markets, agents care not only about their own partners but also about the matches formed by others. With externalities, stability depends on what agents believe would happen after a deviation. We introduce rationalizable conjectures: beliefs that survive iterated elimination, in the spirit of rationalizability in non-cooperative games. These beliefs define conjecture-rationalizable stability, a solution concept that always exists, extends Gale--Shapley stability, and coincides with it when externalities are absent. We also introduce rationalizable matchings, a non-equilibrium ...
+
+---
+
+### [Characterisation of reactive Nash equilibria in repeated additive games](https://arxiv.org/abs/2606.27653v1)
+*Franziska Lesigang, Christian Hilbe, Nikoleta E. Glynatsi* — **arxiv**, 2026-06-26 — _Unclassified_
+
+In this paper, we study reactive strategies in repeated additive games between two players with finitely many actions. Reactive strategies condition only on the opponent's previous action, making them one of the simplest ways players can respond to past interactions. Additive games include important models of cooperation, such as the donation game and games with a punishment option. We show that, for this class of games and strategies, the conditions for symmetric Nash equilibria reduce to a system of linear equalities and inequalities in the strategy parameters, allowing us to characterise al...
 
 ---
 
@@ -242,5 +235,14 @@ This paper estimates the causal effect of height on adolescents’ body image, e
 Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
 Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
+
+---
+
+## method:Machine Learning
+
+### [A Toolkit for the Study of Treatment-Effect Discontinuities](https://arxiv.org/abs/2606.28017v1)
+*Alessandro Baldi Antognini, Paolo Verme* — **arxiv**, 2026-06-26 — _method:Machine Learning_
+
+This paper provides a toolkit for the study of distributional treatment effects (DTEs) focused on treatment-effect discontinuities defined as points where marginal distributional effects change sign. Building on the Treatment Effects Curve (TEC, Verme, 2010), the paper makes three contributions. First, we propose a methodological framework comprising a Horizontal Discontinuity Analysis (HDA) comparing groups in regions of opposite-signed effects using causal forests, and a Vertical Discontinuity Analysis (VDA) examining sign-switch points. Second, we adapt crossing-point asymptotics to locate ...
 
 ---

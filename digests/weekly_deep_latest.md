@@ -1,8 +1,26 @@
-# Weekly Deep-Reading Queue — week of 2026-06-28
+# Weekly Deep-Reading Queue — week of 2026-06-29
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. The Shift to Agentic AI: Evidence from Codex
+## 1. LLM Agents as Static Level-k Players in Behavioural Games
+
+### [LLM Agents as Static Level-k Players in Behavioural Games](https://arxiv.org/abs/2606.27845v1)
+*Po Han Teo* — **arxiv**, 2026-06-26 — _Public Economics_
+
+Large Language Models (LLMs) are increasingly used as stand-ins in behavioural games. These stand-ins rely on the assumption that the LLM's distribution of choices meaningfully matches how humans play the same game. This study tests that assumption through two games. The first is a p-beauty contest, and the second one is a public goods game. The study first investigates five local-model settings within the same model family. These settings are varied together in a 360-cell factorial, which balances temperature, scale (0.5-32B), quantisation, instruct vs base, and framing. Each cell's distribut...
+
+---
+
+## 2. Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy
+
+### [Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy](https://arxiv.org/abs/2606.28295v1)
+*Avishek Bhandari* — **arxiv**, 2026-06-26 — _Unclassified_
+
+The competitive equilibrium of general equilibrium theory exists as a fixed point and is, by the theorys own results on aggregate excess demand, in general silent on whether that fixed point is unique, stable, or attained. This paper takes the economy to be not a configuration to be solved for but a process to be recovered, an asymptotically mean stationary information source carrying a partially identified operator of statistical dependence, populated by agents that are finite-capacity information channels. Within this adaptive order the competitive, rational expectations equilibrium is recov...
+
+---
+
+## 3. The Shift to Agentic AI: Evidence from Codex
 
 ### [The Shift to Agentic AI: Evidence from Codex](https://arxiv.org/abs/2606.26959v1)
 *Drew Johnston, David Holtz, Alex Martin Richmond, Christopher Ong et al.* — **arxiv**, 2026-06-25 — _Business Economics & Innovation, Law & Economics_
@@ -11,7 +29,7 @@ We analyze usage data from OpenAI's Codex tool to present large-scale evidence o
 
 ---
 
-## 2. On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon
+## 4. On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon
 
 ### [On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon](https://doi.org/10.48550/arxiv.2606.27149)
 *Beatriz Arregui-García, Lucio La Cava, Anees Baqir, Andrea Tagarelli et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
@@ -20,7 +38,7 @@ Decentralized online social networks such as Mastodon distribute moderation powe
 
 ---
 
-## 3. Pretrained Time-Series Foundation Models for Financial Return Forecasting
+## 5. Pretrained Time-Series Foundation Models for Financial Return Forecasting
 
 ### [Pretrained Time-Series Foundation Models for Financial Return Forecasting](https://doi.org/10.48550/arxiv.2606.27100)
 *Miquel Noguer I Alonso, Rodolfo Pereira Franklin* — **openalex ssrn**, 2026-06-25 — _Public Economics_
@@ -29,7 +47,7 @@ Financial return forecasting is a difficult test case for time-series foundation
 
 ---
 
-## 4. Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis
+## 6. Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis
 
 ### [Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis](https://doi.org/10.48550/arxiv.2606.27150)
 *Ruimeng Hu, Byungdoo Kong* — **openalex ssrn**, 2026-06-25 — _Unclassified_
@@ -38,7 +56,7 @@ We study endogenous reinsurance pricing in a competitive insurance market with o
 
 ---
 
-## 5. The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens
+## 7. The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens
 
 ### [The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens](https://doi.org/10.48550/arxiv.2606.26704)
 *JJ Jia Jing Tan, Eva Meng, Josh Ng, Zack Zhang et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
@@ -47,29 +65,11 @@ The tokenization of real-world assets (RWAs) has emerged as a transformative app
 
 ---
 
-## 6. Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns
+## 8. Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns
 
 ### [Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns](https://doi.org/10.48550/arxiv.2606.26625)
 *Nicholas Appiah, Ali Jaffri, Dilmi C. W. Hettiachchi-Halpe-Kankanamalage, Svetlozar T. Rachev* — **openalex ssrn**, 2026-06-25 — _Agricultural & Environmental Economics, Financial Economics_
 
 This paper examines portfolio optimization for commodity exchange-traded funds (ETFs) under heavy-tailed return behavior. Using daily Bloomberg data for 30 U.S.-listed commodity ETFs from 12 December 2018 to 16 December 2024, we study funds spanning agriculture, energy, metals, and broad commodity index exposure. We compare a passive buy-and-hold portfolio with rolling-window optimized portfolios formed under mean--variance and conditional value-at-risk (CVaR) criteria, considering both long-only and restricted long--short strategies. The results showed substantial heterogeneity across commodi...
-
----
-
-## 7. State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading
-
-### [State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading](https://doi.org/10.48550/arxiv.2606.27032)
-*Jesper Klicks, Sander Vržina, Vincent François-Lavet* — **openalex ssrn**, 2026-06-25 — _Agricultural & Environmental Economics, Public Economics_
-
-Energy trading decisions depend not only on current market prices, but also on expected future market conditions, and operational constraints. This makes the state representation given to a reinforcement learning agent an important design choice. We study this in HydroDam, a pumped-storage arbitrage environment, using a fixed Double DQN agent. The environment, action space, reward function, network, and training protocol are kept fixed; only the market features are changed. We compare absolute price/calendar features, relative features that compare current prices with recent market history, fo...
-
----
-
-## 8. Valuing American options and Flexible Forwards contracts in time-dependent models
-
-### [Valuing American options and Flexible Forwards contracts in time-dependent models](https://doi.org/10.48550/arxiv.2606.27335)
-*Leif Andersen, Andrey Itkin, Rakhymzhan Kazbek* — **openalex ssrn**, 2026-06-25 — _International Economics_
-
-A flexible forward (FF) is a customized FX hedging instrument that guarantees a fixed exchange rate while letting the holder choose the delivery date within a pre-agreed window. It is therefore an American-style option on timing, and its valuation must respect the volatility skew of the underlying currency pair. We price FF contracts (and, more generally, American options) under a time-inhomogeneous Heston model which captures the forward-skew term structure while preserving analytical tractability through a recursive (matrix) Riccati solution for the joint characteristic function. Extending t...
 
 ---
