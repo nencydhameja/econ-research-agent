@@ -1,75 +1,75 @@
-# Weekly Deep-Reading Queue — week of 2026-06-29
+# Weekly Deep-Reading Queue — week of 2026-06-30
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. LLM Agents as Static Level-k Players in Behavioural Games
+## 1. Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval
 
-### [LLM Agents as Static Level-k Players in Behavioural Games](https://arxiv.org/abs/2606.27845v1)
-*Po Han Teo* — **arxiv**, 2026-06-26 — _Public Economics_
+### [Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval](https://arxiv.org/abs/2606.30473v1)
+*Aivin V. Solatorio, Olivier Dupriez, Rafael Macalaba* — **arxiv**, 2026-06-29 — _Unclassified_
 
-Large Language Models (LLMs) are increasingly used as stand-ins in behavioural games. These stand-ins rely on the assumption that the LLM's distribution of choices meaningfully matches how humans play the same game. This study tests that assumption through two games. The first is a p-beauty contest, and the second one is a public goods game. The study first investigates five local-model settings within the same model family. These settings are varied together in a 360-cell factorial, which balances temperature, scale (0.5-32B), quantisation, instruct vs base, and framing. Each cell's distribut...
-
----
-
-## 2. Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy
-
-### [Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy](https://arxiv.org/abs/2606.28295v1)
-*Avishek Bhandari* — **arxiv**, 2026-06-26 — _Unclassified_
-
-The competitive equilibrium of general equilibrium theory exists as a fixed point and is, by the theorys own results on aggregate excess demand, in general silent on whether that fixed point is unique, stable, or attained. This paper takes the economy to be not a configuration to be solved for but a process to be recovered, an asymptotically mean stationary information source carrying a partially identified operator of statistical dependence, populated by agents that are finite-capacity information channels. Within this adaptive order the competitive, rational expectations equilibrium is recov...
+We study retrieval over catalogs of structured metadata, where each record is a small schema whose fields answer different kinds of query. Embedding a record with a text encoder first serializes its fields into a string, which forces a choice of field order. We show this choice, usually treated as an implementation detail, silently controls retrieval quality once the encoder is fine-tuned. A standard fine-tune loses 7.4 nDCG@10 points when the index is rebuilt under a different field order, because it reads absolute position instead of the field labels. We propose permutation-invariant fine-tu...
 
 ---
 
-## 3. The Shift to Agentic AI: Evidence from Codex
+## 2. Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation
 
-### [The Shift to Agentic AI: Evidence from Codex](https://arxiv.org/abs/2606.26959v1)
-*Drew Johnston, David Holtz, Alex Martin Richmond, Christopher Ong et al.* — **arxiv**, 2026-06-25 — _Business Economics & Innovation, Law & Economics_
+### [Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation](https://arxiv.org/abs/2606.30359v1)
+*Ana B. Cristóbal, Daniel Sierra, Laura Palomino, Luis Miguel Carrasco et al.* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, International Economics_
 
-We analyze usage data from OpenAI's Codex tool to present large-scale evidence of how agentic AI technology, which can take actions on a user's behalf, changes how people work. We use an automated, privacy-protecting pipeline to contrast usage across three populations: external personal-account users, external organizational-account users, and workers within OpenAI. We find that agentic AI usage is growing rapidly: the number of active users has grown more than fivefold in the first half of 2026, with the most rapid increase occurring outside the initial audience of software developers. Uptake...
-
----
-
-## 4. On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon
-
-### [On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon](https://doi.org/10.48550/arxiv.2606.27149)
-*Beatriz Arregui-García, Lucio La Cava, Anees Baqir, Andrea Tagarelli et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
-
-Decentralized online social networks such as Mastodon distribute moderation power across thousands of independently governed servers, raising fundamental questions about how local block decisions shape global structure and information flow. In this paper, we analyze Mastodon at the instance level by constructing a signed, directed, temporal network in which positive edges aggregate inter-instance follow relationships and negative edges encode daily block actions. Using one year of data, we show that despite continuous moderation activity and changing roles among instances, the network exhibits...
+The success of distributed photovoltaics may be undermining its own future. As solar penetration increases, electricity prices decline during periods of peak generation, reducing the value of surplus photovoltaic production. This raises a critical question: can citizen-led energy systems remain economically viable in electricity markets dominated by renewable generation? Rather than exploring technically optimal but institutionally unrealistic solutions, we examine the options available under current regulatory and market conditions. Using high-resolution consumption data from a rural communit...
 
 ---
 
-## 5. Pretrained Time-Series Foundation Models for Financial Return Forecasting
+## 3. The Shape of Macroeconomic Beliefs
 
-### [Pretrained Time-Series Foundation Models for Financial Return Forecasting](https://doi.org/10.48550/arxiv.2606.27100)
-*Miquel Noguer I Alonso, Rodolfo Pereira Franklin* — **openalex ssrn**, 2026-06-25 — _Public Economics_
+### [The Shape of Macroeconomic Beliefs](https://arxiv.org/abs/2606.30040v1)
+*Giovanni Angelini* — **arxiv**, 2026-06-29 — _Macroeconomics_
 
-Financial return forecasting is a difficult test case for time-series foundation models (TSFMs) due to low signal-to-noise ratios, structural breaks, heavy tails, and weak persistence. This paper benchmarks pretrained TSFMs against train-from-scratch neural baselines in a deliberately conservative financial setting. We evaluate TimeGPT/TimeGPT-LH, TimesFM-2.5, Moirai-2.0, Chronos, and Chronos-2 against NBEATS, NHITS, PatchTST, iTransformer, and KAN on five liquid U.S. equities (AAPL, AMZN, GOOG, JPM, META) using linear and log returns. Models are compared under an equalized context budget, a r...
-
----
-
-## 6. Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis
-
-### [Endogenous Reinsurance Pricing in Large Competitive Insurance Markets: Finite-Player and Mean Field Analysis](https://doi.org/10.48550/arxiv.2606.27150)
-*Ruimeng Hu, Byungdoo Kong* — **openalex ssrn**, 2026-06-25 — _Unclassified_
-
-We study endogenous reinsurance pricing in a competitive insurance market with one strategic reinsurer and many heterogeneous insurers. The reinsurer acts as a Stackelberg leader by choosing a common premium rate and an investment strategy, while insurers decide how much risk to retain and how to invest, taking into account their own performance, their performance relative to the insurer population, and common insurance-claim and financial-market noise. This creates a feedback loop absent from standard reinsurance models with exogenous premiums: a premium change affects insurers directly throu...
+Macroeconomic expectations are usually observed through point forecasts or through asset prices whose mapping into beliefs is model-dependent. This paper uses prediction-market prices to recover high-frequency distributions of short-run macroeconomic beliefs. We construct a panel of Kalshi-implied distributions for CPI and core CPI releases by converting adjacent threshold contracts into probability mass over inflation outcomes. The data reveal market-implied means, uncertainty, and upper-tail probabilities from 30 days to one hour before each release. The market-implied mean contains meaningf...
 
 ---
 
-## 7. The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens
+## 4. HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data
 
-### [The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens](https://doi.org/10.48550/arxiv.2606.26704)
-*JJ Jia Jing Tan, Eva Meng, Josh Ng, Zack Zhang et al.* — **openalex ssrn**, 2026-06-25 — _Unclassified_
+### [HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data](https://arxiv.org/abs/2606.29784v1)
+*Xinrui Ruan, Zhenyu Zhao, Waverly Wei, Yueshan Zhang et al.* — **arxiv**, 2026-06-29 — _Unclassified_
 
-The tokenization of real-world assets (RWAs) has emerged as a transformative application of blockchain technology, with market projections estimating trillions of dollars in tokenized assets within the coming decade. However, a fundamental challenge remains unaddressed: physical assets such as precious metals, stored commodities, and warehoused goods incur structural negative carry -- custody, insurance, and audit costs that accumulate over time. While existing tokenization models have successfully established the market for digital gold and treasuries, they typically manage operational costs ...
+Reliable generative AI models critically rely on expert human annotations to evaluate output quality, yet these "gold" labels are expensive to collect and limited in quantity. Organizations thus often turn to collecting vast but noisy "silver" labels from crowdsourced workers or vendor annotators as proxies for gold labels. Because gold remains the evaluation target, naively aggregating noisy silver labels may introduce bias, and estimators built on sparsely observed gold labels may have high variance to resolve the model performance gaps that guide practical decisions. Model evaluation has be...
 
 ---
 
-## 8. Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns
+## 5. Modeling Mode and Departure Time Responses to Congestion Pricing: A Spatial and Behavioral Analysis Using Cross-Nested Logit Model
 
-### [Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns](https://doi.org/10.48550/arxiv.2606.26625)
-*Nicholas Appiah, Ali Jaffri, Dilmi C. W. Hettiachchi-Halpe-Kankanamalage, Svetlozar T. Rachev* — **openalex ssrn**, 2026-06-25 — _Agricultural & Environmental Economics, Financial Economics_
+### [Modeling Mode and Departure Time Responses to Congestion Pricing: A Spatial and Behavioral Analysis Using Cross-Nested Logit Model](https://arxiv.org/abs/2606.29756v1)
+*Mohammad Amin Ashena, Adam Weiss, Jason Hawkins, Lina Kattan* — **arxiv**, 2026-06-29 — _Urban, Rural & Regional Economics_
 
-This paper examines portfolio optimization for commodity exchange-traded funds (ETFs) under heavy-tailed return behavior. Using daily Bloomberg data for 30 U.S.-listed commodity ETFs from 12 December 2018 to 16 December 2024, we study funds spanning agriculture, energy, metals, and broad commodity index exposure. We compare a passive buy-and-hold portfolio with rolling-window optimized portfolios formed under mean--variance and conditional value-at-risk (CVaR) criteria, considering both long-only and restricted long--short strategies. The results showed substantial heterogeneity across commodi...
+Effective congestion management strategies require a detailed understanding of how travellers respond to different pricing interventions. This paper presents an in-depth analysis of traveller behaviour under congestion pricing scenarios, focusing specifically on mode and departure time decisions. Utilizing stated preference survey data from commuters in Calgary, Canada, three discrete choice models including Multinomial Logit, Nested Logit, and Cross-Nested Logit are developed and compared. Results indicate that the Cross-Nested Logit model provides superior behavioural realism and flexibility...
+
+---
+
+## 6. AI Premium
+
+### [AI Premium](https://arxiv.org/abs/2606.30583v1)
+*Nicola Borri, Yukun Liu, Aleh Tsyvinski* — **arxiv**, 2026-06-29 — _Business Economics & Innovation_
+
+Using 380 trillion tokens of realized AI consumption across more than four hundred large language models from the licensed proprietary OpenRouter dataset covering approximately 2 percent of current global monthly AI token consumption, we analyze how AI affects firms, markets, and workers. Leveraging the unprecedented size, scope and granularity data, we construct the AI Factor from growth in tokens, dollars, and users, estimate firm-level AI Betas from stock return comovement, and characterize the AI Premium. First, we build a high-frequency AI factor and decompose it into salient components. ...
+
+---
+
+## 7. Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates
+
+### [Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates](https://arxiv.org/abs/2606.30085v1)
+*Xiangyu Ma, Mengmi Zhang, Shannon Ang, Minne Chen* — **arxiv**, 2026-06-29 — _Unclassified_
+
+Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions. The extent to which LLMs are able to produce reasonable approximations of cultural taste remains an open empirical question that becomes more urgent by the day, with market research companies already offering provisional `synthetic' survey panels and the contamination of standard survey data from LLM-generated responses. In this study, we build on past work on silicon sampling by extending considerations of its algorithmic fidelity and alignment to the domain of cultural consumption. We...
+
+---
+
+## 8. Sensitivity, Informativeness, and Misspecification in GMM Estimation
+
+### [Sensitivity, Informativeness, and Misspecification in GMM Estimation](https://arxiv.org/abs/2606.29833v1)
+*Fangzhou Yu, Seojeong Lee* — **arxiv**, 2026-06-29 — _International Economics, Political Economy, method:IV_
+
+This paper develops misspecification-robust sensitivity and informativeness diagnostics for GMM estimators, evaluated at pseudo-true values. The sensitivity matrix nests that of Andrews, Gentzkow, and Shapiro (2017) under correct specification. The informativeness $Δ$ measures the share of an estimator's asymptotic variance explained by sampling variation in the moments, a notion of structural efficiency that equals one under correct specification and can fall below one under misspecification, even when the Hansen $J$-test does not reject. We derive influence-function representations for one-s...
 
 ---

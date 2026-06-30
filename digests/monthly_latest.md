@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-06-29
+# Economics Research Digest — 2026-06-30
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,19 +11,35 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-### [Quantifying Demand Shocks in the Green and Digital Transition](https://arxiv.org/abs/2606.27842v1)
-*Andrea Bastianin, Luca Rossini, Marco Zoso* — **arxiv**, 2026-06-26 — _Agricultural & Environmental Economics_
+### [Swimming in Dark Water: When Cartels Mimic Competition](https://arxiv.org/abs/2606.30470v1)
+*David Imhof, Thierry Madiès, Martin Huber* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
 
-We use web search data to construct monthly indexes of derived demand for cobalt, copper, and nickel, which are key inputs in technologies driving the energy and digital transitions. We incorporate these indexes into Structural Vector Autoregressive (SVAR) models of global metal markets and identify structural shocks using zero, sign, and magnitude restrictions. This approach disentangles supply shocks from several demand-side drivers of metal prices and isolates a transition demand (TD) shock linked to the diffusion of metal-intensive technologies. We find that TD shocks generate persistent p...
+This paper analyzes the internal organization and economic effects of a bid-rigging cartel in the road construction sector of the Swiss canton of Ticino, active from 1999 to 2005. Using exceptionally rich documentary evidence, we reconstruct how cartel members coordinated bids and allocated contracts under a formal agreement known as the 'convention'. We show that, despite the absence of side payments, the cartel implemented a cost-based allocation mechanism that closely approximated the first-best collusive outcome. Regression and machine-learning analyses indicate that observable cost proxie...
 
 ---
 
-## Econometrics & Methods
+### [Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation](https://arxiv.org/abs/2606.30359v1)
+*Ana B. Cristóbal, Daniel Sierra, Laura Palomino, Luis Miguel Carrasco et al.* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, International Economics_
 
-### [How to deal with machine learning bias in economic history](https://arxiv.org/abs/2606.28063v1)
-*Torben S. D. Johansen, Julius Koschnick, Christian Vedel* — **arxiv**, 2026-06-26 — _Econometrics & Methods, method:Machine Learning_
+The success of distributed photovoltaics may be undermining its own future. As solar penetration increases, electricity prices decline during periods of peak generation, reducing the value of surplus photovoltaic production. This raises a critical question: can citizen-led energy systems remain economically viable in electricity markets dominated by renewable generation? Rather than exploring technically optimal but institutionally unrealistic solutions, we examine the options available under current regulatory and market conditions. Using high-resolution consumption data from a rural communit...
 
-Machine learning (ML) has rapidly transformed economic history, lowering costs of digitization, data linkage, and imputation, and making information in historical text usable at scale. This paper offers a practical guide to using these tools well. However, ML tools have also created new problems. Prediction errors are often systematically correlated with covariates of interest, so even highly accurate models can distort and sometimes reverse coefficients, and standard validation cannot detect this. Given that ML tools often perform worse for historical data, this problem is especially severe f...
+---
+
+## Business Economics & Innovation
+
+### [AI Premium](https://arxiv.org/abs/2606.30583v1)
+*Nicola Borri, Yukun Liu, Aleh Tsyvinski* — **arxiv**, 2026-06-29 — _Business Economics & Innovation_
+
+Using 380 trillion tokens of realized AI consumption across more than four hundred large language models from the licensed proprietary OpenRouter dataset covering approximately 2 percent of current global monthly AI token consumption, we analyze how AI affects firms, markets, and workers. Leveraging the unprecedented size, scope and granularity data, we construct the AI Factor from growth in tokens, dollars, and users, estimate firm-level AI Betas from stock return comovement, and characterize the AI Premium. First, we build a high-frequency AI factor and decompose it into salient components. ...
+
+---
+
+## Financial Economics
+
+### [Bank Earnings, Credit Supply & the Macroeconomy: Evidence from Canada](https://arxiv.org/abs/2606.30381v1)
+*Santiago Camara, Sanaa Latif* — **arxiv**, 2026-06-29 — _Financial Economics_
+
+This paper studies whether news about banks' balance sheets propagates to aggregate financial conditions and macroeconomic activity. We construct high-frequency Canadian bank net-worth shocks using stock-price reactions around earnings announcements of the six large Canadian banks. Guided by a model in which higher intermediary net worth expands credit supply and lowers borrowing spreads, we use the co-movement between bank equity prices and Canadian corporate spreads to purge raw bank equity surprises from contaminating information. Favorable purged credit-supply bank net-worth shocks lower c...
 
 ---
 
@@ -33,22 +49,6 @@ Machine learning (ML) has rapidly transformed economic history, lowering costs o
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-06-01 — _Macroeconomics_
 
 The Journal of Finance, EarlyView.
-
----
-
-## Public Economics
-
-### [Heterogeneous Diffusion of Electric Vehicles in China: Demand, Learning, Product Entry, and the Incidence of Industrial Policy](https://arxiv.org/abs/2606.27924v1)
-*Yu, Hao, Jinge Li* — **arxiv**, 2026-06-26 — _Public Economics_
-
-China's electric-vehicle (EV) sales share rose from about 1% in 2015 to roughly 45% in 2024. We evaluate this technology transition with an equilibrium differentiated-products model of the Chinese auto market, and quantify both its attribution and its welfare and reallocation consequences. Every yuan of 2024 EV subsidy delivered about 3.38 yuan of private surplus, but this surplus accrued asymmetrically. Per-capita consumer-surplus loss from subsidy removal is about five times larger in Tier 1 than in the Rest tier; about half of the aggregate welfare loss operates through indirect Wright's-la...
-
----
-
-### [LLM Agents as Static Level-k Players in Behavioural Games](https://arxiv.org/abs/2606.27845v1)
-*Po Han Teo* — **arxiv**, 2026-06-26 — _Public Economics_
-
-Large Language Models (LLMs) are increasingly used as stand-ins in behavioural games. These stand-ins rely on the assumption that the LLM's distribution of choices meaningfully matches how humans play the same game. This study tests that assumption through two games. The first is a p-beauty contest, and the second one is a public goods game. The study first investigates five local-model settings within the same model family. These settings are varied together in a 360-cell factorial, which balances temperature, scale (0.5-32B), quantisation, instruct vs base, and framing. Each cell's distribut...
 
 ---
 
@@ -207,24 +207,31 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Equilibrium as a Limit: The Competitive Canon Nested in an Adaptive, Information-Theoretic Economy](https://arxiv.org/abs/2606.28295v1)
-*Avishek Bhandari* — **arxiv**, 2026-06-26 — _Unclassified_
+### [Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval](https://arxiv.org/abs/2606.30473v1)
+*Aivin V. Solatorio, Olivier Dupriez, Rafael Macalaba* — **arxiv**, 2026-06-29 — _Unclassified_
 
-The competitive equilibrium of general equilibrium theory exists as a fixed point and is, by the theorys own results on aggregate excess demand, in general silent on whether that fixed point is unique, stable, or attained. This paper takes the economy to be not a configuration to be solved for but a process to be recovered, an asymptotically mean stationary information source carrying a partially identified operator of statistical dependence, populated by agents that are finite-capacity information channels. Within this adaptive order the competitive, rational expectations equilibrium is recov...
-
----
-
-### [Rationalizable Behavior in Matching with Externalities](https://arxiv.org/abs/2606.28028v1)
-*Antonio Nicolò, Pietro Salmaso, Riccardo D. Saulle* — **arxiv**, 2026-06-26 — _Unclassified_
-
-In many matching markets, agents care not only about their own partners but also about the matches formed by others. With externalities, stability depends on what agents believe would happen after a deviation. We introduce rationalizable conjectures: beliefs that survive iterated elimination, in the spirit of rationalizability in non-cooperative games. These beliefs define conjecture-rationalizable stability, a solution concept that always exists, extends Gale--Shapley stability, and coincides with it when externalities are absent. We also introduce rationalizable matchings, a non-equilibrium ...
+We study retrieval over catalogs of structured metadata, where each record is a small schema whose fields answer different kinds of query. Embedding a record with a text encoder first serializes its fields into a string, which forces a choice of field order. We show this choice, usually treated as an implementation detail, silently controls retrieval quality once the encoder is fine-tuned. A standard fine-tune loses 7.4 nDCG@10 points when the index is rebuilt under a different field order, because it reads absolute position instead of the field labels. We propose permutation-invariant fine-tu...
 
 ---
 
-### [Characterisation of reactive Nash equilibria in repeated additive games](https://arxiv.org/abs/2606.27653v1)
-*Franziska Lesigang, Christian Hilbe, Nikoleta E. Glynatsi* — **arxiv**, 2026-06-26 — _Unclassified_
+### [I.i.d. Prophet Inequalities with Discounted Rewards: As Hard as the Non-i.i.d. Case](https://arxiv.org/abs/2606.30118v1)
+*Jung-hun Kim, Vianney Perchet* — **arxiv**, 2026-06-29 — _Unclassified_
 
-In this paper, we study reactive strategies in repeated additive games between two players with finitely many actions. Reactive strategies condition only on the opponent's previous action, making them one of the simplest ways players can respond to past interactions. Additive games include important models of cooperation, such as the donation game and games with a punishment option. We show that, for this class of games and strategies, the conditions for symmetric Nash equilibria reduce to a system of linear equalities and inequalities in the strategy parameters, allowing us to characterise al...
+We study prophet inequalities with discounted rewards, where i.i.d. base rewards are multiplicatively discounted over time. Our main message is that even this structured and arbitrarily weak form of nonstationarity can erase the classical advantage of the stationary i.i.d. setting. Focusing on single-quantile threshold policies, we show that the competitive ratio transitions from the classical $1-1/e$ guarantee to a fundamental $1/2$ barrier as discounting accumulates over many phases in a canonical regime with a common-decay factor and equal-length phases. We further show that, in the same re...
+
+---
+
+### [Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates](https://arxiv.org/abs/2606.30085v1)
+*Xiangyu Ma, Mengmi Zhang, Shannon Ang, Minne Chen* — **arxiv**, 2026-06-29 — _Unclassified_
+
+Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions. The extent to which LLMs are able to produce reasonable approximations of cultural taste remains an open empirical question that becomes more urgent by the day, with market research companies already offering provisional `synthetic' survey panels and the contamination of standard survey data from LLM-generated responses. In this study, we build on past work on silicon sampling by extending considerations of its algorithmic fidelity and alignment to the domain of cultural consumption. We...
+
+---
+
+### [Spectral Aggregation of Quantile Preferences](https://arxiv.org/abs/2606.30074v1)
+*Van-Quy Nguyen* — **arxiv**, 2026-06-29 — _Unclassified_
+
+Many collective decisions under risk are made by people who care about different parts of the outcome distribution: downside losses, typical performance, or upside gains. This paper models this disagreement with quantile preferences and studies how the represented quantile levels can be aggregated. Our main result is a spectral support theorem: a spectral social aggregation satisfies the Pareto principle if and only if its social spectrum puts mass only on quantile levels represented in society. Hence, Pareto consistency makes representative-quantile aggregation a dictatorial case. In addition...
 
 ---
 
@@ -235,14 +242,5 @@ In this paper, we study reactive strategies in repeated additive games between t
 Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
 Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
-
----
-
-## method:Machine Learning
-
-### [A Toolkit for the Study of Treatment-Effect Discontinuities](https://arxiv.org/abs/2606.28017v1)
-*Alessandro Baldi Antognini, Paolo Verme* — **arxiv**, 2026-06-26 — _method:Machine Learning_
-
-This paper provides a toolkit for the study of distributional treatment effects (DTEs) focused on treatment-effect discontinuities defined as points where marginal distributional effects change sign. Building on the Treatment Effects Curve (TEC, Verme, 2010), the paper makes three contributions. First, we propose a methodological framework comprising a Horizontal Discontinuity Analysis (HDA) comparing groups in regions of opposite-signed effects using causal forests, and a Vertical Discontinuity Analysis (VDA) examining sign-switch points. Second, we adapt crossing-point asymptotics to locate ...
 
 ---
