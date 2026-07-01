@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-06-30
+# Economics Research Digest — 2026-07-01
 
-Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,44 +11,21 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-### [Swimming in Dark Water: When Cartels Mimic Competition](https://arxiv.org/abs/2606.30470v1)
-*David Imhof, Thierry Madiès, Martin Huber* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
-
-This paper analyzes the internal organization and economic effects of a bid-rigging cartel in the road construction sector of the Swiss canton of Ticino, active from 1999 to 2005. Using exceptionally rich documentary evidence, we reconstruct how cartel members coordinated bids and allocated contracts under a formal agreement known as the 'convention'. We show that, despite the absence of side payments, the cartel implemented a cost-based allocation mechanism that closely approximated the first-best collusive outcome. Regression and machine-learning analyses indicate that observable cost proxie...
-
----
-
-### [Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation](https://arxiv.org/abs/2606.30359v1)
-*Ana B. Cristóbal, Daniel Sierra, Laura Palomino, Luis Miguel Carrasco et al.* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, International Economics_
-
-The success of distributed photovoltaics may be undermining its own future. As solar penetration increases, electricity prices decline during periods of peak generation, reducing the value of surplus photovoltaic production. This raises a critical question: can citizen-led energy systems remain economically viable in electricity markets dominated by renewable generation? Rather than exploring technically optimal but institutionally unrealistic solutions, we examine the options available under current regulatory and market conditions. Using high-resolution consumption data from a rural communit...
-
----
-
 ## Business Economics & Innovation
 
-### [AI Premium](https://arxiv.org/abs/2606.30583v1)
-*Nicola Borri, Yukun Liu, Aleh Tsyvinski* — **arxiv**, 2026-06-29 — _Business Economics & Innovation_
+### [Coupling and Maximal Inequalities for Graph-Dependent Empirical Processes](https://arxiv.org/abs/2606.31936v1)
+*Mengsi Gao, Demian Pouzo* — **arxiv**, 2026-06-30 — _Business Economics & Innovation_
 
-Using 380 trillion tokens of realized AI consumption across more than four hundred large language models from the licensed proprietary OpenRouter dataset covering approximately 2 percent of current global monthly AI token consumption, we analyze how AI affects firms, markets, and workers. Leveraging the unprecedented size, scope and granularity data, we construct the AI Factor from growth in tokens, dollars, and users, estimate firm-level AI Betas from stock return comovement, and characterize the AI Premium. First, we build a high-frequency AI factor and decompose it into salient components. ...
-
----
-
-## Financial Economics
-
-### [Bank Earnings, Credit Supply & the Macroeconomy: Evidence from Canada](https://arxiv.org/abs/2606.30381v1)
-*Santiago Camara, Sanaa Latif* — **arxiv**, 2026-06-29 — _Financial Economics_
-
-This paper studies whether news about banks' balance sheets propagates to aggregate financial conditions and macroeconomic activity. We construct high-frequency Canadian bank net-worth shocks using stock-price reactions around earnings announcements of the six large Canadian banks. Guided by a model in which higher intermediary net worth expands credit supply and lowers borrowing spreads, we use the co-movement between bank equity prices and Canadian corporate spreads to purge raw bank equity surprises from contaminating information. Favorable purged credit-supply bank net-worth shocks lower c...
+We develop maximal inequalities for empirical processes indexed by graph-dependent observations. Our bounds separate the complexity of the indexing class from two features specific to graph dependence: the geometry of the underlying graph and the cost of coupling graph-separated blocks to independent copies. The coupling construction combines a novel graph-adapted dependence coefficient with a coloring of a block partition. We specialize the results to graphs with polynomial and exponential growth and to directed dyadic graphs. We then derive Glivenko--Cantelli results and characterize the ass...
 
 ---
 
-## Macroeconomics
+## Microeconomics
 
-### [Cash Heterogeneity and the Payout Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70059?af=R)
-*ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-06-01 — _Macroeconomics_
+### [A Cost-and-Place-Utility Model of the Move-versus-Commute Decision](https://arxiv.org/abs/2606.31780v1)
+*Shawn Berry* — **arxiv**, 2026-06-30 — _Microeconomics, Urban, Rural & Regional Economics_
 
-The Journal of Finance, EarlyView.
+Deciding where to live involves a complex balance between commuting and moving, as households must weigh housing affordability, transportation expenses, access to workplaces, and social ties. Traditional urban economic theories focus on the balance between housing expenses and commuting costs, while modern studies also consider housing affordability, transportation access, and utility maximization. However, few studies have combined these elements into a clear mathematical model that can be used for both policy analysis and household decision-making. This paper introduces an algebraic model fo...
 
 ---
 
@@ -198,40 +175,31 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Detecting Informed Trading Risk from Undercutting Activity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70047?af=R)
-*YASHAR H. BARARDEHI, 
-PETER DIXON, 
-QIYU LIU* — **Journal of Finance**, 2026-06-01 — _Unclassified_
+### [Competition and Anomalies Redux: Evidence from U.S. Auto Dealers](https://arxiv.org/abs/2606.32011v1)
+*David Huffman, Lamar Pierce, Germán Reyes, Alex Rees-Jones* — **arxiv**, 2026-06-30 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+We examine a choice between bonus contracts offered to dealers of a U.S. auto manufacturer. In our data, dealers select the non-profit-maximizing option in 20 percent of observations, costing the mistaken dealers $18,453 per year on average. We examine how the propensity to make this mistake varies with competition, identified both cross-sectionally and within dealers over time. Both analyses show that greater competition substantially lowers the rate of mistakes. However, even in the most competitive markets, consequential mistakes persist. Our results suggest that competition disciplines mai...
 
 ---
 
-### [Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval](https://arxiv.org/abs/2606.30473v1)
-*Aivin V. Solatorio, Olivier Dupriez, Rafael Macalaba* — **arxiv**, 2026-06-29 — _Unclassified_
+### [Comparison games and ranking of players](https://arxiv.org/abs/2606.31955v1)
+*Daniela Bubboloni, Stefano Moretti* — **arxiv**, 2026-06-30 — _Unclassified_
 
-We study retrieval over catalogs of structured metadata, where each record is a small schema whose fields answer different kinds of query. Embedding a record with a text encoder first serializes its fields into a string, which forces a choice of field order. We show this choice, usually treated as an implementation detail, silently controls retrieval quality once the encoder is fine-tuned. A standard fine-tune loses 7.4 nDCG@10 points when the index is rebuilt under a different field order, because it reads absolute position instead of the field labels. We propose permutation-invariant fine-tu...
-
----
-
-### [I.i.d. Prophet Inequalities with Discounted Rewards: As Hard as the Non-i.i.d. Case](https://arxiv.org/abs/2606.30118v1)
-*Jung-hun Kim, Vianney Perchet* — **arxiv**, 2026-06-29 — _Unclassified_
-
-We study prophet inequalities with discounted rewards, where i.i.d. base rewards are multiplicatively discounted over time. Our main message is that even this structured and arbitrarily weak form of nonstationarity can erase the classical advantage of the stationary i.i.d. setting. Focusing on single-quantile threshold policies, we show that the competitive ratio transitions from the classical $1-1/e$ guarantee to a fundamental $1/2$ barrier as discounting accumulates over many phases in a canonical regime with a common-decay factor and equal-length phases. We further show that, in the same re...
+This work addresses the problem of assessing player importance in coalitional settings where the available information concerns the relative strength between pairs of coalitions, rather than the absolute worth of each coalition. We introduce a novel framework that is flexible enough to represent all coalitional pseudo-games and, through the use of coalitional networks, naturally accommodates scenarios with limited or heterogeneous coalition comparisons. Importantly, this framework still enables the computation of semivalues of pseudo-games, such as the Banzhaf and Shapley values, that can be e...
 
 ---
 
-### [Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates](https://arxiv.org/abs/2606.30085v1)
-*Xiangyu Ma, Mengmi Zhang, Shannon Ang, Minne Chen* — **arxiv**, 2026-06-29 — _Unclassified_
+### [Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents](https://arxiv.org/abs/2606.31935v1)
+*Yukun Zhang, Kemu Xu* — **arxiv**, 2026-06-30 — _Unclassified_
 
-Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions. The extent to which LLMs are able to produce reasonable approximations of cultural taste remains an open empirical question that becomes more urgent by the day, with market research companies already offering provisional `synthetic' survey panels and the contamination of standard survey data from LLM-generated responses. In this study, we build on past work on silicon sampling by extending considerations of its algorithmic fidelity and alignment to the domain of cultural consumption. We...
+AI agents increasingly operate inside digital accounts by exercising privileges that users already hold, raising a new control question: whether an existing account entitlement must be exercised manually or may be exercised through a user-authorized automated proxy. We define \emph{delegation rights} as the revocable, identity-preserving, scope-limited, and mode-specific authority of an account holder to authorize such proxy execution. We develop a three-party incomplete-contracts model with a User, an AI Agent provider, and a Platform. The contested object is not platform ownership, account t...
 
 ---
 
-### [Spectral Aggregation of Quantile Preferences](https://arxiv.org/abs/2606.30074v1)
-*Van-Quy Nguyen* — **arxiv**, 2026-06-29 — _Unclassified_
+### [Note on an Axiomatization of the Baldwin Rule](https://arxiv.org/abs/2606.31271v1)
+*Leo Goto, Satoshi Nakada* — **arxiv**, 2026-06-30 — _Unclassified_
 
-Many collective decisions under risk are made by people who care about different parts of the outcome distribution: downside losses, typical performance, or upside gains. This paper models this disagreement with quantile preferences and studies how the represented quantile levels can be aggregated. Our main result is a spectral support theorem: a spectral social aggregation satisfies the Pareto principle if and only if its social spectrum puts mass only on quantile levels represented in society. Hence, Pareto consistency makes representative-quantile aggregation a dictatorial case. In addition...
+Goto and Nakada (2026) showed that the Baldwin rule can be characterized using Neutrality}, Bottom Consistency, Faithfulness, Cancellation and Bottom Independence. While their proof relies on the technique of linear algebra and graph theory, in this note, we provide a simpler proof using purely combinatorial arguments based on permutations and amplified preference profiles, thereby providing a more transparent proof of the characterization.
 
 ---
 
@@ -242,5 +210,37 @@ Many collective decisions under risk are made by people who care about different
 Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
 Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
+
+---
+
+### [Feedback dynamics in matching networks drive behavioral differentiation despite overlapping objectives](https://arxiv.org/abs/2606.31802v1)
+*Alexandros Gelastopoulos* — **arxiv**, 2026-06-30 — _Urban, Rural & Regional Economics_
+
+Many bipartite social networks exhibit pronounced asymmetries in selectivity and matching opportunities: members of one side can afford to be highly selective, while members of the opposite side are forced to accept less desirable matches. While it is natural to try to explain this asymmetry in terms of the intrinsic characteristics of the two sides or other exogenous factors, here we show that such asymmetries can also emerge endogenously through a feedback process generated by the matching process itself: as one side becomes more selective, the other side is pushed to be less selective due t...
+
+---
+
+## method:IV
+
+### [Quasi-Bayesian Hierarchical Models](https://arxiv.org/abs/2606.31930v1)
+*Desmond Fairall, Thomas Glinnan* — **arxiv**, 2026-06-30 — _method:IV_
+
+We develop the Quasi-Bayesian Hierarchical Model (QBHM) for grouped GMM settings. The framework combines Bayesian hierarchical modelling with Laplace-type estimation: it preserves each group-specific objective function, while introducing a pooling term for economically comparable parameters. When the number of studies is fixed, the QBHM estimator-the quasi-posterior mean-has the same asymptotic distribution as GMM when estimating strongly identified study parameters. For weakly identified studies, we analyze the asymptotic properties of the method via a weak-GMM limit experiment: an asymptotic...
+
+---
+
+### [Design-Based Inference for Time-Series GMM](https://arxiv.org/abs/2606.31685v1)
+*Thomas Glinnan* — **arxiv**, 2026-06-30 — _method:IV_
+
+This paper studies inference for time-series GMM when uncertainty comes from shock assignment within a realized historical episode. Rather than treating the data as one random draw from a population of hypothetical economies, the framework conditions on the historical environment and considers alternative realizations of shocks and instruments. For locally correctly specified GMM estimators, the centered moment has design long-run variance $Ω_R$, which determines the sandwich covariance for the finite-history estimand. Conventional HAC estimators instead converge to $Ω_R^+=Ω_R+Ω_μ$, where $Ω_μ...
+
+---
+
+## method:Lab Experiment
+
+### [Attention and Social Learning](https://arxiv.org/abs/2606.31850v1)
+*Krishna Dasaratha, Kevin He* — **arxiv**, 2026-06-30 — _method:Lab Experiment_
+
+In an incentivized laboratory experiment, we study how people account for and respond to others' incentives for paying attention. Participants learn a binary state from an attention task under high or low accuracy incentives. We ask subjects to predict their peers' accuracy based on the peers' incentives and to aggregate answers from multiple peers with different incentives. Most subjects fail to consistently understand that peers with stronger incentives are more accurate, and these subjects also perform worse in individual attention tasks. Subjects also participate in a social-learning task ...
 
 ---

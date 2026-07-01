@@ -1,8 +1,26 @@
-# Weekly Deep-Reading Queue — week of 2026-06-30
+# Weekly Deep-Reading Queue — week of 2026-07-01
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval
+## 1. A Cost-and-Place-Utility Model of the Move-versus-Commute Decision
+
+### [A Cost-and-Place-Utility Model of the Move-versus-Commute Decision](https://arxiv.org/abs/2606.31780v1)
+*Shawn Berry* — **arxiv**, 2026-06-30 — _Microeconomics, Urban, Rural & Regional Economics_
+
+Deciding where to live involves a complex balance between commuting and moving, as households must weigh housing affordability, transportation expenses, access to workplaces, and social ties. Traditional urban economic theories focus on the balance between housing expenses and commuting costs, while modern studies also consider housing affordability, transportation access, and utility maximization. However, few studies have combined these elements into a clear mathematical model that can be used for both policy analysis and household decision-making. This paper introduces an algebraic model fo...
+
+---
+
+## 2. Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents
+
+### [Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents](https://arxiv.org/abs/2606.31935v1)
+*Yukun Zhang, Kemu Xu* — **arxiv**, 2026-06-30 — _Unclassified_
+
+AI agents increasingly operate inside digital accounts by exercising privileges that users already hold, raising a new control question: whether an existing account entitlement must be exercised manually or may be exercised through a user-authorized automated proxy. We define \emph{delegation rights} as the revocable, identity-preserving, scope-limited, and mode-specific authority of an account holder to authorize such proxy execution. We develop a three-party incomplete-contracts model with a User, an AI Agent provider, and a Platform. The contested object is not platform ownership, account t...
+
+---
+
+## 3. Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval
 
 ### [Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval](https://arxiv.org/abs/2606.30473v1)
 *Aivin V. Solatorio, Olivier Dupriez, Rafael Macalaba* — **arxiv**, 2026-06-29 — _Unclassified_
@@ -11,7 +29,7 @@ We study retrieval over catalogs of structured metadata, where each record is a 
 
 ---
 
-## 2. Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation
+## 4. Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation
 
 ### [Decision-support strategies for photovoltaic self-consumption under declining electricity prices and limited remuneration of surplus generation](https://arxiv.org/abs/2606.30359v1)
 *Ana B. Cristóbal, Daniel Sierra, Laura Palomino, Luis Miguel Carrasco et al.* — **arxiv**, 2026-06-29 — _Agricultural & Environmental Economics, International Economics_
@@ -20,7 +38,7 @@ The success of distributed photovoltaics may be undermining its own future. As s
 
 ---
 
-## 3. The Shape of Macroeconomic Beliefs
+## 5. The Shape of Macroeconomic Beliefs
 
 ### [The Shape of Macroeconomic Beliefs](https://arxiv.org/abs/2606.30040v1)
 *Giovanni Angelini* — **arxiv**, 2026-06-29 — _Macroeconomics_
@@ -29,7 +47,7 @@ Macroeconomic expectations are usually observed through point forecasts or throu
 
 ---
 
-## 4. HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data
+## 6. HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data
 
 ### [HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data](https://arxiv.org/abs/2606.29784v1)
 *Xinrui Ruan, Zhenyu Zhao, Waverly Wei, Yueshan Zhang et al.* — **arxiv**, 2026-06-29 — _Unclassified_
@@ -38,7 +56,7 @@ Reliable generative AI models critically rely on expert human annotations to eva
 
 ---
 
-## 5. Modeling Mode and Departure Time Responses to Congestion Pricing: A Spatial and Behavioral Analysis Using Cross-Nested Logit Model
+## 7. Modeling Mode and Departure Time Responses to Congestion Pricing: A Spatial and Behavioral Analysis Using Cross-Nested Logit Model
 
 ### [Modeling Mode and Departure Time Responses to Congestion Pricing: A Spatial and Behavioral Analysis Using Cross-Nested Logit Model](https://arxiv.org/abs/2606.29756v1)
 *Mohammad Amin Ashena, Adam Weiss, Jason Hawkins, Lina Kattan* — **arxiv**, 2026-06-29 — _Urban, Rural & Regional Economics_
@@ -47,29 +65,11 @@ Effective congestion management strategies require a detailed understanding of h
 
 ---
 
-## 6. AI Premium
+## 8. The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows
 
-### [AI Premium](https://arxiv.org/abs/2606.30583v1)
-*Nicola Borri, Yukun Liu, Aleh Tsyvinski* — **arxiv**, 2026-06-29 — _Business Economics & Innovation_
+### [The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows](https://arxiv.org/abs/2606.30986v1)
+*Canhui Liu* — **arxiv**, 2026-06-29 — _Labor & Demographic Economics_
 
-Using 380 trillion tokens of realized AI consumption across more than four hundred large language models from the licensed proprietary OpenRouter dataset covering approximately 2 percent of current global monthly AI token consumption, we analyze how AI affects firms, markets, and workers. Leveraging the unprecedented size, scope and granularity data, we construct the AI Factor from growth in tokens, dollars, and users, estimate firm-level AI Betas from stock return comovement, and characterize the AI Premium. First, we build a high-frequency AI factor and decompose it into salient components. ...
-
----
-
-## 7. Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates
-
-### [Not-quite-human tastes: the stylized omnivorousness of LLM survey surrogates](https://arxiv.org/abs/2606.30085v1)
-*Xiangyu Ma, Mengmi Zhang, Shannon Ang, Minne Chen* — **arxiv**, 2026-06-29 — _Unclassified_
-
-Large-language models have proven to be remarkable if inconsistent parrots of public attitudes and opinions. The extent to which LLMs are able to produce reasonable approximations of cultural taste remains an open empirical question that becomes more urgent by the day, with market research companies already offering provisional `synthetic' survey panels and the contamination of standard survey data from LLM-generated responses. In this study, we build on past work on silicon sampling by extending considerations of its algorithmic fidelity and alignment to the domain of cultural consumption. We...
-
----
-
-## 8. Sensitivity, Informativeness, and Misspecification in GMM Estimation
-
-### [Sensitivity, Informativeness, and Misspecification in GMM Estimation](https://arxiv.org/abs/2606.29833v1)
-*Fangzhou Yu, Seojeong Lee* — **arxiv**, 2026-06-29 — _International Economics, Political Economy, method:IV_
-
-This paper develops misspecification-robust sensitivity and informativeness diagnostics for GMM estimators, evaluated at pseudo-true values. The sensitivity matrix nests that of Andrews, Gentzkow, and Shapiro (2017) under correct specification. The informativeness $Δ$ measures the share of an estimator's asymptotic variance explained by sampling variation in the moments, a notion of structural efficiency that equals one under correct specification and can fall below one under misspecification, even when the Hansen $J$-test does not reject. We derive influence-function representations for one-s...
+Agentic artificial intelligence is increasingly deployed not as a single assistant but as a collective of planners, solvers, reviewers, memory managers, tool users, and orchestrators. These systems are entering organisational workflows under familiar labels such as teams, managers, committees, markets, and workflows. This article asks whether such agent collectives exhibit organisational behaviour in a sense that is analytically comparable to, yet distinct from, human organisational behaviour. I argue that agentic AI is a partial organisational analogue. It resembles a human organisation becau...
 
 ---
