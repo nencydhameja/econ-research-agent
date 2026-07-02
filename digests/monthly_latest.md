@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-07-02
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,21 +11,44 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-## Business Economics & Innovation
+### [How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil](https://arxiv.org/abs/2607.00504v1)
+*Arthur Brigatto, Alexandre Street, Joaquim Dias Garcia* — **arxiv**, 2026-07-01 — _Agricultural & Environmental Economics_
 
-### [Coupling and Maximal Inequalities for Graph-Dependent Empirical Processes](https://arxiv.org/abs/2606.31936v1)
-*Mengsi Gao, Demian Pouzo* — **arxiv**, 2026-06-30 — _Business Economics & Innovation_
-
-We develop maximal inequalities for empirical processes indexed by graph-dependent observations. Our bounds separate the complexity of the indexing class from two features specific to graph dependence: the geometry of the underlying graph and the cost of coupling graph-separated blocks to independent copies. The coupling construction combines a novel graph-adapted dependence coefficient with a coloring of a block partition. We specialize the results to graphs with polynomial and exponential growth and to directed dyadic graphs. We then derive Glivenko--Cantelli results and characterize the ass...
+Centralized hydrothermal planning models determine generation schedules and electricity spot prices based on inflow forecasts in audited-cost power systems, such as those prevalent in Latin America, and provide operational benchmarks and decision support in hydro-dominated competitive electricity markets. Consequently, biased forecasts can propagate directly into both operational decisions and market outcomes. This paper studies how persistent optimistic inflow-forecast bias propagates through the Brazilian hydrothermal power system and market. For a stylized hydrothermal model, we show analyt...
 
 ---
 
-## Microeconomics
+## Business Economics & Innovation
 
-### [A Cost-and-Place-Utility Model of the Move-versus-Commute Decision](https://arxiv.org/abs/2606.31780v1)
-*Shawn Berry* — **arxiv**, 2026-06-30 — _Microeconomics, Urban, Rural & Regional Economics_
+### [The Economic Benefits and Costs of AI and Policies to Mitigate AI's Impact on Inequality](https://arxiv.org/abs/2607.01101v1)
+*Matthew O. Jackson, Zafer Kanik* — **arxiv**, 2026-07-01 — _Business Economics & Innovation, Health, Education & Welfare_
 
-Deciding where to live involves a complex balance between commuting and moving, as households must weigh housing affordability, transportation expenses, access to workplaces, and social ties. Traditional urban economic theories focus on the balance between housing expenses and commuting costs, while modern studies also consider housing affordability, transportation access, and utility maximization. However, few studies have combined these elements into a clear mathematical model that can be used for both policy analysis and household decision-making. This paper introduces an algebraic model fo...
+We examine the economic impact of increasingly productive AI and policies that spread its benefits across the economy. Improvements in AI productivity trigger labor reallocation and changes in absolute and relative wages for different types of labor. Wages of labor that is essential for building AI increase faster than overall GDP. Wages of labor that is substituted for by AI decrease in both absolute and relative terms. Wages of labor that is used only in final goods production and is not displaced by AI increase in line with overall GDP. We contrast the impact of productivity gains depending...
+
+---
+
+### [Night and Day: Diurnal Warming and Structural Transformation in India](https://arxiv.org/abs/2607.00279v1)
+*Vedarshi Shastry* — **arxiv**, 2026-07-01 — _Business Economics & Innovation, Labor & Demographic Economics_
+
+This paper finds diverging partial effects of diurnal warming (higher nighttime and daytime temperatures) on agricultural wage-labour shares from decadal Indian Censuses (1981-2011). Though both margins contract grain output and cultivated area, only higher maxima raise harvest prices locally, consistent with a model where warmer nights shock land but warmer days shock land and labour productivity. Warming nights shift seasonal workers and self-cultivators into agricultural labour; warming days push labour to the seasonal margin. Long differences show the labour divergence is rural. In towns, ...
+
+---
+
+## Econometrics & Methods
+
+### [Competitive effects of transmission constraints in the German electricity market](https://arxiv.org/abs/2607.00977v1)
+*Alice Lixuan Xu, Clemens Stiewe* — **arxiv**, 2026-07-01 — _Econometrics & Methods, Industrial Organization, method:IV_
+
+This paper estimates the effect of cross-border transmission constraints on suspected market power abuse in the German wholesale electricity market. Using a 2SRI instrumental variables approach, we study suspected strategic behavior by German gas- and coal-fired power plants in 2022-2024. Cross-border transmission constraints are measured using the maximum and minimum bounds of zonal net position, while suspected market power abuse is measured as the upward or downward deviation of observed dispatch from a modeled competitive benchmark. We find that transmission constraints significantly eleva...
+
+---
+
+## Health, Education & Welfare
+
+### [Post-selection inference for network structure](https://arxiv.org/abs/2607.00312v1)
+*Eric Auerbach, Jonathan Auerbach, Sidonia McKenzie* — **arxiv**, 2026-07-01 — _Health, Education & Welfare, International Economics_
+
+Researchers often use the density of connections between groups of agents, such as communities, blocs, or markets, to characterize the structure of a social or economic network. In many cases, these groups are selected using the network data, making conventional fixed-group inference procedures potentially invalid. To address this issue, we develop two new confidence intervals that are universally valid post-selection in the sense that they guarantee simultaneous coverage asymptotically over all pairs of groups whose relative sizes do not vanish. Our first interval builds on a strategy of \cit...
 
 ---
 
@@ -175,31 +198,38 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Multidimensional Risk Made Easy](https://arxiv.org/abs/2607.01229v1)
+*Mark Whitmeyer* — **arxiv**, 2026-07-01 — _Unclassified_
+
+Suppose we want to assign a certainty equivalent--one number--to a multivariate risk. Which such assignments are law-invariant, monotone with respect to vector stochastic dominance, and invariant to independent background risk? I show that every such certainty equivalent is a positive mixture of scalar entropic certainty equivalents applied to positive projections of the vector risk. The same representation yields a robust-order characterization: unanimity across such certainty equivalents is equivalent, up to closure, to dominance after adding independent multidimensional background risk. In ...
+
+---
+
+### [A characterization of the von Neumann and Morgenstern stable set in matching markets](https://arxiv.org/abs/2607.00869v1)
+*Lucero Quevedo Mauricio, Paola Manasero, Pablo Neme, Jorge Oviedo* — **arxiv**, 2026-07-01 — _Unclassified_
+
+This paper studies the structure and computation of von Neumann-Morgenstern (vNM) stable sets in one-to-one matching markets. While pairwise stability and corewise stability coincide under strict preferences and provide a well-understood benchmark, vNM stability is defined through dominance relations among sets of matchings and remains considerably more difficult to characterize. A key contribution of the paper is a generalization of the classical Decomposition Lemma. We show that the structural decomposition traditionally used to compare stable matchings extends to any pair of matchings belon...
+
+---
+
+### [Talking Politics with Artificial Intelligence](https://arxiv.org/abs/2607.00551v1)
+*Ziwen Zu* — **arxiv**, 2026-07-01 — _Unclassified_
+
+Large language models (LLMs), a prominent form of artificial intelligence (AI), are becoming everyday interfaces for political questions, but most exchanges are dyadic rather than audiencefacing. This paper asks whether AI conversation functions as a new arena for political expression or as a conversational intermediary for routine political demand. Using 4.30 million humanAI conversations from three large public datasets, we apply two validated classifiers to user messages, identifying political content, use case, and expressed ideology. Political content appears in 3.9% of conversations, var...
+
+---
+
+### [Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example](https://arxiv.org/abs/2607.00280v1)
+*Yufei Wu, Daniel Schmierer* — **arxiv**, 2026-07-01 — _Unclassified_
+
+Airbnb is a community based on connection and belonging -- many hosts on Airbnb are everyday people who share their worlds to provide guests with the feeling of connection and being at home; Airbnb strives to connect people and places. Among our efforts to connect guests and hosts, we provide tools to enable hosts to set competitive prices, which helps improve affordability for guests while helping hosts get more bookings. We also personalize the guest experience to show them the listings that match their needs. To help inform these efforts, we combine economic modeling and causal inference te...
+
+---
+
 ### [Competition and Anomalies Redux: Evidence from U.S. Auto Dealers](https://arxiv.org/abs/2606.32011v1)
 *David Huffman, Lamar Pierce, Germán Reyes, Alex Rees-Jones* — **arxiv**, 2026-06-30 — _Unclassified_
 
 We examine a choice between bonus contracts offered to dealers of a U.S. auto manufacturer. In our data, dealers select the non-profit-maximizing option in 20 percent of observations, costing the mistaken dealers $18,453 per year on average. We examine how the propensity to make this mistake varies with competition, identified both cross-sectionally and within dealers over time. Both analyses show that greater competition substantially lowers the rate of mistakes. However, even in the most competitive markets, consequential mistakes persist. Our results suggest that competition disciplines mai...
-
----
-
-### [Comparison games and ranking of players](https://arxiv.org/abs/2606.31955v1)
-*Daniela Bubboloni, Stefano Moretti* — **arxiv**, 2026-06-30 — _Unclassified_
-
-This work addresses the problem of assessing player importance in coalitional settings where the available information concerns the relative strength between pairs of coalitions, rather than the absolute worth of each coalition. We introduce a novel framework that is flexible enough to represent all coalitional pseudo-games and, through the use of coalitional networks, naturally accommodates scenarios with limited or heterogeneous coalition comparisons. Importantly, this framework still enables the computation of semivalues of pseudo-games, such as the Banzhaf and Shapley values, that can be e...
-
----
-
-### [Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents](https://arxiv.org/abs/2606.31935v1)
-*Yukun Zhang, Kemu Xu* — **arxiv**, 2026-06-30 — _Unclassified_
-
-AI agents increasingly operate inside digital accounts by exercising privileges that users already hold, raising a new control question: whether an existing account entitlement must be exercised manually or may be exercised through a user-authorized automated proxy. We define \emph{delegation rights} as the revocable, identity-preserving, scope-limited, and mode-specific authority of an account holder to authorize such proxy execution. We develop a three-party incomplete-contracts model with a User, an AI Agent provider, and a Platform. The contested object is not platform ownership, account t...
-
----
-
-### [Note on an Axiomatization of the Baldwin Rule](https://arxiv.org/abs/2606.31271v1)
-*Leo Goto, Satoshi Nakada* — **arxiv**, 2026-06-30 — _Unclassified_
-
-Goto and Nakada (2026) showed that the Baldwin rule can be characterized using Neutrality}, Bottom Consistency, Faithfulness, Cancellation and Bottom Independence. While their proof relies on the technique of linear algebra and graph theory, in this note, we provide a simpler proof using purely combinatorial arguments based on permutations and amplified preference profiles, thereby providing a more transparent proof of the characterization.
 
 ---
 
@@ -210,37 +240,5 @@ Goto and Nakada (2026) showed that the Baldwin rule can be characterized using N
 Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
 Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
-
----
-
-### [Feedback dynamics in matching networks drive behavioral differentiation despite overlapping objectives](https://arxiv.org/abs/2606.31802v1)
-*Alexandros Gelastopoulos* — **arxiv**, 2026-06-30 — _Urban, Rural & Regional Economics_
-
-Many bipartite social networks exhibit pronounced asymmetries in selectivity and matching opportunities: members of one side can afford to be highly selective, while members of the opposite side are forced to accept less desirable matches. While it is natural to try to explain this asymmetry in terms of the intrinsic characteristics of the two sides or other exogenous factors, here we show that such asymmetries can also emerge endogenously through a feedback process generated by the matching process itself: as one side becomes more selective, the other side is pushed to be less selective due t...
-
----
-
-## method:IV
-
-### [Quasi-Bayesian Hierarchical Models](https://arxiv.org/abs/2606.31930v1)
-*Desmond Fairall, Thomas Glinnan* — **arxiv**, 2026-06-30 — _method:IV_
-
-We develop the Quasi-Bayesian Hierarchical Model (QBHM) for grouped GMM settings. The framework combines Bayesian hierarchical modelling with Laplace-type estimation: it preserves each group-specific objective function, while introducing a pooling term for economically comparable parameters. When the number of studies is fixed, the QBHM estimator-the quasi-posterior mean-has the same asymptotic distribution as GMM when estimating strongly identified study parameters. For weakly identified studies, we analyze the asymptotic properties of the method via a weak-GMM limit experiment: an asymptotic...
-
----
-
-### [Design-Based Inference for Time-Series GMM](https://arxiv.org/abs/2606.31685v1)
-*Thomas Glinnan* — **arxiv**, 2026-06-30 — _method:IV_
-
-This paper studies inference for time-series GMM when uncertainty comes from shock assignment within a realized historical episode. Rather than treating the data as one random draw from a population of hypothetical economies, the framework conditions on the historical environment and considers alternative realizations of shocks and instruments. For locally correctly specified GMM estimators, the centered moment has design long-run variance $Ω_R$, which determines the sandwich covariance for the finite-history estimand. Conventional HAC estimators instead converge to $Ω_R^+=Ω_R+Ω_μ$, where $Ω_μ...
-
----
-
-## method:Lab Experiment
-
-### [Attention and Social Learning](https://arxiv.org/abs/2606.31850v1)
-*Krishna Dasaratha, Kevin He* — **arxiv**, 2026-06-30 — _method:Lab Experiment_
-
-In an incentivized laboratory experiment, we study how people account for and respond to others' incentives for paying attention. Participants learn a binary state from an attention task under high or low accuracy incentives. We ask subjects to predict their peers' accuracy based on the peers' incentives and to aggregate answers from multiple peers with different incentives. Most subjects fail to consistently understand that peers with stronger incentives are more accurate, and these subjects also perform worse in individual attention tasks. Subjects also participate in a social-learning task ...
 
 ---
