@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-07-03
 
-Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,37 +11,30 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-### [How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil](https://arxiv.org/abs/2607.00504v1)
-*Arthur Brigatto, Alexandre Street, Joaquim Dias Garcia* — **arxiv**, 2026-07-01 — _Agricultural & Environmental Economics_
-
-Centralized hydrothermal planning models determine generation schedules and electricity spot prices based on inflow forecasts in audited-cost power systems, such as those prevalent in Latin America, and provide operational benchmarks and decision support in hydro-dominated competitive electricity markets. Consequently, biased forecasts can propagate directly into both operational decisions and market outcomes. This paper studies how persistent optimistic inflow-forecast bias propagates through the Brazilian hydrothermal power system and market. For a stylized hydrothermal model, we show analyt...
-
----
-
 ## Business Economics & Innovation
 
-### [The Economic Benefits and Costs of AI and Policies to Mitigate AI's Impact on Inequality](https://arxiv.org/abs/2607.01101v1)
-*Matthew O. Jackson, Zafer Kanik* — **arxiv**, 2026-07-01 — _Business Economics & Innovation, Health, Education & Welfare_
+### [Decomposing Wage Stagnation: Employment Reallocation, Wage Structure,and Demographics](https://arxiv.org/abs/2607.01561v1)
+*Ken Yamada* — **arxiv**, 2026-07-02 — _Business Economics & Innovation, Labor & Demographic Economics, method:IV_
 
-We examine the economic impact of increasingly productive AI and policies that spread its benefits across the economy. Improvements in AI productivity trigger labor reallocation and changes in absolute and relative wages for different types of labor. Wages of labor that is essential for building AI increase faster than overall GDP. Wages of labor that is substituted for by AI decrease in both absolute and relative terms. Wages of labor that is used only in final goods production and is not displaced by AI increase in line with overall GDP. We contrast the impact of productivity gains depending...
+Average wages in Japan rose until the mid-1990s but stagnated thereafter. This paper studies Japan's long-run wage stagnation by decomposing changes in average log real hourly wages from 1980 to 2024 into four components: demographic change across worker types, changes in relative employment shares across job types, changes in relative wages across job types, and wage growth within job types. The framework combines a shift-share decomposition across worker types with an extension of the Olley-Pakes decomposition that separates employment reallocation from changes in relative wages across job t...
 
 ---
 
 ## Econometrics & Methods
 
-### [Competitive effects of transmission constraints in the German electricity market](https://arxiv.org/abs/2607.00977v1)
-*Alice Lixuan Xu, Clemens Stiewe* — **arxiv**, 2026-07-01 — _Econometrics & Methods, Industrial Organization, method:IV_
+### [Granular Instrumental Variables in Large Panels: Identification and Inference Across Strong, Nearly Weak, and Weak GIV](https://arxiv.org/abs/2607.02095v1)
+*Gokul Gopalan Ramachandran* — **arxiv**, 2026-07-02 — _Econometrics & Methods, method:IV_
 
-This paper estimates the effect of cross-border transmission constraints on suspected market power abuse in the German wholesale electricity market. Using a 2SRI instrumental variables approach, we study suspected strategic behavior by German gas- and coal-fired power plants in 2022-2024. Cross-border transmission constraints are measured using the maximum and minimum bounds of zonal net position, while suspected market power abuse is measured as the upward or downward deviation of observed dispatch from a modeled competitive benchmark. We find that transmission constraints significantly eleva...
+I develop the asymptotic theory of instrument strength for Granular Instrumental Variables (GIV) in large panels with both $N$ and $T$ growing. The strength of the GIV depends on the presence of dominant units. I formalise what dominance means and characterise three regimes of instrument strength. When a few units dominate the aggregate, the instrument is strong. The GIV estimator is consistent and asymptotically normal at the standard $\sqrt{T}$ rate. When large units stand out but do not dominate, the instrument weakens. But I show that the parameter of interest remains recoverable. The GIV ...
 
 ---
 
-## Health, Education & Welfare
+## General Economics & Methodology
 
-### [Post-selection inference for network structure](https://arxiv.org/abs/2607.00312v1)
-*Eric Auerbach, Jonathan Auerbach, Sidonia McKenzie* — **arxiv**, 2026-07-01 — _Health, Education & Welfare, International Economics_
+### [Measuring Opportunity Cost with Stock Lifetime Value](https://arxiv.org/abs/2607.01905v1)
+*Geoffrey Decrouez, Tobias Huelden, Paresh Nakhe, Dominik Prugger* — **arxiv**, 2026-07-02 — _General Economics & Methodology, International Economics_
 
-Researchers often use the density of connections between groups of agents, such as communities, blocs, or markets, to characterize the structure of a social or economic network. In many cases, these groups are selected using the network data, making conventional fixed-group inference procedures potentially invalid. To address this issue, we develop two new confidence intervals that are universally valid post-selection in the sense that they guarantee simultaneous coverage asymptotically over all pairs of groups whose relative sizes do not vanish. Our first interval builds on a strategy of \cit...
+Measuring the long-term opportunity cost of interventions remains a critical challenge in e-commerce A/B testing. While strategic levers (such as dynamic pricing, ranking algorithms, and promotional campaigns) trigger shifts in consumer behaviour that persist over months, operational constraints necessitate fast decision-making cycles that are typically limited to weekly experimental windows. Standard metrics like revenue and conversion are inherently short-sighted, biasing decisions toward immediate gains. We introduce Stock Lifetime Value (SLV), a stock-centric metric that captures long-term...
 
 ---
 
@@ -211,31 +204,24 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Endogenous shareholding auctions](https://arxiv.org/abs/2607.02457v1)
+*Andrew Mackenzie, Christian Trudeau* — **arxiv**, 2026-07-02 — _Unclassified_
+
+We introduce endogenous shareholding auctions for production economies where a monopolist must elicit consumer demand in order to determine price and quantity. Each of these auctions has the property that the auction's profit is distributed across the monopolist and the consumers in accordance with ownership shares that are determined over the course of the auction. We characterize this class, and a larger class, on the basis of standard axioms. Finally, we investigate optimal auctions according to both prior-free domination and subjective expected welfare.
+
+---
+
+### [Washed Out by the Crowd? Accountability under Sequential Review](https://arxiv.org/abs/2607.02278v1)
+*Siming Ye* — **arxiv**, 2026-07-02 — _Unclassified_
+
+When an early information producer is judged only after others have reviewed and revised the work, the same review that sharpens the final decision can blur the question of who deserves the credit. This paper asks how an organization can still reward careful early work once a chain of later reviewers has acted on it. In the model, an analyst's hidden effort makes an initial report more likely to be right; a sequence of reviewers then reacts to it; and the organization can pay only on the record this process leaves behind. The main result splits the value of any such record into two parts: how ...
+
+---
+
 ### [Multidimensional Risk Made Easy](https://arxiv.org/abs/2607.01229v1)
 *Mark Whitmeyer* — **arxiv**, 2026-07-01 — _Unclassified_
 
 Suppose we want to assign a certainty equivalent--one number--to a multivariate risk. Which such assignments are law-invariant, monotone with respect to vector stochastic dominance, and invariant to independent background risk? I show that every such certainty equivalent is a positive mixture of scalar entropic certainty equivalents applied to positive projections of the vector risk. The same representation yields a robust-order characterization: unanimity across such certainty equivalents is equivalent, up to closure, to dominance after adding independent multidimensional background risk. In ...
-
----
-
-### [A characterization of the von Neumann and Morgenstern stable set in matching markets](https://arxiv.org/abs/2607.00869v1)
-*Lucero Quevedo Mauricio, Paola Manasero, Pablo Neme, Jorge Oviedo* — **arxiv**, 2026-07-01 — _Unclassified_
-
-This paper studies the structure and computation of von Neumann-Morgenstern (vNM) stable sets in one-to-one matching markets. While pairwise stability and corewise stability coincide under strict preferences and provide a well-understood benchmark, vNM stability is defined through dominance relations among sets of matchings and remains considerably more difficult to characterize. A key contribution of the paper is a generalization of the classical Decomposition Lemma. We show that the structural decomposition traditionally used to compare stable matchings extends to any pair of matchings belon...
-
----
-
-### [Talking Politics with Artificial Intelligence](https://arxiv.org/abs/2607.00551v1)
-*Ziwen Zu* — **arxiv**, 2026-07-01 — _Unclassified_
-
-Large language models (LLMs), a prominent form of artificial intelligence (AI), are becoming everyday interfaces for political questions, but most exchanges are dyadic rather than audiencefacing. This paper asks whether AI conversation functions as a new arena for political expression or as a conversational intermediary for routine political demand. Using 4.30 million humanAI conversations from three large public datasets, we apply two validated classifiers to user messages, identifying political content, use case, and expressed ideology. Political content appears in 3.9% of conversations, var...
-
----
-
-### [Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example](https://arxiv.org/abs/2607.00280v1)
-*Yufei Wu, Daniel Schmierer* — **arxiv**, 2026-07-01 — _Unclassified_
-
-Airbnb is a community based on connection and belonging -- many hosts on Airbnb are everyday people who share their worlds to provide guests with the feeling of connection and being at home; Airbnb strives to connect people and places. Among our efforts to connect guests and hosts, we provide tools to enable hosts to set competitive prices, which helps improve affordability for guests while helping hosts get more bookings. We also personalize the guest experience to show them the listings that match their needs. To help inform these efforts, we combine economic modeling and causal inference te...
 
 ---
 
@@ -246,5 +232,23 @@ Airbnb is a community based on connection and belonging -- many hosts on Airbnb 
 Gabriel Ulyssea* — **Econometrica**, 2026-06-08 — _Urban, Rural & Regional Economics_
 
 Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
+
+---
+
+## method:RCT
+
+### [Inference for Group Interaction Experiments](https://arxiv.org/abs/2607.02385v1)
+*Jiawei Fu, Cyrus Samii, Ye Wang* — **arxiv**, 2026-07-02 — _method:RCT_
+
+A common experimental research design is one in which individuals are randomly allocated into groups that then interact under different group-level treatment conditions. We develop design-based inference for such "group interaction" experiments, covering scenarios in which groups are either fixed or randomly formed and in which potential outcomes are either fixed relative to others' group assignments or subject to interference. For each scenario, we characterize the causal estimand that the design targets and the inferential strategy appropriate to it. Working in a sparse-sampling asymptotic r...
+
+---
+
+## method:Theory
+
+### [Congestion-Based Slot Pricing in a Railway Auction Game](https://arxiv.org/abs/2607.01822v1)
+*Bill Roungas, Sebastiaan Meijer* — **arxiv**, 2026-07-02 — _method:Theory_
+
+We present a multi-agent system for studying the allocation of discrete, congested resources among heterogeneous strategic agents, motivated by the problem of railway slot allocation under deregulation. Multiple operator-agents, differing in size and capacity, interact through a shared auction mechanism over repeated rounds under time-constrained decision-making. The mechanism combines a congestion-based base price that increases with aggregate demand with an asymmetric corrective adjustment that penalises the agent requesting the most slots and rewards the agent requesting the fewest, and is ...
 
 ---
