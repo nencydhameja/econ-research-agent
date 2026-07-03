@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-07-02
+# Economics Research Digest — 2026-07-03
 
 Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
 
@@ -27,13 +27,6 @@ We examine the economic impact of increasingly productive AI and policies that s
 
 ---
 
-### [Night and Day: Diurnal Warming and Structural Transformation in India](https://arxiv.org/abs/2607.00279v1)
-*Vedarshi Shastry* — **arxiv**, 2026-07-01 — _Business Economics & Innovation, Labor & Demographic Economics_
-
-This paper finds diverging partial effects of diurnal warming (higher nighttime and daytime temperatures) on agricultural wage-labour shares from decadal Indian Censuses (1981-2011). Though both margins contract grain output and cultivated area, only higher maxima raise harvest prices locally, consistent with a model where warmer nights shock land but warmer days shock land and labour productivity. Warming nights shift seasonal workers and self-cultivators into agricultural labour; warming days push labour to the seasonal margin. Long differences show the labour divergence is rural. In towns, ...
-
----
-
 ## Econometrics & Methods
 
 ### [Competitive effects of transmission constraints in the German electricity market](https://arxiv.org/abs/2607.00977v1)
@@ -53,6 +46,26 @@ Researchers often use the density of connections between groups of agents, such 
 ---
 
 ## Unclassified
+
+### [Twin Defaults and Bank Capital Requirements](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R)
+*CATERINA MENDICINO, 
+KALIN NIKOLOV, 
+JUAN RUBIO‐RAMIREZ, 
+JAVIER SUAREZ, 
+DOMINIK SUPERA* — **Journal of Finance**, 2026-06-25 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Learning to Navigate a New Financial Technology](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062?af=R)
+*EMILY BREZA, 
+MARTIN KANZ, 
+LEORA KLAPPER* — **Journal of Finance**, 2026-06-17 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
 *HUI CHEN, 
@@ -223,13 +236,6 @@ Large language models (LLMs), a prominent form of artificial intelligence (AI), 
 *Yufei Wu, Daniel Schmierer* — **arxiv**, 2026-07-01 — _Unclassified_
 
 Airbnb is a community based on connection and belonging -- many hosts on Airbnb are everyday people who share their worlds to provide guests with the feeling of connection and being at home; Airbnb strives to connect people and places. Among our efforts to connect guests and hosts, we provide tools to enable hosts to set competitive prices, which helps improve affordability for guests while helping hosts get more bookings. We also personalize the guest experience to show them the listings that match their needs. To help inform these efforts, we combine economic modeling and causal inference te...
-
----
-
-### [Competition and Anomalies Redux: Evidence from U.S. Auto Dealers](https://arxiv.org/abs/2606.32011v1)
-*David Huffman, Lamar Pierce, Germán Reyes, Alex Rees-Jones* — **arxiv**, 2026-06-30 — _Unclassified_
-
-We examine a choice between bonus contracts offered to dealers of a U.S. auto manufacturer. In our data, dealers select the non-profit-maximizing option in 20 percent of observations, costing the mistaken dealers $18,453 per year on average. We examine how the propensity to make this mistake varies with competition, identified both cross-sectionally and within dealers over time. Both analyses show that greater competition substantially lowers the rate of mistakes. However, even in the most competitive markets, consequential mistakes persist. Our results suggest that competition disciplines mai...
 
 ---
 

@@ -1,8 +1,21 @@
-# Weekly Deep-Reading Queue — week of 2026-07-02
+# Weekly Deep-Reading Queue — week of 2026-07-03
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil
+## 1. Twin Defaults and Bank Capital Requirements
+
+### [Twin Defaults and Bank Capital Requirements](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R)
+*CATERINA MENDICINO, 
+KALIN NIKOLOV, 
+JUAN RUBIO‐RAMIREZ, 
+JAVIER SUAREZ, 
+DOMINIK SUPERA* — **Journal of Finance**, 2026-06-25 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 2. How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil
 
 ### [How optimistic inflow forecasts distort dispatch, prices, and contracts in hydro-dominated power systems: evidence from Brazil](https://arxiv.org/abs/2607.00504v1)
 *Arthur Brigatto, Alexandre Street, Joaquim Dias Garcia* — **arxiv**, 2026-07-01 — _Agricultural & Environmental Economics_
@@ -11,7 +24,7 @@ Centralized hydrothermal planning models determine generation schedules and elec
 
 ---
 
-## 2. A Cost-and-Place-Utility Model of the Move-versus-Commute Decision
+## 3. A Cost-and-Place-Utility Model of the Move-versus-Commute Decision
 
 ### [A Cost-and-Place-Utility Model of the Move-versus-Commute Decision](https://arxiv.org/abs/2606.31780v1)
 *Shawn Berry* — **arxiv**, 2026-06-30 — _Microeconomics, Urban, Rural & Regional Economics_
@@ -20,7 +33,7 @@ Deciding where to live involves a complex balance between commuting and moving, 
 
 ---
 
-## 3. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access
+## 4. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access
 
 ### [Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access](https://doi.org/10.48550/arxiv.2606.31302)
 *Lisa Matthias, Juan Pablo Alperín, Mikael Laakso* — **openalex ssrn**, 2026-06-30 — _Unclassified_
@@ -29,7 +42,7 @@ While much attention has been paid to journals transitioning toward Diamond Open
 
 ---
 
-## 4. Same Firms, Different Verdicts: ESG Rating Choice and the Measurement of Greenwashing
+## 5. Same Firms, Different Verdicts: ESG Rating Choice and the Measurement of Greenwashing
 
 ### [Same Firms, Different Verdicts: ESG Rating Choice and the Measurement of Greenwashing](https://doi.org/10.48550/arxiv.2606.31469)
 *Praveen Kumar Ashok Kumar, Rafał Sieradzki* — **openalex ssrn**, 2026-06-30 — _Agricultural & Environmental Economics, Public Economics_
@@ -38,7 +51,7 @@ This paper investigates the Aggregate Confusion hypothesis (Berg, Kolbel, and Ri
 
 ---
 
-## 5. Bayesian Uncertainty Quantification for Ranked Choice Voting Polls
+## 6. Bayesian Uncertainty Quantification for Ranked Choice Voting Polls
 
 ### [Bayesian Uncertainty Quantification for Ranked Choice Voting Polls](https://doi.org/10.48550/arxiv.2606.31022)
 *Evan T. R. Rosenman, Jason Liang* — **openalex ssrn**, 2026-06-30 — _Microeconomics, Political Economy_
@@ -47,7 +60,7 @@ Ranked choice voting (RCV) is a popular alternative voting method in which voter
 
 ---
 
-## 6. A Cost-and-Place-Utility Model of the Move-versus-Commute Decision
+## 7. A Cost-and-Place-Utility Model of the Move-versus-Commute Decision
 
 ### [A Cost-and-Place-Utility Model of the Move-versus-Commute Decision](https://doi.org/10.48550/arxiv.2606.31780)
 *Shawn Berry* — **openalex ssrn**, 2026-06-30 — _Microeconomics, Urban, Rural & Regional Economics_
@@ -56,19 +69,10 @@ Deciding where to live involves a complex balance between commuting and moving, 
 
 ---
 
-## 7. Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents
+## 8. Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents
 
 ### [Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents](https://arxiv.org/abs/2606.31935v1)
 *Yukun Zhang, Kemu Xu* — **arxiv**, 2026-06-30 — _Unclassified_
-
-AI agents increasingly operate inside digital accounts by exercising privileges that users already hold, raising a new control question: whether an existing account entitlement must be exercised manually or may be exercised through a user-authorized automated proxy. We define \emph{delegation rights} as the revocable, identity-preserving, scope-limited, and mode-specific authority of an account holder to authorize such proxy execution. We develop a three-party incomplete-contracts model with a User, an AI Agent provider, and a Platform. The contested object is not platform ownership, account t...
-
----
-
-## 8. Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents
-
-### [Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents](https://doi.org/10.48550/arxiv.2606.31935)
-*Yukun Zhang, Kemu Xu* — **openalex ssrn**, 2026-06-30 — _Unclassified_
 
 AI agents increasingly operate inside digital accounts by exercising privileges that users already hold, raising a new control question: whether an existing account entitlement must be exercised manually or may be exercised through a user-authorized automated proxy. We define \emph{delegation rights} as the revocable, identity-preserving, scope-limited, and mode-specific authority of an account holder to authorize such proxy execution. We develop a three-party incomplete-contracts model with a User, an AI Agent provider, and a Platform. The contested object is not platform ownership, account t...
 
