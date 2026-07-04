@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-03
+# Economics Research Digest — 2026-07-04
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -8,6 +8,13 @@ Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 *Nicholas Ryan* — **Econometrica**, 2026-06-08 — _Agricultural & Environmental Economics_
 
 Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
+
+---
+
+### [Taxing Artificial Intelligence](https://doi.org/10.48550/arxiv.2607.02144)
+*Juliette Faivre, Sarah H. Cen* — **openalex ssrn**, 2026-07-02 — _Agricultural & Environmental Economics, Business Economics & Innovation, Public Economics_
+
+While AI promises major benefits, its development and deployment can shift costs onto others, including environmental pressures on local communities, labor and creative displacement, and systemic risks from rapid frontier development. Taxation is an integral part of policy design, and recent academic, industry, and policy debates have begun to consider whether tax instruments can help address these harms. In this paper, we explore the viability of AI taxation. More broadly, AI taxation should not be understood only as Pigouvian correction. In the AI context, taxation can also correct harmful a...
 
 ---
 
@@ -215,13 +222,6 @@ We introduce endogenous shareholding auctions for production economies where a m
 *Siming Ye* — **arxiv**, 2026-07-02 — _Unclassified_
 
 When an early information producer is judged only after others have reviewed and revised the work, the same review that sharpens the final decision can blur the question of who deserves the credit. This paper asks how an organization can still reward careful early work once a chain of later reviewers has acted on it. In the model, an analyst's hidden effort makes an initial report more likely to be right; a sequence of reviewers then reacts to it; and the organization can pay only on the record this process leaves behind. The main result splits the value of any such record into two parts: how ...
-
----
-
-### [Multidimensional Risk Made Easy](https://arxiv.org/abs/2607.01229v1)
-*Mark Whitmeyer* — **arxiv**, 2026-07-01 — _Unclassified_
-
-Suppose we want to assign a certainty equivalent--one number--to a multivariate risk. Which such assignments are law-invariant, monotone with respect to vector stochastic dominance, and invariant to independent background risk? I show that every such certainty equivalent is a positive mixture of scalar entropic certainty equivalents applied to positive projections of the vector risk. The same representation yields a robust-order characterization: unanimity across such certainty equivalents is equivalent, up to closure, to dominance after adding independent multidimensional background risk. In ...
 
 ---
 
