@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-06
+# Economics Research Digest — 2026-07-07
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 5 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,37 +11,12 @@ Econometrica, Volume 94, Issue 3, Page 767-810, May 2026.
 
 ---
 
-### [Taxing Artificial Intelligence](https://doi.org/10.48550/arxiv.2607.02144)
-*Juliette Faivre, Sarah H. Cen* — **openalex ssrn**, 2026-07-02 — _Agricultural & Environmental Economics, Business Economics & Innovation, Public Economics_
-
-While AI promises major benefits, its development and deployment can shift costs onto others, including environmental pressures on local communities, labor and creative displacement, and systemic risks from rapid frontier development. Taxation is an integral part of policy design, and recent academic, industry, and policy debates have begun to consider whether tax instruments can help address these harms. In this paper, we explore the viability of AI taxation. More broadly, AI taxation should not be understood only as Pigouvian correction. In the AI context, taxation can also correct harmful a...
-
----
-
 ## Business Economics & Innovation
 
-### [Decomposing Wage Stagnation: Employment Reallocation, Wage Structure,and Demographics](https://arxiv.org/abs/2607.01561v1)
-*Ken Yamada* — **arxiv**, 2026-07-02 — _Business Economics & Innovation, Labor & Demographic Economics, method:IV_
+### [The Geography of Private Sector Agricultural Innovation in the USA: Evidence from Patents](https://arxiv.org/abs/2607.04956v1)
+*Matt Clancy* — **arxiv**, 2026-07-06 — _Business Economics & Innovation_
 
-Average wages in Japan rose until the mid-1990s but stagnated thereafter. This paper studies Japan's long-run wage stagnation by decomposing changes in average log real hourly wages from 1980 to 2024 into four components: demographic change across worker types, changes in relative employment shares across job types, changes in relative wages across job types, and wage growth within job types. The framework combines a shift-share decomposition across worker types with an extension of the Olley-Pakes decomposition that separates employment reallocation from changes in relative wages across job t...
-
----
-
-## Econometrics & Methods
-
-### [Granular Instrumental Variables in Large Panels: Identification and Inference Across Strong, Nearly Weak, and Weak GIV](https://arxiv.org/abs/2607.02095v1)
-*Gokul Gopalan Ramachandran* — **arxiv**, 2026-07-02 — _Econometrics & Methods, method:IV_
-
-I develop the asymptotic theory of instrument strength for Granular Instrumental Variables (GIV) in large panels with both $N$ and $T$ growing. The strength of the GIV depends on the presence of dominant units. I formalise what dominance means and characterise three regimes of instrument strength. When a few units dominate the aggregate, the instrument is strong. The GIV estimator is consistent and asymptotically normal at the standard $\sqrt{T}$ rate. When large units stand out but do not dominate, the instrument weakens. But I show that the parameter of interest remains recoverable. The GIV ...
-
----
-
-## General Economics & Methodology
-
-### [Measuring Opportunity Cost with Stock Lifetime Value](https://arxiv.org/abs/2607.01905v1)
-*Geoffrey Decrouez, Tobias Huelden, Paresh Nakhe, Dominik Prugger* — **arxiv**, 2026-07-02 — _General Economics & Methodology, International Economics_
-
-Measuring the long-term opportunity cost of interventions remains a critical challenge in e-commerce A/B testing. While strategic levers (such as dynamic pricing, ranking algorithms, and promotional campaigns) trigger shifts in consumer behaviour that persist over months, operational constraints necessitate fast decision-making cycles that are typically limited to weekly experimental windows. Standard metrics like revenue and conversion are inherently short-sighted, biasing decisions toward immediate gains. We introduce Stock Lifetime Value (SLV), a stock-centric metric that captures long-term...
+This paper develops a novel estimates of annual private sector agricultural R&D at the level of US states for the period 1976-2014. For each of five different agricultural subsectors, I allocate estimates of national private sector R&D across the 50 states by using the geographic distribution of inventors listed on contemporaneous US patents in the same agricultural subsector. These five subsectors comprise a large majority of total private sector agricultural R&D. I then use this new dataset to document three stylized facts about private sector agricultural R&D: it is highly correlated with t...
 
 ---
 
@@ -211,17 +186,45 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Endogenous shareholding auctions](https://arxiv.org/abs/2607.02457v1)
-*Andrew Mackenzie, Christian Trudeau* — **arxiv**, 2026-07-02 — _Unclassified_
+### [Approximate Minimax Estimation of a Bounded Normal Mean via Stochastic Mirror Ascent](https://arxiv.org/abs/2607.05350v1)
+*José Luis Montiel Olea, Ekaterina Zubova* — **arxiv**, 2026-07-06 — _Unclassified_
 
-We introduce endogenous shareholding auctions for production economies where a monopolist must elicit consumer demand in order to determine price and quantity. Each of these auctions has the property that the auction's profit is distributed across the monopolist and the consumers in accordance with ownership shares that are determined over the course of the auction. We characterize this class, and a larger class, on the basis of standard axioms. Finally, we investigate optimal auctions according to both prior-free domination and subjective expected welfare.
+This paper presents a computational approach to find an approximately minimax estimator for the classical Bounded Normal Mean problem. The suggested procedure is the Bayes estimator corresponding to an approximately least-favorable distribution obtained from a stochastic mirror ascent routine for concave maximization. The paper shows that both the approximately least-favorable distribution and the approximately minimax estimator are indeed close (in a sense we make precise) to their desired targets. Simulation evidence suggests that the approximately minimax estimator can yield, with a reasona...
 
 ---
 
-### [Washed Out by the Crowd? Accountability under Sequential Review](https://arxiv.org/abs/2607.02278v1)
-*Siming Ye* — **arxiv**, 2026-07-02 — _Unclassified_
+### [Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks](https://arxiv.org/abs/2607.05291v1)
+*Alessio Brini* — **arxiv**, 2026-07-06 — _Unclassified_
 
-When an early information producer is judged only after others have reviewed and revised the work, the same review that sharpens the final decision can blur the question of who deserves the credit. This paper asks how an organization can still reward careful early work once a chain of later reviewers has acted on it. In the model, an analyst's hidden effort makes an initial report more likely to be right; a sequence of reviewers then reacts to it; and the organization can pay only on the record this process leaves behind. The main result splits the value of any such record into two parts: how ...
+We ask whether pretrained time series foundation models (TSFMs) improve on established econometric benchmarks for forecasting realized volatility. Using the VOLARE dataset, we conduct the first systematic comparison of nine zero-shot TSFMs against eight econometric specifications, including the Heterogeneous Autoregressive (HAR) family, across 50 assets in equities, foreign exchange, and futures, and three forecast horizons, with formal pairwise and multi-model forecast-comparison tests. Foundation models do not deliver a uniform gain. Pooled losses favor them, but the advantage is concentrate...
+
+---
+
+### [Variance Estimation for Saturated Fixed-Effect Specifications](https://arxiv.org/abs/2607.05215v1)
+*Stanisław M. S. Halkiewicz* — **arxiv**, 2026-07-06 — _Unclassified_
+
+We characterize the asymptotic behavior of conventional variance estimators in linear regression with high-dimensional fixed effects under a drift in which both the proportional fixed-effect dimension $ρ_n = d_{K_n}/n \to ρ\in [0,1)$ and the residual treatment variance $τ_n^2 = nQ_{K_n} \to τ^2 \in (0, \infty]$ are non-degenerate. Three findings emerge. First, under strict exogeneity and conditional homoskedasticity, the Cattaneo--Jansson--Newey-corrected $t$-statistic is asymptotically exact for any $τ^2 > 0$: there is no Stock--Yogo-style threshold in $τ^2$. Second, the Eicker--White HC0 est...
+
+---
+
+### [Square-Root Price Impact Is Necessary for Endogenous Manipulation Cycles in Learning-Agent Markets](https://arxiv.org/abs/2607.05141v1)
+*Yang Zhou, Jianwen Chen, Ruipeng Wei* — **arxiv**, 2026-07-06 — _Unclassified_
+
+We study a minimal agent-based market in which a single evolutionary-optimized institutional agent interacts with 20{,}000 herding retail traders. The agent spontaneously discovers a multi-cycle predatory strategy, producing 8--11 complete cycles over 2000 trading days with total portfolio return of $+51\%$ (best of 20 seeds; mean $+37.7\%$). Mean-field reduction maps the system onto a nonlinear oscillator that undergoes two distinct bifurcations: a continuous Hopf transition as institutional capital exceeds a critical threshold $C_c$, with oscillation amplitude $A \propto (C-C_c)^α$ where $α$...
+
+---
+
+### [Geometric Control of Decisions' Affordability](https://arxiv.org/abs/2607.04885v1)
+*Giacomo Opocher* — **arxiv**, 2026-07-06 — _Unclassified_
+
+This paper studies the performance of data-driven decisions from a geometric perspective. A policymaker learns from an innovated donor population to decide whether to innovate groups in a distinct target population, and must compensate for any mistake. I introduce certification: an estimator yields certified decisions when it controls the probability of a mistake, whenever intervention effects are sufficiently large in magnitude. First, I show that certification implies a bound on worst-case compensation. Then, I study matching estimators with positive weights and show that, in a large-sample ...
+
+---
+
+### [Stabilized Higher-Order Influence Functions: Statistical Theory of a Class of Bilinear Forms](https://arxiv.org/abs/2607.04743v1)
+*Na Liu, Chang Li, Yujia Gu, Lin Liu* — **arxiv**, 2026-07-06 — _Unclassified_
+
+Higher-order influence functions, introduced in a series of articles (Robins et al., 2008, 2009a; van der Vaart, 2014; Robins et al., 2016, 2023; Liu et al., 2017), are a unified framework for constructing rate-optimal point estimates of a class of statistical functionals, under various complexity-reducing assumptions on the posited statistical model that generates the observed data. Although higher-order (influence functions) estimators are theoretically appealing, they have very limited practical uptake compared to their first-order counterparts. The original higher-order estimators proposed...
 
 ---
 
@@ -235,20 +238,11 @@ Econometrica, Volume 94, Issue 3, Page 911-939, May 2026.
 
 ---
 
-## method:RCT
+## method:Lab Experiment
 
-### [Inference for Group Interaction Experiments](https://arxiv.org/abs/2607.02385v1)
-*Jiawei Fu, Cyrus Samii, Ye Wang* — **arxiv**, 2026-07-02 — _method:RCT_
+### [Fooling Yourself: how narratives shape beliefs](https://arxiv.org/abs/2607.04753v1)
+*Andrea Albertazzi, Paolo Pin, Marco Stimolo, Alessandro Stringhi* — **arxiv**, 2026-07-06 — _method:Lab Experiment_
 
-A common experimental research design is one in which individuals are randomly allocated into groups that then interact under different group-level treatment conditions. We develop design-based inference for such "group interaction" experiments, covering scenarios in which groups are either fixed or randomly formed and in which potential outcomes are either fixed relative to others' group assignments or subject to interference. For each scenario, we characterize the causal estimand that the design targets and the inferential strategy appropriate to it. Working in a sparse-sampling asymptotic r...
-
----
-
-## method:Theory
-
-### [Congestion-Based Slot Pricing in a Railway Auction Game](https://arxiv.org/abs/2607.01822v1)
-*Bill Roungas, Sebastiaan Meijer* — **arxiv**, 2026-07-02 — _method:Theory_
-
-We present a multi-agent system for studying the allocation of discrete, congested resources among heterogeneous strategic agents, motivated by the problem of railway slot allocation under deregulation. Multiple operator-agents, differing in size and capacity, interact through a shared auction mechanism over repeated rounds under time-constrained decision-making. The mechanism combines a congestion-based base price that increases with aggregate demand with an asymmetric corrective adjustment that penalises the agent requesting the most slots and rewards the agent requesting the fewest, and is ...
+Decision-makers usually receive information through narratives that combine diagnostic evidence with nondiagnostic details. In a laboratory experiment, we study how such nondiagnostic clues affect belief updating. Participants repeatedly report beliefs in a Bayesian inference task within a narrative context. Reduced-form estimates and subject-level classifications show that nondiagnostic narrative clues systematically induce belief revision toward maximal uncertainty, weakening previously accumulated diagnostic evidence. This effect is weaker in an equivalent abstract context and disappears in...
 
 ---

@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-07-06
+# Weekly Deep-Reading Queue — week of 2026-07-07
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -15,65 +15,65 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 2. Measuring Opportunity Cost with Stock Lifetime Value
+## 2. Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks
 
-### [Measuring Opportunity Cost with Stock Lifetime Value](https://arxiv.org/abs/2607.01905v1)
-*Geoffrey Decrouez, Tobias Huelden, Paresh Nakhe, Dominik Prugger* — **arxiv**, 2026-07-02 — _General Economics & Methodology, International Economics_
+### [Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks](https://arxiv.org/abs/2607.05291v1)
+*Alessio Brini* — **arxiv**, 2026-07-06 — _Unclassified_
 
-Measuring the long-term opportunity cost of interventions remains a critical challenge in e-commerce A/B testing. While strategic levers (such as dynamic pricing, ranking algorithms, and promotional campaigns) trigger shifts in consumer behaviour that persist over months, operational constraints necessitate fast decision-making cycles that are typically limited to weekly experimental windows. Standard metrics like revenue and conversion are inherently short-sighted, biasing decisions toward immediate gains. We introduce Stock Lifetime Value (SLV), a stock-centric metric that captures long-term...
-
----
-
-## 3. Congestion-Based Slot Pricing in a Railway Auction Game
-
-### [Congestion-Based Slot Pricing in a Railway Auction Game](https://arxiv.org/abs/2607.01822v1)
-*Bill Roungas, Sebastiaan Meijer* — **arxiv**, 2026-07-02 — _method:Theory_
-
-We present a multi-agent system for studying the allocation of discrete, congested resources among heterogeneous strategic agents, motivated by the problem of railway slot allocation under deregulation. Multiple operator-agents, differing in size and capacity, interact through a shared auction mechanism over repeated rounds under time-constrained decision-making. The mechanism combines a congestion-based base price that increases with aggregate demand with an asymmetric corrective adjustment that penalises the agent requesting the most slots and rewards the agent requesting the fewest, and is ...
+We ask whether pretrained time series foundation models (TSFMs) improve on established econometric benchmarks for forecasting realized volatility. Using the VOLARE dataset, we conduct the first systematic comparison of nine zero-shot TSFMs against eight econometric specifications, including the Heterogeneous Autoregressive (HAR) family, across 50 assets in equities, foreign exchange, and futures, and three forecast horizons, with formal pairwise and multi-model forecast-comparison tests. Foundation models do not deliver a uniform gain. Pooled losses favor them, but the advantage is concentrate...
 
 ---
 
-## 4. Mechanism and Stability Analysis of Metabolic Closed-Loop Metaheuristics
+## 3. Stabilized Higher-Order Influence Functions: Statistical Theory of a Class of Bilinear Forms
 
-### [Mechanism and Stability Analysis of Metabolic Closed-Loop Metaheuristics](https://doi.org/10.48550/arxiv.2607.01551)
-*J Q Xu, Liping Ma* — **openalex ssrn**, 2026-07-02 — _Agricultural & Environmental Economics, Law & Economics_
+### [Stabilized Higher-Order Influence Functions: Statistical Theory of a Class of Bilinear Forms](https://arxiv.org/abs/2607.04743v1)
+*Na Liu, Chang Li, Yujia Gu, Lin Liu* — **arxiv**, 2026-07-06 — _Unclassified_
 
-This paper studies the Metabolic Multi-Agent Optimizer (MMAO) at the framework level rather than at the implementation or benchmark level. The central question is whether the metabolic resource loop of private energy, communal budget, role drift, and lifecycle turnover has a framework-level interpretation beyond narrative metaphor. We introduce a generic MMAO state model that abstracts away domain-specific move operators while retaining the resource bookkeeping that defines the framework. Under mild bounded-gain and bounded-spending assumptions, we establish boundedness and nonnegativity prope...
-
----
-
-## 5. Episodic-to-Semantic Consolidation Without Identity Drift
-
-### [Episodic-to-Semantic Consolidation Without Identity Drift](https://doi.org/10.48550/arxiv.2607.01988)
-*Xue Qin, Simin Luan, C R Yang, Zhijun Li* — **openalex ssrn**, 2026-07-02 — _Unclassified_
-
-Long-running adaptive intelligent agents face a structural tension between knowledge consolidation and information integrity. Memory consolidation is conventionally treated as an agent-changing operation: a model is fine-tuned, a prompt rewritten, a policy distilled, or a reflection appended to the context that governs future behaviour. In regulated autonomic deployment this is a liability because the agent operates under commitments and audit contracts that bind to a specific, cryptographically certified identity. We propose to treat consolidation not as a mutation of the planner or the ident...
+Higher-order influence functions, introduced in a series of articles (Robins et al., 2008, 2009a; van der Vaart, 2014; Robins et al., 2016, 2023; Liu et al., 2017), are a unified framework for constructing rate-optimal point estimates of a class of statistical functionals, under various complexity-reducing assumptions on the posited statistical model that generates the observed data. Although higher-order (influence functions) estimators are theoretically appealing, they have very limited practical uptake compared to their first-order counterparts. The original higher-order estimators proposed...
 
 ---
 
-## 6. Congestion-Based Slot Pricing in a Railway Auction Game
+## 4. Strategic Buying Agents
 
-### [Congestion-Based Slot Pricing in a Railway Auction Game](https://doi.org/10.48550/arxiv.2607.01822)
-*Bill Roungas, Sebastiaan Meijer* — **openalex ssrn**, 2026-07-02 — _method:Theory_
+### [Strategic Buying Agents](https://arxiv.org/abs/2607.04708v1)
+*Mingyang Fu, Ming Hu* — **arxiv**, 2026-07-06 — _Unclassified_
 
-We present a multi-agent system for studying the allocation of discrete, congested resources among heterogeneous strategic agents, motivated by the problem of railway slot allocation under deregulation. Multiple operator-agents, differing in size and capacity, interact through a shared auction mechanism over repeated rounds under time-constrained decision-making. The mechanism combines a congestion-based base price that increases with aggregate demand with an asymmetric corrective adjustment that penalises the agent requesting the most slots and rewards the agent requesting the fewest, and is ...
-
----
-
-## 7. Is Trend Still Your Friend?: A Microstructural Account of the Demise of Short-Term Trend-Following
-
-### [Is Trend Still Your Friend?: A Microstructural Account of the Demise of Short-Term Trend-Following](https://doi.org/10.48550/arxiv.2607.01550)
-*Jutta G. Kurth, Zoltán Eisler, Adam Rej, Jean-Philippe Bouchaud* — **openalex ssrn**, 2026-07-02 — _Unclassified_
-
-Systematic trend following has, on average, been profitable for at least two centuries; yet since approximately 2009, short-term trends have ceased to deliver reliable returns. Using a cross-section of roughly 100 liquid futures contracts spanning 1995-2025, together with an industry-representative CTA proxy, we document the break and characterise its dependence on signal speed and asset class. We evaluate four candidate explanations - capacity constraints, market electronification, a regime change in CTA-versus-order-flow interactions, and a microstructural mechanism - and find that the first...
+Agentic AI is shifting online shopping from search toward delegated purchasing, where autonomous buying agents monitor markets and decide when to buy on a consumer's behalf. We study the design of such strategic buying agents, which must decide when to purchase within a finite shopping window, translating price observations, the remaining time horizon, and beliefs about future price changes into a purchase policy. We formulate this problem across three information regimes: stationary, Bayesian, and robust, and treat the resulting optimal policies as a policy menu for implementation. In the sta...
 
 ---
 
-## 8. AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents
+## 5. Deep Learning for Dynamic Programming with Recursive Utility
 
-### [AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents](https://doi.org/10.48550/arxiv.2607.02255)
-*Xiangchen Cheng, Yunwei Jiang, J F Sun, Zizhen Li et al.* — **openalex ssrn**, 2026-07-02 — _General Economics & Methodology_
+### [Deep Learning for Dynamic Programming with Recursive Utility](https://arxiv.org/abs/2607.04278v1)
+*Xianhua Peng, Wu Guo* — **arxiv**, 2026-07-05 — _Microeconomics, method:Machine Learning_
 
-Memory for a long-horizon LLM agent is a contract about what each future decision is allowed to see. The simplest contract appends past observations, tool calls, and reflections to every prompt, which makes prior context easy to access but also turns it into a jumbled mixture in which the effect of any single memory component is hard to isolate. We introduce and instrument an alternative bounded contract: every decision is made from a fresh user message assembled by typed retrieval, with no raw cross-decision transcript appended. The prompt thus stays bounded across runs of any length, and any...
+We propose the first deep learning algorithm, the Certainty Equivalent Learning (CEL) algorithm, for solving high-dimensional discrete-time dynamic programming problems with recursive utility. Dynamic programming with recursive utility is numerically challenging because the recursive utility does not have an explicit representation and the Bellman equation contains a certainty equivalent that is difficult to evaluate. The CEL algorithm learns this certainty-equivalent value directly with neural networks and jointly approximates value functions, policy functions, and certainty-equivalent functi...
+
+---
+
+## 6. Sectoral contributions to sustainable development in Turkiye: Which sector is more effective?
+
+### [Sectoral contributions to sustainable development in Turkiye: Which sector is more effective?](https://arxiv.org/abs/2607.03793v1)
+*Emre Akusta* — **arxiv**, 2026-07-04 — _Agricultural & Environmental Economics_
+
+Enhancing sustainable development performance requires an assessment of the relative roles of economic sectors in this process. However, comparative empirical evidence regarding the sectoral structure of sustainable development is limited, particularly for Turkiye. Therefore, this study examines the long-run relationship between sectoral structure and sustainable development in Turkiye by focusing on agriculture, industry, construction, and services. The empirical analysis uses annual data for the period 2000-2022 and proceeds in three steps. First, the stationarity properties of the variables...
+
+---
+
+## 7. Remote Work: Driver or Deterrent of Digital Product Innovation
+
+### [Remote Work: Driver or Deterrent of Digital Product Innovation](https://arxiv.org/abs/2607.03718v1)
+*Fangchen Song, Yixuan Liu, Ashish Agarwal* — **arxiv**, 2026-07-04 — _Business Economics & Innovation, method:DiD_
+
+As firms adopt divergent policies regarding work-from-home (WFH), the implications of remote work for collaborative and interdependent outcomes such as digital product innovation remain uncertain. This study examines how remote work adoption affects continuous digital product innovation using a panel dataset of mobile applications. We identify firm-level remote work adoption from job postings data and estimate its effects on app innovation using a staggered difference-in-differences design. We find that remote work significantly increases both major releases and new feature introductions per a...
+
+---
+
+## 8. Strategy-Proof Probabilistic Social Choice Correspondences under Conditional Expected Utility
+
+### [Strategy-Proof Probabilistic Social Choice Correspondences under Conditional Expected Utility](https://arxiv.org/abs/2607.03955v1)
+*Madhuparna Karmokar, Ujjwal Kumar, Soumyarup Sadhukhan* — **arxiv**, 2026-07-04 — _Microeconomics, method:Theory_
+
+We study unanimous and strategy-proof probabilistic social choice correspondences (PSCCs), where the selected set of alternatives is interpreted as an interim outcome, and agents evaluate sets using conditional expected utility. We analyze two preference domains introduced by Barbera et al. (2001): the conditionally expected utility consistent (CEUC) domain and the conditionally expected utility consistent with equal probabilities (CEUCEP) domain. Our results characterize all unanimous and strategy-proof PSCCs on these domains and identify cases when randomization enlarges the class of admissi...
 
 ---
