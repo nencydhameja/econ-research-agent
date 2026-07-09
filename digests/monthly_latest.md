@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-07-09
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -41,10 +41,10 @@ This paper evaluates stabilization scenarios for Bolivia under external-financin
 
 ---
 
-### [The Geography of Private Sector Agricultural Innovation in the USA: Evidence from Patents](https://arxiv.org/abs/2607.04956v1)
-*Matt Clancy* — **arxiv**, 2026-07-06 — _Business Economics & Innovation_
+### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://doi.org/10.48550/arxiv.2607.06427)
+*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
 
-This paper develops a novel estimates of annual private sector agricultural R&D at the level of US states for the period 1976-2014. For each of five different agricultural subsectors, I allocate estimates of national private sector R&D across the 50 states by using the geographic distribution of inventors listed on contemporaneous US patents in the same agricultural subsector. These five subsectors comprise a large majority of total private sector agricultural R&D. I then use this new dataset to document three stylized facts about private sector agricultural R&D: it is highly correlated with t...
+U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
 
 ---
 
@@ -183,31 +183,31 @@ AstroForge seeks to mine platinum group metals (PGM) from asteroids. Asteroid re
 
 ---
 
-### [Approximate Minimax Estimation of a Bounded Normal Mean via Stochastic Mirror Ascent](https://arxiv.org/abs/2607.05350v1)
-*José Luis Montiel Olea, Ekaterina Zubova* — **arxiv**, 2026-07-06 — _Unclassified_
+### [What Useful Alphas?](https://doi.org/10.48550/arxiv.2607.06502)
+*Andrew Y. Chen, Ivo Welch* — **openalex ssrn**, 2026-07-07 — _Unclassified_
 
-This paper presents a computational approach to find an approximately minimax estimator for the classical Bounded Normal Mean problem. The suggested procedure is the Bayes estimator corresponding to an approximately least-favorable distribution obtained from a stochastic mirror ascent routine for concave maximization. The paper shows that both the approximately least-favorable distribution and the approximately minimax estimator are indeed close (in a sense we make precise) to their desired targets. Simulation evidence suggests that the approximately minimax estimator can yield, with a reasona...
-
----
-
-### [Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks](https://arxiv.org/abs/2607.05291v1)
-*Alessio Brini* — **arxiv**, 2026-07-06 — _Unclassified_
-
-We ask whether pretrained time series foundation models (TSFMs) improve on established econometric benchmarks for forecasting realized volatility. Using the VOLARE dataset, we conduct the first systematic comparison of nine zero-shot TSFMs against eight econometric specifications, including the Heterogeneous Autoregressive (HAR) family, across 50 assets in equities, foreign exchange, and futures, and three forecast horizons, with formal pairwise and multi-model forecast-comparison tests. Foundation models do not deliver a uniform gain. Pooled losses favor them, but the advantage is concentrate...
+This paper examines about 200 published long-short anomaly equity portfolios (Chen and Zimmermann, 2022). Over the period through 2005 (December 2005 and earlier) and across all stocks, their median zero-investment return was an impressive 48 bp per month. Using only post-2005 years (January 2006 onward) reduces this to 19 bp. Using only "non-micro" top-3,000 stocks in the top 90% of market capitalization reduces this to 26 bp. Using only post-2005 and non-micro stocks reduces this to 7 bp. Even modest allowances for luck or transaction costs would have eliminated even these 7 bp. The evidence...
 
 ---
 
-### [Variance Estimation for Saturated Fixed-Effect Specifications](https://arxiv.org/abs/2607.05215v1)
-*Stanisław M. S. Halkiewicz* — **arxiv**, 2026-07-06 — _Unclassified_
+### [When do prophets profit in prediction markets?](https://doi.org/10.48550/arxiv.2607.06166)
+*Anri Gu, Nicole Kagan, Alec Sun, Jibang Wu et al.* — **openalex ssrn**, 2026-07-07 — _Unclassified_
 
-We characterize the asymptotic behavior of conventional variance estimators in linear regression with high-dimensional fixed effects under a drift in which both the proportional fixed-effect dimension $ρ_n = d_{K_n}/n \to ρ\in [0,1)$ and the residual treatment variance $τ_n^2 = nQ_{K_n} \to τ^2 \in (0, \infty]$ are non-degenerate. Three findings emerge. First, under strict exogeneity and conditional homoskedasticity, the Cattaneo--Jansson--Newey-corrected $t$-statistic is asymptotically exact for any $τ^2 > 0$: there is no Stock--Yogo-style threshold in $τ^2$. Second, the Eicker--White HC0 est...
+Prediction markets aggregate dispersed beliefs into prices that act as probabilistic forecasts of uncertain events. Classical theory establishes a clean equivalence between forecasting accuracy and trading profit, but only for the specific automated market maker (AMM) design. However, the largest exchanges today are based on central limit order books in which informed forecasters routinely lose money while uninformed strategies can profit on simple heuristics. We resolve this discrepancy by establishing a formal equivalence between predictive accuracy and profitability. For any strictly proper...
 
 ---
 
-### [Square-Root Price Impact Is Necessary for Endogenous Manipulation Cycles in Learning-Agent Markets](https://arxiv.org/abs/2607.05141v1)
-*Yang Zhou, Jianwen Chen, Ruipeng Wei* — **arxiv**, 2026-07-06 — _Unclassified_
+### [Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation](https://doi.org/10.48550/arxiv.2607.05891)
+*Cemil-Andrei Dilmac, Florinel-Alin Croitoru, Radu Tudor Ionescu* — **openalex ssrn**, 2026-07-07 — _Unclassified_
 
-We study a minimal agent-based market in which a single evolutionary-optimized institutional agent interacts with 20{,}000 herding retail traders. The agent spontaneously discovers a multi-cycle predatory strategy, producing 8--11 complete cycles over 2000 trading days with total portfolio return of $+51\%$ (best of 20 seeds; mean $+37.7\%$). Mean-field reduction maps the system onto a nonlinear oscillator that undergoes two distinct bifurcations: a continuous Hopf transition as institutional capital exceeds a critical threshold $C_c$, with oscillation amplitude $A \propto (C-C_c)^α$ where $α$...
+Coreset selection aims to identify a small and highly representative subset of a massive dataset for efficient model training. The problem remains challenging even in the few-shot knowledge distillation (KD) setup, where a full-scale pre-trained teacher informs the student network. Typical sample selection strategies often struggle to surpass the random selection baseline. In this paper, we showcase few-medoids, an embarrassingly simple coreset selection strategy that chooses the samples closest to the centroid (average image) of each class. We present extensive KD experiments on four datasets...
+
+---
+
+### [Contextual Procurement Auctions with Bandit Learning](https://doi.org/10.48550/arxiv.2607.05813)
+*Yiling Chen, Feng Shi, Sadie Zhao* — **openalex ssrn**, 2026-07-07 — _Unclassified_
+
+We study repeated contextual procurement auctions in which the platform must learn context-dependent product values from bandit feedback. We give an exactly truthful explore-then-commit mechanism with $\widetilde O((ng)^{1/3}T^{2/3})$ regret. We also give a frozen-payment UCB mechanism with a regret-incentive tradeoff: the near-UCB tuning attains \(\widetilde O(\sqrt{ngT})\) welfare regret, while for fixed \(n,g\) its total incentive error is \(\widetilde O(T^{3/4})\); the balanced tuning gives \(\widetilde O(T^{2/3})\) on both scales. Regret is measured as welfare loss relative to the full-in...
 
 ---
 

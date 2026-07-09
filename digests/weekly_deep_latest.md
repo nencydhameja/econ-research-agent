@@ -51,29 +51,29 @@ Recommendation systems and chatbots present content to users, typically using st
 
 ---
 
-## 6. A Framework for Transportation and Land Use Integration as a Parallel Constrained Multiple Discrete-Continuous Extreme Value (PC-MDCEV) Home Production Model
+## 6. The U.S. Mortality Crisis as a Preston Curve Reversal
 
-### [A Framework for Transportation and Land Use Integration as a Parallel Constrained Multiple Discrete-Continuous Extreme Value (PC-MDCEV) Home Production Model](https://arxiv.org/abs/2607.05862v1)
-*Jason Hawkins, Khandker Nurul Habib* — **arxiv**, 2026-07-07 — _International Economics, Microeconomics, Urban, Rural & Regional Economics_
+### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://doi.org/10.48550/arxiv.2607.06427)
+*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
 
-Integrated urban models (IUM) typically rely on a measure of accessibility or travel time to form the link between the transportation and land use systems. Such integration does not fully capture the trade-offs made by households in how they spend their limited temporal and monetary budgets. We propose a microeconomic foundation for transportation and land use choice model integration based on the theory of home production. A utility function is developed that considers both household monetary expenditure and individual time use. We address several limitations in previous home production funct...
-
----
-
-## 7. Identifying the MPC-Liquidity Gradient in High-Quality Data
-
-### [Identifying the MPC-Liquidity Gradient in High-Quality Data](https://arxiv.org/abs/2607.07055v1)
-*Mikael Carlsson, Marco D'Amico, Erik Öberg, Oskar N. Skans et al.* — **arxiv**, 2026-07-08 — _method:IV_
-
-We estimate the gradient of the Marginal Propensity to Consume (MPC) with respect to liquidity using a new estimator designed for administrative data with negligible measurement error in income. We derive a state-dependent consumption pass-through equation from the canonical buffer-stock model, and show that the pass-through coefficient of this equation can be used to construct tight bounds on the MPC conditional on the relevant state. We recover latent permanent and transitory income shocks with a Kalman smoother and use them as regressors in an empirical representation of the consumption equ...
+U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
 
 ---
 
-## 8. Network games with heterogeneous players
+## 7. Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test
 
-### [Network games with heterogeneous players](https://arxiv.org/abs/2607.05932v1)
-*Wenjie Cao, Angel Sanchez, Boyu Zhang* — **arxiv**, 2026-07-07 — _Unclassified_
+### [Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test](https://doi.org/10.48550/arxiv.2607.06001)
+*Cheng Qian* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation_
 
-Real social and economic networks involve individuals with diverse incentives, yet most studies of network games assume homogeneous preferences or few player types. We introduce a general framework for binary choice network games with fully heterogeneous payoff structures. We first show that any such game can be transformed into an equivalent one with conformist, rebel, and stubborn archetypes, preserving equilibria and best response trajectories. We then establish sufficient conditions for pure strategy Nash equilibrium existence and convergence of best response dynamics on arbitrary networks...
+We report a pre-registered, two-part experiment on small economies of frontier language-model agents (Claude Opus 4.8), testing two quantitative predictions about coupled multi-agent systems: an information-theoretic capacity region for wealth growth under market coupling, and a mean-field residual-scaling law for population misalignment under incentive and control levers. All predictions, acceptance bands, and decision rules were frozen in a public git chain before any run; every reported number re-derives mechanically from cached model outputs; the entire experiment cost $138.76 in metered A...
+
+---
+
+## 8. Slack and Budget Breaking in Threshold Team Production
+
+### [Slack and Budget Breaking in Threshold Team Production](https://doi.org/10.48550/arxiv.2607.06197)
+*Benjamin Marsh, Alejandro Ranchal-Pedrosa* — **openalex ssrn**, 2026-07-07 — _Public Economics_
+
+A threshold system completes a public task only after $κ$ verifiable shares are publicly committed. If the honest schedule creates \( \Nstar=κ+Δ\) share opportunities by deadline $t^\star$, then $Δ$ shares are slack such that a coalition delays completion if and only if it withholds at least $Δ+1$ shares. The incentive problem is therefore to price the cheapest sabotage set. Agents receive a direct fee $f$ per committed share. A delaying coalition may also obtain delay value at most $L$, and may earn additional fee revenue during recovery after the deadline. Let $R_1^+$ be a pathwise upper bou...
 
 ---
