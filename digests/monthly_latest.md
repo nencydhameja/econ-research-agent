@@ -1,8 +1,22 @@
-# Economics Research Digest — 2026-07-09
+# Economics Research Digest — 2026-07-10
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
+
+### [Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences](https://arxiv.org/abs/2607.08324v1)
+*Takahiro Hoshino, Makoto Nakakita* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Health, Education & Welfare, method:DiD, method:Synthetic Control_
+
+Synthetic difference-in-differences is widely used to estimate treatment effects for many treated groups against a common donor pool. When the same donors are reused across groups, the group-specific estimates are cross-sectionally dependent, and plug-in second moments overstate effect heterogeneity. We develop finite-population inference for heterogeneity in many-group synthetic difference-in-differences: the projection of realized group effects on observed group covariates, the projected group-effect curve, the between-group variance, and the explained share. The theory combines a modular fi...
+
+---
+
+### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153v1)
+*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
+
+Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
+
+---
 
 ### [Robustness to Model Uncertainties Drives More Rapid CO2 Emissions Reductions](https://arxiv.org/abs/2607.07655v1)
 *Lisa Rennels, Frank Errickson, David Smith, Bryan Parthum et al.* — **arxiv**, 2026-07-08 — _Agricultural & Environmental Economics_
@@ -18,7 +32,21 @@ Based on public data, we analyze the distributions of energy and carbon emission
 
 ---
 
+### [Robustness to Model Uncertainties Drives More Rapid CO2 Emissions Reductions](https://doi.org/10.48550/arxiv.2607.07655)
+*Lisa Rennels, Frank Errickson, D J B Smith, Bryan Parthum et al.* — **openalex ssrn**, 2026-07-08 — _Agricultural & Environmental Economics_
+
+Evaluating the economic impacts of climate policies is important for designing a response to climate change. One typical approach to assessing mitigation policy options uses integrated climate-economy models to analyze tradeoffs between the costs of reducing greenhouse gas emissions and the benefits of reducing climate damages. However, the uncertainty characterizing these models poses significant challenges for policymakers. We address this difficulty using a robust decision-making framework to evaluate mitigation policy. We show that a shift from a decision framework that maximizes expected ...
+
+---
+
 ## Business Economics & Innovation
+
+### [Measuring Consumption with Credit Card Data: Benchmarking and Beyond](https://arxiv.org/abs/2607.08759v1)
+*Aditya Aladangady, Ricardo Duque Gabriel, Carlo Wix* — **arxiv**, 2026-07-09 — _Business Economics & Innovation, Macroeconomics_
+
+We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards in the Federal Reserve's Y-14M reports, covering over 3,000 U.S. counties since 2014. We first show that the data closely approximate traditional consumption measures, explaining 92 percent of the variation in monthly adjusted personal consumption expenditures (PCE) growth at the national level and capturing meaningful cross-sectional variation in annual adjusted PCE growth at the state level. As a proof of concept, we use the county-month panel to estimate heterogeneou...
+
+---
 
 ### [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency](https://arxiv.org/abs/2607.07207v1)
 *Satoshi Matsuoka* — **arxiv**, 2026-07-08 — _Business Economics & Innovation, Industrial Organization_
@@ -27,58 +55,74 @@ We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/
 
 ---
 
-### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://arxiv.org/abs/2607.06427v1)
-*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **arxiv**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
+### [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency](https://doi.org/10.48550/arxiv.2607.07207)
+*Satoshi Matsuoka* — **openalex ssrn**, 2026-07-08 — _Business Economics & Innovation, Industrial Organization_
 
-U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
-
----
-
-### [Bolivia and an IMF Extended Fund Facility: Financial Sustainability, Verifiable Social Sustainability, and Net Financing Additionality](https://arxiv.org/abs/2607.05878v1)
-*Ricardo Alonzo Fernández Salguero* — **arxiv**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare, Public Economics_
-
-This paper evaluates stabilization scenarios for Bolivia under external-financing stress by jointly modeling financial sustainability, verifiable social sustainability and the net additionality of multilateral financing. The main correction is that financing already received, contracted or expected from multilateral institutions cannot be counted as a marginal benefit of a hypothetical IMF Extended Fund Facility. Already secured resources are moved to the baseline; only incremental, liquid, timely and non-displaced financing is rewarded. The analysis combines corrected scenario scoring, povert...
+We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/HBM price surge, frontier-capable open-weight models (GLM-5.2), rapid inference-efficiency gains (near-Shannon-limit KV-cache compression, lightweight local runtimes), and the entry of Meta and xAI into compute resale on fleets bought before the memory repricing. Formulating inference economics in dollars per petabyte of bandwidth delivered (\$/PB) -- model-agnostic for bandwidth-bound decode -- we show the entrant-incumbent cost gap never closes: a depreciation conveyor delivers newly amortized fleets to incumbent...
 
 ---
 
-### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://doi.org/10.48550/arxiv.2607.06427)
-*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
+### [Innovating Risk Modelling for Global Funds](https://doi.org/10.48550/arxiv.2607.07465)
+*Swaraj Gambhir, Thanu George, Kairavi Sivasankar* — **openalex ssrn**, 2026-07-08 — _Business Economics & Innovation, International Economics_
 
-U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
-
----
-
-## Econometrics & Methods
-
-### [Factor-Augmented Machine Learning Panel Regressions](https://arxiv.org/abs/2607.06368v1)
-*Andrii Babii, Luca Barbaglia, Eric Ghysels, Jonas Striaukas* — **arxiv**, 2026-07-07 — _Econometrics & Methods, method:Machine Learning_
-
-This paper develops the asymptotic theory for high-dimensional panel data regressions in settings with cross-sectionally dependent errors driven by common shocks. We consider a factor-augmented sparse-group LASSO estimator that combines MIDAS aggregation with latent factors. The estimator can take advantage of the mixed-frequency group structure in the time-series dimension. Theory shows that it can outperform the standard LASSO estimator both for prediction and estimation while allowing for cross-sectional dependence.
+Markowitz defined portfolio risk as an internal property, built from the covariance among a book's own holdings rather than the distance to any index. Seventy years of simplification reversed that. The market beta of CAPM, the fixed style and industry axes of Barra-type models, and the promotion of benchmark deviation to the definition of risk all traded the inward view for an external one. Risk became distance from an index. For a fund that fits no benchmark, that trade fails. A global book concentrated in a few markets and a few innovation sectors has no natural index to deviate from, and th...
 
 ---
 
-## International Economics
+## Health, Education & Welfare
 
-### [A Machine-Learning-Compatible Omnibus Test for Treatment Effect Heterogeneity](https://arxiv.org/abs/2607.06412v1)
-*Elia Lapenta, Anthony Strittmatter, Pedro Vergara Merino* — **arxiv**, 2026-07-07 — _International Economics, Labor & Demographic Economics, method:DiD, method:RCT_
+### [A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers](https://arxiv.org/abs/2607.08640v1)
+*Yechan Park* — **arxiv**, 2026-07-09 — _Health, Education & Welfare_
 
-This study proposes a formal, computationally efficient nonparametric omnibus test for treatment-effect heterogeneity that is compatible with a broad class of estimators, including modern machine-learning methods. The test is designed for settings in which identification can rely on high-dimensional controls while heterogeneity is assessed with respect to a low-dimensional subset of covariates. We derive the test statistic's asymptotic null distribution and develop a bootstrap procedure that is efficient because it avoids re-estimating nuisance parameters in each iteration. The testing approac...
+Economic policies rarely affect only their direct targets. To study these spillovers, researchers summarize who else was treated with a simple exposure measure, such as the share of treated neighbors within a radius. But for many settings, economic theory provides little guidance on choosing the functional form (e.g., ring) of that measure or its parameters (e.g., radius). We show that the data can inform both choices. Correctly specified exposure measures imply orthogonality conditions that can be used for both estimation and testing. We establish consistency and asymptotic normality of the r...
 
 ---
 
-### [A Framework for Transportation and Land Use Integration as a Parallel Constrained Multiple Discrete-Continuous Extreme Value (PC-MDCEV) Home Production Model](https://arxiv.org/abs/2607.05862v1)
-*Jason Hawkins, Khandker Nurul Habib* — **arxiv**, 2026-07-07 — _International Economics, Microeconomics, Urban, Rural & Regional Economics_
+### [Helping Hands, Healthier Infants: The Effect of Medicaid Doula Coverage Mandates on Birth Outcomes](https://arxiv.org/abs/2607.07770v1)
+*Farhad V. Farahani* — **arxiv**, 2026-07-08 — _Health, Education & Welfare, method:IV_
 
-Integrated urban models (IUM) typically rely on a measure of accessibility or travel time to form the link between the transportation and land use systems. Such integration does not fully capture the trade-offs made by households in how they spend their limited temporal and monetary budgets. We propose a microeconomic foundation for transportation and land use choice model integration based on the theory of home production. A utility function is developed that considers both household monetary expenditure and individual time use. We address several limitations in previous home production funct...
+Over the last decade a wave of U.S. states began reimbursing doula services through Medicaid, hoping to improve infant health and narrow stark racial gaps in birth outcomes. I evaluate these mandates using the staggered 2021-2024 rollout, a panel of 32.1 million births from CDC WONDER (2016-2024), and a newly assembled measure of the state doula workforce drawn from the national provider registry. Identification comes from the policy's timing rather than from comparing doula users to non-users, addressing the selection problem that limits the existing observational literature. On average I fin...
+
+---
+
+### [Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines](https://arxiv.org/abs/2607.07768v1)
+*Naomi Ashley Amparo, John Frederick Muji, Paul James Montecillo, Jaymar Soriano et al.* — **arxiv**, 2026-07-08 — _Health, Education & Welfare_
+
+The COVID-19 pandemic disrupted socio-economic and healthcare systems in the Philippines, significantly affecting barangays. This study analyzes the cascading effects of the COVID-19 pandemic on key aspects of a barangay, namely mobility, accessibility of public services, economic and financial health, food security, educational engagement, and physical health. It focuses on data from 2,122 Filipino households collected during May to June 2021 as part of the World Bank COVID-19 Households Survey. A Bayesian network model was constructed to programmatically map the conditional dependencies amon...
+
+---
+
+## Labor & Demographic Economics
+
+### [The Impact of Publicly Funded Small Business Advisory Services: Firm Take-up and Performance in the United States](https://arxiv.org/abs/2607.07849v1)
+*Scott Kaplan, Ryan Raimondi* — **arxiv**, 2026-07-08 — _Labor & Demographic Economics, method:Natural Experiment_
+
+This paper studies the impact of geographic proximity to and utilization of publicly funded advisory services offered to US small businesses on firm take-up and performance. We leverage a novel administrative dataset from the Northern California Small Business Development Center (SBDC) Network covering all firm-center interactions from 2006-23. To address endogeneity in firm engagement with centers, we exploit exogenous variation in center-firm geographic proximity generated by center closures and openings. We instrument for paired center-firm consulting time with changes in distance resulting...
+
+---
+
+### [The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents](https://doi.org/10.48550/arxiv.2607.07436)
+*Xing Zhang, Yanwei Cui, Guanghui Wang, Ziyuan Li et al.* — **openalex ssrn**, 2026-07-08 — _Labor & Demographic Economics_
+
+A self-evolving agent retires its bad skills by watching them fail, so what happens when the judge cannot see the failures? Skill retirement is the structural constraint that keeps a growing library from drifting below the no-skill baseline, but its guarantee assumes an unbiased reward, which is false for the LLM judges that reference-free tasks force upon us. We show that a biased judge does not merely add noise; it \emph{silently switches off the curator}. We make this precise with a corrupted-reward analysis and, isolating the causal channel by injecting corruption on top of a deterministic...
 
 ---
 
 ## Macroeconomics
 
-### [Revision Risk in Real-Time Macroeconomic Forecasting](https://arxiv.org/abs/2607.05882v1)
-*Yizhou, Kuang* — **arxiv**, 2026-07-07 — _Macroeconomics_
+### [Inflation as an emergent phenomenon](https://arxiv.org/abs/2607.07864v1)
+*Alessio Emanuele Biondo, Mauro Gallegati* — **arxiv**, 2026-07-08 — _Macroeconomics_
 
-Macroeconomic forecasts refer to outcomes that are first released and then revised. A 90 percent interval for the first GDP release, a six-month value, or a latest-value benchmark is not the same uncertainty statement. We ask how revision risk evolves through the release cycle and what can be reported in real time when later-outcome errors are scarce. We decompose later-outcome MSE into preliminary forecast risk, revision risk, and their covariance. In SPF data, first-release to roughly 180-day revisions account for 8.3 percent of later-outcome MSE across real-activity targets, versus 3.6 perc...
+We develop an agent-based model in which inflation emerges from decentralized price-setting and credit-financed production in an endogenous-money economy. Firms operate under working-capital constraints, form market-based price expectations through heterogeneous adaptive learning, and set prices via cost-plus rules with endogenous mark-ups. Bank lending simultaneously creates deposits, while heterogeneous lending rates and credit rationing shape firms' financing costs and, through unit costs, their pricing decisions. The economy features interacting production and credit networks: intermediate...
+
+---
+
+## Microeconomics
+
+### [Random Utility Model with Endogenously Assigned Menus](https://arxiv.org/abs/2607.08218v1)
+*Kai Wang* — **arxiv**, 2026-07-09 — _Microeconomics, method:RCT_
+
+There is a largely overlooked assumption underlying stochastic choice theory: menus are assigned exogenously, as if by a hidden randomized controlled trial. This assumption is not innocuous, because in many real-world settings menus are assigned endogenously according to the decision makers' preferences. This paper studies Random Utility Model under menu endogeneity and shows that any seemingly anomalous choice behavior can be generated by a population of rational decision makers with heterogeneous preferences facing endogenously assigned menus. To address this problem, I propose a new causal ...
 
 ---
 
@@ -104,6 +148,20 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Sharing economy in the era of full automation: Evidence from autonomous vehicle on-demand mobility services](https://arxiv.org/abs/2607.08610v1)
+*Xiaoyan Wang, Kenan Zhang, Yaochen Ma* — **arxiv**, 2026-07-09 — _Unclassified_
+
+The digital age has facilitated the sharing of underutilized assets. This paper focuses on privately owned autonomous vehicles (AVs), a unique class of robots that can move independently and provide transportation services. When not in personal use, private AV owners can lease their vehicles to a platform that operates an on-demand mobility service (MoD). We refer to this service as AV crowdsourcing, and develop a time-expanded network flow model that captures temporal and spatial heterogeneity in AV usage of both owners and passengers while preserving analytical tractability. We analyze the c...
+
+---
+
+### [Sufficientarian Grading Rules and Rankings: Characterizations and Implementation](https://arxiv.org/abs/2607.08293v1)
+*Marcello Basili, Ernesto Savaglio, Stefano Vannucci* — **arxiv**, 2026-07-09 — _Unclassified_
+
+Sufficientarian grading rules are defined using a finite family of sufficientarian judgements on individual capability assignments as embodied in a sufficientarian binary grading function (BGF). Both sufficientarian grading rules and the sufficientarian total preorders on capability-type assignments they induce are characterized. Moreover, several further total preorders based upon sufficiency-gap information provided by a sufficientarian grading rule are explicitly defined and some of them are also characterized. It is also shown that there exists a class of inclusive, unanimity-respecting an...
+
+---
+
 ### [Answering Without Referring: How AI Search Rewrites the Web's Economic Bargain](https://arxiv.org/abs/2607.07652v1)
 *Qiaoni Shi, Kai Zhu, Kai Gu* — **arxiv**, 2026-07-08 — _Unclassified_
 
@@ -118,96 +176,24 @@ This paper studies how organizations should jointly design evaluation rules and 
 
 ---
 
-### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
-*HUI CHEN, 
-ZHIYAO CHEN, 
-JUN LI* — **Journal of Finance**, 2026-06-09 — _Unclassified_
+### [Bundling Complements](https://arxiv.org/abs/2607.07982v1)
+*Weijie Zhong* — **arxiv**, 2026-07-08 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+I develop a duality-based multi-dimensional screening framework with a geometric characterization of combinatorial preferences. For a mechanism to be optimal, the type distribution pins down \emph{required} directions of binding feasibility constraints, while the complementarity among bundles determines the \emph{covered} directions; optimality reduces to full coverage of required directions. I apply the framework to a one-parameter family in which every bundle containing a fixed \emph{core} of items earns a complementarity premium. Two thresholds organize the optimum: above a lower threshold ...
 
 ---
 
-### [Does Financial Trading Smooth Non-Convex Markets?](https://arxiv.org/abs/2607.06316v1)
-*Nicolas Stevens, Peter Cramton, Martial Toniotti* — **arxiv**, 2026-07-07 — _Unclassified_
+### [Multi-Trigger Crypto CAT Bonds with On-Chain Settlement: Valuation and Optimal Design](https://doi.org/10.48550/arxiv.2607.06981)
+*Yue Wang, Yijia Li, Maochao Xu, Xianyue Li* — **openalex ssrn**, 2026-07-08 — _Unclassified_
 
-In non-convex markets, a competitive equilibrium may fail to exist. This turns out to be an important issue in real-world non-convex auction markets, such as electricity markets, as it complicates pricing and requires the auctioneer to resort to out-of-market discriminatory side payments to sustain an equilibrium. We investigate whether the introduction of convex financial trading induces a smoothing effect, mitigating the issues arising from non-convexities. We develop a two-stage non-convex market model (a forward market followed by a spot market) in which convex financial traders participat...
-
----
-
-### [Axioms for Correlated Equilibrium](https://arxiv.org/abs/2607.06282v1)
-*Florian Brandl* — **arxiv**, 2026-07-07 — _Unclassified_
-
-We characterize correlated equilibrium in finite normal-form games. Interpreting correlated strategies as action recommendations, we show that correlated equilibrium is the unique solution concept that never recommends a pure-strategy dominated action, treats payoff-equivalent actions interchangeably, and respects the sure-thing principle under uncertainty about payoffs and the correlation device. A parallel characterization identifies coarse correlated equilibrium among solution concepts that recommend dominant actions whenever they exist and treat payoff-equivalent actions as strongly interc...
+Cryptocurrencies have experienced repeated large-scale losses from protocol exploits and exchange breaches, exposing insurers and investors to severe operational risks. This paper develops an equilibrium pricing framework for catastrophe bonds tailored to the cryptocurrency ecosystem. We introduce a double-trigger structure that jointly captures short-term catastrophic shocks and longer-term systemic deterioration. To model the multi-risk environment, we incorporate dual dependence, combining dependence across triggers with multivariate dependence among financial risk factors through vine copu...
 
 ---
 
-### [From Gravity to Confinement: Wealth Redistribution as Optimal Drift Design in the Fokker-Planck Framework](https://arxiv.org/abs/2607.06153v1)
-*Anders G Frøseth* — **arxiv**, 2026-07-07 — _Unclassified_
+### [Evaluation and Assignment with Networked Competition and Spillovers](https://doi.org/10.48550/arxiv.2607.07280)
+*Antonio Cabrales, Wenhao Cheng* — **openalex ssrn**, 2026-07-08 — _Unclassified_
 
-A proportional wealth tax acts as a uniform gravitational field on the wealth distribution: it shifts the drift of the Fokker-Planck equation without altering the diffusion, preserving the Gini coefficient at all finite times. The same drift-shift symmetry that makes the tax non-distortionary also makes it non-redistributive through the market channel. Redistribution requires breaking this symmetry. A progressive tax (confining potential) replaces the Pareto steady state with a thinner-tailed distribution whose Gini is a closed-form function of the progressivity parameter; source-sink terms (t...
-
----
-
-### [Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v1)
-*Andrea Canidio* — **arxiv**, 2026-07-07 — _Unclassified_
-
-Blockchain applications may have preferences over the order in which transactions execute: an automated market maker may use an external feed to price its liquidity, and require that the oracle update incorporating this price execute before any swap; an exchange may want to execute cancellations of limit orders before incoming market orders; an application may run an on-chain auction by executing bids from highest to lowest, so that the first bid wins. However, the ordering of transactions is chosen by the underlying blockchain and may not be compatible with the requirements of a specific appl...
-
----
-
-### [Network games with heterogeneous players](https://arxiv.org/abs/2607.05932v1)
-*Wenjie Cao, Angel Sanchez, Boyu Zhang* — **arxiv**, 2026-07-07 — _Unclassified_
-
-Real social and economic networks involve individuals with diverse incentives, yet most studies of network games assume homogeneous preferences or few player types. We introduce a general framework for binary choice network games with fully heterogeneous payoff structures. We first show that any such game can be transformed into an equivalent one with conformist, rebel, and stubborn archetypes, preserving equilibria and best response trajectories. We then establish sufficient conditions for pure strategy Nash equilibrium existence and convergence of best response dynamics on arbitrary networks...
-
----
-
-### [Failure Privacy and Safe Collective Expression](https://arxiv.org/abs/2607.05802v1)
-*Matthew Cashman* — **arxiv**, 2026-07-07 — _Unclassified_
-
-Widely held views can go unspoken when speaking out alone invites retaliation. I recast such silence as a problem of safe coalition formation. When safety comes in numbers, there is a largest group that could speak safely. Open organizing must stay safe every step the way, making for a cascade of speaking up that stops short of that largest group. Social assurance contracts need safety only at the destination, and get there by keeping commitments private until enough people have joined: a tunnel to the largest safe group. If no member may ever regret joining, such failure privacy is necessary,...
-
----
-
-### [Estimating Causal Effects from Data Generated by Stochastic Algorithms](https://arxiv.org/abs/2607.05792v1)
-*Susan Athey, Guido Imbens, Zoe Ji* — **arxiv**, 2026-07-07 — _Unclassified_
-
-Recommendation systems and chatbots present content to users, typically using stochastic algorithms that select the content based on user characteristics or context. Examples of content include chat responses, videos, or items available for purchase. Scientists and application developers are often interested in whether characteristics of content increase outcomes such as user engagement. Estimates of such causal effects may guide content providers to generate content that emphasize desirable features. However, in settings with a large content library or where content is generated uniquely for ...
-
----
-
-### [Will AstroForge Collapse the PGM Market?](https://arxiv.org/abs/2607.06806v1)
-*Robert T. Nachtrieb, Steven J. Smith* — **arxiv**, 2026-07-07 — _Unclassified_
-
-AstroForge seeks to mine platinum group metals (PGM) from asteroids. Asteroid reserves appear to be unlimited, and at current market price the gross margin of asteroid mining would be very high. It is natural to ask: when AstroForge successfully demonstrates economic space mining of PGM, will they cause the PGM market to collapse? We answer the question with a non-steady system dynamics model of the PGM market. We find that the market price for PGM will eventually drop towards the much lower cost of asteroid mining, but only after the entire supply has shifted off-world. In the meanwhile, huge...
-
----
-
-### [What Useful Alphas?](https://doi.org/10.48550/arxiv.2607.06502)
-*Andrew Y. Chen, Ivo Welch* — **openalex ssrn**, 2026-07-07 — _Unclassified_
-
-This paper examines about 200 published long-short anomaly equity portfolios (Chen and Zimmermann, 2022). Over the period through 2005 (December 2005 and earlier) and across all stocks, their median zero-investment return was an impressive 48 bp per month. Using only post-2005 years (January 2006 onward) reduces this to 19 bp. Using only "non-micro" top-3,000 stocks in the top 90% of market capitalization reduces this to 26 bp. Using only post-2005 and non-micro stocks reduces this to 7 bp. Even modest allowances for luck or transaction costs would have eliminated even these 7 bp. The evidence...
-
----
-
-### [When do prophets profit in prediction markets?](https://doi.org/10.48550/arxiv.2607.06166)
-*Anri Gu, Nicole Kagan, Alec Sun, Jibang Wu et al.* — **openalex ssrn**, 2026-07-07 — _Unclassified_
-
-Prediction markets aggregate dispersed beliefs into prices that act as probabilistic forecasts of uncertain events. Classical theory establishes a clean equivalence between forecasting accuracy and trading profit, but only for the specific automated market maker (AMM) design. However, the largest exchanges today are based on central limit order books in which informed forecasters routinely lose money while uninformed strategies can profit on simple heuristics. We resolve this discrepancy by establishing a formal equivalence between predictive accuracy and profitability. For any strictly proper...
-
----
-
-### [Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation](https://doi.org/10.48550/arxiv.2607.05891)
-*Cemil-Andrei Dilmac, Florinel-Alin Croitoru, Radu Tudor Ionescu* — **openalex ssrn**, 2026-07-07 — _Unclassified_
-
-Coreset selection aims to identify a small and highly representative subset of a massive dataset for efficient model training. The problem remains challenging even in the few-shot knowledge distillation (KD) setup, where a full-scale pre-trained teacher informs the student network. Typical sample selection strategies often struggle to surpass the random selection baseline. In this paper, we showcase few-medoids, an embarrassingly simple coreset selection strategy that chooses the samples closest to the centroid (average image) of each class. We present extensive KD experiments on four datasets...
-
----
-
-### [Contextual Procurement Auctions with Bandit Learning](https://doi.org/10.48550/arxiv.2607.05813)
-*Yiling Chen, Feng Shi, Sadie Zhao* — **openalex ssrn**, 2026-07-07 — _Unclassified_
-
-We study repeated contextual procurement auctions in which the platform must learn context-dependent product values from bandit feedback. We give an exactly truthful explore-then-commit mechanism with $\widetilde O((ng)^{1/3}T^{2/3})$ regret. We also give a frozen-payment UCB mechanism with a regret-incentive tradeoff: the near-UCB tuning attains \(\widetilde O(\sqrt{ngT})\) welfare regret, while for fixed \(n,g\) its total incentive error is \(\widetilde O(T^{3/4})\); the balanced tuning gives \(\widetilde O(T^{2/3})\) on both scales. Regret is measured as welfare loss relative to the full-in...
+This paper studies how organizations should jointly design evaluation rules and assign workers when performance depends on both effort and non-discretionary advantage. Agents choose effort in positions linked by a competition network, while their effective advantage depends on own type and spillovers through a second network. The planner chooses both the assignment and the effort weight in evaluation. Equilibrium effort rises with a position's Katz-Bonacich centrality and falls with effective advantage. The optimal evaluation rule generally differs from true output. When effort is more importa...
 
 ---
 
@@ -217,6 +203,15 @@ We study repeated contextual procurement auctions in which the platform must lea
 *Vod Vilfort* — **arxiv**, 2026-07-08 — _method:DiD_
 
 Researchers often conduct inference on weighted estimands, defined as weighted averages of group-level effects. Example settings include event studies with cohort-level effects and experiments with site-level effects. Under heterogeneous effects, different weighting schemes yield estimands with distinct empirical and policy interpretations, leading to ambiguity and disagreement over the choice of weights. I establish bounds on differences between weighted estimands and confidence bounds on effect heterogeneity, which I use to construct estimators that minimize worst-case bias and confidence in...
+
+---
+
+## method:Field Experiment
+
+### [Directional AI Advice: Experimental Evidence from Healthcare](https://arxiv.org/abs/2607.08706v1)
+*Yuyu Chen, Hongbin Li, Lingsheng Meng, Xinyao Qiu et al.* — **arxiv**, 2026-07-09 — _method:Field Experiment_
+
+Generative AI is fast becoming the first place people turn for expert advice. The advice it provides can be directional rather than neutral, shaped in part by the choices of its designers and regulators. When clients consult AI before meeting an expert, they carry this directional advice into a relationship that once rested on the expert's judgment alone. We study its consequences in healthcare through a large-scale preregistered field experiment at a Chinese hospital, where we randomize patients' access to an AI chatbot before their outpatient visit. Examination of the conversation logs shows...
 
 ---
 
@@ -233,6 +228,13 @@ We estimate the gradient of the Marginal Propensity to Consume (MPC) with respec
 
 ### [The Joneses Visit an Economics Lab](https://arxiv.org/abs/2607.07353v1)
 *Mikhail Freer, Daniel Friedman, Christian Ghiglino, Elke Weidenholzer* — **arxiv**, 2026-07-08 — _method:Lab Experiment_
+
+Existing literature offers persuasive evidence that individuals care about how their consumption compares to that of peers, and proposes a large variety of explanatory models. The present paper proposes a common framework for many of those models, and compares their ability to predict behavior in a laboratory experiment. We find evidence of Keeping up with the Joneses motivations but also find that conspicuous consumption is enhanced by Veblen motivations arising from peers' ability to observe one's own choice. Among the seven quasi-linear preference models we compare, our data are best explai...
+
+---
+
+### [The Joneses Visit an Economics Lab](https://doi.org/10.48550/arxiv.2607.07353)
+*Mikhail Freer, Daniel Friedman, Christian Ghiglino, Elke Weidenholzer* — **openalex ssrn**, 2026-07-08 — _method:Lab Experiment_
 
 Existing literature offers persuasive evidence that individuals care about how their consumption compares to that of peers, and proposes a large variety of explanatory models. The present paper proposes a common framework for many of those models, and compares their ability to predict behavior in a laboratory experiment. We find evidence of Keeping up with the Joneses motivations but also find that conspicuous consumption is enhanced by Veblen motivations arising from peers' ability to observe one's own choice. Among the seven quasi-linear preference models we compare, our data are best explai...
 

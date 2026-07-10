@@ -1,21 +1,26 @@
-# Weekly Deep-Reading Queue — week of 2026-07-09
+# Weekly Deep-Reading Queue — week of 2026-07-10
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Twin Defaults and Bank Capital Requirements
+## 1. A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing
 
-### [Twin Defaults and Bank Capital Requirements](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R)
-*CATERINA MENDICINO, 
-KALIN NIKOLOV, 
-JUAN RUBIO‐RAMIREZ, 
-JAVIER SUAREZ, 
-DOMINIK SUPERA* — **Journal of Finance**, 2026-06-25 — _Unclassified_
+### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153v1)
+*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
 
-The Journal of Finance, EarlyView.
+Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
 
 ---
 
-## 2. Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
+## 2. Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences
+
+### [Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences](https://arxiv.org/abs/2607.08324v1)
+*Takahiro Hoshino, Makoto Nakakita* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Health, Education & Welfare, method:DiD, method:Synthetic Control_
+
+Synthetic difference-in-differences is widely used to estimate treatment effects for many treated groups against a common donor pool. When the same donors are reused across groups, the group-specific estimates are cross-sectionally dependent, and plug-in second moments overstate effect heterogeneity. We develop finite-population inference for heterogeneity in many-group synthetic difference-in-differences: the projection of realized group effects on observed group covariates, the projected group-effect curve, the between-group variance, and the explained share. The theory combines a modular fi...
+
+---
+
+## 3. Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
 
 ### [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency](https://arxiv.org/abs/2607.07207v1)
 *Satoshi Matsuoka* — **arxiv**, 2026-07-08 — _Business Economics & Innovation, Industrial Organization_
@@ -24,56 +29,47 @@ We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/
 
 ---
 
-## 3. The U.S. Mortality Crisis as a Preston Curve Reversal
+## 4. Helping Hands, Healthier Infants: The Effect of Medicaid Doula Coverage Mandates on Birth Outcomes
 
-### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://arxiv.org/abs/2607.06427v1)
-*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **arxiv**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
+### [Helping Hands, Healthier Infants: The Effect of Medicaid Doula Coverage Mandates on Birth Outcomes](https://arxiv.org/abs/2607.07770v1)
+*Farhad V. Farahani* — **arxiv**, 2026-07-08 — _Health, Education & Welfare, method:IV_
 
-U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
-
----
-
-## 4. Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability
-
-### [Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability](https://arxiv.org/abs/2607.06144v1)
-*Andrea Canidio* — **arxiv**, 2026-07-07 — _Unclassified_
-
-Blockchain applications may have preferences over the order in which transactions execute: an automated market maker may use an external feed to price its liquidity, and require that the oracle update incorporating this price execute before any swap; an exchange may want to execute cancellations of limit orders before incoming market orders; an application may run an on-chain auction by executing bids from highest to lowest, so that the first bid wins. However, the ordering of transactions is chosen by the underlying blockchain and may not be compatible with the requirements of a specific appl...
+Over the last decade a wave of U.S. states began reimbursing doula services through Medicaid, hoping to improve infant health and narrow stark racial gaps in birth outcomes. I evaluate these mandates using the staggered 2021-2024 rollout, a panel of 32.1 million births from CDC WONDER (2016-2024), and a newly assembled measure of the state doula workforce drawn from the national provider registry. Identification comes from the policy's timing rather than from comparing doula users to non-users, addressing the selection problem that limits the existing observational literature. On average I fin...
 
 ---
 
-## 5. Estimating Causal Effects from Data Generated by Stochastic Algorithms
+## 5. Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines
 
-### [Estimating Causal Effects from Data Generated by Stochastic Algorithms](https://arxiv.org/abs/2607.05792v1)
-*Susan Athey, Guido Imbens, Zoe Ji* — **arxiv**, 2026-07-07 — _Unclassified_
+### [Cascading Effects of the COVID-19 Pandemic on Barangays in the Philippines](https://arxiv.org/abs/2607.07768v1)
+*Naomi Ashley Amparo, John Frederick Muji, Paul James Montecillo, Jaymar Soriano et al.* — **arxiv**, 2026-07-08 — _Health, Education & Welfare_
 
-Recommendation systems and chatbots present content to users, typically using stochastic algorithms that select the content based on user characteristics or context. Examples of content include chat responses, videos, or items available for purchase. Scientists and application developers are often interested in whether characteristics of content increase outcomes such as user engagement. Estimates of such causal effects may guide content providers to generate content that emphasize desirable features. However, in settings with a large content library or where content is generated uniquely for ...
-
----
-
-## 6. The U.S. Mortality Crisis as a Preston Curve Reversal
-
-### [The U.S. Mortality Crisis as a Preston Curve Reversal](https://doi.org/10.48550/arxiv.2607.06427)
-*Ritikaa Khanna, Rourke O'Brien, Andrew Stokes, Atheendar Venkataramani et al.* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation, Health, Education & Welfare_
-
-U.S. life expectancy stagnated and declined in the 2010s despite continued growth in real per capita income. We use Preston curves to characterize this pattern as a change in the relationship between income and longevity. Using state-level data from 1980 to 2019 and county-level data from 2000 to 2019, we estimate population-weighted Preston curves relating life expectancy to logged real per capita income. From 1980 to 2010, U.S. states followed the classic Preston curve pattern: rising income was accompanied by rising life expectancy. Counties followed the same pattern from 2000 to 2010. From...
+The COVID-19 pandemic disrupted socio-economic and healthcare systems in the Philippines, significantly affecting barangays. This study analyzes the cascading effects of the COVID-19 pandemic on key aspects of a barangay, namely mobility, accessibility of public services, economic and financial health, food security, educational engagement, and physical health. It focuses on data from 2,122 Filipino households collected during May to June 2021 as part of the World Bank COVID-19 Households Survey. A Bayesian network model was constructed to programmatically map the conditional dependencies amon...
 
 ---
 
-## 7. Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test
+## 6. Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
 
-### [Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents: A Pre-Registered Test](https://doi.org/10.48550/arxiv.2607.06001)
-*Cheng Qian* — **openalex ssrn**, 2026-07-07 — _Business Economics & Innovation_
+### [Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency](https://doi.org/10.48550/arxiv.2607.07207)
+*Satoshi Matsuoka* — **openalex ssrn**, 2026-07-08 — _Business Economics & Innovation, Industrial Organization_
 
-We report a pre-registered, two-part experiment on small economies of frontier language-model agents (Claude Opus 4.8), testing two quantitative predictions about coupled multi-agent systems: an information-theoretic capacity region for wealth growth under market coupling, and a mean-field residual-scaling law for population misalignment under incentive and control levers. All predictions, acceptance bands, and decision rules were frozen in a public git chain before any run; every reported number re-derives mechanically from cached model outputs; the entire experiment cost $138.76 in metered A...
+We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/HBM price surge, frontier-capable open-weight models (GLM-5.2), rapid inference-efficiency gains (near-Shannon-limit KV-cache compression, lightweight local runtimes), and the entry of Meta and xAI into compute resale on fleets bought before the memory repricing. Formulating inference economics in dollars per petabyte of bandwidth delivered (\$/PB) -- model-agnostic for bandwidth-bound decode -- we show the entrant-incumbent cost gap never closes: a depreciation conveyor delivers newly amortized fleets to incumbent...
 
 ---
 
-## 8. Slack and Budget Breaking in Threshold Team Production
+## 7. Innovating Risk Modelling for Global Funds
 
-### [Slack and Budget Breaking in Threshold Team Production](https://doi.org/10.48550/arxiv.2607.06197)
-*Benjamin Marsh, Alejandro Ranchal-Pedrosa* — **openalex ssrn**, 2026-07-07 — _Public Economics_
+### [Innovating Risk Modelling for Global Funds](https://doi.org/10.48550/arxiv.2607.07465)
+*Swaraj Gambhir, Thanu George, Kairavi Sivasankar* — **openalex ssrn**, 2026-07-08 — _Business Economics & Innovation, International Economics_
 
-A threshold system completes a public task only after $κ$ verifiable shares are publicly committed. If the honest schedule creates \( \Nstar=κ+Δ\) share opportunities by deadline $t^\star$, then $Δ$ shares are slack such that a coalition delays completion if and only if it withholds at least $Δ+1$ shares. The incentive problem is therefore to price the cheapest sabotage set. Agents receive a direct fee $f$ per committed share. A delaying coalition may also obtain delay value at most $L$, and may earn additional fee revenue during recovery after the deadline. Let $R_1^+$ be a pathwise upper bou...
+Markowitz defined portfolio risk as an internal property, built from the covariance among a book's own holdings rather than the distance to any index. Seventy years of simplification reversed that. The market beta of CAPM, the fixed style and industry axes of Barra-type models, and the promotion of benchmark deviation to the definition of risk all traded the inward view for an external one. Risk became distance from an index. For a fund that fits no benchmark, that trade fails. A global book concentrated in a few markets and a few innovation sectors has no natural index to deviate from, and th...
+
+---
+
+## 8. The AI Resilience Gap: Bringing Artificial Intelligence Inside the Operational Resilience Perimeter
+
+### [The AI Resilience Gap: Bringing Artificial Intelligence Inside the Operational Resilience Perimeter](https://doi.org/10.48550/arxiv.2607.07359)
+*Jonathan Shelby* — **openalex ssrn**, 2026-07-08 — _Unclassified_
+
+The rapid adoption of artificial intelligence across regulated firms has produced an extensive governance response oriented around trustworthiness: the EU AI Act, ISO IEC 42001, the NIST AI Risk Management Framework, and the United Kingdom's principles-based approach all address safety, fairness, transparency, and model risk. That response is necessary but incomplete. It does not, on its own, address operational resilience: the continuity of important business services under severe but plausible disruption, the substitutability of AI components, and the concentration of dependency on the small...
 
 ---
