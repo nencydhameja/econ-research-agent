@@ -1,8 +1,15 @@
-# Economics Research Digest — 2026-07-12
+# Economics Research Digest — 2026-07-13
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
+
+### [Regional Economic Impacts of the Just Energy Transition: Lessons for Coal Regions](https://arxiv.org/abs/2607.09589v1)
+*Imke Rhoden, Jae-Hyuck Lee* — **arxiv**, 2026-07-10 — _Agricultural & Environmental Economics, Labor & Demographic Economics, Public Economics_
+
+The coal phase-out's regional economic impact is a key challenge of the energy transition, as employment and fiscal dependence in coal regions face structural adjustment without automatic market solutions. Analyzing European Union NUTS 2 regions from 2000-2022 with fixed effects and clustered errors, coal regions show a consistent 1.1 percentage points unemployment premium and grow faster in gross domestic product per capita at 0.2 percentage points annually, indicating a hollowing-out process where population exit raises per-capita output while employment conditions worsen. Spatial analysis s...
+
+---
 
 ### [Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences](https://arxiv.org/abs/2607.08324v1)
 *Takahiro Hoshino, Makoto Nakakita* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Health, Education & Welfare, method:DiD, method:Synthetic Control_
@@ -19,20 +26,6 @@ Societal goals need to shift from over-reliance on gross domestic product (GDP) 
 ---
 
 ### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153)
-*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **openalex ssrn**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
-
-Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
-
----
-
-### [Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences](https://doi.org/10.48550/arxiv.2607.08324)
-*Takahiro Hoshino, Makoto Nakakita* — **openalex ssrn**, 2026-07-09 — _Agricultural & Environmental Economics, Health, Education & Welfare, method:DiD, method:Synthetic Control_
-
-Synthetic difference-in-differences is widely used to estimate treatment effects for many treated groups against a common donor pool. When the same donors are reused across groups, the group-specific estimates are cross-sectionally dependent, and plug-in second moments overstate effect heterogeneity. We develop finite-population inference for heterogeneity in many-group synthetic difference-in-differences: the projection of realized group effects on observed group covariates, the projected group-effect curve, the between-group variance, and the explained share. The theory combines a modular fi...
-
----
-
-### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://doi.org/10.48550/arxiv.2607.08153)
 *Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **openalex ssrn**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
 
 Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
@@ -78,6 +71,20 @@ We introduce a novel monthly county-level consumption dataset constructed from s
 
 ## Health, Education & Welfare
 
+### [Perturbed utility Markovian traffic equilibrium: theory and computation](https://arxiv.org/abs/2607.09568v1)
+*Rui Yao, Kenan Zhang* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics_
+
+Large-scale traffic assignment requires equilibrium models that are both behaviorally plausible and computationally tractable. This paper develops a perturbed utility Markovian equilibrium (PUME) framework that preserves the scalability of link-based Markovian traffic equilibrium models and extends their applicability to settings with boundary choice probabilities, undiscounted network loading, and general link interactions. As the behavioral basis of PUME, we first develop the perturbed utility Markovian choice model (PUMCM) in which the Bellman optimality operator is defined through a convex...
+
+---
+
+### [Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions](https://arxiv.org/abs/2607.09461v1)
+*Xianhua Peng, Wu Guo, Songyan Wang, Jianfei Zhu* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics, method:Machine Learning_
+
+This paper proposes the certainty-equivalent first-order learning (CEFOL) algorithm, a deep learning algorithm for solving discrete-time dynamic programming problems with recursive utility. Dynamic programming with recursive utility is challenging because nonlinear certainty equivalent appears in the Bellman equation and the first-order optimality conditions but is difficult to evaluate. By introducing a separate neural network to represent the certainty equivalent, CEFOL enables the exploitation of the Bellman and model-specific first-order optimality conditions. In addition to certainty equi...
+
+---
+
 ### [A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers](https://arxiv.org/abs/2607.08640v1)
 *Yechan Park* — **arxiv**, 2026-07-09 — _Health, Education & Welfare_
 
@@ -92,7 +99,32 @@ Economic policies rarely affect only their direct targets. To study these spillo
 
 ---
 
+## Industrial Organization
+
+### [Media Measurement and the Assisted Own Goal: Attribution, Marketing-Mix Models, and Individual-Level Incrementality](https://arxiv.org/abs/2607.09608v1)
+*Tobias Konitzer* — **arxiv**, 2026-07-10 — _Industrial Organization, method:RCT_
+
+We use the assisted own goal hypothesis as a lens into media measurement. A demand-generating (upper-funnel) advertising platform such as a short-video social network can cause an incremental purchase, yet see that purchase booked on -- and credited to -- a downstream trusted marketplace, because consumers who discover a product on the platform complete the transaction elsewhere, for example because of distrust of the generating platform as a psychological mechanism. Under attribution-based return-on-ad-spend (ROAS) measurement, the diverted conversions are invisible to the originating platfor...
+
+---
+
+## Macroeconomics
+
+### [Non-Equilibrium Economics: A Physicist's Point of View](https://arxiv.org/abs/2607.09620v1)
+*Jean-Philippe Bouchaud* — **arxiv**, 2026-07-10 — _Macroeconomics, method:Natural Experiment_
+
+Financial and economic history is strewn with bubbles and crashes, booms and busts, crises and upheavals of all sorts. Understanding the origin of these events is arguably one of the most important problems in economic theory: are economies intrinsically unstable, and can one ``stabilize unstable economies''? In this review I argue, from a physicist's vantage point, that the concept of equilibrium -- so central to mainstream economic thinking -- is likely to be the exception rather than the rule in large, complex, interacting systems. Drawing on a series of stylized ``toy'' models, I show how ...
+
+---
+
 ## Microeconomics
+
+### [Ever since Ellsberg](https://arxiv.org/abs/2607.09355v1)
+*Aluma Dembo, Shachar Kariv, Matthew Polisson, John K. -H. Quah* — **arxiv**, 2026-07-10 — _Microeconomics_
+
+Ellsberg's famous paradox challenged Savage's subjective expected utility theory (EUT) -- which reduces uncertainty to risk -- by suggesting an aversion toward ambiguity. We provide a revealed preference test of the full set of axioms underpinning subjective EUT under uncertainty and compare it to an analogous test of objective EUT under risk. We find that individual choices are as consistent with utility maximization and expected utility maximization under uncertainty as they are under risk. Nevertheless, there is greater empirical scope for non-EUT models under uncertainty than under risk, a...
+
+---
 
 ### [Random Utility Model with Endogenously Assigned Menus](https://arxiv.org/abs/2607.08218v1)
 *Kai Wang* — **arxiv**, 2026-07-09 — _Microeconomics, method:RCT_
@@ -105,6 +137,15 @@ There is a largely overlooked assumption underlying stochastic choice theory: me
 *Kai Wang* — **openalex ssrn**, 2026-07-09 — _Microeconomics, method:RCT_
 
 There is a largely overlooked assumption underlying stochastic choice theory: menus are assigned exogenously, as if by a hidden randomized controlled trial. This assumption is not innocuous, because in many real-world settings menus are assigned endogenously according to the decision makers' preferences. This paper studies Random Utility Model under menu endogeneity and shows that any seemingly anomalous choice behavior can be generated by a population of rational decision makers with heterogeneous preferences facing endogenously assigned menus. To address this problem, I propose a new causal ...
+
+---
+
+## Political Economy
+
+### [Voting Biases in Decentralized Autonomous Organization (DAO) Governance](https://arxiv.org/abs/2607.09435v1)
+*Stefano Balietti, Pietro Saggese, Markus Strohmaier* — **arxiv**, 2026-07-10 — _Political Economy_
+
+Decentralized Autonomous Organizations (DAOs) use token-weighted voting to allocate resources, set protocol rules, and legitimate collective decisions. Yet, support in DAO voting is strikingly concentrated. What happens inside the ballot that produces this concentration? We study DAOs' governance at the proposal-choice level, linking each choice's voting-power share to three observable features: whether it expresses an approval-oriented stance, where it appears in the choice list, and whether it is selected by the proposal author. We find that (i) author-selected choices show the strongest and...
 
 ---
 
@@ -127,6 +168,13 @@ MARTIN KANZ,
 LEORA KLAPPER* — **Journal of Finance**, 2026-06-17 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [From Centrality Discounts to Centrality Premia: Interoperability and Platform Competition in Social Networks](https://arxiv.org/abs/2607.09269v1)
+*Weiming Li, Jing Sun, Xinxi Song, Bin Wu* — **arxiv**, 2026-07-10 — _Unclassified_
+
+We study how interoperability reshapes competitive price discrimination when consumers are embedded in a social network. Two differentiated platforms set personalized prices; consumers benefit from neighbors' consumption of the same platform and, under interoperability, of the rival. Equilibrium prices obtain in closed form for arbitrary networks and contain a network-position term, proportional to Katz-Bonacich centrality, whose sign is determined by whether interoperability exceeds product substitutability. Below this threshold, platforms contest central consumers and grant centrality discou...
 
 ---
 
@@ -165,50 +213,6 @@ We study a multi-sender Bayesian persuasion problem with one receiver and severa
 
 ---
 
-### [Rumour Spreading In Community Based Networks](https://doi.org/10.48550/arxiv.2607.08546)
-*Zhaoxi Cui, Anthony O’Hare* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-Many real-world networks have the characteristic that they are comprised of distinct groups or communities whose members contain many links within the community but with fewer connections to others. It is important to accurately model these types of networks to correctly predict the outcome of important spreading processes such as disease transmission, or the flow of information etc. Our motivating example is a network of traders within several investment institutions such as hedge funds. We assume an idealised scenario where traders within the same institution have many contacts and can share...
-
----
-
-### [When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals](https://doi.org/10.48550/arxiv.2607.08065)
-*Kaihua Ding* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-LLM-as-judge (Zheng et al., 2023) is increasingly the default for evaluating AI systems in enterprise pipelines, often scaled to ensembles (Verga et al., 2024) or "mixture-of-experts" (Shazeer et al., 2017) panels of judges. These systems share a key assumption: that consistency -- agreement among judges, or among a model's own samples -- indicates correctness. We show this assumption is unreliable. Agreement is not accuracy: a model can agree with itself, and different models can agree with each other, out of shared bias, a memorized heuristic, or an option-position prior rather than truth. W...
-
----
-
-### [Robustness in Sequential Decision Making under Evolving Uncertainty: Evidence from High-Frequency Market Making](https://arxiv.org/abs/2607.08291)
-*Ying Chen, H S. Nguyen, Julian Sester, Hoang Hai Tran et al.* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-We study sequential decision making under evolving uncertainty in high-frequency financial markets, where changing market dynamics continually challenge static decision policies. We show that robustness has two economically meaningful dimensions: uncertainty tolerance, which determines how much uncertainty the decision maker allows, and action robustness, which governs how conservatively decisions respond. Robustness is not merely protection against model misspecification, but a state-dependent mechanism that reshapes sequential decision behaviors. Simulation and empirical evidence show that a...
-
----
-
-### [Stablecoins under Stress in a National Economy: Transaction-Level Evidence from Austrian Crypto-Asset Service Providers](https://arxiv.org/abs/2607.08524)
-*Pietro Saggese, Michael Sigmund, Burkhard Raunig, Esther Segalla et al.* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-Cryptoassets are increasingly entangled with the traditional financial system, and how this activity integrates into national economies and behaves under stress bears on financial stability and the design of public digital money. However, blockchain pseudonymity and the lack of geographic identifiers force existing work to rely on indirect proxies to infer and locate market participants. Here we use a regulatory registry that directly identifies the on-chain addresses of all crypto-asset service providers (CASPs) registered in Austria, reconstructing their on-chain transaction activity across ...
-
----
-
-## method:DiD
-
-### [Causal Effects of Protocol-Fee Changes on Liquidity Provision in Automated Market Makers](https://arxiv.org/abs/2607.08525)
-*Wen-Ting Wang* — **openalex ssrn**, 2026-07-09 — _method:DiD_
-
-Automated market maker (AMM) fee rules are often evaluated by liquidity-provider (LP) welfare, but that objective mixes fee revenue, adverse-selection loss (loss-versus-rebalancing, LVR), routing response, and liquidity supply. Fixed-fee Uniswap v3 history cannot separate these channels or identify counterfactual trader-facing dynamic-fee rules. Real fee-related variation nonetheless exists: the Uniswap protocol-fee switch cut LP take-rates with tier-differentiated intensity while leaving trader-facing fees unchanged. Using a pre-specified matched-overlap event-study difference-in-differences ...
-
----
-
-### [Causal Effects of Protocol-Fee Changes on Liquidity Provision in Automated Market Makers](https://doi.org/10.48550/arxiv.2607.08525)
-*Wen-Ting Wang* — **openalex ssrn**, 2026-07-09 — _method:DiD_
-
-Automated market maker (AMM) fee rules are often evaluated by liquidity-provider (LP) welfare, but that objective mixes fee revenue, adverse-selection loss (loss-versus-rebalancing, LVR), routing response, and liquidity supply. Fixed-fee Uniswap v3 history cannot separate these channels or identify counterfactual trader-facing dynamic-fee rules. Real fee-related variation nonetheless exists: the Uniswap protocol-fee switch cut LP take-rates with tier-differentiated intensity while leaving trader-facing fees unchanged. Using a pre-specified matched-overlap event-study difference-in-differences ...
-
----
-
 ## method:Field Experiment
 
 ### [Directional AI Advice: Experimental Evidence from Healthcare](https://arxiv.org/abs/2607.08706v1)
@@ -218,12 +222,12 @@ Generative AI is fast becoming the first place people turn for expert advice. Th
 
 ---
 
-## method:Structural
+## method:RCT
 
-### [Volatility in Prediction Markets: A Structural Approach](https://arxiv.org/abs/2607.08199)
-*Weiye Xi, Ciamac C. Moallemi, Mallesh Pai, Shouqiao Want* — **openalex ssrn**, 2026-07-09 — _method:Structural_
+### [Misspecified regressions with mixed regressors: robust inference and causal interpretation](https://arxiv.org/abs/2607.09536v1)
+*Mengsi Gao, Peng Ding* — **arxiv**, 2026-07-10 — _method:RCT_
 
-Forward-looking volatility forecasts are central inputs to derivatives pricing, market making, risk management, and volatility-linked trading strategies, with ARCH and GARCH models serving as the canonical workhorses. Such models are natural in standard asset markets, where prices are positive-valued stochastic processes and volatility is typically inferred from return dynamics. Prediction markets have a different structure: prices are bounded probabilities, payoffs are binary, and contracts resolve at known deadlines. We develop and estimate a volatility model tailored to binary prediction ma...
+For analytic convenience, existing statistical frameworks either assume random or fixed regressors. However, it is a little awkward that they do not cover the practical case of estimating the average treatment effect in experiments with randomized treatments and non-randomized, fixed pretreatment covariates. We unify the literature by providing the theory for regressions with mixed regressors that contain both random and fixed components. Importantly, our theory allows for misspecification of the regression functions. We first establish general results for estimating equations with both random...
 
 ---
 
