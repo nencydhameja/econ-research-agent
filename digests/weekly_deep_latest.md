@@ -56,20 +56,20 @@ Economic power in international trade is the capacity of one country to impose l
 
 ---
 
-## 7. Prices and Competition in Vertically Integrated Launch Markets
+## 7. When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures
+
+### [When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures](https://doi.org/10.48550/arxiv.2607.09230)
+*Joohyoung Jeon* — **openalex ssrn**, 2026-07-10 — _International Economics_
+
+Building event-conditioned market models requires separating macro-event labels from persistent microstructure state. We study this distinction in Binance BTCUSDT and ETHUSDT futures from 2023-2026, combining top-20 L2 order book data, trade-flow records, and macro-event windows. We define a supervised discrete L2 liquidity-state transition task, distinct from latent-regime detection and price-direction prediction, and evaluate models in rolling monthly out-of-sample folds with event-clustered validation and blocked permutation tests, admitting each feature layer only if it improves on the lay...
+
+---
+
+## 8. Prices and Competition in Vertically Integrated Launch Markets
 
 ### [Prices and Competition in Vertically Integrated Launch Markets](https://arxiv.org/abs/2607.10385v1)
 *Akhil Rao* — **arxiv**, 2026-07-11 — _Unclassified_
 
 Over the last 15 years the number of U.S. orbital launches has grown by roughly an order of magnitude. About three-quarters of those launches were on SpaceX's Falcon 9 vehicle, and roughly three-fifths of those Falcon launches deployed SpaceX's own Starlink constellation. A back-of-envelope Wright's law calculation suggests this increase in experience should have driven the Falcon 9's real launch cost down by roughly 70\% over 2012--2026. Yet over the same period the advertised price fell by less than 6\% in real terms. Why? I develop a simple model of competition and vertical integration betw...
-
----
-
-## 8. Calibrated Horizon-Weighted Local Projection Designs for Markov Switchbacks
-
-### [Calibrated Horizon-Weighted Local Projection Designs for Markov Switchbacks](https://arxiv.org/abs/2607.11694v1)
-*Makoto Nakakita, Teruo Nakatsuma* — **arxiv**, 2026-07-13 — _Unclassified_
-
-We study temporal assignment design for Markov switchback experiments when the reported object is a dynamic local-projection target. We develop a calibrated selector that chooses the feasible persistence minimizing the covariance, HAC, residual-bootstrap, or realized-schedule risk of the estimator and reporting object specified before the experiment. A balanced homoskedastic Markov benchmark yields a closed form because the lagged-assignment information matrix is AR(1)-Toeplitz with a tridiagonal inverse. The benchmark maps local-projection reporting weights into persistence recommendations wi...
 
 ---
