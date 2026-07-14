@@ -1,8 +1,35 @@
-# Weekly Deep-Reading Queue — week of 2026-07-13
+# Weekly Deep-Reading Queue — week of 2026-07-14
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Perturbed utility Markovian traffic equilibrium: theory and computation
+## 1. From PBS to ePBS: the Microstructure of Block Building
+
+### [From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240v1)
+*Jingyu Liu, Bolin Zhang, Lin William Cong, Siguang Li et al.* — **arxiv**, 2026-07-13 — _Unclassified_
+
+Ethereum's Glamsterdam upgrade introduces enshrined proposer-builder separation (ePBS), replacing relay-centric PBS with direct builder bids to proposers. We study how this shift changes the block-building microstructure through a general imperfect-information two-stage auction with verifiable messages, where an early bid serves as both a price offer and a signal. PBS and ePBS are modeled as restrictions of the same block-building game: PBS fixes stopping and disclosure exogenously, while ePBS lets the proposer choose stopping and disclosure ex post. Latency heterogeneity is captured by asymme...
+
+---
+
+## 2. Efficient Online Proportional Sampling with Applications to Smoothed Online Learning
+
+### [Efficient Online Proportional Sampling with Applications to Smoothed Online Learning](https://arxiv.org/abs/2607.10963v1)
+*Amirmahdi Mirfakhar, Maria-Florina Balcan, Hedyeh Beyhaghi* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
+
+We study the problem of efficient online proportional sampling from a high-dimensional domain under a $σ$-smoothed adversary, where the sampling distribution is induced by a dynamically evolving weight function defined over a sequence of piecewise-structured partitions. This setting captures a broad range of applications, including principal-agent games (e.g., pricing and contract design), and algorithm configuration and parameter tuning. The central challenge is maintaining an efficient data structure as the induced partition grows increasingly complex over time -- naively, the number of subr...
+
+---
+
+## 3. Bayesian Robustness Values for Modern Causal Panel Estimators via Riesz Representations
+
+### [Bayesian Robustness Values for Modern Causal Panel Estimators via Riesz Representations](https://arxiv.org/abs/2607.10276v1)
+*Makoto Nakakita, Takahiro Hoshino* — **arxiv**, 2026-07-11 — _Labor & Demographic Economics, method:DiD_
+
+We develop a sensitivity-analysis workflow for causal panel estimators, covering synthetic difference-in-differences, matrix completion, fixed-effect imputation, and group-time average treatment effects. The workflow combines Riesz-representation omitted-variable-bias bounds with partial-$R^2$ robustness values and separates two reporting routes. Route A gives a direct sensitivity profile for additive or projected confounding summarized by outcome-side and Riesz-side partial $R^2$ values. Route B treats observed-covariate benchmarks as auxiliary data only when benchmark-count, alpha-side align...
+
+---
+
+## 4. Perturbed utility Markovian traffic equilibrium: theory and computation
 
 ### [Perturbed utility Markovian traffic equilibrium: theory and computation](https://arxiv.org/abs/2607.09568v1)
 *Rui Yao, Kenan Zhang* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics_
@@ -11,7 +38,7 @@ Large-scale traffic assignment requires equilibrium models that are both behavio
 
 ---
 
-## 2. Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions
+## 5. Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions
 
 ### [Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions](https://arxiv.org/abs/2607.09461v1)
 *Xianhua Peng, Wu Guo, Songyan Wang, Jianfei Zhu* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics, method:Machine Learning_
@@ -20,56 +47,29 @@ This paper proposes the certainty-equivalent first-order learning (CEFOL) algori
 
 ---
 
-## 3. A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing
+## 6. Political Power in International Trade
 
-### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153v1)
-*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
+### [Political Power in International Trade](https://arxiv.org/abs/2607.09990v1)
+*Ashwin Bhattathiripad, Vipin P Veetil* — **arxiv**, 2026-07-10 — _International Economics_
 
-Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
-
----
-
-## 4. A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union
-
-### [A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union](https://doi.org/10.48550/arxiv.2607.08328)
-*Alonso Rodríguez‐Navarro* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation_
-
-Europe is experiencing prolonged slow growth, resulting in part from a shortage of disruptive innovations that has locked its industry into a middle technology trap. Although greater investment and deeper integration among EU member states are widely proposed as solutions, this study argues that these measures alone will be insufficient if breakthrough research is not improved. In research systems, breakthrough discoveries depend on both size and efficiency. The EU research system is constrained by a dual problem: it is substantially smaller than China's and significantly less efficient than t...
+Economic power in international trade is the capacity of one country to impose loss on another by withdrawing from a trading relationship. This paper measures it. A model of the short run represents each trade restriction as a pattern of barred entries in the world matrix of input shares and maps it into a vector of losses by country and sector. The asymmetry between the two countries' losses under the same severance is the measure of power: a gap in substitution, since a buyer's dependence turns on how easily it finds another source and a seller's on how easily it finds another market. When a...
 
 ---
 
-## 5. A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing
+## 7. Prices and Competition in Vertically Integrated Launch Markets
 
-### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153)
-*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **openalex ssrn**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
+### [Prices and Competition in Vertically Integrated Launch Markets](https://arxiv.org/abs/2607.10385v1)
+*Akhil Rao* — **arxiv**, 2026-07-11 — _Unclassified_
 
-Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
-
----
-
-## 6. A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union
-
-### [A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union](https://arxiv.org/abs/2607.08328)
-*Alonso Rodríguez‐Navarro* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation_
-
-Europe is experiencing prolonged slow growth, resulting in part from a shortage of disruptive innovations that has locked its industry into a middle technology trap. Although greater investment and deeper integration among EU member states are widely proposed as solutions, this study argues that these measures alone will be insufficient if breakthrough research is not improved. In research systems, breakthrough discoveries depend on both size and efficiency. The EU research system is constrained by a dual problem: it is substantially smaller than China's and significantly less efficient than t...
+Over the last 15 years the number of U.S. orbital launches has grown by roughly an order of magnitude. About three-quarters of those launches were on SpaceX's Falcon 9 vehicle, and roughly three-fifths of those Falcon launches deployed SpaceX's own Starlink constellation. A back-of-envelope Wright's law calculation suggests this increase in experience should have driven the Falcon 9's real launch cost down by roughly 70\% over 2012--2026. Yet over the same period the advertised price fell by less than 6\% in real terms. Why? I develop a simple model of competition and vertical integration betw...
 
 ---
 
-## 7. From Rules to Nash Equilibria: A Lean 4 Case Study in Game-Theoretic Analysis of a Competitive Trading Card Game
+## 8. Calibrated Horizon-Weighted Local Projection Designs for Markov Switchbacks
 
-### [From Rules to Nash Equilibria: A Lean 4 Case Study in Game-Theoretic Analysis of a Competitive Trading Card Game](https://doi.org/10.48550/arxiv.2607.08692)
-*Arthur F. Ramos, Tulio Soria* — **openalex ssrn**, 2026-07-09 — _method:Theory_
+### [Calibrated Horizon-Weighted Local Projection Designs for Markov Switchbacks](https://arxiv.org/abs/2607.11694v1)
+*Makoto Nakakita, Teruo Nakatsuma* — **arxiv**, 2026-07-13 — _Unclassified_
 
-We present a metagame analysis of the competitive Pokemon Trading Card Game, machine-checked in Lean 4 over real tournament data. The headline game-theoretic results, including Nash equilibrium, replicator dynamics, and the matrix-level type-bridge computation, rely on native_decide, which trusts Lean's compiler rather than its kernel; the trust boundary is made explicit. The artifact spans approximately 31,900 lines, 87 files, and 2,627 theorems, of which roughly 200 directly verify empirical claims, with no sorry, admit, or custom axioms. Analyzing Trainer Hill data from January to February ...
-
----
-
-## 8. Volatility in Prediction Markets: A Structural Approach
-
-### [Volatility in Prediction Markets: A Structural Approach](https://arxiv.org/abs/2607.08199)
-*Weiye Xi, Ciamac C. Moallemi, Mallesh Pai, Shouqiao Want* — **openalex ssrn**, 2026-07-09 — _method:Structural_
-
-Forward-looking volatility forecasts are central inputs to derivatives pricing, market making, risk management, and volatility-linked trading strategies, with ARCH and GARCH models serving as the canonical workhorses. Such models are natural in standard asset markets, where prices are positive-valued stochastic processes and volatility is typically inferred from return dynamics. Prediction markets have a different structure: prices are bounded probabilities, payoffs are binary, and contracts resolve at known deadlines. We develop and estimate a volatility model tailored to binary prediction ma...
+We study temporal assignment design for Markov switchback experiments when the reported object is a dynamic local-projection target. We develop a calibrated selector that chooses the feasible persistence minimizing the covariance, HAC, residual-bootstrap, or realized-schedule risk of the estimator and reporting object specified before the experiment. A balanced homoskedastic Markov benchmark yields a closed form because the lagged-assignment information matrix is AR(1)-Toeplitz with a tridiagonal inverse. The benchmark maps local-projection reporting weights into persistence recommendations wi...
 
 ---

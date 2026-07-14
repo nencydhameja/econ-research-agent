@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-13
+# Economics Research Digest — 2026-07-14
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 14 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,61 +11,12 @@ The coal phase-out's regional economic impact is a key challenge of the energy t
 
 ---
 
-### [Finite-Population Inference for Heterogeneity in Many-Group Synthetic Difference-in-Differences](https://arxiv.org/abs/2607.08324v1)
-*Takahiro Hoshino, Makoto Nakakita* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Health, Education & Welfare, method:DiD, method:Synthetic Control_
-
-Synthetic difference-in-differences is widely used to estimate treatment effects for many treated groups against a common donor pool. When the same donors are reused across groups, the group-specific estimates are cross-sectionally dependent, and plug-in second moments overstate effect heterogeneity. We develop finite-population inference for heterogeneity in many-group synthetic difference-in-differences: the projection of realized group effects on observed group covariates, the projected group-effect curve, the between-group variance, and the explained share. The theory combines a modular fi...
-
----
-
-### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153v1)
-*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **arxiv**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
-
-Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
-
----
-
-### [A Comparative Review of Methods to Create a Composite Index for Sustainable and Inclusive Wellbeing](https://arxiv.org/abs/2607.08153)
-*Ricardo da Silva Vieira, Mario Biggeri, Peter Benczur, Robert Costanza et al.* — **openalex ssrn**, 2026-07-09 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
-
-Societal goals need to shift from over-reliance on gross domestic product (GDP) to broader aspects of sustainable and inclusive wellbeing (SIW). However, defining SIW and eventually measuring it with a single number is problematic because it involves many subjective and objective contributors that combine in complex, non-linear ways. Conventional approaches either use linear weighted averages or reduce SIW to subjective wellbeing alone. Neither is sufficient. This paper reviews aggregation methods for SIW against nine conditions derived from needs theory and strong sustainability: limited subs...
-
----
-
 ## Business Economics & Innovation
 
-### [Measuring Consumption with Credit Card Data: Benchmarking and Beyond](https://arxiv.org/abs/2607.08759v1)
-*Aditya Aladangady, Ricardo Duque Gabriel, Carlo Wix* — **arxiv**, 2026-07-09 — _Business Economics & Innovation, Macroeconomics_
+### [Efficient Online Proportional Sampling with Applications to Smoothed Online Learning](https://arxiv.org/abs/2607.10963v1)
+*Amirmahdi Mirfakhar, Maria-Florina Balcan, Hedyeh Beyhaghi* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
 
-We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards in the Federal Reserve's Y-14M reports, covering over 3,000 U.S. counties since 2014. We first show that the data closely approximate traditional consumption measures, explaining 92 percent of the variation in monthly adjusted personal consumption expenditures (PCE) growth at the national level and capturing meaningful cross-sectional variation in annual adjusted PCE growth at the state level. As a proof of concept, we use the county-month panel to estimate heterogeneou...
-
----
-
-### [Measuring Consumption with Credit Card Data: Benchmarking and Beyond](https://arxiv.org/abs/2607.08759)
-*Aditya Aladangady, Ricardo Duque Gabriel, Carlo Wix* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation, Macroeconomics_
-
-We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards in the Federal Reserve's Y-14M reports, covering over 3,000 U.S. counties since 2014. We first show that the data closely approximate traditional consumption measures, explaining 92 percent of the variation in monthly adjusted personal consumption expenditures (PCE) growth at the national level and capturing meaningful cross-sectional variation in annual adjusted PCE growth at the state level. As a proof of concept, we use the county-month panel to estimate heterogeneou...
-
----
-
-### [A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union](https://doi.org/10.48550/arxiv.2607.08328)
-*Alonso Rodríguez‐Navarro* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation_
-
-Europe is experiencing prolonged slow growth, resulting in part from a shortage of disruptive innovations that has locked its industry into a middle technology trap. Although greater investment and deeper integration among EU member states are widely proposed as solutions, this study argues that these measures alone will be insufficient if breakthrough research is not improved. In research systems, breakthrough discoveries depend on both size and efficiency. The EU research system is constrained by a dual problem: it is substantially smaller than China's and significantly less efficient than t...
-
----
-
-### [A 'normal' research trap limits scientific breakthroughs and disruptive innovation in the European Union](https://arxiv.org/abs/2607.08328)
-*Alonso Rodríguez‐Navarro* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation_
-
-Europe is experiencing prolonged slow growth, resulting in part from a shortage of disruptive innovations that has locked its industry into a middle technology trap. Although greater investment and deeper integration among EU member states are widely proposed as solutions, this study argues that these measures alone will be insufficient if breakthrough research is not improved. In research systems, breakthrough discoveries depend on both size and efficiency. The EU research system is constrained by a dual problem: it is substantially smaller than China's and significantly less efficient than t...
-
----
-
-### [Measuring Consumption with Credit Card Data: Benchmarking and Beyond](https://doi.org/10.48550/arxiv.2607.08759)
-*Aditya Aladangady, Ricardo Duque Gabriel, Carlo Wix* — **openalex ssrn**, 2026-07-09 — _Business Economics & Innovation, Macroeconomics_
-
-We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards in the Federal Reserve's Y-14M reports, covering over 3,000 U.S. counties since 2014. We first show that the data closely approximate traditional consumption measures, explaining 92 percent of the variation in monthly adjusted personal consumption expenditures (PCE) growth at the national level and capturing meaningful cross-sectional variation in annual adjusted PCE growth at the state level. As a proof of concept, we use the county-month panel to estimate heterogeneou...
+We study the problem of efficient online proportional sampling from a high-dimensional domain under a $σ$-smoothed adversary, where the sampling distribution is induced by a dynamically evolving weight function defined over a sequence of piecewise-structured partitions. This setting captures a broad range of applications, including principal-agent games (e.g., pricing and contract design), and algorithm configuration and parameter tuning. The central challenge is maintaining an efficient data structure as the induced partition grows increasingly complex over time -- naively, the number of subr...
 
 ---
 
@@ -78,33 +29,30 @@ Large-scale traffic assignment requires equilibrium models that are both behavio
 
 ---
 
-### [Deep Learning for Dynamic Programming with Recursive Utility Using First-order Conditions](https://arxiv.org/abs/2607.09461v1)
-*Xianhua Peng, Wu Guo, Songyan Wang, Jianfei Zhu* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics, method:Machine Learning_
-
-This paper proposes the certainty-equivalent first-order learning (CEFOL) algorithm, a deep learning algorithm for solving discrete-time dynamic programming problems with recursive utility. Dynamic programming with recursive utility is challenging because nonlinear certainty equivalent appears in the Bellman equation and the first-order optimality conditions but is difficult to evaluate. By introducing a separate neural network to represent the certainty equivalent, CEFOL enables the exploitation of the Bellman and model-specific first-order optimality conditions. In addition to certainty equi...
-
----
-
-### [A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers](https://arxiv.org/abs/2607.08640v1)
-*Yechan Park* — **arxiv**, 2026-07-09 — _Health, Education & Welfare_
-
-Economic policies rarely affect only their direct targets. To study these spillovers, researchers summarize who else was treated with a simple exposure measure, such as the share of treated neighbors within a radius. But for many settings, economic theory provides little guidance on choosing the functional form (e.g., ring) of that measure or its parameters (e.g., radius). We show that the data can inform both choices. Correctly specified exposure measures imply orthogonality conditions that can be used for both estimation and testing. We establish consistency and asymptotic normality of the r...
-
----
-
-### [A Design-Based Approach to Testing and Inference in (Quasi-)Experiments with Spillovers](https://arxiv.org/abs/2607.08640)
-*Y Park* — **openalex ssrn**, 2026-07-09 — _Health, Education & Welfare_
-
-Economic policies rarely affect only their direct targets. To study these spillovers, researchers summarize who else was treated with a simple exposure measure, such as the share of treated neighbors within a radius. But for many settings, economic theory provides little guidance on choosing the functional form (e.g., ring) of that measure or its parameters (e.g., radius). We show that the data can inform both choices. Correctly specified exposure measures imply orthogonality conditions that can be used for both estimation and testing. We establish consistency and asymptotic normality of the r...
-
----
-
 ## Industrial Organization
 
 ### [Media Measurement and the Assisted Own Goal: Attribution, Marketing-Mix Models, and Individual-Level Incrementality](https://arxiv.org/abs/2607.09608v1)
 *Tobias Konitzer* — **arxiv**, 2026-07-10 — _Industrial Organization, method:RCT_
 
 We use the assisted own goal hypothesis as a lens into media measurement. A demand-generating (upper-funnel) advertising platform such as a short-video social network can cause an incremental purchase, yet see that purchase booked on -- and credited to -- a downstream trusted marketplace, because consumers who discover a product on the platform complete the transaction elsewhere, for example because of distrust of the generating platform as a psychological mechanism. Under attribution-based return-on-ad-spend (ROAS) measurement, the diverted conversions are invisible to the originating platfor...
+
+---
+
+## Labor & Demographic Economics
+
+### [Bayesian Robustness Values for Modern Causal Panel Estimators via Riesz Representations](https://arxiv.org/abs/2607.10276v1)
+*Makoto Nakakita, Takahiro Hoshino* — **arxiv**, 2026-07-11 — _Labor & Demographic Economics, method:DiD_
+
+We develop a sensitivity-analysis workflow for causal panel estimators, covering synthetic difference-in-differences, matrix completion, fixed-effect imputation, and group-time average treatment effects. The workflow combines Riesz-representation omitted-variable-bias bounds with partial-$R^2$ robustness values and separates two reporting routes. Route A gives a direct sensitivity profile for additive or projected confounding summarized by outcome-side and Riesz-side partial $R^2$ values. Route B treats observed-covariate benchmarks as auxiliary data only when benchmark-count, alpha-side align...
+
+---
+
+## Law & Economics
+
+### [It Takes Two to Tango, but More to Assess Systemic Risk: Credit Networks Through the Lens of Hypergraphs](https://arxiv.org/abs/2607.10943v1)
+*Federico D. Forte* — **arxiv**, 2026-07-12 — _Law & Economics_
+
+This paper provides the first analysis of credit relationships between financial institutions and firms through the lens of hypergraphs. Unlike traditional network approaches, which rely on pairwise connections, this framework explicitly represents the shared exposure of multiple financial institutions to the same firm as a simultaneous multilateral relationship. The approach is applied empirically to Credit Registry data from the Central Bank of Argentina, covering the period from August 2023 to December 2025 and focusing on commercial loans between banks and firms. Traditional centrality met...
 
 ---
 
@@ -119,33 +67,28 @@ Financial and economic history is strewn with bubbles and crashes, booms and bus
 
 ## Microeconomics
 
-### [Ever since Ellsberg](https://arxiv.org/abs/2607.09355v1)
-*Aluma Dembo, Shachar Kariv, Matthew Polisson, John K. -H. Quah* — **arxiv**, 2026-07-10 — _Microeconomics_
+### [When and Why Naïve Diversification Works: A Simple Diagnostic Strategy](https://arxiv.org/abs/2607.11054v1)
+*Han Feng, Difang Huang, Jue Wang, Zhengjun Zhang* — **arxiv**, 2026-07-13 — _Microeconomics_
 
-Ellsberg's famous paradox challenged Savage's subjective expected utility theory (EUT) -- which reduces uncertainty to risk -- by suggesting an aversion toward ambiguity. We provide a revealed preference test of the full set of axioms underpinning subjective EUT under uncertainty and compare it to an analogous test of objective EUT under risk. We find that individual choices are as consistent with utility maximization and expected utility maximization under uncertainty as they are under risk. Nevertheless, there is greater empirical scope for non-EUT models under uncertainty than under risk, a...
-
----
-
-### [Random Utility Model with Endogenously Assigned Menus](https://arxiv.org/abs/2607.08218v1)
-*Kai Wang* — **arxiv**, 2026-07-09 — _Microeconomics, method:RCT_
-
-There is a largely overlooked assumption underlying stochastic choice theory: menus are assigned exogenously, as if by a hidden randomized controlled trial. This assumption is not innocuous, because in many real-world settings menus are assigned endogenously according to the decision makers' preferences. This paper studies Random Utility Model under menu endogeneity and shows that any seemingly anomalous choice behavior can be generated by a population of rational decision makers with heterogeneous preferences facing endogenously assigned menus. To address this problem, I propose a new causal ...
-
----
-
-### [Random Utility Model with Endogenously Assigned Menus](https://doi.org/10.48550/arxiv.2607.08218)
-*Kai Wang* — **openalex ssrn**, 2026-07-09 — _Microeconomics, method:RCT_
-
-There is a largely overlooked assumption underlying stochastic choice theory: menus are assigned exogenously, as if by a hidden randomized controlled trial. This assumption is not innocuous, because in many real-world settings menus are assigned endogenously according to the decision makers' preferences. This paper studies Random Utility Model under menu endogeneity and shows that any seemingly anomalous choice behavior can be generated by a population of rational decision makers with heterogeneous preferences facing endogenously assigned menus. To address this problem, I propose a new causal ...
+We explain the long-standing puzzle of naïve diversification with a simple, testable condition: equal weighting is minimum-variance optimal when the forecast-error covariance matrix has a uniform eigenstructure. This "Golden Criterion" drives a two-stage adaptive strategy that dynamically blends naive and optimized weights based on the empirical distance from this condition. Applied to U.S. equity premium forecasting, the method delivers consistent out-of-sample gains in forecast accuracy, utility, and Sharpe ratios. Diversity-driven shrinkage dominates at short horizons, while optimized weigh...
 
 ---
 
 ## Political Economy
 
-### [Voting Biases in Decentralized Autonomous Organization (DAO) Governance](https://arxiv.org/abs/2607.09435v1)
-*Stefano Balietti, Pietro Saggese, Markus Strohmaier* — **arxiv**, 2026-07-10 — _Political Economy_
+### [Information Comparison of Order Statistics, with Applications to Auctions and Voting](https://arxiv.org/abs/2607.10435v1)
+*Alfredo Di Tillio, Marco Ottaviani, Peter N. Sørensen* — **arxiv**, 2026-07-11 — _Political Economy_
 
-Decentralized Autonomous Organizations (DAOs) use token-weighted voting to allocate resources, set protocol rules, and legitimate collective decisions. Yet, support in DAO voting is strikingly concentrated. What happens inside the ballot that produces this concentration? We study DAOs' governance at the proposal-choice level, linking each choice's voting-power share to three observable features: whether it expresses an approval-oriented stance, where it appears in the choice list, and whether it is selected by the proposal author. We find that (i) author-selected choices show the strongest and...
+We compare the informativeness of order statistics in a sample of conditionally independent draws from a distribution \(F(x\midθ)\) as the sample size n increases. The k-th highest of n+1 draws is more accurate than the k-th highest of n if and only if the cumulative reverse hazard -\log F(x\midθ) is log-supermodular. Symmetrically, the k-th lowest is more accurate if and only if the cumulative hazard -\log(1-F(x\midθ)) is log-supermodular. Reversals are exceptional, occurring only for experiments that are, up to increasing transformations, exponential location experiments. In large samples, m...
+
+---
+
+## Public Economics
+
+### [Diffusion of tacit knowledge in a company: a mathematical model based on diffusion on graphs](https://arxiv.org/abs/2607.10919v1)
+*Radosław A. Kycia, Agnieszka Niemczynowicz, Andrzej Buszko* — **arxiv**, 2026-07-12 — _Public Economics_
+
+This article is devoted to the process of diffusing tacit knowledge. This intangible asset has proven crucial for achieving a competitive advantage among market-oriented companies. A novel model of tacit knowledge diffusion is presented, employing the concept of heat diffusion from physics. Furthermore, graph theory and the dynamics it defines are utilized. We defined a Tacit Knowledge Transfer Graph that encodes data from questionnaires. It enables us to identify employees' learning needs, allowing for the planning of classes within the same period, such as a day, to schedule them optimally. ...
 
 ---
 
@@ -171,71 +114,134 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [From Centrality Discounts to Centrality Premia: Interoperability and Platform Competition in Social Networks](https://arxiv.org/abs/2607.09269v1)
-*Weiming Li, Jing Sun, Xinxi Song, Bin Wu* — **arxiv**, 2026-07-10 — _Unclassified_
+### [Calibrated Horizon-Weighted Local Projection Designs for Markov Switchbacks](https://arxiv.org/abs/2607.11694v1)
+*Makoto Nakakita, Teruo Nakatsuma* — **arxiv**, 2026-07-13 — _Unclassified_
 
-We study how interoperability reshapes competitive price discrimination when consumers are embedded in a social network. Two differentiated platforms set personalized prices; consumers benefit from neighbors' consumption of the same platform and, under interoperability, of the rival. Equilibrium prices obtain in closed form for arbitrary networks and contain a network-position term, proportional to Katz-Bonacich centrality, whose sign is determined by whether interoperability exceeds product substitutability. Below this threshold, platforms contest central consumers and grant centrality discou...
-
----
-
-### [Sharing economy in the era of full automation: Evidence from autonomous vehicle on-demand mobility services](https://arxiv.org/abs/2607.08610v1)
-*Xiaoyan Wang, Kenan Zhang, Yaochen Ma* — **arxiv**, 2026-07-09 — _Unclassified_
-
-The digital age has facilitated the sharing of underutilized assets. This paper focuses on privately owned autonomous vehicles (AVs), a unique class of robots that can move independently and provide transportation services. When not in personal use, private AV owners can lease their vehicles to a platform that operates an on-demand mobility service (MoD). We refer to this service as AV crowdsourcing, and develop a time-expanded network flow model that captures temporal and spatial heterogeneity in AV usage of both owners and passengers while preserving analytical tractability. We analyze the c...
+We study temporal assignment design for Markov switchback experiments when the reported object is a dynamic local-projection target. We develop a calibrated selector that chooses the feasible persistence minimizing the covariance, HAC, residual-bootstrap, or realized-schedule risk of the estimator and reporting object specified before the experiment. A balanced homoskedastic Markov benchmark yields a closed form because the lagged-assignment information matrix is AR(1)-Toeplitz with a tridiagonal inverse. The benchmark maps local-projection reporting weights into persistence recommendations wi...
 
 ---
 
-### [Sufficientarian Grading Rules and Rankings: Characterizations and Implementation](https://arxiv.org/abs/2607.08293v1)
-*Marcello Basili, Ernesto Savaglio, Stefano Vannucci* — **arxiv**, 2026-07-09 — _Unclassified_
+### [Robust Welfare Decentralization under Population Entry](https://arxiv.org/abs/2607.11658v1)
+*Yi-You Yang* — **arxiv**, 2026-07-13 — _Unclassified_
 
-Sufficientarian grading rules are defined using a finite family of sufficientarian judgements on individual capability assignments as embodied in a sufficientarian binary grading function (BGF). Both sufficientarian grading rules and the sufficientarian total preorders on capability-type assignments they induce are characterized. Moreover, several further total preorders based upon sufficiency-gap information provided by a sufficientarian grading rule are explicitly defined and some of them are also characterized. It is also shown that there exists a class of inclusive, unanimity-respecting an...
-
----
-
-### [Estimating the Stochastic Discount Factor from Option Prices and Predicting the Equity Premium](https://arxiv.org/abs/2607.08500)
-*Kenichiro Shiraya, Tomohisa Yamakami, A. Yamazaki* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-This paper proposes a stochastic discount factor (SDF) scaled by time-varying volatility. By utilizing prices and market data implied solely from S\&P 500 options, the proposed framework recovers a stable, non-monotonic SDF that captures the pure forward-looking expectations of market participants while mitigating observation noise. Our empirical analysis reveals that the SDF exhibits a distinctive hump on the shallow put side, which transitions into a more clearly defined W-shape as the time to maturity increases, identifying maturity as a key factor influencing the intensity of the central h...
+We ask when an incumbent economy with indivisible goods can accommodate an arbitrary new participant while retaining an efficient allocation supported by anonymous item prices. We call this property universal entry robustness. An economy is universally entry-robust if and only if its aggregate welfare valuation is additive. Although the requirement quantifies over all entrant valuations, it can be tested using one canonical entrant whose value for a bundle equals the loss in maximal incumbent welfare caused by removing that bundle. When the characterization holds, one uniquely determined price...
 
 ---
 
-### [Rumour Spreading In Community Based Networks](https://arxiv.org/abs/2607.08546)
-*Zhaoxi Cui, Anthony O’Hare* — **openalex ssrn**, 2026-07-09 — _Unclassified_
+### [From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240v1)
+*Jingyu Liu, Bolin Zhang, Lin William Cong, Siguang Li et al.* — **arxiv**, 2026-07-13 — _Unclassified_
 
-Many real-world networks have the characteristic that they are comprised of distinct groups or communities whose members contain many links within the community but with fewer connections to others. It is important to accurately model these types of networks to correctly predict the outcome of important spreading processes such as disease transmission, or the flow of information etc. Our motivating example is a network of traders within several investment institutions such as hedge funds. We assume an idealised scenario where traders within the same institution have many contacts and can share...
-
----
-
-### [Multi-Sender Bayesian Persuasion with Imperfect Information](https://arxiv.org/abs/2607.08675)
-*Andra Siva Sai Teja, Ganesh Ghalme, Sujit Gujar* — **openalex ssrn**, 2026-07-09 — _Unclassified_
-
-We study a multi-sender Bayesian persuasion problem with one receiver and several strategic senders. The underlying ground state has multiple components, each privately observed by a different sender, while the receiver holds a common prior over the joint state space. Senders simultaneously choose signaling policies, and the receiver takes an action based on the posterior induced by the signals; each is sampled independently from the sender's signaling policy. We analyze the game induced by the receiver's straightforward policy, which selects a receiver-optimal action at every posterior. In pa...
+Ethereum's Glamsterdam upgrade introduces enshrined proposer-builder separation (ePBS), replacing relay-centric PBS with direct builder bids to proposers. We study how this shift changes the block-building microstructure through a general imperfect-information two-stage auction with verifiable messages, where an early bid serves as both a price offer and a signal. PBS and ePBS are modeled as restrictions of the same block-building game: PBS fixes stopping and disclosure exogenously, while ePBS lets the proposer choose stopping and disclosure ex post. Latency heterogeneity is captured by asymme...
 
 ---
 
-## method:Field Experiment
+### [Network games with three types of players](https://arxiv.org/abs/2607.10997v1)
+*Shan Pei, Wenjie Cao, Boyu Zhang* — **arxiv**, 2026-07-13 — _Unclassified_
 
-### [Directional AI Advice: Experimental Evidence from Healthcare](https://arxiv.org/abs/2607.08706v1)
-*Yuyu Chen, Hongbin Li, Lingsheng Meng, Xinyao Qiu et al.* — **arxiv**, 2026-07-09 — _method:Field Experiment_
-
-Generative AI is fast becoming the first place people turn for expert advice. The advice it provides can be directional rather than neutral, shaped in part by the choices of its designers and regulators. When clients consult AI before meeting an expert, they carry this directional advice into a relationship that once rested on the expert's judgment alone. We study its consequences in healthcare through a large-scale preregistered field experiment at a Chinese hospital, where we randomize patients' access to an AI chatbot before their outpatient visit. Examination of the conversation logs shows...
+In this paper, we analyze a multi-strategy network game with three types of players, conformists, rebels, and stubborn agents. Conformists adopt the strategy that is most common among their neighbors, rebels adopt the least common, and stubborn agents adhere to a fixed strategy. We study the existence and structure of pure strategy Nash equilibrium (PNE). On arbitrary networks, we establish sufficient conditions for PNE existence, and we prove that in large random networks PNE almost surely fails to exist. For several specific network architectures, such as complete network, lines, rings, tree...
 
 ---
 
-## method:RCT
+### [Not All Family Firms Are Alike: How Founder-Led and Governance-Entrenched Family Control Shape the Trading Environment Around the Firm](https://arxiv.org/abs/2607.10876v1)
+*Douglas Cumming, Esteban Hernandez, Shan Ji* — **arxiv**, 2026-07-12 — _Unclassified_
 
-### [Misspecified regressions with mixed regressors: robust inference and causal interpretation](https://arxiv.org/abs/2607.09536v1)
-*Mengsi Gao, Peng Ding* — **arxiv**, 2026-07-10 — _method:RCT_
-
-For analytic convenience, existing statistical frameworks either assume random or fixed regressors. However, it is a little awkward that they do not cover the practical case of estimating the average treatment effect in experiments with randomized treatments and non-randomized, fixed pretreatment covariates. We unify the literature by providing the theory for regressions with mixed regressors that contain both random and fixed components. Importantly, our theory allows for misspecification of the regression functions. We first establish general results for estimating equations with both random...
+Family-firm scholarship offers competing predictions about whether family control protects or threatens market integrity. We argue that the answer depends on how family involvement is exercised. Drawing on socioemotional wealth and agency-entrenchment perspectives, we examine 8,634 U.S. firm-years (2007-2018) and link family-firm constructs to exchange-generated surveillance flags from NASDAQ SMARTS. Founder-CEO control is associated with approximately 9.5% fewer flags, family governance involvement with 21.3% more, and deep multi-generational family control with 47.1% more. The findings revea...
 
 ---
 
-## method:Theory
+### [Top Trading Cycles in Large Markets: The Asymptotic Irrelevance of Priorities](https://arxiv.org/abs/2607.10819v1)
+*Yeon-Koo Che, Olivier Tercieux* — **arxiv**, 2026-07-12 — _Unclassified_
 
-### [From Rules to Nash Equilibria: A Lean 4 Case Study in Game-Theoretic Analysis of a Competitive Trading Card Game](https://doi.org/10.48550/arxiv.2607.08692)
-*Arthur F. Ramos, Tulio Soria* — **openalex ssrn**, 2026-07-09 — _method:Theory_
+Top Trading Cycles (TTC) is Pareto efficient and strategy-proof and explicitly uses agents' priorities. Although TTC favors higher-priority agents in each round, we show that this priority advantage vanishes as the market grows large under a canonical random model of preferences and priorities. In the limit, TTC produces assignments with virtually the same incidence of justified envy as Random Serial Dictatorship (RSD) -- a mechanism entirely blind to priorities. This stark asymptotic equivalence implies that TTC effectively fails to satisfy standard fairness criteria in large markets, casting...
 
-We present a metagame analysis of the competitive Pokemon Trading Card Game, machine-checked in Lean 4 over real tournament data. The headline game-theoretic results, including Nash equilibrium, replicator dynamics, and the matrix-level type-bridge computation, rely on native_decide, which trusts Lean's compiler rather than its kernel; the trust boundary is made explicit. The artifact spans approximately 31,900 lines, 87 files, and 2,627 theorems, of which roughly 200 directly verify empirical claims, with no sorry, admit, or custom axioms. Analyzing Trainer Hill data from January to February ...
+---
+
+### [Doctor-Optimal Stability in Unitary Many-to-Many Markets](https://arxiv.org/abs/2607.10756v1)
+*Yi-You Yang* — **arxiv**, 2026-07-12 — _Unclassified_
+
+We study bilaterally unitary many-to-many doctor--hospital matching with contracts, taking choice functions as primitives. Doctor choices are substitutable and satisfy irrelevance of rejected contracts, while hospital choices are unilaterally substitutable and satisfy the same condition. Every trajectory of the doctor-proposing cumulative offer process terminates at the greatest stable allocation under the doctor Blair order. We also introduce weakly hospital-quasi-stable allocations and show that they form a finite lattice whose greatest element is stable. Hence, the cumulative-offer outcome,...
+
+---
+
+### [Dynamically Consistent Statistical Decisions](https://arxiv.org/abs/2607.10519v1)
+*Cheaheon Lim, Yechan Park* — **arxiv**, 2026-07-12 — _Unclassified_
+
+A large literature in econometrics proposes decision rules with optimality guarantees based on ex ante criteria, such as minimax regret. We develop a framework for analyzing the dynamic consistency of such rules and show that, in many empirically relevant settings, the researcher may wish to deviate from the interim prescription of ex ante optimal rules after observing the data realization. To address this problem, we propose and axiomatize two classes of optimality criteria that yield dynamically consistent decision rules.
+
+---
+
+### [Learning from an Unknown DGP: Experimental Evidence on Belief Updating with AI Recommendations](https://arxiv.org/abs/2607.10460v1)
+*Matthew Kovach, Daniel Martin, Gerelt Tserenjigmid* — **arxiv**, 2026-07-11 — _Unclassified_
+
+We use a controlled experiment to study how beliefs are updated after receiving qualitative information (AI recommendations) from an unknown data-generating process (DGP). Across 60,252 pairs of prior and posterior beliefs, we document three behavioral patterns: updates close to zero when recommendations confirm extreme priors, larger updates when recommendations contradict extreme priors, and smaller updates for intermediate priors. These three behavioral patterns suggest four testable properties of belief updating, which we assess at the aggregate and individual levels. Finally, we examine h...
+
+---
+
+### [Prices and Competition in Vertically Integrated Launch Markets](https://arxiv.org/abs/2607.10385v1)
+*Akhil Rao* — **arxiv**, 2026-07-11 — _Unclassified_
+
+Over the last 15 years the number of U.S. orbital launches has grown by roughly an order of magnitude. About three-quarters of those launches were on SpaceX's Falcon 9 vehicle, and roughly three-fifths of those Falcon launches deployed SpaceX's own Starlink constellation. A back-of-envelope Wright's law calculation suggests this increase in experience should have driven the Falcon 9's real launch cost down by roughly 70\% over 2012--2026. Yet over the same period the advertised price fell by less than 6\% in real terms. Why? I develop a simple model of competition and vertical integration betw...
+
+---
+
+### [Whom Should a Platform Amplify? Truth, Engagement, and Networked Polarization](https://arxiv.org/abs/2607.10228v1)
+*Zaruhi Hakobyan* — **arxiv**, 2026-07-11 — _Unclassified_
+
+Social-media platforms allocate reach, deciding whose content becomes widely visible. We study this as feed/reference design in a networked coordination game where users track an unknown state, coordinate with others, and hold biased ideal actions. Amplification changes both who receives information and who becomes a salient coordination reference. Making a private signal commonly observed adds a second common signal and removes the usual non-monotonicity of truth-tracking accuracy in public-signal precision; under a broadcast budget, accuracy depends only on total amplified precision. For any...
+
+---
+
+### [Bifurcation mechanism at a sustain point of a long narrow economy](https://arxiv.org/abs/2607.10204v1)
+*Kyiohiro Ikeda, Hiroki Aizawa, José M. Gaspar* — **arxiv**, 2026-07-11 — _Unclassified_
+
+We investigate population agglomeration in a long narrow economy, in which an odd number of places are evenly distributed over a line segment. The bifurcation analysis of this economy elucidates the mechanism of the emergence of twin cities around the central city. The validity and usefulness of this analysis are confirmed using several well-known economic geography models that display various kinds of bifurcation behaviors. By this analysis, we investigate the historical change in the population distribution in a chain of cities on Japan's Main Island.
+
+---
+
+### [Scoring Rules as Least-Squares Estimators](https://arxiv.org/abs/2607.10145v1)
+*Satoru Fujishige, Satoshi Nakada* — **arxiv**, 2026-07-11 — _Unclassified_
+
+Kawada (2018) proved that every scoring rule is equivalent to the corresponding cosine similarity rule. The original proof relies on a direct analysis of the cosine similarity optimization problem. In this note, we present an alternative, simpler proof based on a basic least-squares characterization. Our argument shows that the arithmetic mean of the score vectors is the unique minimizer of the total squared Euclidean distance and that the cosine similarity formulation is an immediate consequence of this optimization property. This result provides a transparent geometric interpretation of scor...
+
+---
+
+### [Fair Division with Binary Valuations: Characterizations](https://arxiv.org/abs/2607.10064v1)
+*Florian Brandl, Warut Suksompong, Nicholas Teh* — **arxiv**, 2026-07-11 — _Unclassified_
+
+We consider the fair allocation of indivisible goods with binary valuations. In this setting, the maximum Nash welfare rule, the leximin rule, and all additive welfarist rules with a strictly concave function coincide. We show that for any number of agents, this rule is the only rule that satisfies envy-freeness up to one good, strategyproofness, neutrality, minimal completeness, and invariance under disapproving unassigned goods (IDU). Moreover, we present an alternative characterization for two agents, where we replace IDU with non-redundancy and resource-monotonicity. In both characterizati...
+
+---
+
+## method:DiD
+
+### [Local Asymptotic Power of Honest Confidence Intervals](https://arxiv.org/abs/2607.10558v1)
+*Hugo Freeman* — **arxiv**, 2026-07-12 — _method:DiD_
+
+Confidence intervals that are conservative against an untestable bias, called bias-aware or honest, are now standard in DiD, IV, RD, and factor-model settings. This paper characterises the local power of the tests they induce. Power is governed by the rate of the bias bound relative to the sampling rate, giving three regimes: when the bound vanishes faster than the standard error, conservatism is asymptotically free; when the two are of the same order it costs a bounded, explicit amount; and when the bound dominates, the typical case at the parametric rate, the honest test has zero local power...
+
+---
+
+### [Inference for Fixed Effects Estimators when Panels are Unbalanced](https://arxiv.org/abs/2607.10246v1)
+*Daniel Czarnowske, Amrei Stammann* — **arxiv**, 2026-07-11 — _method:DiD_
+
+We derive the asymptotic properties of two-way fixed effects M-estimators with missing observations in an asymptotic framework in which the numbers of cross-sectional units and time periods grow jointly. We allow the selection process to be deterministic (conditional on the unobserved effects and initial conditions), stochastic, or mixed, and we impose only a conditional mean restriction. The uncorrected estimators are asymptotically normal but not centered at zero, suffering from incidental parameter and feedback biases. Feedback bias can be induced by predetermined regressors in the outcome ...
+
+---
+
+## method:IV
+
+### [Network-Adjusted GMM Estimation under Network Uncertainty](https://arxiv.org/abs/2607.10613v1)
+*Tadao Hoshino* — **arxiv**, 2026-07-12 — _method:IV_
+
+This paper proposes a network-adjusted generalized method of moments (NA-GMM) estimator for social interaction models when the observed network may differ from the true interaction network. NA-GMM is a novel penalized GMM approach that allows the elements of the observed interaction matrix to be modified to improve the fit of the moment conditions. To avoid unrestricted network adjustments, the NA-GMM criterion introduces a penalty on the amount of adjustment. Since NA-GMM does not aim to estimate the true interaction network itself, the estimator generally converges to a pseudo-true parameter...
+
+---
+
+## method:Structural
+
+### [Can looser ties sustain marriage? A dynamic matching model of specialisation and divorce](https://arxiv.org/abs/2607.11268v1)
+*Stefan Hubner, Jan Kabatek* — **arxiv**, 2026-07-13 — _method:Structural_
+
+Durable marriages are presumed to foster the household specialisation that marriage enables. We exploit a recent Dutch reform that temporarily lowered the cost of divorce while leaving consent requirements unchanged. We embed divorce hazards obtained from population-level administrative data into a dynamic structural matching model in which individuals repeatedly match and choose marital roles. We identify the structural parameters by fitting the model to the equilibrium matching distribution over time, using a novel computational approach. Compared to the high-cost counterfactual, we find tha...
 
 ---
