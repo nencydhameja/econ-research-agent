@@ -1,17 +1,31 @@
-# Economics Research Digest — 2026-07-14
+# Economics Research Digest — 2026-07-15
 
-Window: last **30 days** · 30 papers across 14 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 12 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Regional Economic Impacts of the Just Energy Transition: Lessons for Coal Regions](https://arxiv.org/abs/2607.09589v1)
-*Imke Rhoden, Jae-Hyuck Lee* — **arxiv**, 2026-07-10 — _Agricultural & Environmental Economics, Labor & Demographic Economics, Public Economics_
+### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v1)
+*Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
 
-The coal phase-out's regional economic impact is a key challenge of the energy transition, as employment and fiscal dependence in coal regions face structural adjustment without automatic market solutions. Analyzing European Union NUTS 2 regions from 2000-2022 with fixed effects and clustered errors, coal regions show a consistent 1.1 percentage points unemployment premium and grow faster in gross domestic product per capita at 0.2 percentage points annually, indicating a hollowing-out process where population exit raises per-capita output while employment conditions worsen. Spatial analysis s...
+Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
+
+---
+
+### [Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics](https://arxiv.org/abs/2607.12414v1)
+*Andrew G. Ross, Julia Gershenzon, Andreas Kleefeld* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
+
+Assessments of structural change and economic transition dynamics, such as those arising in the energy transition, depend on internally consistent qualitative scenarios specifying the policy environment, technology mix, governance arrangements, and demand conditions. Cross-Impact Balance (CIB) analysis derives such socio-technical scenarios as fixed-point attractors of an expert-elicited interdependency network, supplying structural inputs upon which assessment models (including energy system optimisation, agent-based, and general equilibrium frameworks) can draw. Standard CIB, however, delive...
 
 ---
 
 ## Business Economics & Innovation
+
+### [Bivariate Isotonic Regression by Dynamic Programming](https://arxiv.org/abs/2607.12629v1)
+*Pedro Afonso Fernandes* — **arxiv**, 2026-07-14 — _Business Economics & Innovation, Industrial Organization, Macroeconomics_
+
+This article extends the dynamic programming framework introduced by (Rote, 2019) from the univariate to the bivariate isotonic problem, using an anti-diagonal traversal procedure. The proposed algorithm is applied to the well-known baseball data set that describes the association of salary with a collection of player properties, including the number of runs batted and hits. The new algorithm is relevant in the sense that dynamic programming has a wide range of applications in economics, such as the savings problem, economic growth, job search, business cycles, oligopoly equilibrium, recursive...
+
+---
 
 ### [Efficient Online Proportional Sampling with Applications to Smoothed Online Learning](https://arxiv.org/abs/2607.10963v1)
 *Amirmahdi Mirfakhar, Maria-Florina Balcan, Hedyeh Beyhaghi* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
@@ -20,30 +34,35 @@ We study the problem of efficient online proportional sampling from a high-dimen
 
 ---
 
-## Health, Education & Welfare
+### [Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor](https://arxiv.org/abs/2607.12219v1)
+*Burhan Ogut, Michelle Yin* — **arxiv**, 2026-07-13 — _Business Economics & Innovation, Labor & Demographic Economics_
 
-### [Perturbed utility Markovian traffic equilibrium: theory and computation](https://arxiv.org/abs/2607.09568v1)
-*Rui Yao, Kenan Zhang* — **arxiv**, 2026-07-10 — _Health, Education & Welfare, Microeconomics_
-
-Large-scale traffic assignment requires equilibrium models that are both behaviorally plausible and computationally tractable. This paper develops a perturbed utility Markovian equilibrium (PUME) framework that preserves the scalability of link-based Markovian traffic equilibrium models and extends their applicability to settings with boundary choice probabilities, undiscounted network loading, and general link interactions. As the behavioral basis of PUME, we first develop the perturbed utility Markovian choice model (PUMCM) in which the Bellman optimality operator is defined through a convex...
+We study linear regression when the regressor is latent and observed only through multiple noisy measurements, each a smooth but possibly nonlinear function of the latent variable. The problem is acute in the measurement of occupational exposure to artificial intelligence, where competing scores yield downstream estimates that differ by a factor of eleven. A regression on any single measurement recovers a source-specific coefficient rather than the structural one. We fix the latent scale by requiring the consensus measurement function to be linear and bound the remaining curvature heterogeneit...
 
 ---
 
-## Industrial Organization
+### [Removable Defects: The Economics and Limits of Deliberate Deficiency](https://arxiv.org/abs/2607.11983v1)
+*Cheng Qian* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
 
-### [Media Measurement and the Assisted Own Goal: Attribution, Marketing-Mix Models, and Individual-Level Incrementality](https://arxiv.org/abs/2607.09608v1)
-*Tobias Konitzer* — **arxiv**, 2026-07-10 — _Industrial Organization, method:RCT_
-
-We use the assisted own goal hypothesis as a lens into media measurement. A demand-generating (upper-funnel) advertising platform such as a short-video social network can cause an incremental purchase, yet see that purchase booked on -- and credited to -- a downstream trusted marketplace, because consumers who discover a product on the platform complete the transaction elsewhere, for example because of distrust of the generating platform as a psychological mechanism. Under attribution-based return-on-ad-spend (ROAS) measurement, the diverted conversions are invisible to the originating platfor...
+A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be fatal, by routing to a compensation channel. We give three results. First, an advantage condition under which keeping the deficiency is a computable economic position; structurally it is the Ehrlich-Becker market-vs-self-insurance margin applied to a competence gap, with the detector as a Townsend costly-state-verification technology. Second, a tw...
 
 ---
 
-## Labor & Demographic Economics
+## Econometrics & Methods
 
-### [Bayesian Robustness Values for Modern Causal Panel Estimators via Riesz Representations](https://arxiv.org/abs/2607.10276v1)
-*Makoto Nakakita, Takahiro Hoshino* — **arxiv**, 2026-07-11 — _Labor & Demographic Economics, method:DiD_
+### [Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach](https://arxiv.org/abs/2607.12345v1)
+*Catherine Chen, Chen Gao, Jonathon Hazell, Lihua Lei et al.* — **arxiv**, 2026-07-14 — _Econometrics & Methods, Macroeconomics, method:Machine Learning_
 
-We develop a sensitivity-analysis workflow for causal panel estimators, covering synthetic difference-in-differences, matrix completion, fixed-effect imputation, and group-time average treatment effects. The workflow combines Riesz-representation omitted-variable-bias bounds with partial-$R^2$ robustness values and separates two reporting routes. Route A gives a direct sensitivity profile for additive or projected confounding summarized by outcome-side and Riesz-side partial $R^2$ values. Route B treats observed-covariate benchmarks as auxiliary data only when benchmark-count, alpha-side align...
+Does microeconomic heterogeneity help to forecast aggregate inflation in a non-stationary environment? We develop a scan test for whether one forecast outperforms another, over an interval with unknown starting point and duration. To exploit any occasional forecasting power that the scan test detects, we design an adaptive machine learning pipeline. We encode the distribution of price changes into a high-dimensional vector, which we combine with a gradient boosted trees algorithm. We then combine this micro forecast with other benchmark forecasts, using an adaptive algorithm that makes use of ...
+
+---
+
+## Financial Economics
+
+### [KRAFT: A Transaction-Level Dataset for Korean Apartment Sales Integrated with Contextual Indicators](https://arxiv.org/abs/2607.11961v1)
+*Sejin Myung, Hyungjoon Kim* — **arxiv**, 2026-07-12 — _Financial Economics, Health, Education & Welfare, Urban, Rural & Regional Economics_
+
+Apartment transaction records are useful for studying housing markets, household finance, regional economics, and macro-financial transmission, but transaction data are often distributed separately from contextual socioeconomic indicators. We present KRAFT, a nationwide transaction-level dataset of South Korean apartment sales from January 2015 to December 2024. The dataset contains 5,320,379 apartment sale transactions across all 17 Sido regions and includes transaction timing, administrative location, exclusive residential area, reported transaction price, floor level, and construction year....
 
 ---
 
@@ -56,30 +75,12 @@ This paper provides the first analysis of credit relationships between financial
 
 ---
 
-## Macroeconomics
-
-### [Non-Equilibrium Economics: A Physicist's Point of View](https://arxiv.org/abs/2607.09620v1)
-*Jean-Philippe Bouchaud* — **arxiv**, 2026-07-10 — _Macroeconomics, method:Natural Experiment_
-
-Financial and economic history is strewn with bubbles and crashes, booms and busts, crises and upheavals of all sorts. Understanding the origin of these events is arguably one of the most important problems in economic theory: are economies intrinsically unstable, and can one ``stabilize unstable economies''? In this review I argue, from a physicist's vantage point, that the concept of equilibrium -- so central to mainstream economic thinking -- is likely to be the exception rather than the rule in large, complex, interacting systems. Drawing on a series of stylized ``toy'' models, I show how ...
-
----
-
 ## Microeconomics
 
 ### [When and Why Naïve Diversification Works: A Simple Diagnostic Strategy](https://arxiv.org/abs/2607.11054v1)
 *Han Feng, Difang Huang, Jue Wang, Zhengjun Zhang* — **arxiv**, 2026-07-13 — _Microeconomics_
 
 We explain the long-standing puzzle of naïve diversification with a simple, testable condition: equal weighting is minimum-variance optimal when the forecast-error covariance matrix has a uniform eigenstructure. This "Golden Criterion" drives a two-stage adaptive strategy that dynamically blends naive and optimized weights based on the empirical distance from this condition. Applied to U.S. equity premium forecasting, the method delivers consistent out-of-sample gains in forecast accuracy, utility, and Sharpe ratios. Diversity-driven shrinkage dominates at short horizons, while optimized weigh...
-
----
-
-## Political Economy
-
-### [Information Comparison of Order Statistics, with Applications to Auctions and Voting](https://arxiv.org/abs/2607.10435v1)
-*Alfredo Di Tillio, Marco Ottaviani, Peter N. Sørensen* — **arxiv**, 2026-07-11 — _Political Economy_
-
-We compare the informativeness of order statistics in a sample of conditionally independent draws from a distribution \(F(x\midθ)\) as the sample size n increases. The k-th highest of n+1 draws is more accurate than the k-th highest of n if and only if the cumulative reverse hazard -\log F(x\midθ) is log-supermodular. Symmetrically, the k-th lowest is more accurate if and only if the cumulative hazard -\log(1-F(x\midθ)) is log-supermodular. Reversals are exceptional, occurring only for experiments that are, up to increasing transformations, exponential location experiments. In large samples, m...
 
 ---
 
@@ -111,6 +112,41 @@ MARTIN KANZ,
 LEORA KLAPPER* — **Journal of Finance**, 2026-06-17 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [Orthogonal Integrated Conditional Moment Tests for Treatment Effect Heterogeneity](https://arxiv.org/abs/2607.12622v1)
+*Haokun Lu, Xiaojun Song* — **arxiv**, 2026-07-14 — _Unclassified_
+
+We propose a nonparametric integrated conditional moment (ICM) test for treatment effect heterogeneity across subpopulations defined by a given covariate subvector. Under unconfoundedness, the null is recast as a conditional moment restriction based on a Neyman-orthogonal score, which reduces the first-order sensitivity of the empirical process to nuisance parameter estimation. The test statistics are constructed as continuous functionals of a marked empirical process. We establish a uniform feasible-to-oracle approximation and derive the asymptotic properties of these test statistics under th...
+
+---
+
+### [The Limits of Price Discrimination with a Bayesian Seller](https://arxiv.org/abs/2607.12615v1)
+*Yuan Deng, Yilin Li, Wei Tang, Hanrui Zhang* — **arxiv**, 2026-07-14 — _Unclassified_
+
+We study the limits of third-degree price discrimination when the production cost is Bayesian and private to the seller, generalizing the seminal work of Bergemann, Brooks and Morris (2015). The rough setup is the following: A monopoly seller sets different prices for buyers in different "segments" of the market so as to maximize seller surplus. Different ways in which the aggregate market is decomposed into segments lead to different welfare outcomes, i.e., (seller surplus, buyer surplus) pairs. When the production cost is Bayesian, the region of achievable welfare outcomes can exhibit comple...
+
+---
+
+### [Interpreting (and testing) factor loadings](https://arxiv.org/abs/2607.12568v1)
+*A. Montañés, E. Ruiz* — **arxiv**, 2026-07-14 — _Unclassified_
+
+Dynamic Factor Models (DFMs) are popular to reduce dimensionality being customary in the empirical analysis of large systems of macroeconomic and/or financial variables. In this context, the common underlying factors and their loadings are often extracted using Principal Components (PC), which are consistent and asymptotically normal under very general conditions. Consequently, inference on the factor loadings, which is crucial for the correct interpretation of the underlying factors, is often based on their asymptotic distribution with the limit covariance matrix of the loadings consistently ...
+
+---
+
+### [Choice at Finite Capacity: The Bounded Agent as an Information Channel and the Recovery of Walrasian Demand](https://arxiv.org/abs/2607.12412v1)
+*Avishek Bhandari* — **arxiv**, 2026-07-14 — _Unclassified_
+
+Standard economics assumes the consumer as a flawless calculator who always buys the best basket it can afford. This paper models the shopper instead as a limited information channel: it compresses its world to the detail its attention affords, so its choice is a probability distribution, not a single basket. The textbook consumer returns exactly as the unlimited-attention limit, while at the zero-attention end the shopper falls back on pure habit. The central result is about how this shopper's demand responds to price changes. That pattern of responses is just a rescaling of how the shopper's...
+
+---
+
+### [First They Came for the Others: A Theory of Divide-and-Conquer](https://arxiv.org/abs/2607.12371v1)
+*Yeon-Koo Che, Jinyuqi Huang, Wooyoung Lim* — **arxiv**, 2026-07-14 — _Unclassified_
+
+Divide-and-conquer tactics often succeed not through mechanical coordination failures, but through epistemic friction regarding an aggressor's underlying intent. When an attacker strikes a first target, bystanders must infer whether the assault represents a localized grievance or a systemic campaign. If the attack is rationally interpreted as particularized, bystanders abstain, prompting the isolated victim to surrender. We demonstrate how higher attack costs and lower correlation between victims' fates facilitate this division. We then study how behavioral responses, rhetoric, treaty commitme...
 
 ---
 
@@ -170,61 +206,12 @@ A large literature in econometrics proposes decision rules with optimality guara
 
 ---
 
-### [Learning from an Unknown DGP: Experimental Evidence on Belief Updating with AI Recommendations](https://arxiv.org/abs/2607.10460v1)
-*Matthew Kovach, Daniel Martin, Gerelt Tserenjigmid* — **arxiv**, 2026-07-11 — _Unclassified_
-
-We use a controlled experiment to study how beliefs are updated after receiving qualitative information (AI recommendations) from an unknown data-generating process (DGP). Across 60,252 pairs of prior and posterior beliefs, we document three behavioral patterns: updates close to zero when recommendations confirm extreme priors, larger updates when recommendations contradict extreme priors, and smaller updates for intermediate priors. These three behavioral patterns suggest four testable properties of belief updating, which we assess at the aggregate and individual levels. Finally, we examine h...
-
----
-
-### [Prices and Competition in Vertically Integrated Launch Markets](https://arxiv.org/abs/2607.10385v1)
-*Akhil Rao* — **arxiv**, 2026-07-11 — _Unclassified_
-
-Over the last 15 years the number of U.S. orbital launches has grown by roughly an order of magnitude. About three-quarters of those launches were on SpaceX's Falcon 9 vehicle, and roughly three-fifths of those Falcon launches deployed SpaceX's own Starlink constellation. A back-of-envelope Wright's law calculation suggests this increase in experience should have driven the Falcon 9's real launch cost down by roughly 70\% over 2012--2026. Yet over the same period the advertised price fell by less than 6\% in real terms. Why? I develop a simple model of competition and vertical integration betw...
-
----
-
-### [Whom Should a Platform Amplify? Truth, Engagement, and Networked Polarization](https://arxiv.org/abs/2607.10228v1)
-*Zaruhi Hakobyan* — **arxiv**, 2026-07-11 — _Unclassified_
-
-Social-media platforms allocate reach, deciding whose content becomes widely visible. We study this as feed/reference design in a networked coordination game where users track an unknown state, coordinate with others, and hold biased ideal actions. Amplification changes both who receives information and who becomes a salient coordination reference. Making a private signal commonly observed adds a second common signal and removes the usual non-monotonicity of truth-tracking accuracy in public-signal precision; under a broadcast budget, accuracy depends only on total amplified precision. For any...
-
----
-
-### [Bifurcation mechanism at a sustain point of a long narrow economy](https://arxiv.org/abs/2607.10204v1)
-*Kyiohiro Ikeda, Hiroki Aizawa, José M. Gaspar* — **arxiv**, 2026-07-11 — _Unclassified_
-
-We investigate population agglomeration in a long narrow economy, in which an odd number of places are evenly distributed over a line segment. The bifurcation analysis of this economy elucidates the mechanism of the emergence of twin cities around the central city. The validity and usefulness of this analysis are confirmed using several well-known economic geography models that display various kinds of bifurcation behaviors. By this analysis, we investigate the historical change in the population distribution in a chain of cities on Japan's Main Island.
-
----
-
-### [Scoring Rules as Least-Squares Estimators](https://arxiv.org/abs/2607.10145v1)
-*Satoru Fujishige, Satoshi Nakada* — **arxiv**, 2026-07-11 — _Unclassified_
-
-Kawada (2018) proved that every scoring rule is equivalent to the corresponding cosine similarity rule. The original proof relies on a direct analysis of the cosine similarity optimization problem. In this note, we present an alternative, simpler proof based on a basic least-squares characterization. Our argument shows that the arithmetic mean of the score vectors is the unique minimizer of the total squared Euclidean distance and that the cosine similarity formulation is an immediate consequence of this optimization property. This result provides a transparent geometric interpretation of scor...
-
----
-
-### [Fair Division with Binary Valuations: Characterizations](https://arxiv.org/abs/2607.10064v1)
-*Florian Brandl, Warut Suksompong, Nicholas Teh* — **arxiv**, 2026-07-11 — _Unclassified_
-
-We consider the fair allocation of indivisible goods with binary valuations. In this setting, the maximum Nash welfare rule, the leximin rule, and all additive welfarist rules with a strictly concave function coincide. We show that for any number of agents, this rule is the only rule that satisfies envy-freeness up to one good, strategyproofness, neutrality, minimal completeness, and invariance under disapproving unassigned goods (IDU). Moreover, we present an alternative characterization for two agents, where we replace IDU with non-redundancy and resource-monotonicity. In both characterizati...
-
----
-
 ## method:DiD
 
 ### [Local Asymptotic Power of Honest Confidence Intervals](https://arxiv.org/abs/2607.10558v1)
 *Hugo Freeman* — **arxiv**, 2026-07-12 — _method:DiD_
 
 Confidence intervals that are conservative against an untestable bias, called bias-aware or honest, are now standard in DiD, IV, RD, and factor-model settings. This paper characterises the local power of the tests they induce. Power is governed by the rate of the bias bound relative to the sampling rate, giving three regimes: when the bound vanishes faster than the standard error, conservatism is asymptotically free; when the two are of the same order it costs a bounded, explicit amount; and when the bound dominates, the typical case at the parametric rate, the honest test has zero local power...
-
----
-
-### [Inference for Fixed Effects Estimators when Panels are Unbalanced](https://arxiv.org/abs/2607.10246v1)
-*Daniel Czarnowske, Amrei Stammann* — **arxiv**, 2026-07-11 — _method:DiD_
-
-We derive the asymptotic properties of two-way fixed effects M-estimators with missing observations in an asymptotic framework in which the numbers of cross-sectional units and time periods grow jointly. We allow the selection process to be deterministic (conditional on the unobserved effects and initial conditions), stochastic, or mixed, and we impose only a conditional mean restriction. The uncorrected estimators are asymptotically normal but not centered at zero, suffering from incidental parameter and feedback biases. Feedback bias can be induced by predetermined regressors in the outcome ...
 
 ---
 
@@ -243,5 +230,14 @@ This paper proposes a network-adjusted generalized method of moments (NA-GMM) es
 *Stefan Hubner, Jan Kabatek* — **arxiv**, 2026-07-13 — _method:Structural_
 
 Durable marriages are presumed to foster the household specialisation that marriage enables. We exploit a recent Dutch reform that temporarily lowered the cost of divorce while leaving consent requirements unchanged. We embed divorce hazards obtained from population-level administrative data into a dynamic structural matching model in which individuals repeatedly match and choose marital roles. We identify the structural parameters by fitting the model to the equilibrium matching distribution over time, using a novel computational approach. Compared to the high-cost counterfactual, we find tha...
+
+---
+
+## method:Synthetic Control
+
+### [Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution](https://arxiv.org/abs/2607.12299v1)
+*Rulla Al-Haideri, Bilal Farooq, Karim Ismail* — **arxiv**, 2026-07-14 — _method:Synthetic Control_
+
+We propose a Quantum-Sequential Choice Model (Q-SCM) for modelling driver mental state evolution in interactive traffic environments. The proposed framework retains the classical latent class choice structure, but replaces the conventional class membership formulation with a quantum cognitive state model. A unique feature of this model is that the quantum component is confined to the class membership layer, while the action choice layer remains a classical RUM. The driver's latent state is represented as a two-state quantum system on the Bloch sphere including neutral and defensive states. Per...
 
 ---
