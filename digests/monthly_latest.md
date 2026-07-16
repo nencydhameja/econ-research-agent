@@ -1,10 +1,10 @@
-# Economics Research Digest — 2026-07-15
+# Economics Research Digest — 2026-07-16
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v1)
+### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v2)
 *Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
 
 Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
@@ -34,21 +34,21 @@ We study the problem of efficient online proportional sampling from a high-dimen
 
 ---
 
-### [Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor](https://arxiv.org/abs/2607.12219v1)
-*Burhan Ogut, Michelle Yin* — **arxiv**, 2026-07-13 — _Business Economics & Innovation, Labor & Demographic Economics_
-
-We study linear regression when the regressor is latent and observed only through multiple noisy measurements, each a smooth but possibly nonlinear function of the latent variable. The problem is acute in the measurement of occupational exposure to artificial intelligence, where competing scores yield downstream estimates that differ by a factor of eleven. A regression on any single measurement recovers a source-specific coefficient rather than the structural one. We fix the latent scale by requiring the consensus measurement function to be linear and bound the remaining curvature heterogeneit...
-
----
-
-### [Removable Defects: The Economics and Limits of Deliberate Deficiency](https://arxiv.org/abs/2607.11983v1)
-*Cheng Qian* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
-
-A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be fatal, by routing to a compensation channel. We give three results. First, an advantage condition under which keeping the deficiency is a computable economic position; structurally it is the Ehrlich-Becker market-vs-self-insurance margin applied to a competence gap, with the detector as a Townsend costly-state-verification technology. Second, a tw...
-
----
-
 ## Econometrics & Methods
+
+### [Equilibrium Information Aggregation under Machine Learning](https://arxiv.org/abs/2607.13670v1)
+*Andrew Ellis, Michele Piccione, Shengxing Zhang* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:Machine Learning_
+
+We introduce a framework for studying the equilibrium effects of machine learning. Agents process information using a Chow and Liu (1968) tree, a widely-used machine learning procedure that admits a closed-form solution. We apply the model to an asset market with dispersed information based on Hellwig (1980). The price mechanism fails to aggregate the information extracted by the algorithm, even approximately. While there are partial equilibrium benefits from access to algorithms, the equilibrium price aggregates less information than the rational equilibrium. Equilibrium typically features di...
+
+---
+
+### [Manipulation testing based on Benford's Law for discrete scores](https://arxiv.org/abs/2607.13564v1)
+*Roy Cerqueti, Marco Ventura* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:RDD_
+
+This paper addresses the problem of running variable manipulation in Regression Discontinuity Designs. Leveraging the observation that manipulation often alters the density balance around the cutoff, we detect these structural imbalances using Benford's Law -a natural statistical regularity widely applied in fraud detection. Our framework serves as a vital precautionary safeguard alongside traditional McCrary-type tests. It eliminates researcher-chosen parameters that can skew outcomes, while delivering a deeper diagnostic breakdown of the density's behavior. Crucially, whereas the classic McC...
+
+---
 
 ### [Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach](https://arxiv.org/abs/2607.12345v1)
 *Catherine Chen, Chen Gao, Jonathon Hazell, Lihua Lei et al.* — **arxiv**, 2026-07-14 — _Econometrics & Methods, Macroeconomics, method:Machine Learning_
@@ -57,21 +57,35 @@ Does microeconomic heterogeneity help to forecast aggregate inflation in a non-s
 
 ---
 
-## Financial Economics
+## General Economics & Methodology
 
-### [KRAFT: A Transaction-Level Dataset for Korean Apartment Sales Integrated with Contextual Indicators](https://arxiv.org/abs/2607.11961v1)
-*Sejin Myung, Hyungjoon Kim* — **arxiv**, 2026-07-12 — _Financial Economics, Health, Education & Welfare, Urban, Rural & Regional Economics_
+### [Detecting unusual trading patterns on cryptocurrency exchanges by means of complexity measures](https://arxiv.org/abs/2607.13916v1)
+*Jakub Zwydak, Marcin Wątorek, Jarosław Kwapień, Stanisław Drożdż* — **arxiv**, 2026-07-15 — _General Economics & Methodology, International Economics_
 
-Apartment transaction records are useful for studying housing markets, household finance, regional economics, and macro-financial transmission, but transaction data are often distributed separately from contextual socioeconomic indicators. We present KRAFT, a nationwide transaction-level dataset of South Korean apartment sales from January 2015 to December 2024. The dataset contains 5,320,379 apartment sale transactions across all 17 Sido regions and includes transaction timing, administrative location, exclusive residential area, reported transaction price, floor level, and construction year....
+Artificial transaction generation remains an important source of potential market manipulation on cryptocurrency exchanges, as it may distort reported liquidity and reduce market transparency. This study proposes a diagnostic framework for detecting unusual trading patterns based on complexity and statistical-structure measures derived from high-frequency trade-level data. The analysis considers log-returns, trading volume, and transaction counts, using tail distributions, autocorrelation functions, multifractal characteristics, approximate entropy, and detrended cross-correlations. The method...
 
 ---
 
-## Law & Economics
+### [Global factors for local shocks in a data-scarce environment: with an application to regional fiscal multipliers in Italy](https://arxiv.org/abs/2607.13879v1)
+*Giuseppe Cavaliere, Luca Fanelli, Marco Mazzali* — **arxiv**, 2026-07-15 — _General Economics & Methodology, Public Economics_
 
-### [It Takes Two to Tango, but More to Assess Systemic Risk: Credit Networks Through the Lens of Hypergraphs](https://arxiv.org/abs/2607.10943v1)
-*Federico D. Forte* — **arxiv**, 2026-07-12 — _Law & Economics_
+We propose a novel econometric methodology for Structural Vector Autoregressions with external instruments (`proxy-SVARs' or `SVAR-IVs') in panel data characterized by strong cross-sectional dependence, dynamic heterogeneity, and limited availability of direct external instruments for the shocks of interest. For each unit, we specify a Factor-Augmented proxy-SVAR (`proxy-FA-SVAR') that incorporates factors summarizing cross-sectional information from the non-policy variables of the system. The effects of the policy shocks are then recovered indirectly by estimating unit-specific policy reactio...
 
-This paper provides the first analysis of credit relationships between financial institutions and firms through the lens of hypergraphs. Unlike traditional network approaches, which rely on pairwise connections, this framework explicitly represents the shared exposure of multiple financial institutions to the same firm as a simultaneous multilateral relationship. The approach is applied empirically to Credit Registry data from the Central Bank of Argentina, covering the period from August 2023 to December 2025 and focusing on commercial loans between banks and firms. Traditional centrality met...
+---
+
+### [Estimation and Inference for Latent Dual Networks Using High-Dimensional IV Screening](https://arxiv.org/abs/2607.13862v1)
+*Arturas Juodis, George Kapetanios, Vasilis Sarafidis* — **arxiv**, 2026-07-15 — _General Economics & Methodology, method:Structural_
+
+We develop a novel methodology for estimation and inference in high-dimensional panel network models with latent dual structures. The framework allows outcomes to be affected simultaneously by positive and negative interaction channels, accommodating settings in which some interactions reinforce outcomes while others generate competition and displacement effects. The proposed method identifies and estimates the network directly from the structural model using observed data without the need to pre-specify the network. Network recovery is achieved through a sequential instrumental-variable scree...
+
+---
+
+## Industrial Organization
+
+### [Messy Research, Certification and the Monetization of Science](https://arxiv.org/abs/2607.13844v1)
+*Johan Fourie* — **arxiv**, 2026-07-15 — _Industrial Organization_
+
+I study how cheaper AI-assisted research changes the institutions that certify science. AI lowers the cost of producing a polished manuscript faster than it lowers the cost of judging whether the underlying contribution is valuable. Polish therefore loses information, entry expands and the average quality of the uncertified pool can fall. At a fixed standard, the willingness to pay for credible certification then rises because the outside option deteriorates. A certifier with market power can capture this premium; competition and alternative disclosure rules need not produce the same fee. With...
 
 ---
 
@@ -84,12 +98,12 @@ We explain the long-standing puzzle of naïve diversification with a simple, tes
 
 ---
 
-## Public Economics
+## Political Economy
 
-### [Diffusion of tacit knowledge in a company: a mathematical model based on diffusion on graphs](https://arxiv.org/abs/2607.10919v1)
-*Radosław A. Kycia, Agnieszka Niemczynowicz, Andrzej Buszko* — **arxiv**, 2026-07-12 — _Public Economics_
+### [Time preference effects in forecasting](https://arxiv.org/abs/2607.13759v1)
+*Yannick Hoga, Niklas V. Lehmann* — **arxiv**, 2026-07-15 — _Political Economy_
 
-This article is devoted to the process of diffusing tacit knowledge. This intangible asset has proven crucial for achieving a competitive advantage among market-oriented companies. A novel model of tacit knowledge diffusion is presented, employing the concept of heat diffusion from physics. Furthermore, graph theory and the dynamics it defines are utilized. We defined a Tacit Knowledge Transfer Graph that encodes data from questionnaires. It enables us to identify employees' learning needs, allowing for the planning of classes within the same period, such as a day, to schedule them optimally. ...
+We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
 
 ---
 
@@ -112,6 +126,27 @@ MARTIN KANZ,
 LEORA KLAPPER* — **Journal of Finance**, 2026-06-17 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [Revealed Attentional Interference](https://arxiv.org/abs/2607.13974v1)
+*Paul H. Y. Cheung, Yi-Hsuan Lin, Chung-Hao Sheu* — **arxiv**, 2026-07-15 — _Unclassified_
+
+We study the impact of external stimuli on attention in the Attentional Interference Model, capturing two opposing forces in consideration-set formation: proactive and retroactive interference. Proactive interference limits the permeation of external information, while retroactive interference displaces internally generated considerations. We model these forces using parameters governing permeation and displacement. In a general setting, we characterize the tight range of these parameters and show that, across several specifications, only an upper bound on permeation is revealed. Imposing mono...
+
+---
+
+### [Equilibrium stability as a driver of cooperation among Q-learners](https://arxiv.org/abs/2607.13607v1)
+*Janusz M. Meylahn, Maximilian Schäfer* — **arxiv**, 2026-07-15 — _Unclassified_
+
+Algorithmic collusion among pricing algorithms has raised concerns about sustained supra-competitive prices and their implications for social welfare. Existing work has largely focused on the probability that reinforcement-learning algorithms converge to cooperative strategies, typically under the assumption that exploration vanishes over time. Motivated by the observation that algorithms deployed in practice are likely to continue exploring in order to remain adaptive to changing environments, we study learning dynamics under constant exploration. In this setting, the relevant question is no ...
+
+---
+
+### [Mapping Diplomatic Representation in Europe, 1648-1715](https://arxiv.org/abs/2607.13526v1)
+*Magnus Lundgren* — **arxiv**, 2026-07-15 — _Unclassified_
+
+This paper introduces new data on diplomatic representation in Europe between 1648 and 1715, drawn from Band I of the Repertorium der diplomatischen Vertreter aller Lander. The data comprise 13,344 diplomatic missions, exchanged among 141 sending and 201 receiving polities, and 8,852 individual representatives. The paper describes the source and coding procedure, assesses the quality and limits of the data, and reports patterns in participation, rank, and mission duration. In an illustrative application, I use the data to examine diplomatic continuity across ruler successions, with findings su...
 
 ---
 
@@ -178,53 +213,14 @@ In this paper, we analyze a multi-strategy network game with three types of play
 
 ---
 
-### [Not All Family Firms Are Alike: How Founder-Led and Governance-Entrenched Family Control Shape the Trading Environment Around the Firm](https://arxiv.org/abs/2607.10876v1)
-*Douglas Cumming, Esteban Hernandez, Shan Ji* — **arxiv**, 2026-07-12 — _Unclassified_
-
-Family-firm scholarship offers competing predictions about whether family control protects or threatens market integrity. We argue that the answer depends on how family involvement is exercised. Drawing on socioemotional wealth and agency-entrenchment perspectives, we examine 8,634 U.S. firm-years (2007-2018) and link family-firm constructs to exchange-generated surveillance flags from NASDAQ SMARTS. Founder-CEO control is associated with approximately 9.5% fewer flags, family governance involvement with 21.3% more, and deep multi-generational family control with 47.1% more. The findings revea...
-
----
-
-### [Top Trading Cycles in Large Markets: The Asymptotic Irrelevance of Priorities](https://arxiv.org/abs/2607.10819v1)
-*Yeon-Koo Che, Olivier Tercieux* — **arxiv**, 2026-07-12 — _Unclassified_
-
-Top Trading Cycles (TTC) is Pareto efficient and strategy-proof and explicitly uses agents' priorities. Although TTC favors higher-priority agents in each round, we show that this priority advantage vanishes as the market grows large under a canonical random model of preferences and priorities. In the limit, TTC produces assignments with virtually the same incidence of justified envy as Random Serial Dictatorship (RSD) -- a mechanism entirely blind to priorities. This stark asymptotic equivalence implies that TTC effectively fails to satisfy standard fairness criteria in large markets, casting...
-
----
-
-### [Doctor-Optimal Stability in Unitary Many-to-Many Markets](https://arxiv.org/abs/2607.10756v1)
-*Yi-You Yang* — **arxiv**, 2026-07-12 — _Unclassified_
-
-We study bilaterally unitary many-to-many doctor--hospital matching with contracts, taking choice functions as primitives. Doctor choices are substitutable and satisfy irrelevance of rejected contracts, while hospital choices are unilaterally substitutable and satisfy the same condition. Every trajectory of the doctor-proposing cumulative offer process terminates at the greatest stable allocation under the doctor Blair order. We also introduce weakly hospital-quasi-stable allocations and show that they form a finite lattice whose greatest element is stable. Hence, the cumulative-offer outcome,...
-
----
-
-### [Dynamically Consistent Statistical Decisions](https://arxiv.org/abs/2607.10519v1)
-*Cheaheon Lim, Yechan Park* — **arxiv**, 2026-07-12 — _Unclassified_
-
-A large literature in econometrics proposes decision rules with optimality guarantees based on ex ante criteria, such as minimax regret. We develop a framework for analyzing the dynamic consistency of such rules and show that, in many empirically relevant settings, the researcher may wish to deviate from the interim prescription of ex ante optimal rules after observing the data realization. To address this problem, we propose and axiomatize two classes of optimality criteria that yield dynamically consistent decision rules.
-
----
-
-## method:DiD
-
-### [Local Asymptotic Power of Honest Confidence Intervals](https://arxiv.org/abs/2607.10558v1)
-*Hugo Freeman* — **arxiv**, 2026-07-12 — _method:DiD_
-
-Confidence intervals that are conservative against an untestable bias, called bias-aware or honest, are now standard in DiD, IV, RD, and factor-model settings. This paper characterises the local power of the tests they induce. Power is governed by the rate of the bias bound relative to the sampling rate, giving three regimes: when the bound vanishes faster than the standard error, conservatism is asymptotically free; when the two are of the same order it costs a bounded, explicit amount; and when the bound dominates, the typical case at the parametric rate, the honest test has zero local power...
-
----
-
-## method:IV
-
-### [Network-Adjusted GMM Estimation under Network Uncertainty](https://arxiv.org/abs/2607.10613v1)
-*Tadao Hoshino* — **arxiv**, 2026-07-12 — _method:IV_
-
-This paper proposes a network-adjusted generalized method of moments (NA-GMM) estimator for social interaction models when the observed network may differ from the true interaction network. NA-GMM is a novel penalized GMM approach that allows the elements of the observed interaction matrix to be modified to improve the fit of the moment conditions. To avoid unrestricted network adjustments, the NA-GMM criterion introduces a penalty on the amount of adjustment. Since NA-GMM does not aim to estimate the true interaction network itself, the estimator generally converges to a pseudo-true parameter...
-
----
-
 ## method:Structural
+
+### [Tabular Foundation Models for Discrete Choice Estimation](https://arxiv.org/abs/2607.13314v1)
+*Liu Liu, Dan Zhang* — **arxiv**, 2026-07-14 — _method:Structural_
+
+Tabular foundation models (TFMs) generate predictions on structured data via in-context learning, without task-specific estimation. We ask whether TFMs can be effectively applied to discrete choice, a central demand estimation framework in marketing and operations, and find that directly applying TFMs yields limited performance. The gap is structural: TFMs assume row-independent observations, whereas discrete choice is inherently set-valued and subject to persistent consumer preference heterogeneity. We propose a reformulation that encodes both choice-set dependence and individual heterogeneit...
+
+---
 
 ### [Can looser ties sustain marriage? A dynamic matching model of specialisation and divorce](https://arxiv.org/abs/2607.11268v1)
 *Stefan Hubner, Jan Kabatek* — **arxiv**, 2026-07-13 — _method:Structural_

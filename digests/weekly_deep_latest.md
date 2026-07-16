@@ -1,8 +1,17 @@
-# Weekly Deep-Reading Queue — week of 2026-07-15
+# Weekly Deep-Reading Queue — week of 2026-07-16
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics
+## 1. Detecting unusual trading patterns on cryptocurrency exchanges by means of complexity measures
+
+### [Detecting unusual trading patterns on cryptocurrency exchanges by means of complexity measures](https://arxiv.org/abs/2607.13916v1)
+*Jakub Zwydak, Marcin Wątorek, Jarosław Kwapień, Stanisław Drożdż* — **arxiv**, 2026-07-15 — _General Economics & Methodology, International Economics_
+
+Artificial transaction generation remains an important source of potential market manipulation on cryptocurrency exchanges, as it may distort reported liquidity and reduce market transparency. This study proposes a diagnostic framework for detecting unusual trading patterns based on complexity and statistical-structure measures derived from high-frequency trade-level data. The analysis considers log-returns, trading volume, and transaction counts, using tail distributions, autocorrelation functions, multifractal characteristics, approximate entropy, and detrended cross-correlations. The method...
+
+---
+
+## 2. Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics
 
 ### [Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics](https://arxiv.org/abs/2607.12414v1)
 *Andrew G. Ross, Julia Gershenzon, Andreas Kleefeld* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
@@ -11,7 +20,7 @@ Assessments of structural change and economic transition dynamics, such as those
 
 ---
 
-## 2. Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution
+## 3. Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution
 
 ### [Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution](https://arxiv.org/abs/2607.12299v1)
 *Rulla Al-Haideri, Bilal Farooq, Karim Ismail* — **arxiv**, 2026-07-14 — _method:Synthetic Control_
@@ -20,16 +29,16 @@ We propose a Quantum-Sequential Choice Model (Q-SCM) for modelling driver mental
 
 ---
 
-## 3. Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
+## 4. Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
 
-### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v1)
+### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v2)
 *Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
 
 Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
 
 ---
 
-## 4. The Limits of Price Discrimination with a Bayesian Seller
+## 5. The Limits of Price Discrimination with a Bayesian Seller
 
 ### [The Limits of Price Discrimination with a Bayesian Seller](https://arxiv.org/abs/2607.12615v1)
 *Yuan Deng, Yilin Li, Wei Tang, Hanrui Zhang* — **arxiv**, 2026-07-14 — _Unclassified_
@@ -38,7 +47,7 @@ We study the limits of third-degree price discrimination when the production cos
 
 ---
 
-## 5. From PBS to ePBS: the Microstructure of Block Building
+## 6. From PBS to ePBS: the Microstructure of Block Building
 
 ### [From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240v1)
 *Jingyu Liu, Bolin Zhang, Lin William Cong, Siguang Li et al.* — **arxiv**, 2026-07-13 — _Unclassified_
@@ -47,7 +56,7 @@ Ethereum's Glamsterdam upgrade introduces enshrined proposer-builder separation 
 
 ---
 
-## 6. Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor
+## 7. Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor
 
 ### [Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor](https://arxiv.org/abs/2607.12219v1)
 *Burhan Ogut, Michelle Yin* — **arxiv**, 2026-07-13 — _Business Economics & Innovation, Labor & Demographic Economics_
@@ -56,20 +65,11 @@ We study linear regression when the regressor is latent and observed only throug
 
 ---
 
-## 7. Removable Defects: The Economics and Limits of Deliberate Deficiency
+## 8. Removable Defects: The Economics and Limits of Deliberate Deficiency
 
-### [Removable Defects: The Economics and Limits of Deliberate Deficiency](https://arxiv.org/abs/2607.11983v1)
+### [Removable Defects: The Economics and Limits of Deliberate Deficiency](https://arxiv.org/abs/2607.11983v2)
 *Cheng Qian* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
 
 A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be fatal, by routing to a compensation channel. We give three results. First, an advantage condition under which keeping the deficiency is a computable economic position; structurally it is the Ehrlich-Becker market-vs-self-insurance margin applied to a competence gap, with the detector as a Townsend costly-state-verification technology. Second, a tw...
-
----
-
-## 8. Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach
-
-### [Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach](https://arxiv.org/abs/2607.12345v1)
-*Catherine Chen, Chen Gao, Jonathon Hazell, Lihua Lei et al.* — **arxiv**, 2026-07-14 — _Econometrics & Methods, Macroeconomics, method:Machine Learning_
-
-Does microeconomic heterogeneity help to forecast aggregate inflation in a non-stationary environment? We develop a scan test for whether one forecast outperforms another, over an interval with unknown starting point and duration. To exploit any occasional forecasting power that the scan test detects, we design an adaptive machine learning pipeline. We encode the distribution of price changes into a high-dimensional vector, which we combine with a gradient boosted trees algorithm. We then combine this micro forecast with other benchmark forecasts, using an adaptive algorithm that makes use of ...
 
 ---
