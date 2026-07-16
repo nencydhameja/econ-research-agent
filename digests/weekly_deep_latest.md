@@ -29,7 +29,34 @@ We propose a Quantum-Sequential Choice Model (Q-SCM) for modelling driver mental
 
 ---
 
-## 4. Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
+## 4. When Directional Accuracy Lies: A Base-Rate-Honest Benchmark for LoRA-Adapted TimesFM on Equity Forecasting
+
+### [When Directional Accuracy Lies: A Base-Rate-Honest Benchmark for LoRA-Adapted TimesFM on Equity Forecasting](https://doi.org/10.48550/arxiv.2607.12248)
+*Taizhen Cheung, SA Kwon* — **openalex ssrn**, 2026-07-14 — _Unclassified_
+
+Large pretrained time-series models such as TimesFM are attractive for financial forecasting, but raw directional accuracy is a misleading scoreboard in equity markets. An early LoRA adapter in this project appeared to reach roughly 80% directional accuracy; we show this is not evidence of skill. Over a long horizon in a rising market, a trivial "always-up" rule attains comparably high accuracy without using the input at all. To separate genuine skill from this base-rate artifact, we build a reproducible, frozen-data benchmark with expanding walk-forward folds, a stratified held-out-ticker spl...
+
+---
+
+## 5. Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics
+
+### [Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics](https://doi.org/10.48550/arxiv.2607.12414)
+*Andrew G. Ross, Julia Gershenzon, Andreas Kleefeld* — **openalex ssrn**, 2026-07-14 — _Agricultural & Environmental Economics_
+
+Assessments of structural change and economic transition dynamics, such as those arising in the energy transition, depend on internally consistent qualitative scenarios specifying the policy environment, technology mix, governance arrangements, and demand conditions. Cross-Impact Balance (CIB) analysis derives such socio-technical scenarios as fixed-point attractors of an expert-elicited interdependency network, supplying structural inputs upon which assessment models (including energy system optimisation, agent-based, and general equilibrium frameworks) can draw. Standard CIB, however, delive...
+
+---
+
+## 6. Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs
+
+### [Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs](https://doi.org/10.48550/arxiv.2607.12985)
+*Sen Yang, Yuen-Hei Yeung* — **openalex ssrn**, 2026-07-14 — _Public Economics_
+
+Aligned language models routinely misreport under non-evidential incentive pressure: they agree with a confident user or overstate certainty even when their internal belief is unchanged. We cast this as a failure of internal incentive-compatibility (IC) and present a method for learning and certifying counterfactual report mediators that hold a model's reports to a causal contract: invariant to forbidden influences (pressure, prestige, restyling) and responsive to licensed ones (genuine evidence). These two demands, resist and update, pull in opposite directions. We study them on a Bayesian-wi...
+
+---
+
+## 7. Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
 
 ### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v2)
 *Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
@@ -38,38 +65,11 @@ Competing firms increasingly delegate pricing and bidding decisions to algorithm
 
 ---
 
-## 5. The Limits of Price Discrimination with a Bayesian Seller
+## 8. Shared Bidding Algorithms and Competition: Evidence from Electricity Markets
 
-### [The Limits of Price Discrimination with a Bayesian Seller](https://arxiv.org/abs/2607.12615v1)
-*Yuan Deng, Yilin Li, Wei Tang, Hanrui Zhang* — **arxiv**, 2026-07-14 — _Unclassified_
+### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://doi.org/10.48550/arxiv.2607.13002)
+*Nicolas Eschenbaum* — **openalex ssrn**, 2026-07-14 — _Agricultural & Environmental Economics_
 
-We study the limits of third-degree price discrimination when the production cost is Bayesian and private to the seller, generalizing the seminal work of Bergemann, Brooks and Morris (2015). The rough setup is the following: A monopoly seller sets different prices for buyers in different "segments" of the market so as to maximize seller surplus. Different ways in which the aggregate market is decomposed into segments lead to different welfare outcomes, i.e., (seller surplus, buyer surplus) pairs. When the production cost is Bayesian, the region of achievable welfare outcomes can exhibit comple...
-
----
-
-## 6. From PBS to ePBS: the Microstructure of Block Building
-
-### [From PBS to ePBS: the Microstructure of Block Building](https://arxiv.org/abs/2607.11240v1)
-*Jingyu Liu, Bolin Zhang, Lin William Cong, Siguang Li et al.* — **arxiv**, 2026-07-13 — _Unclassified_
-
-Ethereum's Glamsterdam upgrade introduces enshrined proposer-builder separation (ePBS), replacing relay-centric PBS with direct builder bids to proposers. We study how this shift changes the block-building microstructure through a general imperfect-information two-stage auction with verifiable messages, where an early bid serves as both a price offer and a signal. PBS and ePBS are modeled as restrictions of the same block-building game: PBS fixes stopping and disclosure exogenously, while ePBS lets the proposer choose stopping and disclosure ex post. Latency heterogeneity is captured by asymme...
-
----
-
-## 7. Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor
-
-### [Partial Identification with Multiple Nonlinear Measurements of a Latent Regressor](https://arxiv.org/abs/2607.12219v1)
-*Burhan Ogut, Michelle Yin* — **arxiv**, 2026-07-13 — _Business Economics & Innovation, Labor & Demographic Economics_
-
-We study linear regression when the regressor is latent and observed only through multiple noisy measurements, each a smooth but possibly nonlinear function of the latent variable. The problem is acute in the measurement of occupational exposure to artificial intelligence, where competing scores yield downstream estimates that differ by a factor of eleven. A regression on any single measurement recovers a source-specific coefficient rather than the structural one. We fix the latent scale by requiring the consensus measurement function to be linear and bound the remaining curvature heterogeneit...
-
----
-
-## 8. Removable Defects: The Economics and Limits of Deliberate Deficiency
-
-### [Removable Defects: The Economics and Limits of Deliberate Deficiency](https://arxiv.org/abs/2607.11983v2)
-*Cheng Qian* — **arxiv**, 2026-07-13 — _Business Economics & Innovation_
-
-A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be fatal, by routing to a compensation channel. We give three results. First, an advantage condition under which keeping the deficiency is a computable economic position; structurally it is the Ehrlich-Becker market-vs-self-insurance margin applied to a competence gap, with the detector as a Townsend costly-state-verification technology. Second, a tw...
+Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
 
 ---
