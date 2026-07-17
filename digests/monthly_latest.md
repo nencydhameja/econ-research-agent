@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-07-17
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -18,10 +18,10 @@ We develop a framework to compare the relative effectiveness of subsidizing alte
 
 ---
 
-### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v2)
-*Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
+### [Impacts of social and impact heterogeneity on social-climate outcomes](https://doi.org/10.48550/arxiv.2607.13438)
+*Amrita Punnavajhala, Brian Beckage, M N Anand, Daniele Visioni et al.* — **openalex ssrn**, 2026-07-15 — _Agricultural & Environmental Economics_
 
-Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
+Regional heterogeneity in social characteristics, temperature change, and vulnerability to climate impacts is likely to influence the magnitude of anthropogenic climate change, but has not been considered in coupled social-climate models, which seek to represent interactions between social and climate dynamics. Here, we examine how the projected mean global temperature anomaly and population support for mitigation respond to heterogeneity in these factors across five regions of the world, using a coupled social-climate model. We find that heterogeneity in climate impacts increases the temperat...
 
 ---
 
@@ -38,13 +38,6 @@ Resource scarcity can fundamentally encourage antisocial behaviour, whereas reso
 *Magnus Lundgren, Jonas Tallberg* — **arxiv**, 2026-07-16 — _Business Economics & Innovation, Law & Economics, method:Survey Experiment_
 
 Artificial intelligence (AI) is rapidly transforming economies, societies, and polities, raising fundamental questions about how it should be regulated. Policymakers face choices over whether to prioritize innovation or safety, rely on public oversight or private self-regulation, and govern nationally or internationally. Yet little is known about how citizens evaluate these competing priorities. Here we report a conjoint survey experiment conducted in seven countries with diverse political and economic profiles. We find that citizens strongly support regulating AI and generally prioritize safe...
-
----
-
-### [Bivariate Isotonic Regression by Dynamic Programming](https://arxiv.org/abs/2607.12629v1)
-*Pedro Afonso Fernandes* — **arxiv**, 2026-07-14 — _Business Economics & Innovation, Industrial Organization, Macroeconomics_
-
-This article extends the dynamic programming framework introduced by (Rote, 2019) from the univariate to the bivariate isotonic problem, using an anti-diagonal traversal procedure. The proposed algorithm is applied to the well-known baseball data set that describes the association of salary with a collection of player properties, including the number of runs batted and hits. The new algorithm is relevant in the sense that dynamic programming has a wide range of applications in economics, such as the savings problem, economic growth, job search, business cycles, oligopoly equilibrium, recursive...
 
 ---
 
@@ -103,6 +96,13 @@ I study how cheaper AI-assisted research changes the institutions that certify s
 
 ---
 
+### [Messy Research, Certification and the Monetization of Science](https://doi.org/10.48550/arxiv.2607.13844)
+*J. Fourie* — **openalex ssrn**, 2026-07-15 — _Industrial Organization_
+
+I study how cheaper AI-assisted research changes the institutions that certify science. AI lowers the cost of producing a polished manuscript faster than it lowers the cost of judging whether the underlying contribution is valuable. Polish therefore loses information, entry expands and the average quality of the uncertified pool can fall. At a fixed standard, the willingness to pay for credible certification then rises because the outside option deteriorates. A certifier with market power can capture this premium; competition and alternative disclosure rules need not produce the same fee. With...
+
+---
+
 ## International Economics
 
 ### [Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment](https://arxiv.org/abs/2607.14418v1)
@@ -125,6 +125,22 @@ Large Language Models (LLMs) have revolutionized AI services, but a critical ten
 *Yannick Hoga, Niklas V. Lehmann* — **arxiv**, 2026-07-15 — _Political Economy_
 
 We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
+
+---
+
+### [Time preference effects in forecasting](https://doi.org/10.48550/arxiv.2607.13759)
+*Yannick Hoga, Niklas V. Lehmann* — **openalex ssrn**, 2026-07-15 — _Political Economy_
+
+We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
+
+---
+
+## Public Economics
+
+### [Auctions with Contract Design](https://doi.org/10.48550/arxiv.2607.13795)
+*Xiaolin Bu, Jiarong Jin, Junzhu Ke, Pinyan Lu et al.* — **openalex ssrn**, 2026-07-15 — _Public Economics, method:Structural_
+
+We consider a new auction model where the bidders' utilities and the auctioneer's revenue depend on a quality factor of the transaction determined by costly and strategic investments of the bidders. Applications of our model include ad auctions, government concessions and crowdsourcing contests. Crucially, these quality-enhancing efforts made by the bidders are often sunk costs incurred prior to the allocation, creating a fundamental moral hazard problem where the risk of losing the auction discourages investments. In this paper, we study the design of revenue-maximizing contracts integrated i...
 
 ---
 
@@ -210,20 +226,6 @@ Forecasting is a central goal of time-series analysis. This review centers on th
 *Kamil Makieła* — **arxiv**, 2026-07-15 — _Unclassified_
 
 The paper investigates Bayesian Model Averaging and Selection (BMA/S) under non-standard stochastic assumptions, focusing on stochastic frontier analysis (SFA). We propose fast, reliable procedures for inference in the normal-exponential stochastic frontier model and examine whether accounting for asymmetric disturbances affects model averaging and/or selection outcomes relative to the conventional Gaussian-error BMA/S. Particular attention is given to moderate-dimensional covariate selection problems typical in SFA applications. We demonstrate that, with appropriate search strategies and para...
-
----
-
-### [Orthogonal Integrated Conditional Moment Tests for Treatment Effect Heterogeneity](https://arxiv.org/abs/2607.12622v1)
-*Haokun Lu, Xiaojun Song* — **arxiv**, 2026-07-14 — _Unclassified_
-
-We propose a nonparametric integrated conditional moment (ICM) test for treatment effect heterogeneity across subpopulations defined by a given covariate subvector. Under unconfoundedness, the null is recast as a conditional moment restriction based on a Neyman-orthogonal score, which reduces the first-order sensitivity of the empirical process to nuisance parameter estimation. The test statistics are constructed as continuous functionals of a marked empirical process. We establish a uniform feasible-to-oracle approximation and derive the asymptotic properties of these test statistics under th...
-
----
-
-### [The Limits of Price Discrimination with a Bayesian Seller](https://arxiv.org/abs/2607.12615v1)
-*Yuan Deng, Yilin Li, Wei Tang, Hanrui Zhang* — **arxiv**, 2026-07-14 — _Unclassified_
-
-We study the limits of third-degree price discrimination when the production cost is Bayesian and private to the seller, generalizing the seminal work of Bergemann, Brooks and Morris (2015). The rough setup is the following: A monopoly seller sets different prices for buyers in different "segments" of the market so as to maximize seller surplus. Different ways in which the aggregate market is decomposed into segments lead to different welfare outcomes, i.e., (seller surplus, buyer surplus) pairs. When the production cost is Bayesian, the region of achievable welfare outcomes can exhibit comple...
 
 ---
 
