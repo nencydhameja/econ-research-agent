@@ -1,8 +1,22 @@
-# Economics Research Digest — 2026-07-16
+# Economics Research Digest — 2026-07-17
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
+
+### [Thermodynamic theory of voting and EU elections](https://arxiv.org/abs/2607.15119v1)
+*Klaus M. Frahm, Dima L. Shepelyansky* — **arxiv**, 2026-07-16 — _Agricultural & Environmental Economics, Health, Education & Welfare, Political Economy_
+
+We introduce a thermodynamic theory of voting and show that it provides a good description of distribution of party votes in EU elections. The theory traces parallels between system energies of coupled nonlinear oscillators and party vote fractions. Such a classical system evolution is characterized by the conservation of total energy and probability norm that leads to the Rayleigh-Jeans (RJ) thermalization and condensation at low energy states. A similar thermalization also describes the wealth inequality in society. This feature belongs to the phenomena of constraint driven condensation know...
+
+---
+
+### [Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea](https://arxiv.org/abs/2607.14446v1)
+*Youngjin Hong, In Kyung Kim, Frank Verboven* — **arxiv**, 2026-07-16 — _Agricultural & Environmental Economics_
+
+We develop a framework to compare the relative effectiveness of subsidizing alternative emission-reducing technologies. We show that an intermediate technology may reduce emissions more effectively than the cleanest technology if it induces sufficiently greater substitution away from the prevailing high-emission technology. We apply the framework to the South Korean passenger vehicle market using a demand model that incorporates mileage heterogeneity, an important determinant of fuel-type choice. First, reallocating existing subsidies from battery electric vehicles (BEVs), the cleanest technol...
+
+---
 
 ### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://arxiv.org/abs/2607.13002v2)
 *Nicolas Eschenbaum* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
@@ -11,21 +25,21 @@ Competing firms increasingly delegate pricing and bidding decisions to algorithm
 
 ---
 
-### [Beyond Consistent Scenarios: Deriving Indirect Influence, Transition Resistance, and Adjustment Dynamics](https://arxiv.org/abs/2607.12414v1)
-*Andrew G. Ross, Julia Gershenzon, Andreas Kleefeld* — **arxiv**, 2026-07-14 — _Agricultural & Environmental Economics_
-
-Assessments of structural change and economic transition dynamics, such as those arising in the energy transition, depend on internally consistent qualitative scenarios specifying the policy environment, technology mix, governance arrangements, and demand conditions. Cross-Impact Balance (CIB) analysis derives such socio-technical scenarios as fixed-point attractors of an expert-elicited interdependency network, supplying structural inputs upon which assessment models (including energy system optimisation, agent-based, and general equilibrium frameworks) can draw. Standard CIB, however, delive...
-
----
-
-### [Shared Bidding Algorithms and Competition: Evidence from Electricity Markets](https://doi.org/10.48550/arxiv.2607.13002)
-*Nicolas Eschenbaum* — **openalex ssrn**, 2026-07-14 — _Agricultural & Environmental Economics_
-
-Competing firms increasingly delegate pricing and bidding decisions to algorithms supplied by the same third-party providers. We study whether a shared algorithm leads competitors to internalise one another's profits, using data from the Australian National Electricity Market, where every battery's bids are observed at 5-minute frequency and can be linked to an identifiable autobidding provider. Bids constructed by the same provider co-move, and do so more strongly after a disclosure reform made the common scarcity state easier to observe: the same information that steers batteries towards eff...
-
----
-
 ## Business Economics & Innovation
+
+### [Stochastic ultimatum game: Spite-driven resource feedback fosters fairness](https://arxiv.org/abs/2607.14914v1)
+*Arunava Patra, Prosanta Mandal, Sagar Chakraborty* — **arxiv**, 2026-07-16 — _Business Economics & Innovation_
+
+Resource scarcity can fundamentally encourage antisocial behaviour, whereas resource abundance can promote fair behaviour. Experimental evidence indeed suggests that scarcity induces spiteful behaviour, while repeated interactions enhance fairness. However, existing studies of game--environment feedback systems are largely confined to the evolution of cooperation and they overlook the interplay between resources, spite, and fairness. To address this lacuna, we develop a stochastic ultimatum game framework in which an offerer and an accepter repeatedly interact to negotiate exploitation of a se...
+
+---
+
+### [Governing Artificial Intelligence: Public Preferences and Regulatory Options](https://arxiv.org/abs/2607.14585v1)
+*Magnus Lundgren, Jonas Tallberg* — **arxiv**, 2026-07-16 — _Business Economics & Innovation, Law & Economics, method:Survey Experiment_
+
+Artificial intelligence (AI) is rapidly transforming economies, societies, and polities, raising fundamental questions about how it should be regulated. Policymakers face choices over whether to prioritize innovation or safety, rely on public oversight or private self-regulation, and govern nationally or internationally. Yet little is known about how citizens evaluate these competing priorities. Here we report a conjoint survey experiment conducted in seven countries with diverse political and economic profiles. We find that citizens strongly support regulating AI and generally prioritize safe...
+
+---
 
 ### [Bivariate Isotonic Regression by Dynamic Programming](https://arxiv.org/abs/2607.12629v1)
 *Pedro Afonso Fernandes* — **arxiv**, 2026-07-14 — _Business Economics & Innovation, Industrial Organization, Macroeconomics_
@@ -34,14 +48,14 @@ This article extends the dynamic programming framework introduced by (Rote, 2019
 
 ---
 
-### [Balancing innovation and assimilation in research communities](https://doi.org/10.48550/arxiv.2607.12920)
-*Bill Nunn, Maria Horner, Marcel Ortgiese, Tim Rogers* — **openalex ssrn**, 2026-07-14 — _Business Economics & Innovation_
+## Econometrics & Methods
 
-It has been statistically observed that the speed at which a corpus of knowledge advances does not scale linearly with quantities like the number of active researchers or number of research papers published in a given field. Furthermore, as a body of knowledge grows, individual researchers must somehow strike the right balance between generating new knowledge through innovation and assimilating knowledge generated by others. Here, we propose and analyse a pair of interacting particle system models representing some stylised features of the advancement of knowledge in a research community, capt...
+### [Indirect Variational Inference: Applications to Earnings Dynamics](https://arxiv.org/abs/2607.15168v1)
+*Neele Balke, Stephane Bonhomme, Thibaut Lamadon* — **arxiv**, 2026-07-16 — _Econometrics & Methods, method:Machine Learning_
+
+Latent-variable models are central to economics but often entail intractable integration. Variational inference (VI), widely used in machine learning, turns this integration into tractable, differentiable optimization by replacing the likelihood with a variational objective. However, guarantees of recovering the true parameters remain limited when the variational family is insufficiently flexible -- a key obstacle to the adoption of VI in economics. We first evaluate VI in models of earnings dynamics and show that the choice of variational posterior is crucial. We then introduce indirect varia...
 
 ---
-
-## Econometrics & Methods
 
 ### [Equilibrium Information Aggregation under Machine Learning](https://arxiv.org/abs/2607.13670v1)
 *Andrew Ellis, Michele Piccione, Shengxing Zhang* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:Machine Learning_
@@ -54,13 +68,6 @@ We introduce a framework for studying the equilibrium effects of machine learnin
 *Roy Cerqueti, Marco Ventura* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:RDD_
 
 This paper addresses the problem of running variable manipulation in Regression Discontinuity Designs. Leveraging the observation that manipulation often alters the density balance around the cutoff, we detect these structural imbalances using Benford's Law -a natural statistical regularity widely applied in fraud detection. Our framework serves as a vital precautionary safeguard alongside traditional McCrary-type tests. It eliminates researcher-chosen parameters that can skew outcomes, while delivering a deeper diagnostic breakdown of the density's behavior. Crucially, whereas the classic McC...
-
----
-
-### [Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach](https://arxiv.org/abs/2607.12345v1)
-*Catherine Chen, Chen Gao, Jonathon Hazell, Lihua Lei et al.* — **arxiv**, 2026-07-14 — _Econometrics & Methods, Macroeconomics, method:Machine Learning_
-
-Does microeconomic heterogeneity help to forecast aggregate inflation in a non-stationary environment? We develop a scan test for whether one forecast outperforms another, over an interval with unknown starting point and duration. To exploit any occasional forecasting power that the scan test detects, we design an adaptive machine learning pipeline. We encode the distribution of price changes into a high-dimensional vector, which we combine with a gradient boosted trees algorithm. We then combine this micro forecast with other benchmark forecasts, using an adaptive algorithm that makes use of ...
 
 ---
 
@@ -96,19 +103,28 @@ I study how cheaper AI-assisted research changes the institutions that certify s
 
 ---
 
+## International Economics
+
+### [Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment](https://arxiv.org/abs/2607.14418v1)
+*Mohammad Rashid, Hema Yoganarasimhan* — **arxiv**, 2026-07-15 — _International Economics, method:Field Experiment_
+
+Ad-load design is a central supply-side decision in sponsored search: more sponsored slots can raise revenue, but may crowd out organic results and degrade user outcomes. We study this trade-off using a large-scale randomized field experiment on an Android app store, where over five million users are exposed to one through six sponsored slots. Increasing ad load raises revenue by up to 43%, but reduces total search conversions by up to 5% and daily engagement by up to 2.2%. These average effects mask substantial heterogeneity: additional slots generate large revenue gains for high-ad-conversio...
+
+---
+
+### [Supervised Fine-Tuning vs. In-Context Learning: An Equilibrium Analysis of LLM Personalization under Congestion](https://arxiv.org/abs/2607.14371v1)
+*Fengzhuo Zhang, Zhuoran Yang, Dirk Bergemann* — **arxiv**, 2026-07-15 — _International Economics, method:Theory_
+
+Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources that users must share. When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms adopt when offering multiple personalization algorithms? We develop a tractable framework for LLM serving that captures the statistical-economic trade-...
+
+---
+
 ## Political Economy
 
 ### [Time preference effects in forecasting](https://arxiv.org/abs/2607.13759v1)
 *Yannick Hoga, Niklas V. Lehmann* — **arxiv**, 2026-07-15 — _Political Economy_
 
 We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
-
----
-
-### [Cycles in Liquid Democracy: A Game-Theoretic Justification](https://doi.org/10.48550/arxiv.2607.12610)
-*Markus Brill, Rachael Colley, Anne-Marie George, Grzegorz Lisowski et al.* — **openalex ssrn**, 2026-07-14 — _Political Economy, method:Theory_
-
-A common criticism of liquid democracy within the relevant academic literature is that delegation cycles can occur, seemingly resulting in unused voting power. Yet, practitioners argue that delegation cycles are not only unproblematic but are even formed intentionally by participants. To bring theory closer to reality, we introduce a model that captures this strategic behavior under uncertainty. We study the existence, structure and quality of Nash equilibria, revealing that delegation cycles naturally emerge. To complement these findings, we perform computational experiments using best-respon...
 
 ---
 
@@ -122,6 +138,27 @@ JAVIER SUAREZ,
 DOMINIK SUPERA* — **Journal of Finance**, 2026-06-25 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market](https://arxiv.org/abs/2607.15134v1)
+*Jennifer Zou* — **arxiv**, 2026-07-16 — _Unclassified_
+
+We study how a representative sample of United States adult AI-assistant users (n=1,999; June 2026) choose among platforms, allocate tasks across them, evaluate provider trustworthiness, and value data-handling features. Estimates are weighted to the AI-user population using external adoption benchmarks. Four patterns emerge. The market is concentrated but internally differentiated: ChatGPT is the primary assistant for 58% of users and Gemini for 25%, yet smaller platforms hold defensible task niches--Claude captures a third of coding tasks despite a 7% overall share. Task allocation is thus o...
+
+---
+
+### [Aggregation Bias in Proxy Measurement: Nighttime Lights and Local Economic Activity](https://arxiv.org/abs/2607.14825v1)
+*Davide Fiaschi, Angela Parenti, Cristiano Ricci* — **arxiv**, 2026-07-16 — _Unclassified_
+
+This paper studies when high-resolution signals aggregated to administrative units can recover unobserved local economic activity. We develop a reverse-regression framework for signals generated by activity but used to predict it at coarser spatial supports. The main theorem decomposes predictive elasticity into elementary elasticity, reverse-regression attenuation, and a spatial aggregation term driven by unit size and within-unit dispersion, showing aggregation pulls elasticities toward one. Monte Carlo evidence confirms the decomposition and clarifies transferability conditions. Application...
+
+---
+
+### [Does Multi-Agent Debate Improve AI Feedback on Research Papers?](https://arxiv.org/abs/2607.14713v1)
+*Tomas Havranek, Zuzana Irsova* — **arxiv**, 2026-07-16 — _Unclassified_
+
+Probably not, at least for meta-analyses in economics. In a pre-registered, identity-masked, within-paper experiment, the authors of 44 meta-analyses ranked three AI reports on their own paper by usefulness for improving it: a single pass by a frontier model against two multi-agent debate tools we built and expected to win. All reports were held to a common length and template. The authors preferred the single pass, by 0.66 rank points over mad-research (95% CI 0.32 to 1.00) and 0.57 over paper-workshop (0.16 to 0.95), though paper-workshop spent roughly thirty times the tokens. Authors who re...
 
 ---
 
@@ -155,6 +192,27 @@ This paper introduces new data on diplomatic representation in Europe between 16
 
 ---
 
+### [Probability of worthwhile effect of monotone-response treatments](https://arxiv.org/abs/2607.14414v1)
+*Benjamin Côté, Ruodu Wang* — **arxiv**, 2026-07-15 — _Unclassified_
+
+Experiments may, by design, prevent one from observing on a single subject both the response to a treatment and to its absence. Because of this, marginal distributions for both cases may be observable but not their joint distribution, thus obscuring the distribution of the treatment effect. We examine the case where we impose that the treatment effect is nonnegative, also called monotone treatment response, a common assumption relevant to many practical applications. We solve the problems of best- and worst-case probabilities that the treatment effect exceeds a given value, using an explicit c...
+
+---
+
+### [From Vector Autoregressions to AI-based Time Series Forecasting: A Review](https://arxiv.org/abs/2607.14279v1)
+*Likai Chen, Weining Wang* — **arxiv**, 2026-07-15 — _Unclassified_
+
+Forecasting is a central goal of time-series analysis. This review centers on three major developments in recent AI-based time-series forecasting: transformers, large pretrained models for zero-shot forecasting, and diffusion-based generative forecasters. We connect these methods to the econometric tradition built around the vector autoregression (VAR) through a common object: the conditional distribution of the future given the past. The review is organized around three long-standing challenges: \emph{high dimensionality}, \emph{nonstationarity}, and \emph{nonlinearity}. We argue that modern ...
+
+---
+
+### [Model Uncertainty under Non-Gaussian Errors: Bayesian Model Averaging and Selection in Stochastic Frontier Models](https://arxiv.org/abs/2607.14274v1)
+*Kamil Makieła* — **arxiv**, 2026-07-15 — _Unclassified_
+
+The paper investigates Bayesian Model Averaging and Selection (BMA/S) under non-standard stochastic assumptions, focusing on stochastic frontier analysis (SFA). We propose fast, reliable procedures for inference in the normal-exponential stochastic frontier model and examine whether accounting for asymmetric disturbances affects model averaging and/or selection outcomes relative to the conventional Gaussian-error BMA/S. Particular attention is given to moderate-dimensional covariate selection problems typical in SFA applications. We demonstrate that, with appropriate search strategies and para...
+
+---
+
 ### [Orthogonal Integrated Conditional Moment Tests for Treatment Effect Heterogeneity](https://arxiv.org/abs/2607.12622v1)
 *Haokun Lu, Xiaojun Song* — **arxiv**, 2026-07-14 — _Unclassified_
 
@@ -169,69 +227,11 @@ We study the limits of third-degree price discrimination when the production cos
 
 ---
 
-### [Interpreting (and testing) factor loadings](https://arxiv.org/abs/2607.12568v1)
-*A. Montañés, E. Ruiz* — **arxiv**, 2026-07-14 — _Unclassified_
+## method:Theory
 
-Dynamic Factor Models (DFMs) are popular to reduce dimensionality being customary in the empirical analysis of large systems of macroeconomic and/or financial variables. In this context, the common underlying factors and their loadings are often extracted using Principal Components (PC), which are consistent and asymptotically normal under very general conditions. Consequently, inference on the factor loadings, which is crucial for the correct interpretation of the underlying factors, is often based on their asymptotic distribution with the limit covariance matrix of the loadings consistently ...
+### [When Is Delegated Play Truthful? Within-Range Regret and the Trilemma of Aligned Delegation](https://arxiv.org/abs/2607.14357v1)
+*Taksch Dube* — **arxiv**, 2026-07-15 — _method:Theory_
 
----
-
-### [Choice at Finite Capacity: The Bounded Agent as an Information Channel and the Recovery of Walrasian Demand](https://arxiv.org/abs/2607.12412v1)
-*Avishek Bhandari* — **arxiv**, 2026-07-14 — _Unclassified_
-
-Standard economics assumes the consumer as a flawless calculator who always buys the best basket it can afford. This paper models the shopper instead as a limited information channel: it compresses its world to the detail its attention affords, so its choice is a probability distribution, not a single basket. The textbook consumer returns exactly as the unlimited-attention limit, while at the zero-attention end the shopper falls back on pure habit. The central result is about how this shopper's demand responds to price changes. That pattern of responses is just a rescaling of how the shopper's...
-
----
-
-### [First They Came for the Others: A Theory of Divide-and-Conquer](https://arxiv.org/abs/2607.12371v1)
-*Yeon-Koo Che, Jinyuqi Huang, Wooyoung Lim* — **arxiv**, 2026-07-14 — _Unclassified_
-
-Divide-and-conquer tactics often succeed not through mechanical coordination failures, but through epistemic friction regarding an aggressor's underlying intent. When an attacker strikes a first target, bystanders must infer whether the assault represents a localized grievance or a systemic campaign. If the attack is rationally interpreted as particularized, bystanders abstain, prompting the isolated victim to surrender. We demonstrate how higher attack costs and lower correlation between victims' fates facilitate this division. We then study how behavioral responses, rhetoric, treaty commitme...
-
----
-
-### [The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context](https://doi.org/10.48550/arxiv.2607.12963)
-*Yanzhe Zhang, Sanmi Koyejo, Diyi Yang* — **openalex ssrn**, 2026-07-14 — _Unclassified_
-
-As large language models (LLMs) grow more capable, they are increasingly deployed in context-rich settings where task inputs are often accompanied by long, partially irrelevant context. In a controlled setting, we find that state-of-the-art models often appear robust to task-irrelevant context at the aggregate level: prepending it to benchmark questions causes little change in overall accuracy. This aggregate stability, however, masks significant per-example instability. Even semantically meaningless pseudo-words, formed by randomly combining characters, can markedly shift model predictions on...
-
----
-
-### [How Agentic Is Agentic Commerce? A Population-Scale Measurement of x402 Adoption and Authenticity](https://doi.org/10.48550/arxiv.2607.12575)
-*Shengchen Ling, Yajin Zhou, Lei Wu, Cong Wang* — **openalex ssrn**, 2026-07-14 — _Unclassified_
-
-AI agents are said to be forming an economy in which they pay, on their own, for the data, APIs, and compute they consume. x402, which settles a stablecoin payment on-chain for each purchase, is the most widely deployed protocol for this, and its hundreds of millions of settlements are read as proof that the economy has arrived. We show the count cannot be read as adoption: it is the one metric an interested party can manufacture almost for free, since the facilitator sponsors the gas and nothing on-chain marks who controls a payment. We give the first population-scale measurement of x402 on B...
-
----
-
-### [The Limits of Price Discrimination with a Bayesian Seller](https://doi.org/10.48550/arxiv.2607.12615)
-*Yuan Deng, Yilin Li, Wei Tang, Hanrui Zhang* — **openalex ssrn**, 2026-07-14 — _Unclassified_
-
-We study the limits of third-degree price discrimination when the production cost is Bayesian and private to the seller, generalizing the seminal work of Bergemann, Brooks and Morris (2015). The rough setup is the following: A monopoly seller sets different prices for buyers in different "segments" of the market so as to maximize seller surplus. Different ways in which the aggregate market is decomposed into segments lead to different welfare outcomes, i.e., (seller surplus, buyer surplus) pairs. When the production cost is Bayesian, the region of achievable welfare outcomes can exhibit comple...
-
----
-
-### [When Directional Accuracy Lies: A Base-Rate-Honest Benchmark for LoRA-Adapted TimesFM on Equity Forecasting](https://doi.org/10.48550/arxiv.2607.12248)
-*Taizhen Cheung, SA Kwon* — **openalex ssrn**, 2026-07-14 — _Unclassified_
-
-Large pretrained time-series models such as TimesFM are attractive for financial forecasting, but raw directional accuracy is a misleading scoreboard in equity markets. An early LoRA adapter in this project appeared to reach roughly 80% directional accuracy; we show this is not evidence of skill. Over a long horizon in a rising market, a trivial "always-up" rule attains comparably high accuracy without using the input at all. To separate genuine skill from this base-rate artifact, we build a reproducible, frozen-data benchmark with expanding walk-forward folds, a stratified held-out-ticker spl...
-
----
-
-## method:Structural
-
-### [Tabular Foundation Models for Discrete Choice Estimation](https://arxiv.org/abs/2607.13314v1)
-*Liu Liu, Dan Zhang* — **arxiv**, 2026-07-14 — _method:Structural_
-
-Tabular foundation models (TFMs) generate predictions on structured data via in-context learning, without task-specific estimation. We ask whether TFMs can be effectively applied to discrete choice, a central demand estimation framework in marketing and operations, and find that directly applying TFMs yields limited performance. The gap is structural: TFMs assume row-independent observations, whereas discrete choice is inherently set-valued and subject to persistent consumer preference heterogeneity. We propose a reformulation that encodes both choice-set dependence and individual heterogeneit...
-
----
-
-## method:Synthetic Control
-
-### [Q-SCM: A Quantum-Sequential Choice Model for Driver Mental State Evolution](https://arxiv.org/abs/2607.12299v1)
-*Rulla Al-Haideri, Bilal Farooq, Karim Ismail* — **arxiv**, 2026-07-14 — _method:Synthetic Control_
-
-We propose a Quantum-Sequential Choice Model (Q-SCM) for modelling driver mental state evolution in interactive traffic environments. The proposed framework retains the classical latent class choice structure, but replaces the conventional class membership formulation with a quantum cognitive state model. A unique feature of this model is that the quantum component is confined to the class membership layer, while the action choice layer remains a classical RUM. The driver's latent state is represented as a two-state quantum system on the Bloch sphere including neutral and defensive states. Per...
+Advertisers delegate bidding to autobidders; users delegate tasks to language-model agents. A person describes what they want to an automated proxy that acts in a mechanism on their behalf. This is the revelation principle in production, and it forces a question classical theory assumes away: when is it optimal to describe yourself honestly to your own proxy? We show the answer turns on one quantity, the proxy's within-range regret. The most a principal can gain by misreporting equals the regret of the proxy's honest-report action against those the principal could have steered it to take. Hone...
 
 ---
