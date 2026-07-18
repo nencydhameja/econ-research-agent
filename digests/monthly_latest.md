@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-17
+# Economics Research Digest — 2026-07-18
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -18,10 +18,38 @@ We develop a framework to compare the relative effectiveness of subsidizing alte
 
 ---
 
-### [Impacts of social and impact heterogeneity on social-climate outcomes](https://doi.org/10.48550/arxiv.2607.13438)
-*Amrita Punnavajhala, Brian Beckage, M N Anand, Daniele Visioni et al.* — **openalex ssrn**, 2026-07-15 — _Agricultural & Environmental Economics_
+### [Criticality and reduced dynamical resilience in PM2.5 pollution systems](https://doi.org/10.48550/arxiv.2607.14632)
+*Yuan Chen, Yongwen Zhang, Xu Li, Dean Chen et al.* — **openalex ssrn**, 2026-07-16 — _Agricultural & Environmental Economics_
 
-Regional heterogeneity in social characteristics, temperature change, and vulnerability to climate impacts is likely to influence the magnitude of anthropogenic climate change, but has not been considered in coupled social-climate models, which seek to represent interactions between social and climate dynamics. Here, we examine how the projected mean global temperature anomaly and population support for mitigation respond to heterogeneity in these factors across five regions of the world, using a coupled social-climate model. We find that heterogeneity in climate impacts increases the temperat...
+Concentration-based metrics underpin air-quality assessment, while dynamical persistence and recovery describe how rapidly high-PM2.5 episodes dissipate and how strongly they retain memory. Here we introduce a finite-memory multiplicative reversion (FMMR) process that links the lognormal concentration backbone of PM2.5 variability with event recurrence, temporal memory, variance amplification and local dynamical resilience. Across station observations and reanalysis data, elevated PM2.5 regimes show a coherent set of critical signatures: stronger memory, rising autocorrelation, broader upper t...
+
+---
+
+### [The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure](https://doi.org/10.48550/arxiv.2607.14865)
+*Lucas Bergholdt Hansen, Federico Torrielli, Filippo Tonini, Lukas Galke Poech* — **openalex ssrn**, 2026-07-16 — _Agricultural & Environmental Economics_
+
+LLM-based agents are increasingly deployed in multi-agent environments whose incentives can shape their behavior. We introduce The Energy Society, a minimal survival economy for studying how competitive and cooperative incentives affect emergent behavior when inference cost is directly tied to survival: Agents spend energy based on model size when generating tokens, regain energy by completing jobs or receiving donations, and deactivate if their energy reaches zero. We compare competitive and cooperative objectives against a baseline setting and several control variants. Across experiments, la...
+
+---
+
+### [Thermodynamic theory of voting and EU elections](https://doi.org/10.48550/arxiv.2607.15119)
+*Klaus M. Frahm, Dima L. Shepelyansky* — **openalex ssrn**, 2026-07-16 — _Agricultural & Environmental Economics, Health, Education & Welfare, Political Economy_
+
+We introduce a thermodynamic theory of voting and show that it provides a good description of distribution of party votes in EU elections. The theory traces parallels between system energies of coupled nonlinear oscillators and party vote fractions. Such a classical system evolution is characterized by the conservation of total energy and probability norm that leads to the Rayleigh-Jeans (RJ) thermalization and condensation at low energy states. A similar thermalization also describes the wealth inequality in society. This feature belongs to the phenomena of constraint driven condensation know...
+
+---
+
+### [The Industrialization of Research ; On AI-Driven Science and Its Consequences](https://doi.org/10.48550/arxiv.2607.15164)
+*Emmanuel Jeannot* — **openalex ssrn**, 2026-07-16 — _Agricultural & Environmental Economics_
+
+Artificial intelligence is transforming scientific research - not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model, in which knowledge, method, and judgment are embedded in the researcher, to a pipeline model, in which these steps are decomposed, automated, and supervised. The US Department of Energy's Genesis Mission is the most ambitious current instantiation of this shift, but the fundamental questions it raises...
+
+---
+
+### [Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea](https://doi.org/10.48550/arxiv.2607.14446)
+*Youngjin Hong, In Kyung Kim, Frank Verboven* — **openalex ssrn**, 2026-07-16 — _Agricultural & Environmental Economics_
+
+We develop a framework to compare the relative effectiveness of subsidizing alternative emission-reducing technologies. We show that an intermediate technology may reduce emissions more effectively than the cleanest technology if it induces sufficiently greater substitution away from the prevailing high-emission technology. We apply the framework to the South Korean passenger vehicle market using a demand model that incorporates mileage heterogeneity, an important determinant of fuel-type choice. First, reallocating existing subsidies from battery electric vehicles (BEVs), the cleanest technol...
 
 ---
 
@@ -41,6 +69,20 @@ Artificial intelligence (AI) is rapidly transforming economies, societies, and p
 
 ---
 
+### [Stochastic ultimatum game: Spite-driven resource feedback fosters fairness](https://doi.org/10.48550/arxiv.2607.14914)
+*Arunava Patra, Prosanta Mandal, Sagar Chakraborty* — **openalex ssrn**, 2026-07-16 — _Business Economics & Innovation_
+
+Resource scarcity can fundamentally encourage antisocial behaviour, whereas resource abundance can promote fair behaviour. Experimental evidence indeed suggests that scarcity induces spiteful behaviour, while repeated interactions enhance fairness. However, existing studies of game--environment feedback systems are largely confined to the evolution of cooperation and they overlook the interplay between resources, spite, and fairness. To address this lacuna, we develop a stochastic ultimatum game framework in which an offerer and an accepter repeatedly interact to negotiate exploitation of a se...
+
+---
+
+### [Governing Artificial Intelligence: Public Preferences and Regulatory Options](https://doi.org/10.48550/arxiv.2607.14585)
+*Magnus Lundgren, Jonas Tallberg* — **openalex ssrn**, 2026-07-16 — _Business Economics & Innovation, Law & Economics, method:Survey Experiment_
+
+Artificial intelligence (AI) is rapidly transforming economies, societies, and polities, raising fundamental questions about how it should be regulated. Policymakers face choices over whether to prioritize innovation or safety, rely on public oversight or private self-regulation, and govern nationally or internationally. Yet little is known about how citizens evaluate these competing priorities. Here we report a conjoint survey experiment conducted in seven countries with diverse political and economic profiles. We find that citizens strongly support regulating AI and generally prioritize safe...
+
+---
+
 ## Econometrics & Methods
 
 ### [Indirect Variational Inference: Applications to Earnings Dynamics](https://arxiv.org/abs/2607.15168v1)
@@ -50,17 +92,10 @@ Latent-variable models are central to economics but often entail intractable int
 
 ---
 
-### [Equilibrium Information Aggregation under Machine Learning](https://arxiv.org/abs/2607.13670v1)
-*Andrew Ellis, Michele Piccione, Shengxing Zhang* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:Machine Learning_
+### [Indirect Variational Inference: Applications to Earnings Dynamics](https://doi.org/10.48550/arxiv.2607.15168)
+*Neele Balke, Stéphane Bonhomme, Thibaut Lamadon* — **openalex ssrn**, 2026-07-16 — _Econometrics & Methods, method:Machine Learning_
 
-We introduce a framework for studying the equilibrium effects of machine learning. Agents process information using a Chow and Liu (1968) tree, a widely-used machine learning procedure that admits a closed-form solution. We apply the model to an asset market with dispersed information based on Hellwig (1980). The price mechanism fails to aggregate the information extracted by the algorithm, even approximately. While there are partial equilibrium benefits from access to algorithms, the equilibrium price aggregates less information than the rational equilibrium. Equilibrium typically features di...
-
----
-
-### [Manipulation testing based on Benford's Law for discrete scores](https://arxiv.org/abs/2607.13564v1)
-*Roy Cerqueti, Marco Ventura* — **arxiv**, 2026-07-15 — _Econometrics & Methods, method:RDD_
-
-This paper addresses the problem of running variable manipulation in Regression Discontinuity Designs. Leveraging the observation that manipulation often alters the density balance around the cutoff, we detect these structural imbalances using Benford's Law -a natural statistical regularity widely applied in fraud detection. Our framework serves as a vital precautionary safeguard alongside traditional McCrary-type tests. It eliminates researcher-chosen parameters that can skew outcomes, while delivering a deeper diagnostic breakdown of the density's behavior. Crucially, whereas the classic McC...
+Latent-variable models are central to economics but often entail intractable integration. Variational inference (VI), widely used in machine learning, turns this integration into tractable, differentiable optimization by replacing the likelihood with a variational objective. However, guarantees of recovering the true parameters remain limited when the variational family is insufficiently flexible -- a key obstacle to the adoption of VI in economics. We first evaluate VI in models of earnings dynamics and show that the choice of variational posterior is crucial. We then introduce indirect varia...
 
 ---
 
@@ -89,58 +124,10 @@ We develop a novel methodology for estimation and inference in high-dimensional 
 
 ## Industrial Organization
 
-### [Messy Research, Certification and the Monetization of Science](https://arxiv.org/abs/2607.13844v1)
-*Johan Fourie* — **arxiv**, 2026-07-15 — _Industrial Organization_
+### [Randomized routing strategies of fleets of CAVs may prove market efficient](https://doi.org/10.48550/arxiv.2607.14859)
+*Grzegorz Jamróz, Łukasz Gorczyca, Rafał Kucharski* — **openalex ssrn**, 2026-07-16 — _Industrial Organization_
 
-I study how cheaper AI-assisted research changes the institutions that certify science. AI lowers the cost of producing a polished manuscript faster than it lowers the cost of judging whether the underlying contribution is valuable. Polish therefore loses information, entry expands and the average quality of the uncertified pool can fall. At a fixed standard, the willingness to pay for credible certification then rises because the outside option deteriorates. A certifier with market power can capture this premium; competition and alternative disclosure rules need not produce the same fee. With...
-
----
-
-### [Messy Research, Certification and the Monetization of Science](https://doi.org/10.48550/arxiv.2607.13844)
-*J. Fourie* — **openalex ssrn**, 2026-07-15 — _Industrial Organization_
-
-I study how cheaper AI-assisted research changes the institutions that certify science. AI lowers the cost of producing a polished manuscript faster than it lowers the cost of judging whether the underlying contribution is valuable. Polish therefore loses information, entry expands and the average quality of the uncertified pool can fall. At a fixed standard, the willingness to pay for credible certification then rises because the outside option deteriorates. A certifier with market power can capture this premium; competition and alternative disclosure rules need not produce the same fee. With...
-
----
-
-## International Economics
-
-### [Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment](https://arxiv.org/abs/2607.14418v1)
-*Mohammad Rashid, Hema Yoganarasimhan* — **arxiv**, 2026-07-15 — _International Economics, method:Field Experiment_
-
-Ad-load design is a central supply-side decision in sponsored search: more sponsored slots can raise revenue, but may crowd out organic results and degrade user outcomes. We study this trade-off using a large-scale randomized field experiment on an Android app store, where over five million users are exposed to one through six sponsored slots. Increasing ad load raises revenue by up to 43%, but reduces total search conversions by up to 5% and daily engagement by up to 2.2%. These average effects mask substantial heterogeneity: additional slots generate large revenue gains for high-ad-conversio...
-
----
-
-### [Supervised Fine-Tuning vs. In-Context Learning: An Equilibrium Analysis of LLM Personalization under Congestion](https://arxiv.org/abs/2607.14371v1)
-*Fengzhuo Zhang, Zhuoran Yang, Dirk Bergemann* — **arxiv**, 2026-07-15 — _International Economics, method:Theory_
-
-Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources that users must share. When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms adopt when offering multiple personalization algorithms? We develop a tractable framework for LLM serving that captures the statistical-economic trade-...
-
----
-
-## Political Economy
-
-### [Time preference effects in forecasting](https://arxiv.org/abs/2607.13759v1)
-*Yannick Hoga, Niklas V. Lehmann* — **arxiv**, 2026-07-15 — _Political Economy_
-
-We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
-
----
-
-### [Time preference effects in forecasting](https://doi.org/10.48550/arxiv.2607.13759)
-*Yannick Hoga, Niklas V. Lehmann* — **openalex ssrn**, 2026-07-15 — _Political Economy_
-
-We study the evaluation of forecasts regarding the timing and occurrence of uncertain future events, such as volcanic eruptions, the start of a war or the beginning of a recession. We show theoretically that a typical approach -- evaluating the forecasts after the event occurred -- incentivizes dishonest predictions if forecasters discount future rewards in favor of more immediate benefits. An empirical application to forecasting tournament data finds strong empirical evidence that forecasters adjust predictions in response to these incentives, implying that existing forecasts of such events a...
-
----
-
-## Public Economics
-
-### [Auctions with Contract Design](https://doi.org/10.48550/arxiv.2607.13795)
-*Xiaolin Bu, Jiarong Jin, Junzhu Ke, Pinyan Lu et al.* — **openalex ssrn**, 2026-07-15 — _Public Economics, method:Structural_
-
-We consider a new auction model where the bidders' utilities and the auctioneer's revenue depend on a quality factor of the transaction determined by costly and strategic investments of the bidders. Applications of our model include ad auctions, government concessions and crowdsourcing contests. Crucially, these quality-enhancing efforts made by the bidders are often sunk costs incurred prior to the allocation, creating a fundamental moral hazard problem where the risk of losing the auction discourages investments. In this paper, we study the design of revenue-maximizing contracts integrated i...
+In future cities every driver may own a vehicle which could be either independently driven (HDV), or autonomously routed and piloted (CAV). The autonomous operations could be handled by a few competing companies. What is the market structure which would make this market aligned with city goals? In this paper we discuss a variant of the emerging market of collectively routed fleets of CAVs, where revenue for fleet operators is proportional to market share. We provide benchmark scenarios to compare the routing algorithms. We present several routing algorithms and demonstrate that, when the attit...
 
 ---
 
@@ -178,12 +165,52 @@ Probably not, at least for meta-analyses in economics. In a pre-registered, iden
 
 ---
 
-### [Learning to Navigate a New Financial Technology](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062?af=R)
-*EMILY BREZA, 
-MARTIN KANZ, 
-LEORA KLAPPER* — **Journal of Finance**, 2026-06-17 — _Unclassified_
+### [Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit](https://doi.org/10.48550/arxiv.2607.14686)
+*C E Wu* — **openalex ssrn**, 2026-07-16 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average preci...
+
+---
+
+### [Existence and convergence of discrete-time Kyle models with multiple insiders](https://doi.org/10.48550/arxiv.2607.15057)
+*J H Choi, Kasper Larsen* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+We extend the limited participation model in Basak and Cuoco (1998) to allow for traders with different time-preference coefficients but identical constant relative risk-aversion coefficients. Our main result gives parameter restrictions which ensure the existence of a Radner equilibrium. As an application, we give further parameter restrictions which ensure all traders survive in the long run.
+
+---
+
+### [Multiverse analysis, abdication of responsibility and manufacturing of doubt](https://doi.org/10.48550/arxiv.2607.14623)
+*Martin Modrák* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+I argue that multiverse analysis is highly suited to two undesirable uses: abdication of researcher's responsibility for their conclusion and manufacturing of doubt. A review of multiverse analyses published in 2025 provides tentative empirical support that abdication of responsibility is present in the literature and I mention anecdotal evidence that multiverse has been used for manufacturing of doubt about Covid-19 precautions. To mitigate negative effects if multiverse analysis becomes widely used I suggest the community adopts two conventions for evaluating multiverse analyzes: evaluating ...
+
+---
+
+### [SportD: Can VLMs Physically Strategize?](https://doi.org/10.48550/arxiv.2607.14616)
+*Jasin Cekinmez, Addison J. Wu, Haotian Xia, Akshaya Bharadhwaj et al.* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+Vision--language models have become increasingly capable of interpreting visual scenes, but it remains unclear whether they can use information to make strategically effective decisions. We investigate this question in soccer, where models observe the seconds preceding an on-ball decision and must choose whether to shoot or pass to a specific teammate. Unlike conventional visual-understanding tasks, soccer enables decisions to be evaluated quantitatively by estimating the value of every available action. We introduce SportD, a benchmark comprising 478 on-ball decisions from the 2022 FIFA World...
+
+---
+
+### [Accelerating A/B-Tests with Counterfactual Estimation: Reducing Variance through Policy Overlap](https://doi.org/10.48550/arxiv.2607.14604)
+*Olivier Jeunen* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+Online controlled experiments are the gold standard for hypothesis testing in online platforms. Notwithstanding their ubiquity, they are notoriously expensive to run, and issues of variance hamper statistical power in assessing treatment effects. While standard variance reduction techniques leverage model-based control variates to reduce outcome noise, they remain agnostic to potential structural relationships between competing policies. In this work, we identify a critical inefficiency in the standard A/B-testing protocol: when a treatment and control policy agree on an action, the resulting ...
+
+---
+
+### [Aggregation Bias in Proxy Measurement: Nighttime Lights and Local Economic Activity](https://doi.org/10.48550/arxiv.2607.14825)
+*Davide Fiaschi, Angela Parenti, Cristiano Ricci* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+This paper studies when high-resolution signals aggregated to administrative units can recover unobserved local economic activity. We develop a reverse-regression framework for signals generated by activity but used to predict it at coarser spatial supports. The main theorem decomposes predictive elasticity into elementary elasticity, reverse-regression attenuation, and a spatial aggregation term driven by unit size and within-unit dispersion, showing aggregation pulls elasticities toward one. Monte Carlo evidence confirms the decomposition and clarifies transferability conditions. Application...
+
+---
+
+### [Global Index on Responsible AI: 2026 Report](https://doi.org/10.48550/arxiv.2607.14782)
+*Rachel Adams, Fola Adeleke, Ayantola Alayande, Selamawit Engida Abdella et al.* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+
+Grounded in human rights-based frameworks such as the UNESCO Recommendation on the Ethics of AI, the Global Index on Responsible AI (GIRAI) examines how countries translate responsible AI commitments into enforceable protections, institutional capacity, and redress mechanisms. GIRAI 2026 assesses these across five dimensions: Inclusion and Diversity, Ethics and Sustainability, Labour and Skills, Trust and Safety, and AI Use in Public Service. A global network of 135 country-level researchers collected and assessed 68,138 data points on 38 indicators organised across three pillars: government A...
 
 ---
 
@@ -194,46 +221,11 @@ We study the impact of external stimuli on attention in the Attentional Interfer
 
 ---
 
-### [Equilibrium stability as a driver of cooperation among Q-learners](https://arxiv.org/abs/2607.13607v1)
-*Janusz M. Meylahn, Maximilian Schäfer* — **arxiv**, 2026-07-15 — _Unclassified_
+## Urban, Rural & Regional Economics
 
-Algorithmic collusion among pricing algorithms has raised concerns about sustained supra-competitive prices and their implications for social welfare. Existing work has largely focused on the probability that reinforcement-learning algorithms converge to cooperative strategies, typically under the assumption that exploration vanishes over time. Motivated by the observation that algorithms deployed in practice are likely to continue exploring in order to remain adaptive to changing environments, we study learning dynamics under constant exploration. In this setting, the relevant question is no ...
+### [Multi-Scale Equilibrium under Variable Indicator Dimensionality: Faithful Reduction of Dynamic Attractors in Urban Mobility Systems](https://doi.org/10.48550/arxiv.2607.14815)
+*Ali Ghoroghi, Yacine Rezgui, Afrouz Ghaemi, Cristina De Nardi et al.* — **openalex ssrn**, 2026-07-16 — _Urban, Rural & Regional Economics, method:Theory_
 
----
-
-### [Mapping Diplomatic Representation in Europe, 1648-1715](https://arxiv.org/abs/2607.13526v1)
-*Magnus Lundgren* — **arxiv**, 2026-07-15 — _Unclassified_
-
-This paper introduces new data on diplomatic representation in Europe between 1648 and 1715, drawn from Band I of the Repertorium der diplomatischen Vertreter aller Lander. The data comprise 13,344 diplomatic missions, exchanged among 141 sending and 201 receiving polities, and 8,852 individual representatives. The paper describes the source and coding procedure, assesses the quality and limits of the data, and reports patterns in participation, rank, and mission duration. In an illustrative application, I use the data to examine diplomatic continuity across ruler successions, with findings su...
-
----
-
-### [Probability of worthwhile effect of monotone-response treatments](https://arxiv.org/abs/2607.14414v1)
-*Benjamin Côté, Ruodu Wang* — **arxiv**, 2026-07-15 — _Unclassified_
-
-Experiments may, by design, prevent one from observing on a single subject both the response to a treatment and to its absence. Because of this, marginal distributions for both cases may be observable but not their joint distribution, thus obscuring the distribution of the treatment effect. We examine the case where we impose that the treatment effect is nonnegative, also called monotone treatment response, a common assumption relevant to many practical applications. We solve the problems of best- and worst-case probabilities that the treatment effect exceeds a given value, using an explicit c...
-
----
-
-### [From Vector Autoregressions to AI-based Time Series Forecasting: A Review](https://arxiv.org/abs/2607.14279v1)
-*Likai Chen, Weining Wang* — **arxiv**, 2026-07-15 — _Unclassified_
-
-Forecasting is a central goal of time-series analysis. This review centers on three major developments in recent AI-based time-series forecasting: transformers, large pretrained models for zero-shot forecasting, and diffusion-based generative forecasters. We connect these methods to the econometric tradition built around the vector autoregression (VAR) through a common object: the conditional distribution of the future given the past. The review is organized around three long-standing challenges: \emph{high dimensionality}, \emph{nonstationarity}, and \emph{nonlinearity}. We argue that modern ...
-
----
-
-### [Model Uncertainty under Non-Gaussian Errors: Bayesian Model Averaging and Selection in Stochastic Frontier Models](https://arxiv.org/abs/2607.14274v1)
-*Kamil Makieła* — **arxiv**, 2026-07-15 — _Unclassified_
-
-The paper investigates Bayesian Model Averaging and Selection (BMA/S) under non-standard stochastic assumptions, focusing on stochastic frontier analysis (SFA). We propose fast, reliable procedures for inference in the normal-exponential stochastic frontier model and examine whether accounting for asymmetric disturbances affects model averaging and/or selection outcomes relative to the conventional Gaussian-error BMA/S. Particular attention is given to moderate-dimensional covariate selection problems typical in SFA applications. We demonstrate that, with appropriate search strategies and para...
-
----
-
-## method:Theory
-
-### [When Is Delegated Play Truthful? Within-Range Regret and the Trilemma of Aligned Delegation](https://arxiv.org/abs/2607.14357v1)
-*Taksch Dube* — **arxiv**, 2026-07-15 — _method:Theory_
-
-Advertisers delegate bidding to autobidders; users delegate tasks to language-model agents. A person describes what they want to an automated proxy that acts in a mechanism on their behalf. This is the revelation principle in production, and it forces a question classical theory assumes away: when is it optimal to describe yourself honestly to your own proxy? We show the answer turns on one quantity, the proxy's within-range regret. The most a principal can gain by misreporting equals the regret of the proxy's honest-report action against those the principal could have steered it to take. Hone...
+Equilibrium analysis of urban mobility systems is formulated in a high-dimensional indicator space, whilst data availability varies sharply across cities and disruption contexts. This paper gives a formal treatment of that mismatch. It presents a dynamic multi-layer equilibrium attractor for disrupted urban mobility, in which a fast performance layer relaxes towards an indicator-dependent target, a slow strategic layer supplies a joint traffic, modal and learning fixed point, and antifragility is classified through a statistical decision rule on the post-to-baseline performance ratio. It then ...
 
 ---
