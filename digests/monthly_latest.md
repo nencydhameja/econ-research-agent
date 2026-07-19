@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-07-18
+# Economics Research Digest — 2026-07-19
 
 Window: last **30 days** · 30 papers across 7 fields · drawn from 3 sources.
 
