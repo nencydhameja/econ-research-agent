@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-07-19
+# Economics Research Digest — 2026-07-20
 
 Window: last **30 days** · 30 papers across 6 fields · drawn from 3 sources.
 
@@ -49,6 +49,15 @@ Latent-variable models are central to economics but often entail intractable int
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
+
+---
+
+## Microeconomics
+
+### [On the (Non-)Uniqueness of Random Non-Expected Utility](https://arxiv.org/abs/2607.15790v1)
+*Yi-Hsuan Lin* — **arxiv**, 2026-07-17 — _Microeconomics_
+
+In random expected utility (Gul and Pesendorfer, 2006), the distribution of preferences is uniquely identified from random choice. This paper investigates whether such identification extends beyond expected utility. We first show that when risk preferences conform to the disappointment aversion model of Gul (1991), the distribution of preferences remains uniquely identified. To assess the scope of this result, we then examine other models of non-expected utility. Within the broader class of betweenness preferences (Dekel, 1986), random utility can be unidentifiable. If preferences are confined...
 
 ---
 
@@ -245,14 +254,5 @@ Credit-card fraud losses are monetary, but papers often judge models with transa
 *J H Choi, Kasper Larsen* — **openalex ssrn**, 2026-07-16 — _Unclassified_
 
 We extend the limited participation model in Basak and Cuoco (1998) to allow for traders with different time-preference coefficients but identical constant relative risk-aversion coefficients. Our main result gives parameter restrictions which ensure the existence of a Radner equilibrium. As an application, we give further parameter restrictions which ensure all traders survive in the long run.
-
----
-
-## Urban, Rural & Regional Economics
-
-### [Multi-Scale Equilibrium under Variable Indicator Dimensionality: Faithful Reduction of Dynamic Attractors in Urban Mobility Systems](https://doi.org/10.48550/arxiv.2607.14815)
-*Ali Ghoroghi, Yacine Rezgui, Afrouz Ghaemi, Cristina De Nardi et al.* — **openalex ssrn**, 2026-07-16 — _Urban, Rural & Regional Economics, method:Theory_
-
-Equilibrium analysis of urban mobility systems is formulated in a high-dimensional indicator space, whilst data availability varies sharply across cities and disruption contexts. This paper gives a formal treatment of that mismatch. It presents a dynamic multi-layer equilibrium attractor for disrupted urban mobility, in which a fast performance layer relaxes towards an indicator-dependent target, a slow strategic layer supplies a joint traffic, modal and learning fixed point, and antifragility is classified through a statistical decision rule on the post-to-baseline performance ratio. It then ...
 
 ---
