@@ -1,45 +1,13 @@
-# Economics Research Digest — 2026-07-20
+# Economics Research Digest — 2026-07-21
 
-Window: last **30 days** · 30 papers across 6 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 4 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Thermodynamic theory of voting and EU elections](https://arxiv.org/abs/2607.15119v1)
-*Klaus M. Frahm, Dima L. Shepelyansky* — **arxiv**, 2026-07-16 — _Agricultural & Environmental Economics, Health, Education & Welfare, Political Economy_
+### [A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems](https://arxiv.org/abs/2607.17640v1)
+*Kristoffer Christensen, Bo Nørregaard Jørgensen, Zheng Grace Ma* — **arxiv**, 2026-07-20 — _Agricultural & Environmental Economics, International Economics_
 
-We introduce a thermodynamic theory of voting and show that it provides a good description of distribution of party votes in EU elections. The theory traces parallels between system energies of coupled nonlinear oscillators and party vote fractions. Such a classical system evolution is characterized by the conservation of total energy and probability norm that leads to the Rayleigh-Jeans (RJ) thermalization and condensation at low energy states. A similar thermalization also describes the wealth inequality in society. This feature belongs to the phenomena of constraint driven condensation know...
-
----
-
-### [Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea](https://arxiv.org/abs/2607.14446v1)
-*Youngjin Hong, In Kyung Kim, Frank Verboven* — **arxiv**, 2026-07-16 — _Agricultural & Environmental Economics_
-
-We develop a framework to compare the relative effectiveness of subsidizing alternative emission-reducing technologies. We show that an intermediate technology may reduce emissions more effectively than the cleanest technology if it induces sufficiently greater substitution away from the prevailing high-emission technology. We apply the framework to the South Korean passenger vehicle market using a demand model that incorporates mileage heterogeneity, an important determinant of fuel-type choice. First, reallocating existing subsidies from battery electric vehicles (BEVs), the cleanest technol...
-
----
-
-## Business Economics & Innovation
-
-### [Stochastic ultimatum game: Spite-driven resource feedback fosters fairness](https://arxiv.org/abs/2607.14914v1)
-*Arunava Patra, Prosanta Mandal, Sagar Chakraborty* — **arxiv**, 2026-07-16 — _Business Economics & Innovation_
-
-Resource scarcity can fundamentally encourage antisocial behaviour, whereas resource abundance can promote fair behaviour. Experimental evidence indeed suggests that scarcity induces spiteful behaviour, while repeated interactions enhance fairness. However, existing studies of game--environment feedback systems are largely confined to the evolution of cooperation and they overlook the interplay between resources, spite, and fairness. To address this lacuna, we develop a stochastic ultimatum game framework in which an offerer and an accepter repeatedly interact to negotiate exploitation of a se...
-
----
-
-### [Governing Artificial Intelligence: Public Preferences and Regulatory Options](https://arxiv.org/abs/2607.14585v1)
-*Magnus Lundgren, Jonas Tallberg* — **arxiv**, 2026-07-16 — _Business Economics & Innovation, Law & Economics, method:Survey Experiment_
-
-Artificial intelligence (AI) is rapidly transforming economies, societies, and polities, raising fundamental questions about how it should be regulated. Policymakers face choices over whether to prioritize innovation or safety, rely on public oversight or private self-regulation, and govern nationally or internationally. Yet little is known about how citizens evaluate these competing priorities. Here we report a conjoint survey experiment conducted in seven countries with diverse political and economic profiles. We find that citizens strongly support regulating AI and generally prioritize safe...
-
----
-
-## Econometrics & Methods
-
-### [Indirect Variational Inference: Applications to Earnings Dynamics](https://arxiv.org/abs/2607.15168v1)
-*Neele Balke, Stephane Bonhomme, Thibaut Lamadon* — **arxiv**, 2026-07-16 — _Econometrics & Methods, method:Machine Learning_
-
-Latent-variable models are central to economics but often entail intractable integration. Variational inference (VI), widely used in machine learning, turns this integration into tractable, differentiable optimization by replacing the likelihood with a variational objective. However, guarantees of recovering the true parameters remain limited when the variational family is insufficiently flexible -- a key obstacle to the adoption of VI in economics. We first evaluate VI in models of earnings dynamics and show that the choice of variational posterior is crucial. We then introduce indirect varia...
+This work addresses the need for engineering-grounded evaluation of implement-ed tariff mechanisms in distribution-level energy systems. A digital twin-based method is proposed for assessing local collective tariffs under realistic behavioral and infrastructural conditions. The approach integrates agent-based modeling of household consumption and generation, virtual aggregation through a shared metering abstraction, and explicit representation of tariff logic within a unified simulation environment. The method is demonstrated through its application to the Danish Local Collective Tariff across...
 
 ---
 
@@ -49,15 +17,6 @@ Latent-variable models are central to economics but often entail intractable int
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
-
----
-
-## Microeconomics
-
-### [On the (Non-)Uniqueness of Random Non-Expected Utility](https://arxiv.org/abs/2607.15790v1)
-*Yi-Hsuan Lin* — **arxiv**, 2026-07-17 — _Microeconomics_
-
-In random expected utility (Gul and Pesendorfer, 2006), the distribution of preferences is uniquely identified from random choice. This paper investigates whether such identification extends beyond expected utility. We first show that when risk preferences conform to the disappointment aversion model of Gul (1991), the distribution of preferences remains uniquely identified. To assess the scope of this result, we then examine other models of non-expected utility. Within the broader class of betweenness preferences (Dekel, 1986), random utility can be unidentifiable. If preferences are confined...
 
 ---
 
@@ -222,37 +181,74 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market](https://arxiv.org/abs/2607.15134v1)
-*Jennifer Zou* — **arxiv**, 2026-07-16 — _Unclassified_
+### [Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference](https://arxiv.org/abs/2607.18225v1)
+*Masahiro Kato, Taka Kato* — **arxiv**, 2026-07-20 — _Unclassified_
 
-We study how a representative sample of United States adult AI-assistant users (n=1,999; June 2026) choose among platforms, allocate tasks across them, evaluate provider trustworthiness, and value data-handling features. Estimates are weighted to the AI-user population using external adoption benchmarks. Four patterns emerge. The market is concentrated but internally differentiated: ChatGPT is the primary assistant for 58% of users and Gemini for 25%, yet smaller platforms hold defensible task niches--Claude captures a third of coding tasks despite a 7% overall share. Task allocation is thus o...
-
----
-
-### [Aggregation Bias in Proxy Measurement: Nighttime Lights and Local Economic Activity](https://arxiv.org/abs/2607.14825v1)
-*Davide Fiaschi, Angela Parenti, Cristiano Ricci* — **arxiv**, 2026-07-16 — _Unclassified_
-
-This paper studies when high-resolution signals aggregated to administrative units can recover unobserved local economic activity. We develop a reverse-regression framework for signals generated by activity but used to predict it at coarser spatial supports. The main theorem decomposes predictive elasticity into elementary elasticity, reverse-regression attenuation, and a spatial aggregation term driven by unit size and within-unit dispersion, showing aggregation pulls elasticities toward one. Monte Carlo evidence confirms the decomposition and clarifies transferability conditions. Application...
+We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the generator estimates conditional expected outcomes or their contrasts, and a plug-in rule selects an action. This formulation connects action-specific vector search with nearest-neighbor matching in causal inference. We decompose the regret of the two-step method into candidate-generation regret and withi...
 
 ---
 
-### [Does Multi-Agent Debate Improve AI Feedback on Research Papers?](https://arxiv.org/abs/2607.14713v1)
-*Tomas Havranek, Zuzana Irsova* — **arxiv**, 2026-07-16 — _Unclassified_
+### [1-out-of-5 Maximin-Share Allocations Always Exist for Four Agents](https://arxiv.org/abs/2607.18139v1)
+*Christoph Schwerdtfeger* — **arxiv**, 2026-07-20 — _Unclassified_
 
-Probably not, at least for meta-analyses in economics. In a pre-registered, identity-masked, within-paper experiment, the authors of 44 meta-analyses ranked three AI reports on their own paper by usefulness for improving it: a single pass by a frontier model against two multi-agent debate tools we built and expected to win. All reports were held to a common length and template. The authors preferred the single pass, by 0.66 rank points over mad-research (95% CI 0.32 to 1.00) and 0.57 over paper-workshop (0.16 to 0.95), though paper-workshop spent roughly thirty times the tokens. Authors who re...
-
----
-
-### [Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit](https://doi.org/10.48550/arxiv.2607.14686)
-*C E Wu* — **openalex ssrn**, 2026-07-16 — _Unclassified_
-
-Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average preci...
+For four agents with nonnegative additive valuations, a complete 1-out-of-5 maximin-share allocation always exists, improving the previous 1-out-of-6 guarantee. Together with known exact-MMS counterexamples, this completely characterizes the four-agent case: the guarantee holds exactly for $d\geq5$. The main technical contribution is a balanced-residual partition lemma: removing rejected bundles with one of the four highest-ranked goods apiece leaves a remainder that still admits the required number of unit-valued balanced bundles. In its central $2+2$ case, three unit bundles repair two pairs...
 
 ---
 
-### [Existence and convergence of discrete-time Kyle models with multiple insiders](https://doi.org/10.48550/arxiv.2607.15057)
-*J H Choi, Kasper Larsen* — **openalex ssrn**, 2026-07-16 — _Unclassified_
+### [Equilibrium Play Without Mutual Knowledge of Rationality](https://arxiv.org/abs/2607.17968v1)
+*Florian Brandl, Felix Brandt* — **arxiv**, 2026-07-20 — _Unclassified_
 
-We extend the limited participation model in Basak and Cuoco (1998) to allow for traders with different time-preference coefficients but identical constant relative risk-aversion coefficients. Our main result gives parameter restrictions which ensure the existence of a Radner equilibrium. As an application, we give further parameter restrictions which ensure all traders survive in the long run.
+Equilibrium play in two-player zero-sum games is usually justified via epistemic assumptions, such as mutual knowledge of rationality and beliefs, that go far beyond the rationality of the players. We propose a justification that dispenses with these assumptions. To this end, we consider solution concepts that assign to every subgame of a given game a set of plausible actions for each player, and we impose two conditions. Rationality requires that the plausible sets are supports of undominated strategies or, equivalently, that all plausible actions are best responses to a common belief about t...
+
+---
+
+### [Engineering Social Networks: How Initial Group Assignment Shapes Student Social Interactions](https://arxiv.org/abs/2607.17926v1)
+*Johanna Einsiedler, Nikolaj Arpe Harmon, David Dreyer Lassen, Andreas Bjerre-Nielsen* — **arxiv**, 2026-07-20 — _Unclassified_
+
+A large literature uses exogenous variation to estimate how assignment to classrooms or other groups shapes social networks. Yet most of these analyses remain dyadic, treating each link in isolation, even though ties often form through triadic closure, as a friend of a friend also becomes a friend. Using fine-grained data on phone calls, text messages, physical co-location, and social-media ties, we estimate the network formation effects of randomly assigning first-year university students to classrooms and to smaller social groups. To analyze explicitly whether group assignment interact with ...
+
+---
+
+### [A Gate-and-Menu Theory of Collective Tourism Brand Value](https://arxiv.org/abs/2607.17827v1)
+*Johan Fourie* — **arxiv**, 2026-07-20 — _Unclassified_
+
+A collective tourism brand is jointly produced by assets managed by different custodians, so destination managers must decide which assets require collective protection. We model a destination as a gate times a menu. The gate combines essential inputs and non-reproducible anchors as a weaker-link public good; the menu combines many reproducible attractions through love of variety. Deterioration of a binding gate element has a non-vanishing, brand-wide effect, whereas an individual menu attraction's share vanishes as the menu grows. Aumann-Shapley accounting allocates the jointly produced brand...
+
+---
+
+### [Observable Consequences of Mental Accounting](https://arxiv.org/abs/2607.17741v1)
+*Laura Blow, Ian Crawford* — **arxiv**, 2026-07-20 — _Unclassified_
+
+We derive necessary and sufficient nonparametric conditions for several models of mental accounting. The paper characterises pure mental accounting, separable accounts, and labelled income, and compares these boundedly rational models with two rational multi-stage budgeting benchmarks. The resulting Afriat-style conditions make the observable implications of mental accounting explicit and refutable. In this sense, mental accounting is treated not as a loose description of behaviour, but as a formally refutable hypothesis about the organisation of consumption.
+
+---
+
+### [Identification and Inference with Machine-Learned Instruments](https://arxiv.org/abs/2607.17478v1)
+*Fangzhou Yu* — **arxiv**, 2026-07-20 — _Unclassified_
+
+Instrumental-variables estimation increasingly pools many or high-dimensional instruments into a single machine-learned first stage, with rich controls partialled out. The resulting estimand, the partialled-out IV coefficient built from any signal of the instruments, is a signal-weighted average of the heterogeneous effects, which gives an opaque first stage a precise structural meaning. The average is convex whenever a covariance-monotonicity condition holds, and we provide a microfoundation for that condition based on vector monotonicity. With a learned signal, however, the usual debiased mo...
+
+---
+
+### [A Variance-Based Test for Heterogeneous Treatment Effects](https://arxiv.org/abs/2607.17451v1)
+*Fangzhou Yu* — **arxiv**, 2026-07-20 — _Unclassified_
+
+This paper proposes a robust nonparametric hypothesis test for the existence of heterogeneous treatment effects. We focus on the variance of the Conditional Average Treatment Effect (CATE) as a natural omnibus parameter, where a non-zero variance implies the presence of relevant heterogeneity. Standard inference for this parameter faces a fundamental theoretical challenge. On one hand, evaluating variance components on the same sample leads to null degeneracy, where the asymptotic variance collapses to zero under the null hypothesis of homogeneity, invalidating standard Gaussian inference. On ...
+
+---
+
+## Urban, Rural & Regional Economics
+
+### [Ageing in which place? Spatial analytical framework for evaluating ageing-in-place practices](https://arxiv.org/abs/2607.17649v1)
+*Yong Tu, Yaopei Wang, Yumeng Yang, Yi Fan* — **arxiv**, 2026-07-20 — _Urban, Rural & Regional Economics_
+
+Over the past decade, governments around the world have made significant investments in creating elderly-friendly urban environments within local neighborhoods. However, the lack of a standardized evaluation framework for Ageing-in-Place (AIP) practices makes it challenging to generalize these experiences. First, we compare the AIP models of the U.S.- San Francisco, Japan-Tokyo, and Singapore using a cost-benefit analysis, demonstrating the comparative advantage of the Singapore model in terms of low cost and high accessibility for the independent ageing population. Second, we propose a spatia...
+
+---
+
+### [Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore's Public Housing Market](https://arxiv.org/abs/2607.17633v1)
+*Yi Fan, Ho Pin Teo, Yong Tu, Wayne Xinwei Wan* — **arxiv**, 2026-07-20 — _Urban, Rural & Regional Economics, method:Natural Experiment_
+
+This study investigates the impact of social integration on immigrants' housing behaviours from a temporal perspective, using Singapore's differential public housing policies on immigrants as a quasi-natural experiment. With the support of a local town council, we conducted a survey on social integration among 1,128 immigrant and local households living in public housing estates. In the public open rental housing market - primarily accommodating yet-to-integrate immigrants - we find immigrant renters live up to 3.04% farther from their workplace and pay lower rents up to 0.67% per additional y...
 
 ---
