@@ -1,13 +1,56 @@
-# Economics Research Digest — 2026-07-21
+# Economics Research Digest — 2026-07-22
 
-Window: last **30 days** · 30 papers across 4 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems](https://arxiv.org/abs/2607.17640v1)
-*Kristoffer Christensen, Bo Nørregaard Jørgensen, Zheng Grace Ma* — **arxiv**, 2026-07-20 — _Agricultural & Environmental Economics, International Economics_
+### [Noise Pollution and Household Sustainability: An Economic Approach](https://arxiv.org/abs/2607.18676v1)
+*Yi Fan* — **arxiv**, 2026-07-21 — _Agricultural & Environmental Economics, Business Economics & Innovation, Econometrics & Methods, Health, Education & Welfare, Urban, Rural & Regional Economics, method:IV, method:Natural Experiment_
 
-This work addresses the need for engineering-grounded evaluation of implement-ed tariff mechanisms in distribution-level energy systems. A digital twin-based method is proposed for assessing local collective tariffs under realistic behavioral and infrastructural conditions. The approach integrates agent-based modeling of household consumption and generation, virtual aggregation through a shared metering abstraction, and explicit representation of tariff logic within a unified simulation environment. The method is demonstrated through its application to the Danish Local Collective Tariff across...
+Examining the economic impact of noise pollution from a lens of household is a burgeoning field in the study of environmental sustainability. Economics studies cover the source, measure, consequence of noise pollution, as well as the econometric methods used to identify the causal impact of noise pollution on socioeconomic welfare. There are broadly four major noise origins along with the industrial growth and urban development, which are airport, railway, urban traffic, and neighborhood. Four general kinds of measures or data sources are used in economics studies to capture the noise variatio...
+
+---
+
+## Business Economics & Innovation
+
+### [Measuring AI innovation with trademark data](https://arxiv.org/abs/2607.18795v1)
+*C. Castaldi, F. Castellacci, A. Fronzetti Colladon, L. Segneri et al.* — **arxiv**, 2026-07-21 — _Business Economics & Innovation_
+
+Researchers, managers and policymakers are exploring different approaches and data sources to map the development and the diffusion of Artificial Intelligence (AI). In this research note, we illustrate the opportunities offered by trademark data. We argue that AI trademarks can complement AI patents to capture different dimensions of AI innovation. AI trademarks can reveal the extent and ways in which companies exploit AI technologies to develop new goods and services. Importantly, trademark data offer a timely and globally available data source that covers all economic sectors. We present ins...
+
+---
+
+## Econometrics & Methods
+
+### [The Price of Quietness: How a Pandemic Affects City Dwellers' Response to Road Traffic Noise](https://arxiv.org/abs/2607.18677v1)
+*Yao-pei Wang, Yong Tu, Yi Fan* — **arxiv**, 2026-07-21 — _Econometrics & Methods, Urban, Rural & Regional Economics, method:DiD, method:Machine Learning, method:Natural Experiment_
+
+Using the outbreak of COVID-19 in Singapore as a quasi-natural experiment, we investigate tenants' changing responses to road traffic noise in the rental housing market, using 46,980 transaction records between 2006 and 2022. Our difference-in-differences estimates show that road traffic noise decreases housing rents by 3.8% immediately after the pandemic outbreak and further declines by 12.7% in the subsequent year-equivalent to 186.7 US dollars per month. The results are robust to parallel trend analysis, permutation placebo tests, and tests using alternative distance thresholds or distance ...
+
+---
+
+### [Robust Signal Maximization in Spillover Experiments](https://arxiv.org/abs/2607.18601v1)
+*Kirill Borusyak, Peter Hull, Evan Munro* — **arxiv**, 2026-07-21 — _Econometrics & Methods, method:IV_
+
+We study the optimal design and analysis of experiments for estimating spillover effects. Assuming a known (e.g., linear) exposure mapping, we characterize the treatment-assignment distribution and regression-based estimator that minimize worst-case asymptotic variance against a broad class of distributions of unobservables. The design problem yields an intuitive solution in which the planner trades off spillover signal strength against diffusion of spillover variation. The analysis problem yields a simple recentered instrumental variable estimator to best leverage this variation. This framewo...
+
+---
+
+## International Economics
+
+### [Market tallies: minimal information for efficient trade](https://arxiv.org/abs/2607.19140v1)
+*Federico Vaccari* — **arxiv**, 2026-07-21 — _International Economics_
+
+This paper studies how much public information is needed to implement efficient trade in dynamic markets with privately informed sellers and buyers. An institution compares a certified statistic of market composition with the statistic implied by agents' reports. Truthful reporting is supported when the statistic changes after every unilateral change in reported type. When all market compositions are possible, the least number of public announcements is {K,L}, where K is the number of seller qualities and L the number of buyer types. The certificate must rely on information outside the reports...
+
+---
+
+## Law & Economics
+
+### [A Coordination Theory of NHS Whistleblowing Failure](https://arxiv.org/abs/2607.19014v1)
+*Ari Ercole* — **arxiv**, 2026-07-21 — _Law & Economics_
+
+Persistent whistleblowing failure in hierarchical healthcare organisations is typically attributed to insufficient legal protection for reporters or inadequate managerial incentives to investigate. This diagnosis is argued to be structurally incomplete. A repeated three-player game among a whistleblower, Trust management, and a colleague group is solved via global games techniques to obtain a unique equilibrium, identifying three mechanisms existing policy neither recognises nor addresses.
 
 ---
 
@@ -181,6 +224,27 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Optimizing Regret](https://arxiv.org/abs/2607.18866v1)
+*Irene Aldridge* — **arxiv**, 2026-07-21 — _Unclassified_
+
+Building on the identity that expected regret equals the covariance between costs and decisions, this paper develops the complete derivative theory of the covariance regret functional. We derive the Gâteaux derivative, showing that the universal steepest-descent direction is the contrarian policy $-(c-\bar{c})$, while ascent yields momentum. For linear policies $\hatπ(c) = Ac+b$, the gradient is the cost covariance matrix $Σ_c$, with a zero Hessian implying boundary-optimal solutions such as the minimum-variance portfolio. We extend to constrained optimization, sign-gradient duality between re...
+
+---
+
+### [Curriculum design in the age of AI](https://arxiv.org/abs/2607.18735v1)
+*Benjamin Davies* — **arxiv**, 2026-07-21 — _Unclassified_
+
+I develop a model of learning-by-doing and curriculum design, and use it to study the impact of artificial intelligence (AI). A myopic student faces a sequence of tasks that he can work on or delegate to AI. Work requires costly effort but builds skill; delegation requires no effort but builds no skill. A teacher designs a task sequence ("curriculum") that maximizes the student's skill development given his choices to work or delegate. Without AI, the teacher makes earlier tasks more effort-intensive and later tasks more skill-intensive. With AI, the teacher must distort the curriculum to ince...
+
+---
+
+### [Dead Reckoning: Counting Your Customers Who Never Say Goodbye](https://arxiv.org/abs/2607.18623v1)
+*Karl T. Ulrich* — **arxiv**, 2026-07-21 — _Unclassified_
+
+Firms in non-contractual commerce face the challenge of knowing how many customers they actually have because customers can stop buying without ever saying they have left. Buy-Till-You-Die models address this by estimating each customer's probability of being alive, a quantity called P(alive) and used in every major software tool for dashboards, churn, customer equity, and enterprise valuation. We show this practice confounds two distinct quantities. Within the beta-geometric family, P(alive) is the infinite-horizon limit of an observable family of finite-horizon repeat-purchase probabilities....
+
+---
+
 ### [Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference](https://arxiv.org/abs/2607.18225v1)
 *Masahiro Kato, Taka Kato* — **arxiv**, 2026-07-20 — _Unclassified_
 
@@ -192,63 +256,5 @@ We propose one-step and two-step methods for policy learning with retrieval-augm
 *Christoph Schwerdtfeger* — **arxiv**, 2026-07-20 — _Unclassified_
 
 For four agents with nonnegative additive valuations, a complete 1-out-of-5 maximin-share allocation always exists, improving the previous 1-out-of-6 guarantee. Together with known exact-MMS counterexamples, this completely characterizes the four-agent case: the guarantee holds exactly for $d\geq5$. The main technical contribution is a balanced-residual partition lemma: removing rejected bundles with one of the four highest-ranked goods apiece leaves a remainder that still admits the required number of unit-valued balanced bundles. In its central $2+2$ case, three unit bundles repair two pairs...
-
----
-
-### [Equilibrium Play Without Mutual Knowledge of Rationality](https://arxiv.org/abs/2607.17968v1)
-*Florian Brandl, Felix Brandt* — **arxiv**, 2026-07-20 — _Unclassified_
-
-Equilibrium play in two-player zero-sum games is usually justified via epistemic assumptions, such as mutual knowledge of rationality and beliefs, that go far beyond the rationality of the players. We propose a justification that dispenses with these assumptions. To this end, we consider solution concepts that assign to every subgame of a given game a set of plausible actions for each player, and we impose two conditions. Rationality requires that the plausible sets are supports of undominated strategies or, equivalently, that all plausible actions are best responses to a common belief about t...
-
----
-
-### [Engineering Social Networks: How Initial Group Assignment Shapes Student Social Interactions](https://arxiv.org/abs/2607.17926v1)
-*Johanna Einsiedler, Nikolaj Arpe Harmon, David Dreyer Lassen, Andreas Bjerre-Nielsen* — **arxiv**, 2026-07-20 — _Unclassified_
-
-A large literature uses exogenous variation to estimate how assignment to classrooms or other groups shapes social networks. Yet most of these analyses remain dyadic, treating each link in isolation, even though ties often form through triadic closure, as a friend of a friend also becomes a friend. Using fine-grained data on phone calls, text messages, physical co-location, and social-media ties, we estimate the network formation effects of randomly assigning first-year university students to classrooms and to smaller social groups. To analyze explicitly whether group assignment interact with ...
-
----
-
-### [A Gate-and-Menu Theory of Collective Tourism Brand Value](https://arxiv.org/abs/2607.17827v1)
-*Johan Fourie* — **arxiv**, 2026-07-20 — _Unclassified_
-
-A collective tourism brand is jointly produced by assets managed by different custodians, so destination managers must decide which assets require collective protection. We model a destination as a gate times a menu. The gate combines essential inputs and non-reproducible anchors as a weaker-link public good; the menu combines many reproducible attractions through love of variety. Deterioration of a binding gate element has a non-vanishing, brand-wide effect, whereas an individual menu attraction's share vanishes as the menu grows. Aumann-Shapley accounting allocates the jointly produced brand...
-
----
-
-### [Observable Consequences of Mental Accounting](https://arxiv.org/abs/2607.17741v1)
-*Laura Blow, Ian Crawford* — **arxiv**, 2026-07-20 — _Unclassified_
-
-We derive necessary and sufficient nonparametric conditions for several models of mental accounting. The paper characterises pure mental accounting, separable accounts, and labelled income, and compares these boundedly rational models with two rational multi-stage budgeting benchmarks. The resulting Afriat-style conditions make the observable implications of mental accounting explicit and refutable. In this sense, mental accounting is treated not as a loose description of behaviour, but as a formally refutable hypothesis about the organisation of consumption.
-
----
-
-### [Identification and Inference with Machine-Learned Instruments](https://arxiv.org/abs/2607.17478v1)
-*Fangzhou Yu* — **arxiv**, 2026-07-20 — _Unclassified_
-
-Instrumental-variables estimation increasingly pools many or high-dimensional instruments into a single machine-learned first stage, with rich controls partialled out. The resulting estimand, the partialled-out IV coefficient built from any signal of the instruments, is a signal-weighted average of the heterogeneous effects, which gives an opaque first stage a precise structural meaning. The average is convex whenever a covariance-monotonicity condition holds, and we provide a microfoundation for that condition based on vector monotonicity. With a learned signal, however, the usual debiased mo...
-
----
-
-### [A Variance-Based Test for Heterogeneous Treatment Effects](https://arxiv.org/abs/2607.17451v1)
-*Fangzhou Yu* — **arxiv**, 2026-07-20 — _Unclassified_
-
-This paper proposes a robust nonparametric hypothesis test for the existence of heterogeneous treatment effects. We focus on the variance of the Conditional Average Treatment Effect (CATE) as a natural omnibus parameter, where a non-zero variance implies the presence of relevant heterogeneity. Standard inference for this parameter faces a fundamental theoretical challenge. On one hand, evaluating variance components on the same sample leads to null degeneracy, where the asymptotic variance collapses to zero under the null hypothesis of homogeneity, invalidating standard Gaussian inference. On ...
-
----
-
-## Urban, Rural & Regional Economics
-
-### [Ageing in which place? Spatial analytical framework for evaluating ageing-in-place practices](https://arxiv.org/abs/2607.17649v1)
-*Yong Tu, Yaopei Wang, Yumeng Yang, Yi Fan* — **arxiv**, 2026-07-20 — _Urban, Rural & Regional Economics_
-
-Over the past decade, governments around the world have made significant investments in creating elderly-friendly urban environments within local neighborhoods. However, the lack of a standardized evaluation framework for Ageing-in-Place (AIP) practices makes it challenging to generalize these experiences. First, we compare the AIP models of the U.S.- San Francisco, Japan-Tokyo, and Singapore using a cost-benefit analysis, demonstrating the comparative advantage of the Singapore model in terms of low cost and high accessibility for the independent ageing population. Second, we propose a spatia...
-
----
-
-### [Social Integration and Housing Behaviours of Immigrants: Evidence from Singapore's Public Housing Market](https://arxiv.org/abs/2607.17633v1)
-*Yi Fan, Ho Pin Teo, Yong Tu, Wayne Xinwei Wan* — **arxiv**, 2026-07-20 — _Urban, Rural & Regional Economics, method:Natural Experiment_
-
-This study investigates the impact of social integration on immigrants' housing behaviours from a temporal perspective, using Singapore's differential public housing policies on immigrants as a quasi-natural experiment. With the support of a local town council, we conducted a survey on social integration among 1,128 immigrant and local households living in public housing estates. In the public open rental housing market - primarily accommodating yet-to-integrate immigrants - we find immigrant renters live up to 3.04% farther from their workplace and pay lower rents up to 0.67% per additional y...
 
 ---
