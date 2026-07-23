@@ -1,17 +1,24 @@
-# Economics Research Digest — 2026-07-22
+# Economics Research Digest — 2026-07-23
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Noise Pollution and Household Sustainability: An Economic Approach](https://arxiv.org/abs/2607.18676v1)
-*Yi Fan* — **arxiv**, 2026-07-21 — _Agricultural & Environmental Economics, Business Economics & Innovation, Econometrics & Methods, Health, Education & Welfare, Urban, Rural & Regional Economics, method:IV, method:Natural Experiment_
+### [Treatment Geometry and Causal Identification with Earth Observation Data](https://arxiv.org/abs/2607.19908v1)
+*Jeffrey D. Michler, Anna Josephson, Elinor Benami, Patrick Behrer et al.* — **arxiv**, 2026-07-22 — _Agricultural & Environmental Economics_
 
-Examining the economic impact of noise pollution from a lens of household is a burgeoning field in the study of environmental sustainability. Economics studies cover the source, measure, consequence of noise pollution, as well as the econometric methods used to identify the causal impact of noise pollution on socioeconomic welfare. There are broadly four major noise origins along with the industrial growth and urban development, which are airport, railway, urban traffic, and neighborhood. Four general kinds of measures or data sources are used in economics studies to capture the noise variatio...
+A central task in conducting impact evaluations is determining who or what was exposed to a treatment, when, and to what degree. These questions can be especially complex in geospatial settings, where many reasonable definitions of exposure may exist. This chapter introduces treatment geometry as a core concept in geospatial impact evaluation (GIE): the spatial and temporal footprint of a treatment as represented in data. How this footprint is defined shapes identification strategies and the credibility of causal inference. Drawing on cases spanning the air pollution, wildfire, forest policy, ...
 
 ---
 
 ## Business Economics & Innovation
+
+### [Licensing and Innovation Regimes in Pharmaceutical R&D](https://arxiv.org/abs/2607.20365v1)
+*Michele Liberatore, Massimo Riccaboni* — **arxiv**, 2026-07-22 — _Business Economics & Innovation, Econometrics & Methods, International Economics, method:Machine Learning_
+
+We study how licensing affects the allocation of innovation in pharmaceutical R&D. We develop a model in which projects differ in both quality and innovation regime, distinguishing between incremental and novel innovations. Information precision is higher for incremental projects and lower for novel ones, generating different equilibrium dynamics in the market for technology. The model predicts that licensing sustains positive selection and competitive return equalization for incremental innovation, while novel projects may exhibit weaker screening consistent with lemons-type frictions. Using ...
+
+---
 
 ### [Measuring AI innovation with trademark data](https://arxiv.org/abs/2607.18795v1)
 *C. Castaldi, F. Castellacci, A. Fronzetti Colladon, L. Segneri et al.* — **arxiv**, 2026-07-21 — _Business Economics & Innovation_
@@ -22,17 +29,26 @@ Researchers, managers and policymakers are exploring different approaches and da
 
 ## Econometrics & Methods
 
-### [The Price of Quietness: How a Pandemic Affects City Dwellers' Response to Road Traffic Noise](https://arxiv.org/abs/2607.18677v1)
-*Yao-pei Wang, Yong Tu, Yi Fan* — **arxiv**, 2026-07-21 — _Econometrics & Methods, Urban, Rural & Regional Economics, method:DiD, method:Machine Learning, method:Natural Experiment_
+### [Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals](https://arxiv.org/abs/2607.20156v1)
+*Viviana Celli, Augusto Cerqua, Guido Pellegrini* — **arxiv**, 2026-07-22 — _Econometrics & Methods, method:DiD, method:Machine Learning_
 
-Using the outbreak of COVID-19 in Singapore as a quasi-natural experiment, we investigate tenants' changing responses to road traffic noise in the rental housing market, using 46,980 transaction records between 2006 and 2022. Our difference-in-differences estimates show that road traffic noise decreases housing rents by 3.8% immediately after the pandemic outbreak and further declines by 12.7% in the subsequent year-equivalent to 186.7 US dollars per month. The results are robust to parallel trend analysis, permutation placebo tests, and tests using alternative distance thresholds or distance ...
+Spillovers and interference pose fundamental challenges for causal inference, as treatment assigned to one unit may affect the outcome of others, violating the no-interference assumption underlying most empirical strategies. Existing approaches, based on partial interference, exposure mapping, spatial, network, or structural frameworks, typically rely on strong assumptions about interaction structures or require the existence of uncontaminated control units to estimate relevant causal parameters. We revisit this identification challenge within the potential outcomes framework and compare the c...
 
 ---
 
-### [Robust Signal Maximization in Spillover Experiments](https://arxiv.org/abs/2607.18601v1)
-*Kirill Borusyak, Peter Hull, Evan Munro* — **arxiv**, 2026-07-21 — _Econometrics & Methods, method:IV_
+### [Bounded Attention and Attenuated Elasticities](https://arxiv.org/abs/2607.19929v1)
+*Tingmingke Lu, Zhenyi Wang* — **arxiv**, 2026-07-22 — _Econometrics & Methods, method:Structural_
 
-We study the optimal design and analysis of experiments for estimating spillover effects. Assuming a known (e.g., linear) exposure mapping, we characterize the treatment-assignment distribution and regression-based estimator that minimize worst-case asymptotic variance against a broad class of distributions of unobservables. The design problem yields an intuitive solution in which the planner trades off spillover signal strength against diffusion of spillover variation. The analysis problem yields a simple recentered instrumental variable estimator to best leverage this variation. This framewo...
+We study how bounded attention affects the structural estimation of the elasticity of substitution. In a sparse-max model, equilibrium prices and expenditure shares are observationally equivalent to those of a rational market. Its elasticity equals the structural elasticity scaled by the attention weight. The supply-side orthogonality condition of the covariance-based estimator holds at this attenuated elasticity but fails at the truth. Absent outside information, the estimator converges to the attenuated elasticity. Bounded attention leads to an identification failure that finite-sample and w...
+
+---
+
+## Health, Education & Welfare
+
+### [A Fixed-Effects Causal Forest for Staggered Adoption, with an Application to Medicaid Expansion](https://arxiv.org/abs/2607.19644v1)
+*Harry Aytug* — **arxiv**, 2026-07-22 — _Health, Education & Welfare, Labor & Demographic Economics, method:DiD, method:Machine Learning_
+
+Difference-in-differences with staggered adoption identifies group-time average treatment effects ATT(g,t) by comparing each cohort to units not yet treated, which avoids the "forbidden comparisons" that bias two-way fixed-effects estimators when effects are heterogeneous. This paper studies the covariate-conditional version of that object, tau_{g,t}(x), and estimates it with a fixed-effects causal forest. Within each (g,t) comparison block, the outcome and treatment are residualized on unit and period fixed effects inside each tree node, and honest causal trees split on treatment-effect heter...
 
 ---
 
@@ -60,6 +76,15 @@ Persistent whistleblowing failure in hierarchical healthcare organisations is ty
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
+
+---
+
+## Political Economy
+
+### [Catastrophic disruption cascades driven by the nonlinearity of systemic risk](https://arxiv.org/abs/2607.20068v1)
+*Jan Fialkowski, Shlomo Havlin, Stefan Thurner* — **arxiv**, 2026-07-22 — _Political Economy_
+
+Whether the COVID-19 pandemic or the Iran war, recent events have highlighted the systemic fragility of supply chains. Due to highly specific and mutual buyer-supplier dependencies, even the failure of a single firm can cause system-wide economic disruptions in the form of cascading failures up and down the supply chain network. Only recently has it become possible to quantify the systemic impact of the failure of individual firms on the total supply chain. Here, we demonstrate that the systemic risk contributions of combinations of firm failures can be drastically larger than the sum of the d...
 
 ---
 
@@ -231,30 +256,11 @@ Building on the identity that expected regret equals the covariance between cost
 
 ---
 
-### [Curriculum design in the age of AI](https://arxiv.org/abs/2607.18735v1)
-*Benjamin Davies* — **arxiv**, 2026-07-21 — _Unclassified_
+## method:DiD
 
-I develop a model of learning-by-doing and curriculum design, and use it to study the impact of artificial intelligence (AI). A myopic student faces a sequence of tasks that he can work on or delegate to AI. Work requires costly effort but builds skill; delegation requires no effort but builds no skill. A teacher designs a task sequence ("curriculum") that maximizes the student's skill development given his choices to work or delegate. Without AI, the teacher makes earlier tasks more effort-intensive and later tasks more skill-intensive. With AI, the teacher must distort the curriculum to ince...
+### [Efficient difference-in-differences estimation under partial interference with incremental propensity score policies](https://arxiv.org/abs/2607.19925v1)
+*Junjie Li, Yukitoshi Matsushita* — **arxiv**, 2026-07-22 — _method:DiD, method:Propensity Score_
 
----
-
-### [Dead Reckoning: Counting Your Customers Who Never Say Goodbye](https://arxiv.org/abs/2607.18623v1)
-*Karl T. Ulrich* — **arxiv**, 2026-07-21 — _Unclassified_
-
-Firms in non-contractual commerce face the challenge of knowing how many customers they actually have because customers can stop buying without ever saying they have left. Buy-Till-You-Die models address this by estimating each customer's probability of being alive, a quantity called P(alive) and used in every major software tool for dashboards, churn, customer equity, and enterprise valuation. We show this practice confounds two distinct quantities. Within the beta-geometric family, P(alive) is the infinite-horizon limit of an observable family of finite-horizon repeat-purchase probabilities....
-
----
-
-### [Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference](https://arxiv.org/abs/2607.18225v1)
-*Masahiro Kato, Taka Kato* — **arxiv**, 2026-07-20 — _Unclassified_
-
-We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the generator estimates conditional expected outcomes or their contrasts, and a plug-in rule selects an action. This formulation connects action-specific vector search with nearest-neighbor matching in causal inference. We decompose the regret of the two-step method into candidate-generation regret and withi...
-
----
-
-### [1-out-of-5 Maximin-Share Allocations Always Exist for Four Agents](https://arxiv.org/abs/2607.18139v1)
-*Christoph Schwerdtfeger* — **arxiv**, 2026-07-20 — _Unclassified_
-
-For four agents with nonnegative additive valuations, a complete 1-out-of-5 maximin-share allocation always exists, improving the previous 1-out-of-6 guarantee. Together with known exact-MMS counterexamples, this completely characterizes the four-agent case: the guarantee holds exactly for $d\geq5$. The main technical contribution is a balanced-residual partition lemma: removing rejected bundles with one of the four highest-ranked goods apiece leaves a remainder that still admits the required number of unit-valued balanced bundles. In its central $2+2$ case, three unit bundles repair two pairs...
+This paper develops efficient difference-in-differences (DID) estimation under partial interference with a cluster incremental propensity score (CIPS) policy. We define direct and spillover average treatment effects on the treated, establish their identification, and derive their efficient influence functions, from which we construct a cross-fitted estimator. Simulations confirm its finite-sample validity, and an application to China's New Rural Pension Scheme uncovers a significantly negative within-household spillover of pension participation on co-residents' labour income.
 
 ---
