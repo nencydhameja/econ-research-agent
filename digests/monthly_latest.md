@@ -1,72 +1,56 @@
-# Economics Research Digest — 2026-07-23
+# Economics Research Digest — 2026-07-24
 
 Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Treatment Geometry and Causal Identification with Earth Observation Data](https://arxiv.org/abs/2607.19908v1)
-*Jeffrey D. Michler, Anna Josephson, Elinor Benami, Patrick Behrer et al.* — **arxiv**, 2026-07-22 — _Agricultural & Environmental Economics_
+### [Electricity demand has not become more price-responsive despite ninety years of technological change](https://arxiv.org/abs/2607.21285v1)
+*Peter Kudela, Tomas Havranek, Zuzana Irsova, Anna Kudelova et al.* — **arxiv**, 2026-07-23 — _Agricultural & Environmental Economics, method:RCT_
 
-A central task in conducting impact evaluations is determining who or what was exposed to a treatment, when, and to what degree. These questions can be especially complex in geospatial settings, where many reasonable definitions of exposure may exist. This chapter introduces treatment geometry as a core concept in geospatial impact evaluation (GIE): the spatial and temporal footprint of a treatment as represented in data. How this footprint is defined shapes identification strategies and the credibility of causal inference. Drawing on cases spanning the air pollution, wildfire, forest policy, ...
+Energy planners have long assumed that electricity demand will grow more price-responsive as metering, automation, and storage spread, an assumption now embedded in decarbonization plans. We test it against the empirical record: 4,720 own-price elasticity estimates from 462 studies, with data spanning 1934-2024, ranked on a single ladder of identification quality from naive regressions to randomized experiments. Three findings emerge. First, the best-identified studies find smaller responses than naive ones: the publication-bias-corrected short-run elasticity is about -0.16 (a 10% rise in the ...
+
+---
+
+### [Accelerating fossil gas independence in Europe](https://arxiv.org/abs/2607.21048v1)
+*Lukas Franken, Iegor Riepin, Tom Brown* — **arxiv**, 2026-07-23 — _Agricultural & Environmental Economics_
+
+Recent price shocks have prompted calls to curb Europe's dependence on fossil gas imports, but the cost of this goal, and the consumer protection it affords, remain uncertain. Here we address this gap by imposing constraints on fossil gas supply in a European energy system model that co-optimises abatement across all gas uses at high spatio-temporal resolution. Cutting import reliance proves economically compelling: through savings in power generation and low-temperature heat in industry and buildings, Europe can halve its natural gas consumption for 16bnEUR/a, aligning demand with the contine...
 
 ---
 
 ## Business Economics & Innovation
 
-### [Licensing and Innovation Regimes in Pharmaceutical R&D](https://arxiv.org/abs/2607.20365v1)
-*Michele Liberatore, Massimo Riccaboni* — **arxiv**, 2026-07-22 — _Business Economics & Innovation, Econometrics & Methods, International Economics, method:Machine Learning_
+### [Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients](https://arxiv.org/abs/2607.20807v1)
+*Li Gan* — **arxiv**, 2026-07-23 — _Business Economics & Innovation, Labor & Demographic Economics_
 
-We study how licensing affects the allocation of innovation in pharmaceutical R&D. We develop a model in which projects differ in both quality and innovation regime, distinguishing between incremental and novel innovations. Information precision is higher for incremental projects and lower for novel ones, generating different equilibrium dynamics in the market for technology. The model predicts that licensing sustains positive selection and competitive return equalization for incremental innovation, while novel projects may exhibit weaker screening consistent with lemons-type frictions. Using ...
-
----
-
-### [Measuring AI innovation with trademark data](https://arxiv.org/abs/2607.18795v1)
-*C. Castaldi, F. Castellacci, A. Fronzetti Colladon, L. Segneri et al.* — **arxiv**, 2026-07-21 — _Business Economics & Innovation_
-
-Researchers, managers and policymakers are exploring different approaches and data sources to map the development and the diffusion of Artificial Intelligence (AI). In this research note, we illustrate the opportunities offered by trademark data. We argue that AI trademarks can complement AI patents to capture different dimensions of AI innovation. AI trademarks can reveal the extent and ways in which companies exploit AI technologies to develop new goods and services. Importantly, trademark data offer a timely and globally available data source that covers all economic sectors. We present ins...
-
----
-
-## Econometrics & Methods
-
-### [Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals](https://arxiv.org/abs/2607.20156v1)
-*Viviana Celli, Augusto Cerqua, Guido Pellegrini* — **arxiv**, 2026-07-22 — _Econometrics & Methods, method:DiD, method:Machine Learning_
-
-Spillovers and interference pose fundamental challenges for causal inference, as treatment assigned to one unit may affect the outcome of others, violating the no-interference assumption underlying most empirical strategies. Existing approaches, based on partial interference, exposure mapping, spatial, network, or structural frameworks, typically rely on strong assumptions about interaction structures or require the existence of uncontaminated control units to estimate relevant causal parameters. We revisit this identification challenge within the potential outcomes framework and compare the c...
-
----
-
-### [Bounded Attention and Attenuated Elasticities](https://arxiv.org/abs/2607.19929v1)
-*Tingmingke Lu, Zhenyi Wang* — **arxiv**, 2026-07-22 — _Econometrics & Methods, method:Structural_
-
-We study how bounded attention affects the structural estimation of the elasticity of substitution. In a sparse-max model, equilibrium prices and expenditure shares are observationally equivalent to those of a rational market. Its elasticity equals the structural elasticity scaled by the attention weight. The supply-side orthogonality condition of the covariance-based estimator holds at this attenuated elasticity but fails at the truth. Absent outside information, the estimator converges to the attenuated elasticity. Bounded attention leads to an identification failure that finite-sample and w...
+Artificial intelligence automates execution more readily than evaluation: producing output is cheap, judging whether it is correct is not. Exposure measures rank tasks by whether AI can perform them, not by which function the human supplies. I score all $19{,}265$ O*NET task statements under fixed rubrics to build occupation-level execution and AI-capability shares. The execution share is reproducible across model coders and O*NET vintages and distinct from AI capability and routine-task intensity; it is a model-based measure, not human-validated ground truth, and adds only modest power beyond...
 
 ---
 
 ## Health, Education & Welfare
 
-### [A Fixed-Effects Causal Forest for Staggered Adoption, with an Application to Medicaid Expansion](https://arxiv.org/abs/2607.19644v1)
-*Harry Aytug* — **arxiv**, 2026-07-22 — _Health, Education & Welfare, Labor & Demographic Economics, method:DiD, method:Machine Learning_
+### [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534v1)
+*James M. Zumel Dumlao, Meng Wang, Zhonghan Xie, Junyao Hu et al.* — **arxiv**, 2026-07-23 — _Health, Education & Welfare_
 
-Difference-in-differences with staggered adoption identifies group-time average treatment effects ATT(g,t) by comparing each cohort to units not yet treated, which avoids the "forbidden comparisons" that bias two-way fixed-effects estimators when effects are heterogeneous. This paper studies the covariate-conditional version of that object, tau_{g,t}(x), and estimates it with a fixed-effects causal forest. Within each (g,t) comparison block, the outcome and treatment are residualized on unit and period fixed effects inside each tree node, and honest causal trees split on treatment-effect heter...
+The spread of generative AI (GenAI) in higher education has raised concerns that students offload cognitive effort to AI, earning high grades without learning. If this "GenAI substitution hypothesis" is true, grades should rise disproportionately in GenAI-susceptible courses--those relying more on assessments like take-home problem sets and essays rather than in-class exams. Substitution could also affect student satisfaction, measured here as self-reported understanding and interest in the subject, which prior research links to assessments. We test the substitution hypothesis using syllabus a...
+
+---
+
+## Industrial Organization
+
+### [The Evolution of Digital Search: From Blue Links to Delegated Decision-Making](https://arxiv.org/abs/2607.21459v1)
+*David M. Rothschild, Nicole Immorlica, Brendan Lucier, Markus Mobius et al.* — **arxiv**, 2026-07-23 — _Industrial Organization_
+
+Digital search is undergoing a fundamental transformation from a human-driven process of discovery to an agent-mediated system of delegated decision-making. In the traditional model of digital search, users translate intent into keyword-based queries, evaluate ranked lists of links, and execute decisions outside the search interface. In an AI-native world, users express goals in natural language, agents interpret these intentions, and outcomes are returned as recommendations or executed decisions. This shift moves search from a link-based user interface to an embedded system component, with im...
 
 ---
 
 ## International Economics
 
-### [Market tallies: minimal information for efficient trade](https://arxiv.org/abs/2607.19140v1)
-*Federico Vaccari* — **arxiv**, 2026-07-21 — _International Economics_
+### [Trust by Context, Not by Design? A Quantitative Study of Data Donation Willingness for Open-Source Civic AI in Switzerland](https://arxiv.org/abs/2607.21044v1)
+*Sabine Wildemann, Daniel Ambach* — **arxiv**, 2026-07-23 — _International Economics_
 
-This paper studies how much public information is needed to implement efficient trade in dynamic markets with privately informed sellers and buyers. An institution compares a certified statistic of market composition with the statistic implied by agents' reports. Truthful reporting is supported when the statistic changes after every unilateral change in reported type. When all market compositions are possible, the least number of public announcements is {K,L}, where K is the number of seller qualities and L the number of buyer types. The certificate must rely on information outside the reports...
-
----
-
-## Law & Economics
-
-### [A Coordination Theory of NHS Whistleblowing Failure](https://arxiv.org/abs/2607.19014v1)
-*Ari Ercole* — **arxiv**, 2026-07-21 — _Law & Economics_
-
-Persistent whistleblowing failure in hierarchical healthcare organisations is typically attributed to insufficient legal protection for reporters or inadequate managerial incentives to investigate. This diagnosis is argued to be structurally incomplete. A repeated three-player game among a whistleblower, Trust management, and a colleague group is solved via global games techniques to obtain a unique equilibrium, identifying three mechanisms existing policy neither recognises nor addresses.
+Civic AI systems increasingly support democratic participation, yet interactions with them may reveal sensitive political views, creating tension between improving AI models and residents' expectations of privacy and consent. This study examines the conditions of transparency and user control under which Swiss residents are willing to donate their anonymized chatbot conversations to train an open-source AI model. A 2x2 between-subjects factorial design evaluated how a Data Nutrition Label and a granular consent dashboard influence donation decisions. The experiment was delivered via a multilin...
 
 ---
 
@@ -76,15 +60,6 @@ Persistent whistleblowing failure in hierarchical healthcare organisations is ty
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
-
----
-
-## Political Economy
-
-### [Catastrophic disruption cascades driven by the nonlinearity of systemic risk](https://arxiv.org/abs/2607.20068v1)
-*Jan Fialkowski, Shlomo Havlin, Stefan Thurner* — **arxiv**, 2026-07-22 — _Political Economy_
-
-Whether the COVID-19 pandemic or the Iran war, recent events have highlighted the systemic fragility of supply chains. Due to highly specific and mutual buyer-supplier dependencies, even the failure of a single firm can cause system-wide economic disruptions in the form of cascading failures up and down the supply chain network. Only recently has it become possible to quantify the systemic impact of the failure of individual firms on the total supply chain. Here, we demonstrate that the systemic risk contributions of combinations of firm failures can be drastically larger than the sum of the d...
 
 ---
 
@@ -249,18 +224,43 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Optimizing Regret](https://arxiv.org/abs/2607.18866v1)
-*Irene Aldridge* — **arxiv**, 2026-07-21 — _Unclassified_
+### [Stochastic Potential Choices and Outcomes](https://arxiv.org/abs/2607.21413v1)
+*Aureo de Paula, Elie Tamer* — **arxiv**, 2026-07-23 — _Unclassified_
 
-Building on the identity that expected regret equals the covariance between costs and decisions, this paper develops the complete derivative theory of the covariance regret functional. We derive the Gâteaux derivative, showing that the universal steepest-descent direction is the contrarian policy $-(c-\bar{c})$, while ascent yields momentum. For linear policies $\hatπ(c) = Ac+b$, the gradient is the cost covariance matrix $Σ_c$, with a zero Hessian implying boundary-optimal solutions such as the minimum-variance portfolio. We extend to constrained optimization, sign-gradient duality between re...
+Applied econometricians typically model each individual as having fixed outcomes under treatment and control and, in instrumental-variables (IV) settings, fixed treatment decisions under each value of the instrument. This paper asks what changes when outcomes and treatment allocations or choices are stochastic at the individual level. In the model, each individual has a stable (but possibly stochastic) response type consisting of two objects: a treatment choice probability under each state and a potential outcome distribution under each treatment-state pair. These stochastic potential outcomes...
+
+---
+
+### [pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development](https://arxiv.org/abs/2607.21268v1)
+*Chen Zhu, Xiaolu Wang, Weilong Zhang* — **arxiv**, 2026-07-23 — _Unclassified_
+
+In many social-science research tasks, such as economics, LLM-based agents must produce outputs for which no cheap, task-complete, machine-readable correctness signal exists. This creates a distinctive reliability problem for multi-agent systems: how should generation, critique, coordination, and human judgment be organized when no component can certify the final result? We address this problem through pAI-Econ-claude, a gated, human-in-the-loop multi-agent architecture for AI-assisted economic theory development. Agents coordinate through a shared workspace of inspectable intermediate records...
 
 ---
 
 ## method:DiD
 
-### [Efficient difference-in-differences estimation under partial interference with incremental propensity score policies](https://arxiv.org/abs/2607.19925v1)
-*Junjie Li, Yukitoshi Matsushita* — **arxiv**, 2026-07-22 — _method:DiD, method:Propensity Score_
+### [Using Pre-Trends for Inference in Difference-in-Differences](https://arxiv.org/abs/2607.21312v1)
+*Clément de Chaisemartin* — **arxiv**, 2026-07-23 — _method:DiD_
 
-This paper develops efficient difference-in-differences (DID) estimation under partial interference with a cluster incremental propensity score (CIPS) policy. We define direct and spillover average treatment effects on the treated, establish their identification, and derive their efficient influence functions, from which we construct a cross-fitted estimator. Simulations confirm its finite-sample validity, and an application to China's New Rural Pension Scheme uncovers a significantly negative within-household spillover of pension participation on co-residents' labour income.
+Difference-in-differences (DID) are sometimes estimated with many pre-treatment periods. In such settings, the observed pre-treatment outcome evolutions provide direct information about the magnitude of shocks that could also occur after treatment. This paper proposes a simple inference procedure that uses those pre-trends as the reference distribution for the post-treatment DID. The procedure is closely related to existing conformal inference procedures, but its DID-specific predictor leads to a distinct identifying restriction. Existing procedures assume parallel trends, while this paper's p...
+
+---
+
+## method:Machine Learning
+
+### [Group boarding for airplanes: benchmarking static policies and optimizing dynamic assignment with deep reinforcement learning](https://arxiv.org/abs/2607.21512v1)
+*Minyu Shen, Weihua Gu, Junqi Ma, Boqian Song et al.* — **arxiv**, 2026-07-23 — _method:Machine Learning_
+
+Improving boarding efficiency reduces airplane turnaround time and improves passenger experience. Airlines typically assign passengers to a few sequential boarding groups using static seat-based rules. Yet arrivals, seat choices, and luggage are sequential and random, and a static rule ignores the seats earlier passengers have already taken. We propose the first dynamic formulation of boarding group assignment. As each passenger checks in, we observe earlier passengers' seats and groups, the current passenger's seat, and optional luggage information, then assign a group while keeping companion...
+
+---
+
+## method:Structural
+
+### [Uniformly Consistent Semi-nonparametric Demand Estimation with Micro-Data](https://arxiv.org/abs/2607.21323v1)
+*Richard Grigorian* — **arxiv**, 2026-07-23 — _method:Structural_
+
+This paper develops a profiled sieve minimum-distance estimator for a semi-nonparametric differentiated-products demand model with micro-level choice data. Building on Berry and Haile (2024), the estimator uses within-market variation in consumer covariates to recover a flexible consumer-heterogeneity function and market-specific composite intercepts. Excluded price instruments then separate these intercepts into a flexible price-side function and structural demand shocks. The main statistical challenge is that the number of profiled market intercepts grows with the number of markets. I show t...
 
 ---
