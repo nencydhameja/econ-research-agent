@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-25
+# Economics Research Digest — 2026-07-26
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -213,17 +213,6 @@ The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.
 
 ---
 
-### [Twin Defaults and Bank Capital Requirements](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R)
-*CATERINA MENDICINO, 
-KALIN NIKOLOV, 
-JUAN RUBIO‐RAMIREZ, 
-JAVIER SUAREZ, 
-DOMINIK SUPERA* — **Journal of Finance**, 2026-06-25 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
 ### [Stochastic Potential Choices and Outcomes](https://arxiv.org/abs/2607.21413v1)
 *Aureo de Paula, Elie Tamer* — **arxiv**, 2026-07-23 — _Unclassified_
 
@@ -235,6 +224,13 @@ Applied econometricians typically model each individual as having fixed outcomes
 *Chen Zhu, Xiaolu Wang, Weilong Zhang* — **arxiv**, 2026-07-23 — _Unclassified_
 
 In many social-science research tasks, such as economics, LLM-based agents must produce outputs for which no cheap, task-complete, machine-readable correctness signal exists. This creates a distinctive reliability problem for multi-agent systems: how should generation, critique, coordination, and human judgment be organized when no component can certify the final result? We address this problem through pAI-Econ-claude, a gated, human-in-the-loop multi-agent architecture for AI-assisted economic theory development. Agents coordinate through a shared workspace of inspectable intermediate records...
+
+---
+
+### [Stochastic Potential Choices and Outcomes](https://doi.org/10.48550/arxiv.2607.21413)
+*Áureo de Paula, Elie Tamer* — **openalex ssrn**, 2026-07-23 — _Unclassified_
+
+Applied econometricians typically model each individual as having fixed outcomes under treatment and control and, in instrumental-variables (IV) settings, fixed treatment decisions under each value of the instrument. This paper asks what changes when outcomes and treatment allocations or choices are stochastic at the individual level. In the model, each individual has a stable (but possibly stochastic) response type consisting of two objects: a treatment choice probability under each state and a potential outcome distribution under each treatment-state pair. These stochastic potential outcomes...
 
 ---
 
