@@ -1,33 +1,40 @@
-# Economics Research Digest — 2026-07-26
+# Economics Research Digest — 2026-07-27
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Electricity demand has not become more price-responsive despite ninety years of technological change](https://arxiv.org/abs/2607.21285v1)
-*Peter Kudela, Tomas Havranek, Zuzana Irsova, Anna Kudelova et al.* — **arxiv**, 2026-07-23 — _Agricultural & Environmental Economics, method:RCT_
+### [To what extent can long-differencing capture climate adaptation?](https://arxiv.org/abs/2607.22028v1)
+*Dalia Ghanem, Felix Pretis, Daniel Schuurman* — **arxiv**, 2026-07-24 — _Agricultural & Environmental Economics_
 
-Energy planners have long assumed that electricity demand will grow more price-responsive as metering, automation, and storage spread, an assumption now embedded in decarbonization plans. We test it against the empirical record: 4,720 own-price elasticity estimates from 462 studies, with data spanning 1934-2024, ranked on a single ladder of identification quality from naive regressions to randomized experiments. Three findings emerge. First, the best-identified studies find smaller responses than naive ones: the publication-bias-corrected short-run elasticity is about -0.16 (a 10% rise in the ...
-
----
-
-### [Accelerating fossil gas independence in Europe](https://arxiv.org/abs/2607.21048v1)
-*Lukas Franken, Iegor Riepin, Tom Brown* — **arxiv**, 2026-07-23 — _Agricultural & Environmental Economics_
-
-Recent price shocks have prompted calls to curb Europe's dependence on fossil gas imports, but the cost of this goal, and the consumer protection it affords, remain uncertain. Here we address this gap by imposing constraints on fossil gas supply in a European energy system model that co-optimises abatement across all gas uses at high spatio-temporal resolution. Cutting import reliance proves economically compelling: through savings in power generation and low-temperature heat in industry and buildings, Europe can halve its natural gas consumption for 16bnEUR/a, aligning demand with the contine...
+Understanding the degree to which we are able to adapt to climate change is central to economic assessments of future climate damages. Economists increasingly use comparisons between long differences and fixed effects estimators to measure climate adaptation. We show that such comparisons can be misleading. Neither estimator is consistent for its intended parameter, as both the long-difference (LD) and fixed effects (FE) estimands are weighted averages of the long- and short-run responses to climate and weather. As a result, the difference between the two understates the true extent of adaptat...
 
 ---
 
-## Business Economics & Innovation
+### [Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)](https://arxiv.org/abs/2607.22006v1)
+*Jingyi Xu, Minghui Cheng, Anchen Sun* — **arxiv**, 2026-07-24 — _Agricultural & Environmental Economics, Law & Economics, Urban, Rural & Regional Economics_
 
-### [Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients](https://arxiv.org/abs/2607.20807v1)
-*Li Gan* — **arxiv**, 2026-07-23 — _Business Economics & Innovation, Labor & Demographic Economics_
+Buildings account for roughly 34% of global final energy use and 37% of energy- and process-related CO$_2$ emissions. Stranding regulation now being enacted (New York City Local Law 97, the EU Energy Performance of Buildings Directive recast) presupposes that a building portfolio's carbon intensity can be measured per square metre and compared against a science-based pathway. Whether corporate disclosure is actually fit for that comparison has not, to our knowledge, been measured at scale. We introduce BeDA (the Built-environment Decarbonisation-disclosure Auditor), a multimodal large-language...
 
-Artificial intelligence automates execution more readily than evaluation: producing output is cheap, judging whether it is correct is not. Exposure measures rank tasks by whether AI can perform them, not by which function the human supplies. I score all $19{,}265$ O*NET task statements under fixed rubrics to build occupation-level execution and AI-capability shares. The execution share is reproducible across model coders and O*NET vintages and distinct from AI capability and routine-task intensity; it is a model-based measure, not human-validated ground truth, and adds only modest power beyond...
+---
+
+## Econometrics & Methods
+
+### [Interventional Score Geometry for Causal Inference](https://arxiv.org/abs/2607.21914v1)
+*Mojtaba Eslami* — **arxiv**, 2026-07-24 — _Econometrics & Methods, method:IV, method:Structural_
+
+Let $p(x)$ be the joint density of variables $X$, and let $ψ(x)=\nabla_x\log p(x)$ be its score field. Geometry constructed from $p$ and $ψ$ alone cannot identify causal direction: structural models with the same observational distribution have the same score geometry. I develop an interventional analogue. A hard intervention $\operatorname{do}(X_k=ξ)$ does not merely reweight the joint law; it restricts the distribution to the submanifold ${x_k=ξ}$. Its score should therefore be defined on the remaining $d-1$ free coordinates. I define causal influence $X_k\rightsquigarrow X_j$ as variation o...
 
 ---
 
 ## Health, Education & Welfare
+
+### [Measuring inequality and social stratification with Lorenz curvature](https://arxiv.org/abs/2607.22110v1)
+*Antti Hippeläinen* — **arxiv**, 2026-07-24 — _Health, Education & Welfare_
+
+We construct a continuous family of inequality and social stratification indices based on the curvature of the Lorenz curve. We study the inequality axioms of the family and find that they are satisfied only with the so-called stratification-aversion parameter $α$ set to 0 -- in all other cases, these constraints cannot be satisfied in a strict sense. With $α= 0$, the index has a very simple closed form and its value can be easily approximated. We study the values of the index on World Bank inequality data and see how the rankings across a wide selection of countries change as $α$ is varied. S...
+
+---
 
 ### [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534v1)
 *James M. Zumel Dumlao, Meng Wang, Zhonghan Xie, Junyao Hu et al.* — **arxiv**, 2026-07-23 — _Health, Education & Welfare_
@@ -45,21 +52,19 @@ Digital search is undergoing a fundamental transformation from a human-driven pr
 
 ---
 
-## International Economics
-
-### [Trust by Context, Not by Design? A Quantitative Study of Data Donation Willingness for Open-Source Civic AI in Switzerland](https://arxiv.org/abs/2607.21044v1)
-*Sabine Wildemann, Daniel Ambach* — **arxiv**, 2026-07-23 — _International Economics_
-
-Civic AI systems increasingly support democratic participation, yet interactions with them may reveal sensitive political views, creating tension between improving AI models and residents' expectations of privacy and consent. This study examines the conditions of transparency and user control under which Swiss residents are willing to donate their anonymized chatbot conversations to train an open-source AI model. A 2x2 between-subjects factorial design evaluated how a Data Nutrition Label and a granular consent dashboard influence donation decisions. The experiment was delivered via a multilin...
-
----
-
 ## Macroeconomics
 
 ### [Cash Heterogeneity and the Payout Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70059?af=R)
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
+
+---
+
+### [Nonlinear Boosting with Multiple Testing in High-Dimensional Generalised Linear Models with Binary Responses](https://arxiv.org/abs/2607.22440v1)
+*Charisios Grivas, George Kapetanios, Zacharias Psaradakis, Vasilis Sarafidis et al.* — **arxiv**, 2026-07-24 — _Macroeconomics_
+
+This paper proposes a nonlinear boosting with multiple testing (BMT) approach to variable selection in high-dimensional generalised linear models with binary responses. At each stage of the BMT procedure, the model is updated by adding only the most significant covariate, conditional on those already selected in previous stages, while taking into account the multiple testing nature of the problem. It is shown that, under the stated conditions, the BMT procedure selects all covariates whose true coefficients are nonzero, and no other covariates, with probability tending to one. Furthermore, the...
 
 ---
 
@@ -213,33 +218,31 @@ The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.
 
 ---
 
+### [CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511v1)
+*Jiyuan Tan, Vasilis Syrgkanis* — **arxiv**, 2026-07-24 — _Unclassified_
+
+Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing...
+
+---
+
+### [Latent Fragility and Clustered Withdrawals in Dynamic Banks Runs](https://arxiv.org/abs/2607.22317v1)
+*Jodi Dianetti, Giorgio Ferrari, Yunzhi Hu, Hao Xing* — **arxiv**, 2026-07-24 — _Unclassified_
+
+Using a mean-field game framework, we study a dynamic model of bank runs in which more withdrawals raise the risk of bank failure. Even though depositors receive gradual and idiosyncratic shocks, withdrawals occur in clusters. The main mechanism is latent fragility: run-prone depositors accumulate gradually over time and may prefer to wait individually, but they withdraw together once collective exit becomes self-fulfilling. We establish equilibrium existence and characterize earliest-run and latest-run equilibria. The clustering mechanism arises whether depositor heterogeneity is discrete or ...
+
+---
+
+### [Strategic Exit and Unilateral Control](https://arxiv.org/abs/2607.21898v1)
+*Alexander Kangas* — **arxiv**, 2026-07-24 — _Unclassified_
+
+Repeated-game strategies can impose global payoff relations by balancing controlled rewards across time. The question is what remains when the opponent decides, after observing each round, whether the relationship continues. Against every history-dependent opponent strategy with finite expected duration, a cumulative linear identity is enforceable if and only if its expected stage increment vanishes at every reachable history. Strategic exit therefore converts global control into local control. In a two-action game with a unique local equalizer, the controller must use the same mixed action at...
+
+---
+
 ### [Stochastic Potential Choices and Outcomes](https://arxiv.org/abs/2607.21413v1)
 *Aureo de Paula, Elie Tamer* — **arxiv**, 2026-07-23 — _Unclassified_
 
 Applied econometricians typically model each individual as having fixed outcomes under treatment and control and, in instrumental-variables (IV) settings, fixed treatment decisions under each value of the instrument. This paper asks what changes when outcomes and treatment allocations or choices are stochastic at the individual level. In the model, each individual has a stable (but possibly stochastic) response type consisting of two objects: a treatment choice probability under each state and a potential outcome distribution under each treatment-state pair. These stochastic potential outcomes...
-
----
-
-### [pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development](https://arxiv.org/abs/2607.21268v1)
-*Chen Zhu, Xiaolu Wang, Weilong Zhang* — **arxiv**, 2026-07-23 — _Unclassified_
-
-In many social-science research tasks, such as economics, LLM-based agents must produce outputs for which no cheap, task-complete, machine-readable correctness signal exists. This creates a distinctive reliability problem for multi-agent systems: how should generation, critique, coordination, and human judgment be organized when no component can certify the final result? We address this problem through pAI-Econ-claude, a gated, human-in-the-loop multi-agent architecture for AI-assisted economic theory development. Agents coordinate through a shared workspace of inspectable intermediate records...
-
----
-
-### [Stochastic Potential Choices and Outcomes](https://doi.org/10.48550/arxiv.2607.21413)
-*Áureo de Paula, Elie Tamer* — **openalex ssrn**, 2026-07-23 — _Unclassified_
-
-Applied econometricians typically model each individual as having fixed outcomes under treatment and control and, in instrumental-variables (IV) settings, fixed treatment decisions under each value of the instrument. This paper asks what changes when outcomes and treatment allocations or choices are stochastic at the individual level. In the model, each individual has a stable (but possibly stochastic) response type consisting of two objects: a treatment choice probability under each state and a potential outcome distribution under each treatment-state pair. These stochastic potential outcomes...
-
----
-
-## method:DiD
-
-### [Using Pre-Trends for Inference in Difference-in-Differences](https://arxiv.org/abs/2607.21312v1)
-*Clément de Chaisemartin* — **arxiv**, 2026-07-23 — _method:DiD_
-
-Difference-in-differences (DID) are sometimes estimated with many pre-treatment periods. In such settings, the observed pre-treatment outcome evolutions provide direct information about the magnitude of shocks that could also occur after treatment. This paper proposes a simple inference procedure that uses those pre-trends as the reference distribution for the post-treatment DID. The procedure is closely related to existing conformal inference procedures, but its DID-specific predictor leads to a distinct identifying restriction. Existing procedures assume parallel trends, while this paper's p...
 
 ---
 
@@ -249,14 +252,5 @@ Difference-in-differences (DID) are sometimes estimated with many pre-treatment 
 *Minyu Shen, Weihua Gu, Junqi Ma, Boqian Song et al.* — **arxiv**, 2026-07-23 — _method:Machine Learning_
 
 Improving boarding efficiency reduces airplane turnaround time and improves passenger experience. Airlines typically assign passengers to a few sequential boarding groups using static seat-based rules. Yet arrivals, seat choices, and luggage are sequential and random, and a static rule ignores the seats earlier passengers have already taken. We propose the first dynamic formulation of boarding group assignment. As each passenger checks in, we observe earlier passengers' seats and groups, the current passenger's seat, and optional luggage information, then assign a group while keeping companion...
-
----
-
-## method:Structural
-
-### [Uniformly Consistent Semi-nonparametric Demand Estimation with Micro-Data](https://arxiv.org/abs/2607.21323v1)
-*Richard Grigorian* — **arxiv**, 2026-07-23 — _method:Structural_
-
-This paper develops a profiled sieve minimum-distance estimator for a semi-nonparametric differentiated-products demand model with micro-level choice data. Building on Berry and Haile (2024), the estimator uses within-market variation in consumer covariates to recover a flexible consumer-heterogeneity function and market-specific composite intercepts. Excluded price instruments then separate these intercepts into a flexible price-side function and structural demand shocks. The main statistical challenge is that the number of profiled market intercepts grows with the number of markets. I show t...
 
 ---
