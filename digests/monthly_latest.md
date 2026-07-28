@@ -2,6 +2,17 @@
 
 Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
+## Agricultural & Environmental Economics
+
+### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
+*CHEN LIN, 
+THOMAS SCHMID, 
+MICHAEL S. WEISBACH* — **Journal of Finance**, 2026-07-24 — _Agricultural & Environmental Economics_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ## Business Economics & Innovation
 
 ### [How to Disrupt a Market](https://arxiv.org/abs/2607.24389v1)
@@ -15,13 +26,6 @@ Market design research in economics naturally focusses on how to improve market 
 *A. Montañés, E. Ruiz* — **arxiv**, 2026-07-26 — _Business Economics & Innovation, Macroeconomics_
 
 It is obvious to say that an adequate estimation of the autocorrelation function is central in time series analysis. In this paper, we propose three new robust estimators based on ratios of observations, which offer strong resistance against outliers. While the first estimator, which is based on the median, is not efficient, the second is a Quasi Maximum Likelihood (QML) estimator with better efficiency properties. The third estimator is a plug-in estimator, which does not require numerical optimization and, consequently, is extremely simple from a computationally point of view, having similar...
-
----
-
-### [The One-Period Kyle (1985) Model Has a Unique Equilibrium: A Monotone Gaussian Bayes inverse-rigidity theorem](https://arxiv.org/abs/2607.23585v1)
-*Rabee Tourky* — **arxiv**, 2026-07-26 — _Business Economics & Innovation_
-
-Let $V$ and $U$ be independent standard normal random variables. For any Borel map $φ\colon\mathbb{R}\to\mathbb{R}$, set $Y_φ=φ(V)+U$, and define $P_φ(y)=\mathbb{E}[V\mid Y_φ=y]$ and $F_φ(x)=\mathbb{E}[P_φ(x+U)]$. We prove that, if for every $v\in\mathbb{R}$, the quantity $φ(v)$ maximises $x(v-F_φ(x))$ over $x\in\mathbb{R}$, then $φ$ is the identity function. This is the normalised one-period Kyle (1985) model of insider trading. It follows that Kyle's closed-form affine strategy is the unique equilibrium of the model for arbitrary Gaussian location and scale, and that its canonical competitiv...
 
 ---
 
@@ -69,6 +73,31 @@ The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
 ---
 
 ## Unclassified
+
+### [The Cross‐Section of Household Preferences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R)
+*LAURENT E. CALVET, 
+JOHN Y. CAMPBELL, 
+FRANCISCO GOMES, 
+PAOLO SODINI* — **Journal of Finance**, 2026-07-24 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Do Equity and Options Markets Agree about Volatility?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R)
+*CARSTEN H. CHONG, 
+VIKTOR TODOROV* — **Journal of Finance**, 2026-07-23 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [M&As, Employee Costs, and Labor Reallocation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R)
+*SPYRIDON LAGARAS* — **Journal of Finance**, 2026-07-21 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Jay R. Ritter](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R)
 ** — **Journal of Finance**, 2026-07-16 — _Unclassified_
@@ -229,28 +258,5 @@ Large language models (LLMs) are increasingly used to generate data for research
 *Foster Provost, Panos Ipeirotis* — **arxiv**, 2026-07-26 — _Unclassified_
 
 Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage Compass, one AI product (Likely-to-Sell recommendations) flagged sales outreach opportunities and went on to account for nine figures in annual gross commission revenue. Another championed AI product (a Time-on-Market pricing tool) was rightly shelved. A simple ROI estimate could not distinguish the two. We present expected ROI (eROI), a framework that decomposes each bet into three components an...
-
----
-
-### [Do Carbon Price Forecasts Improve Compliance Procurement? Evidence from European Union Allowances](https://arxiv.org/abs/2607.23426v1)
-*Muzi Chen, Difang Huang, Shouyang Wang, Xinghan Xia* — **arxiv**, 2026-07-26 — _Unclassified_
-
-Firms covered by emissions trading systems need forecasts not only to value allowances, but also to decide when to buy them. This paper asks whether European Union Allowance (EUA) prices contain short-horizon predictability that survives a forecast-origin information design and improves simulated compliance procurement. Using daily data from 2019 to 2025, we produce direct forecasts for one to five trading days ahead. All predictors are observable at the forecast origin, and calibration and model-selection rules are fixed before the final holdout. The released forecast has the lowest point-est...
-
----
-
-### [Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features](https://arxiv.org/abs/2607.23370v1)
-*Muhammad Abdullah Haroon* — **arxiv**, 2026-07-25 — _Unclassified_
-
-Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware...
-
----
-
-## method:Field Experiment
-
-### [Wrong and More Confident: A Field Experiment on Language Models Taking a Graduate Economics Exam](https://arxiv.org/abs/2607.23424v1)
-*Piyush Akimitsu* — **arxiv**, 2026-07-26 — _method:Field Experiment_
-
-A red herring, an irrelevant passage added to a problem, makes a language model reason incorrectly and answer incorrectly far more often. Yet the model still writes out a full explanation, and the answer it gives remains consistent with the steps it shows. The red herring corrupts the reasoning, while leaving the explanation intact and coherent. I show this on the Graduate Economic Reasoning Benchmark (GERB), sixty graduate-level microeconomics problems, each a detailed setup with a verified answer and a step-by-step reference solution, presented with and without the red herring and answered b...
 
 ---
