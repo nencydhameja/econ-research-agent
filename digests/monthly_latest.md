@@ -1,54 +1,61 @@
-# Economics Research Digest — 2026-07-27
+# Economics Research Digest — 2026-07-28
 
 Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
-## Agricultural & Environmental Economics
+## Business Economics & Innovation
 
-### [To what extent can long-differencing capture climate adaptation?](https://arxiv.org/abs/2607.22028v1)
-*Dalia Ghanem, Felix Pretis, Daniel Schuurman* — **arxiv**, 2026-07-24 — _Agricultural & Environmental Economics_
+### [How to Disrupt a Market](https://arxiv.org/abs/2607.24389v1)
+*Edoardo Gallo, Rebecca Heath, Jonathan Lusthaus, Federico Varese* — **arxiv**, 2026-07-27 — _Business Economics & Innovation_
 
-Understanding the degree to which we are able to adapt to climate change is central to economic assessments of future climate damages. Economists increasingly use comparisons between long differences and fixed effects estimators to measure climate adaptation. We show that such comparisons can be misleading. Neither estimator is consistent for its intended parameter, as both the long-difference (LD) and fixed effects (FE) estimands are weighted averages of the long- and short-run responses to climate and weather. As a result, the difference between the two understates the true extent of adaptat...
+Market design research in economics naturally focusses on how to improve market efficiency. Our objective here is exactly the opposite - how to design interventions that make a market less efficient. Our research is inspired by the growth of illicit markets online where reducing their efficiency may reduce societal harm. Using a web-based experiment, we find that a partial disruption to delivery is an effective method to decrease market efficiency. The decrease is borne by sellers who sell fewer goods and have lower earnings. A consequence of a disruption to delivery, however, is an increase i...
 
 ---
 
-### [Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)](https://arxiv.org/abs/2607.22006v1)
-*Jingyi Xu, Minghui Cheng, Anchen Sun* — **arxiv**, 2026-07-24 — _Agricultural & Environmental Economics, Law & Economics, Urban, Rural & Regional Economics_
+### [Robust estimation of the autocorrelation function via forward ratios](https://arxiv.org/abs/2607.23744v1)
+*A. Montañés, E. Ruiz* — **arxiv**, 2026-07-26 — _Business Economics & Innovation, Macroeconomics_
 
-Buildings account for roughly 34% of global final energy use and 37% of energy- and process-related CO$_2$ emissions. Stranding regulation now being enacted (New York City Local Law 97, the EU Energy Performance of Buildings Directive recast) presupposes that a building portfolio's carbon intensity can be measured per square metre and compared against a science-based pathway. Whether corporate disclosure is actually fit for that comparison has not, to our knowledge, been measured at scale. We introduce BeDA (the Built-environment Decarbonisation-disclosure Auditor), a multimodal large-language...
+It is obvious to say that an adequate estimation of the autocorrelation function is central in time series analysis. In this paper, we propose three new robust estimators based on ratios of observations, which offer strong resistance against outliers. While the first estimator, which is based on the median, is not efficient, the second is a Quasi Maximum Likelihood (QML) estimator with better efficiency properties. The third estimator is a plug-in estimator, which does not require numerical optimization and, consequently, is extremely simple from a computationally point of view, having similar...
+
+---
+
+### [The One-Period Kyle (1985) Model Has a Unique Equilibrium: A Monotone Gaussian Bayes inverse-rigidity theorem](https://arxiv.org/abs/2607.23585v1)
+*Rabee Tourky* — **arxiv**, 2026-07-26 — _Business Economics & Innovation_
+
+Let $V$ and $U$ be independent standard normal random variables. For any Borel map $φ\colon\mathbb{R}\to\mathbb{R}$, set $Y_φ=φ(V)+U$, and define $P_φ(y)=\mathbb{E}[V\mid Y_φ=y]$ and $F_φ(x)=\mathbb{E}[P_φ(x+U)]$. We prove that, if for every $v\in\mathbb{R}$, the quantity $φ(v)$ maximises $x(v-F_φ(x))$ over $x\in\mathbb{R}$, then $φ$ is the identity function. This is the normalised one-period Kyle (1985) model of insider trading. It follows that Kyle's closed-form affine strategy is the unique equilibrium of the model for arbitrary Gaussian location and scale, and that its canonical competitiv...
 
 ---
 
 ## Econometrics & Methods
 
-### [Interventional Score Geometry for Causal Inference](https://arxiv.org/abs/2607.21914v1)
-*Mojtaba Eslami* — **arxiv**, 2026-07-24 — _Econometrics & Methods, method:IV, method:Structural_
+### [Debiased Machine Learning: Identification, Estimation, and Shape Constraints](https://arxiv.org/abs/2607.24472v1)
+*Qihui Chen, Ka Yan Cheng, Zheng Fang* — **arxiv**, 2026-07-27 — _Econometrics & Methods, method:Machine Learning_
 
-Let $p(x)$ be the joint density of variables $X$, and let $ψ(x)=\nabla_x\log p(x)$ be its score field. Geometry constructed from $p$ and $ψ$ alone cannot identify causal direction: structural models with the same observational distribution have the same score geometry. I develop an interventional analogue. A hard intervention $\operatorname{do}(X_k=ξ)$ does not merely reweight the joint law; it restricts the distribution to the submanifold ${x_k=ξ}$. Its score should therefore be defined on the remaining $d-1$ free coordinates. I define causal influence $X_k\rightsquigarrow X_j$ as variation o...
+We develop a general framework of identification and estimation for automatic debiased machine learning (DML) where the parameter of interest $θ_0$ is identified by a moment condition involving a nuisance $γ_0$ that may be high dimensional. DML leverages machine learning to estimate $γ_0$ while correcting for regularization and overfitting biases that may otherwise transmit to biased estimation of $θ_0$. We establish conditions under which the Riesz representer $α_0$, which is at the core of DML, is identified, and show that the identification occurs precisely when $α_0$ uniquely optimizes a q...
+
+---
+
+### [Inference on counterfactual distributions using martingale posteriors](https://arxiv.org/abs/2607.24143v1)
+*Gregor Steiner, Mark Steel* — **arxiv**, 2026-07-27 — _Econometrics & Methods, General Economics & Methodology, method:IV_
+
+Causal inference is often focused on average effects, which can hide important aspects of the effect distributions. Here we consider the entire posterior effects distribution by estimating full counterfactual outcome distributions. We propose a methodology for inference on counterfactual distributions which builds upon the martingale posterior framework of Fong et al. (2023). This provides a highly flexible approach to estimating densities, distribution functions, and derived quantities such as quantiles, which coherently quantifies the epistemic uncertainty on any target estimand of interest....
+
+---
+
+## General Economics & Methodology
+
+### [Systemic Methodological Dysfunction in Statistical Research for Clinical Decisions](https://arxiv.org/abs/2607.23660v1)
+*Charles F. Manski* — **arxiv**, 2026-07-26 — _General Economics & Methodology_
+
+I critique a set of entrenched methodological conventions that collectively create systemic dysfunction in statistical research for clinical decisions. These include: (1) the prevalent use of hypothesis tests to compare treatments, (2) remoteness from patient care of the methods used to evaluate the accuracy of predictions of patient outcomes, (3) poor practice of meta-analysis to combine findings across studies, and (4) widespread research with incredible certitude. It appears that the dysfunction is held in place by three factors: (i) rudimentary instruction in statistical methodology receiv...
 
 ---
 
 ## Health, Education & Welfare
 
-### [Measuring inequality and social stratification with Lorenz curvature](https://arxiv.org/abs/2607.22110v1)
-*Antti Hippeläinen* — **arxiv**, 2026-07-24 — _Health, Education & Welfare_
+### [A World of Ginis](https://arxiv.org/abs/2607.24175v1)
+*Lidia Ceriani, Paolo Verme* — **arxiv**, 2026-07-27 — _Health, Education & Welfare_
 
-We construct a continuous family of inequality and social stratification indices based on the curvature of the Lorenz curve. We study the inequality axioms of the family and find that they are satisfied only with the so-called stratification-aversion parameter $α$ set to 0 -- in all other cases, these constraints cannot be satisfied in a strict sense. With $α= 0$, the index has a very simple closed form and its value can be easily approximated. We study the values of the index on World Bank inequality data and see how the rankings across a wide selection of countries change as $α$ is varied. S...
-
----
-
-### [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534v1)
-*James M. Zumel Dumlao, Meng Wang, Zhonghan Xie, Junyao Hu et al.* — **arxiv**, 2026-07-23 — _Health, Education & Welfare_
-
-The spread of generative AI (GenAI) in higher education has raised concerns that students offload cognitive effort to AI, earning high grades without learning. If this "GenAI substitution hypothesis" is true, grades should rise disproportionately in GenAI-susceptible courses--those relying more on assessments like take-home problem sets and essays rather than in-class exams. Substitution could also affect student satisfaction, measured here as self-reported understanding and interest in the subject, which prior research links to assessments. We test the substitution hypothesis using syllabus a...
-
----
-
-## Industrial Organization
-
-### [The Evolution of Digital Search: From Blue Links to Delegated Decision-Making](https://arxiv.org/abs/2607.21459v1)
-*David M. Rothschild, Nicole Immorlica, Brendan Lucier, Markus Mobius et al.* — **arxiv**, 2026-07-23 — _Industrial Organization_
-
-Digital search is undergoing a fundamental transformation from a human-driven process of discovery to an agent-mediated system of delegated decision-making. In the traditional model of digital search, users translate intent into keyword-based queries, evaluate ranked lists of links, and execute decisions outside the search interface. In an AI-native world, users express goals in natural language, agents interpret these intentions, and outcomes are returned as recommendations or executed decisions. This shift moves search from a link-based user interface to an embedded system component, with im...
+The Gini index remains the most important measure of economic inequality worldwide, and accurate estimates of this index are essential for effective public policies. Yet, Gini estimates for the same country and year vary considerably across data sources, a problem that remains largely unresolved. The paper reviews the largest global and regional databases providing Gini estimates, surveys the related literature, and constructs a unified dataset of 122,351 Gini observations spanning 222 countries and territories and 158 years, from 1867 to 2024. The analysis of this new dataset shows that incom...
 
 ---
 
@@ -58,13 +65,6 @@ Digital search is undergoing a fundamental transformation from a human-driven pr
 *ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
-
----
-
-### [Nonlinear Boosting with Multiple Testing in High-Dimensional Generalised Linear Models with Binary Responses](https://arxiv.org/abs/2607.22440v1)
-*Charisios Grivas, George Kapetanios, Zacharias Psaradakis, Vasilis Sarafidis et al.* — **arxiv**, 2026-07-24 — _Macroeconomics_
-
-This paper proposes a nonlinear boosting with multiple testing (BMT) approach to variable selection in high-dimensional generalised linear models with binary responses. At each stage of the BMT procedure, the model is updated by adding only the most significant covariate, conditional on those already selected in previous stages, while taking into account the multiple testing nature of the problem. It is shown that, under the stated conditions, the BMT procedure selects all covariates whose true coefficients are nonzero, and no other covariates, with probability tending to one. Furthermore, the...
 
 ---
 
@@ -218,39 +218,39 @@ The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.
 
 ---
 
-### [CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511v1)
-*Jiyuan Tan, Vasilis Syrgkanis* — **arxiv**, 2026-07-24 — _Unclassified_
+### [Randomness in large language models: What researchers need to know (and report)](https://arxiv.org/abs/2607.24372v1)
+*Guillaume Coqueret, Joan Llull, Florian Oswald, Christophe Pérignon et al.* — **arxiv**, 2026-07-27 — _Unclassified_
 
-Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing...
-
----
-
-### [Latent Fragility and Clustered Withdrawals in Dynamic Banks Runs](https://arxiv.org/abs/2607.22317v1)
-*Jodi Dianetti, Giorgio Ferrari, Yunzhi Hu, Hao Xing* — **arxiv**, 2026-07-24 — _Unclassified_
-
-Using a mean-field game framework, we study a dynamic model of bank runs in which more withdrawals raise the risk of bank failure. Even though depositors receive gradual and idiosyncratic shocks, withdrawals occur in clusters. The main mechanism is latent fragility: run-prone depositors accumulate gradually over time and may prefer to wait individually, but they withdraw together once collective exit becomes self-fulfilling. We establish equilibrium existence and characterize earliest-run and latest-run equilibria. The clustering mechanism arises whether depositor heterogeneity is discrete or ...
+Large language models (LLMs) are increasingly used to generate data for research. Typical use cases are classifications, annotations, information extraction, and generation of numerical scores. Unlike conventional measurements, LLM outputs can vary across repeated requests even when the prompt and apparent model settings remain unchanged. This variation arises from deliberate sampling, silent model updates, numerical rounding, or expert routing. Setting a dedicated temperature parameter to zero removes deliberate sampling when that option is available, but it does not eliminate the other sourc...
 
 ---
 
-### [Strategic Exit and Unilateral Control](https://arxiv.org/abs/2607.21898v1)
-*Alexander Kangas* — **arxiv**, 2026-07-24 — _Unclassified_
+### [AI Strategy: How to Choose What AI Product to Implement](https://arxiv.org/abs/2607.23733v1)
+*Foster Provost, Panos Ipeirotis* — **arxiv**, 2026-07-26 — _Unclassified_
 
-Repeated-game strategies can impose global payoff relations by balancing controlled rewards across time. The question is what remains when the opponent decides, after observing each round, whether the relationship continues. Against every history-dependent opponent strategy with finite expected duration, a cumulative linear identity is enforceable if and only if its expected stage increment vanishes at every reachable history. Strategic exit therefore converts global control into local control. In a two-action game with a unique local equalizer, the controller must use the same mixed action at...
-
----
-
-### [Stochastic Potential Choices and Outcomes](https://arxiv.org/abs/2607.21413v1)
-*Aureo de Paula, Elie Tamer* — **arxiv**, 2026-07-23 — _Unclassified_
-
-Applied econometricians typically model each individual as having fixed outcomes under treatment and control and, in instrumental-variables (IV) settings, fixed treatment decisions under each value of the instrument. This paper asks what changes when outcomes and treatment allocations or choices are stochastic at the individual level. In the model, each individual has a stable (but possibly stochastic) response type consisting of two objects: a treatment choice probability under each state and a potential outcome distribution under each treatment-state pair. These stochastic potential outcomes...
+Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage Compass, one AI product (Likely-to-Sell recommendations) flagged sales outreach opportunities and went on to account for nine figures in annual gross commission revenue. Another championed AI product (a Time-on-Market pricing tool) was rightly shelved. A simple ROI estimate could not distinguish the two. We present expected ROI (eROI), a framework that decomposes each bet into three components an...
 
 ---
 
-## method:Machine Learning
+### [Do Carbon Price Forecasts Improve Compliance Procurement? Evidence from European Union Allowances](https://arxiv.org/abs/2607.23426v1)
+*Muzi Chen, Difang Huang, Shouyang Wang, Xinghan Xia* — **arxiv**, 2026-07-26 — _Unclassified_
 
-### [Group boarding for airplanes: benchmarking static policies and optimizing dynamic assignment with deep reinforcement learning](https://arxiv.org/abs/2607.21512v1)
-*Minyu Shen, Weihua Gu, Junqi Ma, Boqian Song et al.* — **arxiv**, 2026-07-23 — _method:Machine Learning_
+Firms covered by emissions trading systems need forecasts not only to value allowances, but also to decide when to buy them. This paper asks whether European Union Allowance (EUA) prices contain short-horizon predictability that survives a forecast-origin information design and improves simulated compliance procurement. Using daily data from 2019 to 2025, we produce direct forecasts for one to five trading days ahead. All predictors are observable at the forecast origin, and calibration and model-selection rules are fixed before the final holdout. The released forecast has the lowest point-est...
 
-Improving boarding efficiency reduces airplane turnaround time and improves passenger experience. Airlines typically assign passengers to a few sequential boarding groups using static seat-based rules. Yet arrivals, seat choices, and luggage are sequential and random, and a static rule ignores the seats earlier passengers have already taken. We propose the first dynamic formulation of boarding group assignment. As each passenger checks in, we observe earlier passengers' seats and groups, the current passenger's seat, and optional luggage information, then assign a group while keeping companion...
+---
+
+### [Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features](https://arxiv.org/abs/2607.23370v1)
+*Muhammad Abdullah Haroon* — **arxiv**, 2026-07-25 — _Unclassified_
+
+Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware...
+
+---
+
+## method:Field Experiment
+
+### [Wrong and More Confident: A Field Experiment on Language Models Taking a Graduate Economics Exam](https://arxiv.org/abs/2607.23424v1)
+*Piyush Akimitsu* — **arxiv**, 2026-07-26 — _method:Field Experiment_
+
+A red herring, an irrelevant passage added to a problem, makes a language model reason incorrectly and answer incorrectly far more often. Yet the model still writes out a full explanation, and the answer it gives remains consistent with the steps it shows. The red herring corrupts the reasoning, while leaving the explanation intact and coherent. I show this on the Graduate Economic Reasoning Benchmark (GERB), sixty graduate-level microeconomics problems, each a detailed setup with a verified answer and a step-by-step reference solution, presented with and without the red herring and answered b...
 
 ---
