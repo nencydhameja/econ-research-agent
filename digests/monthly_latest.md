@@ -1,8 +1,18 @@
-# Economics Research Digest — 2026-07-28
+# Economics Research Digest — 2026-07-29
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 5 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
+
+### [The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066?af=R)
+*RICARDO CORREA, 
+AI HE, 
+CHRISTOPH HERPFER, 
+UGUR LEL* — **Journal of Finance**, 2026-07-29 — _Agricultural & Environmental Economics_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
 *CHEN LIN, 
@@ -13,19 +23,19 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## Business Economics & Innovation
+### [General Theory of Relational Primacy](https://arxiv.org/abs/2607.25942v1)
+*Ngueuleweu Tiwang Gildas* — **arxiv**, 2026-07-28 — _Agricultural & Environmental Economics_
 
-### [How to Disrupt a Market](https://arxiv.org/abs/2607.24389v1)
-*Edoardo Gallo, Rebecca Heath, Jonathan Lusthaus, Federico Varese* — **arxiv**, 2026-07-27 — _Business Economics & Innovation_
-
-Market design research in economics naturally focusses on how to improve market efficiency. Our objective here is exactly the opposite - how to design interventions that make a market less efficient. Our research is inspired by the growth of illicit markets online where reducing their efficiency may reduce societal harm. Using a web-based experiment, we find that a partial disruption to delivery is an effective method to decrease market efficiency. The decrease is borne by sellers who sell fewer goods and have lower earnings. A consequence of a disruption to delivery, however, is an increase i...
+This paper presents the General Theory of Relational Primacy (GTRP), a conceptual and formal framework for understanding stability, crisis, and transition in complex systems. The central thesis is that systems are not defined by their variables but by the relations that organize them. Variables are merely late manifestations of deep relational mechanisms. Crises arise from the silent reorganization of these relations, not from changes in the variables themselves. We formalize three axioms (relational primacy, antecedence of relations, and universality of coupling) and derive from them a comple...
 
 ---
 
-### [Robust estimation of the autocorrelation function via forward ratios](https://arxiv.org/abs/2607.23744v1)
-*A. Montañés, E. Ruiz* — **arxiv**, 2026-07-26 — _Business Economics & Innovation, Macroeconomics_
+## Business Economics & Innovation
 
-It is obvious to say that an adequate estimation of the autocorrelation function is central in time series analysis. In this paper, we propose three new robust estimators based on ratios of observations, which offer strong resistance against outliers. While the first estimator, which is based on the median, is not efficient, the second is a Quasi Maximum Likelihood (QML) estimator with better efficiency properties. The third estimator is a plug-in estimator, which does not require numerical optimization and, consequently, is extremely simple from a computationally point of view, having similar...
+### [Open-ended innovation in zero-sum games](https://arxiv.org/abs/2607.25677v1)
+*Matteo Marsili* — **arxiv**, 2026-07-28 — _Business Economics & Innovation, Microeconomics_
+
+This note discusses zero-sum games with open-ended innovation, whereby each player may introduce new strategies. The innovation process is modelled as a draw of new strategies form a distribution. It is argued that, under generic conditions, this setting can lead to an everlasting innovation arm race, because the introduction of new technologies of one player increases the marginal utility for technological innovation of the opponent.
 
 ---
 
@@ -35,31 +45,6 @@ It is obvious to say that an adequate estimation of the autocorrelation function
 *Qihui Chen, Ka Yan Cheng, Zheng Fang* — **arxiv**, 2026-07-27 — _Econometrics & Methods, method:Machine Learning_
 
 We develop a general framework of identification and estimation for automatic debiased machine learning (DML) where the parameter of interest $θ_0$ is identified by a moment condition involving a nuisance $γ_0$ that may be high dimensional. DML leverages machine learning to estimate $γ_0$ while correcting for regularization and overfitting biases that may otherwise transmit to biased estimation of $θ_0$. We establish conditions under which the Riesz representer $α_0$, which is at the core of DML, is identified, and show that the identification occurs precisely when $α_0$ uniquely optimizes a q...
-
----
-
-### [Inference on counterfactual distributions using martingale posteriors](https://arxiv.org/abs/2607.24143v1)
-*Gregor Steiner, Mark Steel* — **arxiv**, 2026-07-27 — _Econometrics & Methods, General Economics & Methodology, method:IV_
-
-Causal inference is often focused on average effects, which can hide important aspects of the effect distributions. Here we consider the entire posterior effects distribution by estimating full counterfactual outcome distributions. We propose a methodology for inference on counterfactual distributions which builds upon the martingale posterior framework of Fong et al. (2023). This provides a highly flexible approach to estimating densities, distribution functions, and derived quantities such as quantiles, which coherently quantifies the epistemic uncertainty on any target estimand of interest....
-
----
-
-## General Economics & Methodology
-
-### [Systemic Methodological Dysfunction in Statistical Research for Clinical Decisions](https://arxiv.org/abs/2607.23660v1)
-*Charles F. Manski* — **arxiv**, 2026-07-26 — _General Economics & Methodology_
-
-I critique a set of entrenched methodological conventions that collectively create systemic dysfunction in statistical research for clinical decisions. These include: (1) the prevalent use of hypothesis tests to compare treatments, (2) remoteness from patient care of the methods used to evaluate the accuracy of predictions of patient outcomes, (3) poor practice of meta-analysis to combine findings across studies, and (4) widespread research with incredible certitude. It appears that the dysfunction is held in place by three factors: (i) rudimentary instruction in statistical methodology receiv...
-
----
-
-## Health, Education & Welfare
-
-### [A World of Ginis](https://arxiv.org/abs/2607.24175v1)
-*Lidia Ceriani, Paolo Verme* — **arxiv**, 2026-07-27 — _Health, Education & Welfare_
-
-The Gini index remains the most important measure of economic inequality worldwide, and accurate estimates of this index are essential for effective public policies. Yet, Gini estimates for the same country and year vary considerably across data sources, a problem that remains largely unresolved. The paper reviews the largest global and regional databases providing Gini estimates, surveys the related literature, and constructs a unified dataset of 122,351 Gini observations spanning 222 countries and territories and 158 years, from 1867 to 2024. The analysis of this new dataset shows that incom...
 
 ---
 
@@ -73,6 +58,14 @@ The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
 ---
 
 ## Unclassified
+
+### [Dynamic Self‐Fulfilling Fire Sales](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R)
+*PAYMON KHORRAMI, 
+FERNANDO MENDO* — **Journal of Finance**, 2026-07-28 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [The Cross‐Section of Household Preferences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R)
 *LAURENT E. CALVET, 
@@ -247,16 +240,23 @@ The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.
 
 ---
 
-### [Randomness in large language models: What researchers need to know (and report)](https://arxiv.org/abs/2607.24372v1)
-*Guillaume Coqueret, Joan Llull, Florian Oswald, Christophe Pérignon et al.* — **arxiv**, 2026-07-27 — _Unclassified_
+### [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](https://arxiv.org/abs/2607.26034v1)
+*Elias Fernández Domingos, The Anh Han* — **arxiv**, 2026-07-28 — _Unclassified_
 
-Large language models (LLMs) are increasingly used to generate data for research. Typical use cases are classifications, annotations, information extraction, and generation of numerical scores. Unlike conventional measurements, LLM outputs can vary across repeated requests even when the prompt and apparent model settings remain unchanged. This variation arises from deliberate sampling, silent model updates, numerical rounding, or expert routing. Setting a dedicated temperature parameter to zero removes deliberate sampling when that option is available, but it does not eliminate the other sourc...
+Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI), where competitive pressure is often argued to incentivise riskier, less safety-conscious development. We study this using a framed behavioural experiment based on an idealised AI race, in which paired participants repeatedly chose between Safe and Unsafe development under an uncertain time horizon. Unsafe development gave faster progress and higher immediate payoffs but accumulate...
 
 ---
 
-### [AI Strategy: How to Choose What AI Product to Implement](https://arxiv.org/abs/2607.23733v1)
-*Foster Provost, Panos Ipeirotis* — **arxiv**, 2026-07-26 — _Unclassified_
+### [Algorithm-Driven Information Similarity and Collective Action: An Experimental Study](https://arxiv.org/abs/2607.25472v1)
+*Manshu Khanna, Bozhang Xia* — **arxiv**, 2026-07-28 — _Unclassified_
 
-Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage Compass, one AI product (Likely-to-Sell recommendations) flagged sales outreach opportunities and went on to account for nine figures in annual gross commission revenue. Another championed AI product (a Time-on-Market pricing tool) was rightly shelved. A simple ROI estimate could not distinguish the two. We present expected ROI (eROI), a framework that decomposes each bet into three components an...
+We study how the similarity of individuals' information shapes collective action. When people draw on a common source of information, such as social media, each becomes more confident about what others have seen and will do. This can help them coordinate, but it can also tempt them to free-ride. We show that which force prevails depends on how demanding the collective goal is. In a content-moderation experiment, subjects decide whether to pay a cost to report harmful content, which is removed only if enough reports are received. We vary the similarity of group members' information, holding fix...
+
+---
+
+### [From dense grids to valid inference: Accounting for regularization bias in nonparametric random coefficient models](https://arxiv.org/abs/2607.25416v1)
+*Lingwei Kong, Maximilian Osterhaus, Michael Pen* — **arxiv**, 2026-07-28 — _Unclassified_
+
+This paper develops an inference procedure for average functionals of random-coefficient distributions, such as mean willingness-to-pay and average elasticities, when the distribution is estimated nonparametrically using the penalized fixed-grid estimator of Heiss, Hetzenecker, and Osterhaus (2022). We establish asymptotic normality of the corresponding penalized plug-in estimator centered at the functional evaluated at the penalized pseudo-true value and propose a confidence interval that accounts for the regularization bias. Our method applies to a broad class of linear and nonlinear functio...
 
 ---
