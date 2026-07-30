@@ -1,87 +1,84 @@
-# Weekly Deep-Reading Queue — week of 2026-07-29
+# Weekly Deep-Reading Queue — week of 2026-07-30
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing
+## 1. Submission of Manuscripts to the Econometric Society Monograph Series
 
-### [The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066?af=R)
-*RICARDO CORREA, 
-AI HE, 
-CHRISTOPH HERPFER, 
-UGUR LEL* — **Journal of Finance**, 2026-07-29 — _Agricultural & Environmental Economics_
+### [Submission of Manuscripts to the Econometric Society Monograph Series](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944SUM?af=R)
+** — **Econometrica**, 2026-07-29 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Econometrica, Volume 94, Issue 4, Page 1487-1487, July 2026.
 
 ---
 
-## 2. Dynamic Self‐Fulfilling Fire Sales
+## 2. Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa
 
-### [Dynamic Self‐Fulfilling Fire Sales](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R)
-*PAYMON KHORRAMI, 
-FERNANDO MENDO* — **Journal of Finance**, 2026-07-28 — _Unclassified_
+### [Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23174?af=R)
+*Manu Navjeevan, 
+Rodrigo Pinto, 
+Andres Santos* — **Econometrica**, 2026-07-29 — _Econometrics & Methods, method:IV_
 
-The Journal of Finance, EarlyView.
-
----
-
-## 3. Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants
-
-### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
-*CHEN LIN, 
-THOMAS SCHMID, 
-MICHAEL S. WEISBACH* — **Journal of Finance**, 2026-07-24 — _Agricultural & Environmental Economics_
-
-The Journal of Finance, EarlyView.
+Econometrica, Volume 94, Issue 4, Page 1095-1133, July 2026.
 
 ---
 
-## 4. The Cross‐Section of Household Preferences
+## 3. Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market
 
-### [The Cross‐Section of Household Preferences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R)
-*LAURENT E. CALVET, 
-JOHN Y. CAMPBELL, 
-FRANCISCO GOMES, 
-PAOLO SODINI* — **Journal of Finance**, 2026-07-24 — _Unclassified_
+### [Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market](https://onlinelibrary.wiley.com/doi/10.3982/ECTA20506?af=R)
+*Jonathan Eaton, 
+Samuel Kortum, 
+Francis Kramarz* — **Econometrica**, 2026-07-29 — _International Economics_
 
-The Journal of Finance, EarlyView.
-
----
-
-## 5. Do Equity and Options Markets Agree about Volatility?
-
-### [Do Equity and Options Markets Agree about Volatility?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R)
-*CARSTEN H. CHONG, 
-VIKTOR TODOROV* — **Journal of Finance**, 2026-07-23 — _Unclassified_
-
-The Journal of Finance, EarlyView.
+Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
 
 ---
 
-## 6. M&As, Employee Costs, and Labor Reallocation
+## 4. Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions
 
-### [M&As, Employee Costs, and Labor Reallocation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R)
-*SPYRIDON LAGARAS* — **Journal of Finance**, 2026-07-21 — _Unclassified_
+### [Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21839?af=R)
+*Anh Nguyen* — **Econometrica**, 2026-07-29 — _Unclassified_
 
-The Journal of Finance, EarlyView.
-
----
-
-## 7. Jay R. Ritter
-
-### [Jay R. Ritter](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R)
-** — **Journal of Finance**, 2026-07-16 — _Unclassified_
-
-The Journal of Finance, EarlyView.
+Econometrica, Volume 94, Issue 4, Page 1171-1208, July 2026.
 
 ---
 
-## 8. The Debt‐Equity Spread
+## 5. Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise
 
-### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
-*HUI CHEN, 
-ZHIYAO CHEN, 
-JUN LI* — **Journal of Finance**, 2026-07-15 — _Unclassified_
+### [Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R)
+*Rebecca Dizon‐Ross, 
+Ariel Zucker* — **Econometrica**, 2026-07-29 — _method:Field Experiment, method:Theory_
 
-The Journal of Finance, Volume 81, Issue 4, Page 2005-2062, August 2026.
+Econometrica, Volume 94, Issue 4, Page 1409-1448, July 2026.
+
+---
+
+## 6. Economic Growth and the Rise of Large Firms
+
+### [Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110?af=R)
+*Zhang Chen* — **Econometrica**, 2026-07-29 — _Business Economics & Innovation_
+
+Econometrica, Volume 94, Issue 4, Page 1375-1408, July 2026.
+
+---
+
+## 7. Walras–Bowley Lecture: Climate Policy in the Wide World
+
+### [Walras–Bowley Lecture: Climate Policy in the Wide World](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22451?af=R)
+*John Hassler, 
+Per Krusell, 
+Conny Olovsson* — **Econometrica**, 2026-07-29 — _Agricultural & Environmental Economics_
+
+Econometrica, Volume 94, Issue 4, Page 1061-1093, July 2026.
+
+---
+
+## 8. Job Ladder and Wealth Dynamics in General Equilibrium
+
+### [Job Ladder and Wealth Dynamics in General Equilibrium](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22542?af=R)
+*Leo Kaas, 
+Etienne Lalé, 
+Nawid Siassi* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1449-1485, July 2026.
 
 ---

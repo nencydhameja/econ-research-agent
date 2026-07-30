@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-07-29
+# Economics Research Digest — 2026-07-30
 
-Window: last **30 days** · 30 papers across 5 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 1 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -14,6 +14,15 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Walras–Bowley Lecture: Climate Policy in the Wide World](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22451?af=R)
+*John Hassler, 
+Per Krusell, 
+Conny Olovsson* — **Econometrica**, 2026-07-29 — _Agricultural & Environmental Economics_
+
+Econometrica, Volume 94, Issue 4, Page 1061-1093, July 2026.
+
+---
+
 ### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
 *CHEN LIN, 
 THOMAS SCHMID, 
@@ -23,28 +32,34 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [General Theory of Relational Primacy](https://arxiv.org/abs/2607.25942v1)
-*Ngueuleweu Tiwang Gildas* — **arxiv**, 2026-07-28 — _Agricultural & Environmental Economics_
-
-This paper presents the General Theory of Relational Primacy (GTRP), a conceptual and formal framework for understanding stability, crisis, and transition in complex systems. The central thesis is that systems are not defined by their variables but by the relations that organize them. Variables are merely late manifestations of deep relational mechanisms. Crises arise from the silent reorganization of these relations, not from changes in the variables themselves. We formalize three axioms (relational primacy, antecedence of relations, and universality of coupling) and derive from them a comple...
-
----
-
 ## Business Economics & Innovation
 
-### [Open-ended innovation in zero-sum games](https://arxiv.org/abs/2607.25677v1)
-*Matteo Marsili* — **arxiv**, 2026-07-28 — _Business Economics & Innovation, Microeconomics_
+### [Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110?af=R)
+*Zhang Chen* — **Econometrica**, 2026-07-29 — _Business Economics & Innovation_
 
-This note discusses zero-sum games with open-ended innovation, whereby each player may introduce new strategies. The innovation process is modelled as a draw of new strategies form a distribution. It is argued that, under generic conditions, this setting can lead to an everlasting innovation arm race, because the introduction of new technologies of one player increases the marginal utility for technological innovation of the opponent.
+Econometrica, Volume 94, Issue 4, Page 1375-1408, July 2026.
 
 ---
 
 ## Econometrics & Methods
 
-### [Debiased Machine Learning: Identification, Estimation, and Shape Constraints](https://arxiv.org/abs/2607.24472v1)
-*Qihui Chen, Ka Yan Cheng, Zheng Fang* — **arxiv**, 2026-07-27 — _Econometrics & Methods, method:Machine Learning_
+### [Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23174?af=R)
+*Manu Navjeevan, 
+Rodrigo Pinto, 
+Andres Santos* — **Econometrica**, 2026-07-29 — _Econometrics & Methods, method:IV_
 
-We develop a general framework of identification and estimation for automatic debiased machine learning (DML) where the parameter of interest $θ_0$ is identified by a moment condition involving a nuisance $γ_0$ that may be high dimensional. DML leverages machine learning to estimate $γ_0$ while correcting for regularization and overfitting biases that may otherwise transmit to biased estimation of $θ_0$. We establish conditions under which the Riesz representer $α_0$, which is at the core of DML, is identified, and show that the identification occurs precisely when $α_0$ uniquely optimizes a q...
+Econometrica, Volume 94, Issue 4, Page 1095-1133, July 2026.
+
+---
+
+## International Economics
+
+### [Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market](https://onlinelibrary.wiley.com/doi/10.3982/ECTA20506?af=R)
+*Jonathan Eaton, 
+Samuel Kortum, 
+Francis Kramarz* — **Econometrica**, 2026-07-29 — _International Economics_
+
+Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
 
 ---
 
@@ -58,6 +73,85 @@ The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
 ---
 
 ## Unclassified
+
+### [Backmatter of Econometrica Vol. 94 Iss. 4](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944BM?af=R)
+** — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page iii-v, July 2026.
+
+---
+
+### [Frontmatter of Econometrica 94 Iss. 4](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944FM?af=R)
+** — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page i-ii, July 2026.
+
+---
+
+### [Submission of Manuscripts to the Econometric Society Monograph Series](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944SUM?af=R)
+** — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1487-1487, July 2026.
+
+---
+
+### [Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21839?af=R)
+*Anh Nguyen* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1171-1208, July 2026.
+
+---
+
+### [Job Ladder and Wealth Dynamics in General Equilibrium](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22542?af=R)
+*Leo Kaas, 
+Etienne Lalé, 
+Nawid Siassi* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1449-1485, July 2026.
+
+---
+
+### [The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22979?af=R)
+*Christian Cox* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1209-1243, July 2026.
+
+---
+
+### [Dynamic Screening of Buyers With Heterogeneous Purchase Frequency](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23049?af=R)
+*Johannes Hörner, 
+Anna Sanktjohanser* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1245-1278, July 2026.
+
+---
+
+### [The Inference‐Forecast Gap in Belief Updating](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23334?af=R)
+*Tony Q. Fan, 
+Yucheng Liang, 
+Cameron Peng* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1279-1312, July 2026.
+
+---
+
+### [Double Robustness of Local Projections and Some Unpleasant VARithmetic](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23345?af=R)
+*José Luis Montiel Olea, 
+Mikkel Plagborg‐Møller, 
+Eric Qian, 
+Christian K. Wolf* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1313-1343, July 2026.
+
+---
+
+### [The Class Gap in Career Progression: Evidence From U.S. Academia](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23358?af=R)
+*Anna Stansbury, 
+Kyra Rodriguez* — **Econometrica**, 2026-07-29 — _Unclassified_
+
+Econometrica, Volume 94, Issue 4, Page 1345-1373, July 2026.
+
+---
 
 ### [Dynamic Self‐Fulfilling Fire Sales](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R)
 *PAYMON KHORRAMI, 
@@ -162,101 +256,12 @@ The Journal of Finance, Volume 81, Issue 4, Page 2419-2468, August 2026.
 
 ---
 
-### [Why Have CEO Pay Levels Become Less Diverse?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70050?af=R)
-*TORSTEN JOCHEM, 
-GAIZKA ORMAZABAL, 
-ANJANA RAJAMANI* — **Journal of Finance**, 2026-07-15 — _Unclassified_
+## method:Field Experiment
 
-The Journal of Finance, Volume 81, Issue 4, Page 1893-1950, August 2026.
+### [Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R)
+*Rebecca Dizon‐Ross, 
+Ariel Zucker* — **Econometrica**, 2026-07-29 — _method:Field Experiment, method:Theory_
 
----
-
-### [ANNOUNCEMENTS](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70018?af=R)
-** — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2479-2479, August 2026.
-
----
-
-### [AMERICAN FINANCE ASSOCIATION](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13352?af=R)
-** — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2480-2481, August 2026.
-
----
-
-### [Partisan Entrepreneurship](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70042?af=R)
-*JOSEPH ENGELBERG, 
-JORGE GUZMAN, 
-RUNJING LU, 
-WILLIAM MULLINS* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 1841-1892, August 2026.
-
----
-
-### [Consumption in Asset Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70044?af=R)
-*SVETLANA BRYZGALOVA, 
-JIANTAO HUANG, 
-CHRISTIAN JULLIARD* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2271-2330, August 2026.
-
----
-
-### [Risk‐Free Rates and Convenience Yields around the World](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70045?af=R)
-*William Diamond, 
-Peter Van Tassel* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2063-2108, August 2026.
-
----
-
-### [The Drivers and Implications of Retail Margin Trading](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70049?af=R)
-*JIANGZE BIAN, 
-ZHI DA, 
-ZHIGUO HE, 
-DONG LOU, 
-KELLY SHUE, 
-HAO ZHOU* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2217-2270, August 2026.
-
----
-
-### [Bank Competition Amid Digital Disruption: Implications for Financial Inclusion](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70051?af=R)
-*ERICA XUEWEI JIANG, 
-GLORIA YANG YU, 
-JINYUAN ZHANG* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 1951-2004, August 2026.
-
----
-
-### [ISSUE INFORMATION](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13351?af=R)
-** — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 1801-1804, August 2026.
-
----
-
-### [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](https://arxiv.org/abs/2607.26034v1)
-*Elias Fernández Domingos, The Anh Han* — **arxiv**, 2026-07-28 — _Unclassified_
-
-Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI), where competitive pressure is often argued to incentivise riskier, less safety-conscious development. We study this using a framed behavioural experiment based on an idealised AI race, in which paired participants repeatedly chose between Safe and Unsafe development under an uncertain time horizon. Unsafe development gave faster progress and higher immediate payoffs but accumulate...
-
----
-
-### [Algorithm-Driven Information Similarity and Collective Action: An Experimental Study](https://arxiv.org/abs/2607.25472v1)
-*Manshu Khanna, Bozhang Xia* — **arxiv**, 2026-07-28 — _Unclassified_
-
-We study how the similarity of individuals' information shapes collective action. When people draw on a common source of information, such as social media, each becomes more confident about what others have seen and will do. This can help them coordinate, but it can also tempt them to free-ride. We show that which force prevails depends on how demanding the collective goal is. In a content-moderation experiment, subjects decide whether to pay a cost to report harmful content, which is removed only if enough reports are received. We vary the similarity of group members' information, holding fix...
-
----
-
-### [From dense grids to valid inference: Accounting for regularization bias in nonparametric random coefficient models](https://arxiv.org/abs/2607.25416v1)
-*Lingwei Kong, Maximilian Osterhaus, Michael Pen* — **arxiv**, 2026-07-28 — _Unclassified_
-
-This paper develops an inference procedure for average functionals of random-coefficient distributions, such as mean willingness-to-pay and average elasticities, when the distribution is estimated nonparametrically using the penalized fixed-grid estimator of Heiss, Hetzenecker, and Osterhaus (2022). We establish asymptotic normality of the corresponding penalized plug-in estimator centered at the functional evaluated at the penalized pseudo-true value and propose a confidence interval that accounts for the regularization bias. Our method applies to a broad class of linear and nonlinear functio...
+Econometrica, Volume 94, Issue 4, Page 1409-1448, July 2026.
 
 ---
