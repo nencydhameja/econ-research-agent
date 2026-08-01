@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-07-31
+# Weekly Deep-Reading Queue — week of 2026-08-01
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
