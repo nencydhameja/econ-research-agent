@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-08-02
+# Economics Research Digest — 2026-08-03
 
 Window: last **30 days** · 30 papers across 7 fields · drawn from 1 sources.
 
@@ -73,6 +73,14 @@ The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
 ---
 
 ## Unclassified
+
+### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
+*MICHAEL EWENS, 
+NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Backmatter of Econometrica Vol. 94 Iss. 4](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944BM?af=R)
 ** — **Econometrica**, 2026-07-29 — _Unclassified_
@@ -245,14 +253,6 @@ NORMAN SCHÜRHOFF,
 KUMAR VENKATARAMAN* — **Journal of Finance**, 2026-07-15 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2165-2216, August 2026.
-
----
-
-### [Investing with Purpose: Evidence from Private Foundations](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70055?af=R)
-*MATTEO BINFARÈ, 
-KYLE E. ZIMMERSCHIED* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2419-2468, August 2026.
 
 ---
 
