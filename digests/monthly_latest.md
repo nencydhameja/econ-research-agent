@@ -74,6 +74,23 @@ The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
 
 ## Unclassified
 
+### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
+*MAHYAR KARGAR, 
+BENJAMIN LESTER, 
+SÉBASTIEN PLANTE, 
+PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-08-11 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
+*KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
 *MICHAEL EWENS, 
 NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
@@ -232,27 +249,6 @@ PETER DIXON,
 QIYU LIU* — **Journal of Finance**, 2026-07-15 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 4, Page 2109-2164, August 2026.
-
----
-
-### [Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70054?af=R)
-*RODRIGO BARBONE GONZALEZ, 
-DMITRY KHAMETSHIN, 
-JOSÉ‐LUIS PEYDRÓ, 
-ANDREA POLO* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2331-2370, August 2026.
-
----
-
-### [Quote Competition in Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70048?af=R)
-*TERRENCE HENDERSHOTT, 
-DAN LI, 
-DMITRY LIVDAN, 
-NORMAN SCHÜRHOFF, 
-KUMAR VENKATARAMAN* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2165-2216, August 2026.
 
 ---
 
