@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-08-11
+# Economics Research Digest — 2026-08-12
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 1 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 1 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -52,6 +52,18 @@ Econometrica, Volume 94, Issue 4, Page 1095-1133, July 2026.
 
 ---
 
+## Health, Education & Welfare
+
+### [The Effect of Education Policy on Crime: An Intergenerational Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R)
+*Ulrika AhrsjöCostas MeghirMårten PalmeMarieke SchnabelStockholm School of EconomicsYale University, Institute for Fiscal Studies (IFS), National Bureau of
+          Economic Research, Institute of Labor Economics (IZA), Centre for Economic Policy
+          Research, and Institute for Evaluation of Labour Market and Education Policy (IFAU)Stockholm University, CESifo (Center for Economic Studies), Institute for
+          Fiscal Studies (IFS), Institute for Labor Economics (IZA), and Rockwool FoundationUniversity College London* — **Journal of Political Economy**, 2026-08-10 — _Health, Education & Welfare, Law & Economics, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
 ## International Economics
 
 ### [Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market](https://onlinelibrary.wiley.com/doi/10.3982/ECTA20506?af=R)
@@ -63,12 +75,33 @@ Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
 
 ---
 
-## Macroeconomics
+## Political Economy
 
-### [Cash Heterogeneity and the Payout Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70059?af=R)
-*ALTAN PAZARBAŞI* — **Journal of Finance**, 2026-07-15 — _Macroeconomics_
+### [Rent Guarantee Insurance](https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R)
+*Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
 
-The Journal of Finance, Volume 81, Issue 4, Page 2371-2418, August 2026.
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Markups: A Search-Theoretic Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R)
+*Guido MenzioNew York University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-07-31 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Optimal Tests Following Sequential Experiments](https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R)
+*Karun AdusumilliUniversity of Pennsylvania* — **Journal of Political Economy**, 2026-07-29 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Illiquid Lemon Markets and the Macroeconomy](https://www.journals.uchicago.edu/doi/abs/10.1086/742435?af=R)
+*Aimé BierdelAndres DrenikJuan HerreñoPablo OttonelloBain and CompanyUniversity of Texas at Austin and National Bureau of Economic ResearchUniversity of California, San Diego, and National Bureau of Economic ResearchUniversity of Maryland, Federal Reserve Bank of Minneapolis, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-07-27 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
 
 ---
 
@@ -215,40 +248,6 @@ The Journal of Finance, EarlyView.
 ** — **Journal of Finance**, 2026-07-16 — _Unclassified_
 
 The Journal of Finance, EarlyView.
-
----
-
-### [The Debt‐Equity Spread](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70060?af=R)
-*HUI CHEN, 
-ZHIYAO CHEN, 
-JUN LI* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2005-2062, August 2026.
-
----
-
-### [Private Equity and Pay Gaps Inside the Firm](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70043?af=R)
-*LILY FANG, 
-JIM GOLDMAN, 
-ALEXANDRA ROULET* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 1805-1840, August 2026.
-
----
-
-### [Report of the Editor of The Journal of Finance for the Year 2025](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70061?af=R)
-*ANTOINETTE SCHOAR* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2469-2478, August 2026.
-
----
-
-### [Detecting Informed Trading Risk from Undercutting Activity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70047?af=R)
-*YASHAR H. BARARDEHI, 
-PETER DIXON, 
-QIYU LIU* — **Journal of Finance**, 2026-07-15 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 4, Page 2109-2164, August 2026.
 
 ---
 
