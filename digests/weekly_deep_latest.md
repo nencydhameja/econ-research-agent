@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-12
+# Weekly Deep-Reading Queue — week of 2026-08-13
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -32,52 +32,51 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Submission of Manuscripts to the Econometric Society Monograph Series
+## 4. Sequential Search for Corporate Bonds
 
-### [Submission of Manuscripts to the Econometric Society Monograph Series](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944SUM?af=R)
-** — **Econometrica**, 2026-07-29 — _Unclassified_
+### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
+*MAHYAR KARGAR, 
+BENJAMIN LESTER, 
+SÉBASTIEN PLANTE, 
+PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-08-11 — _Unclassified_
 
-Econometrica, Volume 94, Issue 4, Page 1487-1487, July 2026.
-
----
-
-## 5. Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa
-
-### [Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23174?af=R)
-*Manu Navjeevan, 
-Rodrigo Pinto, 
-Andres Santos* — **Econometrica**, 2026-07-29 — _Econometrics & Methods, method:IV_
-
-Econometrica, Volume 94, Issue 4, Page 1095-1133, July 2026.
+The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market
+## 5. Personal Costs of Executive Turnovers
 
-### [Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market](https://onlinelibrary.wiley.com/doi/10.3982/ECTA20506?af=R)
-*Jonathan Eaton, 
-Samuel Kortum, 
-Francis Kramarz* — **Econometrica**, 2026-07-29 — _International Economics_
+### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
+*KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
 
-Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
+The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions
+## 6. Board Dynamics over the Startup Life Cycle
 
-### [Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21839?af=R)
-*Anh Nguyen* — **Econometrica**, 2026-07-29 — _Unclassified_
+### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
+*MICHAEL EWENS, 
+NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
 
-Econometrica, Volume 94, Issue 4, Page 1171-1208, July 2026.
+The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise
+## 7. Robustness over efficiency in climate coalitions: a bistable model and a map of architectures
 
-### [Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R)
-*Rebecca Dizon‐Ross, 
-Ariel Zucker* — **Econometrica**, 2026-07-29 — _method:Field Experiment, method:Theory_
+### [Robustness over efficiency in climate coalitions: a bistable model and a map of architectures](https://arxiv.org/abs/2608.12143v1)
+*Juergen Renn* — **arxiv**, 2026-08-12 — _Agricultural & Environmental Economics, International Economics_
 
-Econometrica, Volume 94, Issue 4, Page 1409-1448, July 2026.
+Designs for international climate cooperation face a trade-off between allocative efficiency and robustness to the erosion of institutions by defection, renegotiation, and political turnover. We formalize this trade-off in a stylized coalition-formation game in which membership is driven by two market-based channels, a membership premium and an outsider drain, and is stabilized against a bounded set of institutional perturbations using the apparatus of robust control. The free-rider gap that each member faces is derived from economic primitives, the carbon price differential and the emission i...
+
+---
+
+## 8. Beyond headcount and human capital: The Effective Cognitive Population as a decomposable capacity unit for AI-era planning
+
+### [Beyond headcount and human capital: The Effective Cognitive Population as a decomposable capacity unit for AI-era planning](https://arxiv.org/abs/2608.09642v1)
+*Kwan Soo Shin* — **arxiv**, 2026-08-10 — _Business Economics & Innovation, Law & Economics_
+
+National planning counts population, human capital, and artificial-intelligence preparedness in separate ledgers. Demographic accounting has advanced from headcount to skills-adjusted stocks and still debates how much age structure retains once skills are modeled, yet no existing unit carries the conditions under which preparedness becomes productive capacity. This study introduces the Effective Cognitive Population (ECP), a decomposable unit that weights population by capability and by the conditions under which capability is deployed, anchored to the World Bank Human Capital Index Plus (HCI+...
 
 ---
