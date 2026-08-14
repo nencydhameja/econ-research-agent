@@ -1,8 +1,17 @@
-# Weekly Deep-Reading Queue — week of 2026-08-13
+# Weekly Deep-Reading Queue — week of 2026-08-14
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Rent Guarantee Insurance
+## 1. From Doubt to Devotion: Trials and Learning-Based Pricing
+
+### [From Doubt to Devotion: Trials and Learning-Based Pricing](https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R)
+*Tan GanNicholas WuLondon School of EconomicsYale University* — **Journal of Political Economy**, 2026-08-13 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+## 2. Rent Guarantee Insurance
 
 ### [Rent Guarantee Insurance](https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R)
 *Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
@@ -11,7 +20,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 2. The Effect of Education Policy on Crime: An Intergenerational Perspective
+## 3. The Effect of Education Policy on Crime: An Intergenerational Perspective
 
 ### [The Effect of Education Policy on Crime: An Intergenerational Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R)
 *Ulrika AhrsjöCostas MeghirMårten PalmeMarieke SchnabelStockholm School of EconomicsYale University, Institute for Fiscal Studies (IFS), National Bureau of
@@ -23,7 +32,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 3. Markups: A Search-Theoretic Perspective
+## 4. Markups: A Search-Theoretic Perspective
 
 ### [Markups: A Search-Theoretic Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R)
 *Guido MenzioNew York University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-07-31 — _Political Economy_
@@ -32,7 +41,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Sequential Search for Corporate Bonds
+## 5. Sequential Search for Corporate Bonds
 
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
@@ -44,7 +53,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Personal Costs of Executive Turnovers
+## 6. Personal Costs of Executive Turnovers
 
 ### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
 *KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
@@ -53,7 +62,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Board Dynamics over the Startup Life Cycle
+## 7. Board Dynamics over the Startup Life Cycle
 
 ### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
 *MICHAEL EWENS, 
@@ -63,20 +72,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Robustness over efficiency in climate coalitions: a bistable model and a map of architectures
+## 8. Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series
 
-### [Robustness over efficiency in climate coalitions: a bistable model and a map of architectures](https://arxiv.org/abs/2608.12143v1)
-*Juergen Renn* — **arxiv**, 2026-08-12 — _Agricultural & Environmental Economics, International Economics_
+### [Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series](https://arxiv.org/abs/2608.13431v1)
+*Avishek Bhandari* — **arxiv**, 2026-08-13 — _Public Economics_
 
-Designs for international climate cooperation face a trade-off between allocative efficiency and robustness to the erosion of institutions by defection, renegotiation, and political turnover. We formalize this trade-off in a stylized coalition-formation game in which membership is driven by two market-based channels, a membership premium and an outsider drain, and is stabilized against a bounded set of institutional perturbations using the apparatus of robust control. The free-rider gap that each member faces is derived from economic primitives, the carbon price differential and the emission i...
-
----
-
-## 8. Beyond headcount and human capital: The Effective Cognitive Population as a decomposable capacity unit for AI-era planning
-
-### [Beyond headcount and human capital: The Effective Cognitive Population as a decomposable capacity unit for AI-era planning](https://arxiv.org/abs/2608.09642v1)
-*Kwan Soo Shin* — **arxiv**, 2026-08-10 — _Business Economics & Innovation, Law & Economics_
-
-National planning counts population, human capital, and artificial-intelligence preparedness in separate ledgers. Demographic accounting has advanced from headcount to skills-adjusted stocks and still debates how much age structure retains once skills are modeled, yet no existing unit carries the conditions under which preparedness becomes productive capacity. This study introduces the Effective Cognitive Population (ECP), a decomposable unit that weights population by capability and by the conditions under which capability is deployed, anchored to the World Bank Human Capital Index Plus (HCI+...
+Many questions across the sciences take the same form: several coupled series are observed together, and the analyst wants to know not merely that they move together but which one moves first, and how strongly. This paper sets out a complete method built on one organising idea: the direction of a coupled system is exactly the part of its behaviour that changes when the record is played backwards. Tools built on contemporaneous covariance alone (correlation matrices, distance measures, spanning trees, undirected centralities, principal components) carry no information about direction: a reversi...
 
 ---

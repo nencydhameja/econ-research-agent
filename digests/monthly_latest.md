@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-08-13
+# Economics Research Digest — 2026-08-14
 
 Window: last **30 days** · 30 papers across 8 fields · drawn from 1 sources.
 
@@ -76,6 +76,13 @@ Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
 ---
 
 ## Political Economy
+
+### [From Doubt to Devotion: Trials and Learning-Based Pricing](https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R)
+*Tan GanNicholas WuLondon School of EconomicsYale University* — **Journal of Political Economy**, 2026-08-13 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
 
 ### [Rent Guarantee Insurance](https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R)
 *Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
@@ -239,13 +246,6 @@ The Journal of Finance, EarlyView.
 
 ### [M&As, Employee Costs, and Labor Reallocation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R)
 *SPYRIDON LAGARAS* — **Journal of Finance**, 2026-07-21 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [Jay R. Ritter](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R)
-** — **Journal of Finance**, 2026-07-16 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
