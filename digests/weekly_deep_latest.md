@@ -72,11 +72,11 @@ Many questions across the sciences take the same form: several coupled series ar
 
 ---
 
-## 8. Robustness over efficiency in climate coalitions: a bistable model and a map of architectures
+## 8. Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value
 
-### [Robustness over efficiency in climate coalitions: a bistable model and a map of architectures](https://arxiv.org/abs/2608.12143v1)
-*Juergen Renn* — **arxiv**, 2026-08-12 — _Agricultural & Environmental Economics, International Economics_
+### [Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value](https://doi.org/10.48550/arxiv.2608.12791)
+*Akihito Sudo* — **openalex ssrn**, 2026-08-13 — _International Economics_
 
-Designs for international climate cooperation face a trade-off between allocative efficiency and robustness to the erosion of institutions by defection, renegotiation, and political turnover. We formalize this trade-off in a stylized coalition-formation game in which membership is driven by two market-based channels, a membership premium and an outsider drain, and is stabilized against a bounded set of institutional perturbations using the apparatus of robust control. The free-rider gap that each member faces is derived from economic primitives, the carbon price differential and the emission i...
+What a finite learning device has recorded and what will hold value for it on future tasks are not the same quantity. We develop a typed accounting for finite-state learning devices that separates four components: a training-side fit functional $Φ_{\mathrm{fit}}$, the record-correlation stock $J_{D}=I(M;D)$, an update-side search ledger $σ_{M}$, and an operational capital value $V(M;T,b)$. This value is the work gap between an informed protocol class and a blind class obtained by deleting the memory-read port and re-optimizing from scratch. (I) Separation: for every $n$, there is a device fami...
 
 ---
