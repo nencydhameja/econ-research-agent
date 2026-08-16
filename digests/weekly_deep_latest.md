@@ -74,7 +74,7 @@ Many questions across the sciences take the same form: several coupled series ar
 
 ## 8. Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value
 
-### [Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value](https://doi.org/10.48550/arxiv.2608.12791)
+### [Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value](https://arxiv.org/abs/2608.12791)
 *Akihito Sudo* — **openalex ssrn**, 2026-08-13 — _International Economics_
 
 What a finite learning device has recorded and what will hold value for it on future tasks are not the same quantity. We develop a typed accounting for finite-state learning devices that separates four components: a training-side fit functional $Φ_{\mathrm{fit}}$, the record-correlation stock $J_{D}=I(M;D)$, an update-side search ledger $σ_{M}$, and an operational capital value $V(M;T,b)$. This value is the work gap between an informed protocol class and a blind class obtained by deleting the memory-read port and re-optimizing from scratch. (I) Separation: for every $n$, there is a device fami...
