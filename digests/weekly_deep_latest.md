@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-16
+# Weekly Deep-Reading Queue — week of 2026-08-17
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -63,20 +63,20 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series
+## 7. Handover of In-Context Learning State Across Session Boundaries
+
+### [Handover of In-Context Learning State Across Session Boundaries](https://arxiv.org/abs/2608.14528v1)
+*Masahiro Kato, Taka Kato* — **arxiv**, 2026-08-14 — _Public Economics_
+
+This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the task. The application must then decide which information from the earlier session to pass on. We formulate handover as the transfer of a task-relative in-context learning (ICL) state and distinguish exact recovery of earlier material from preservation of the target distribution. Under an exogeneity...
+
+---
+
+## 8. Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series
 
 ### [Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series](https://arxiv.org/abs/2608.13431v1)
 *Avishek Bhandari* — **arxiv**, 2026-08-13 — _Public Economics_
 
 Many questions across the sciences take the same form: several coupled series are observed together, and the analyst wants to know not merely that they move together but which one moves first, and how strongly. This paper sets out a complete method built on one organising idea: the direction of a coupled system is exactly the part of its behaviour that changes when the record is played backwards. Tools built on contemporaneous covariance alone (correlation matrices, distance measures, spanning trees, undirected centralities, principal components) carry no information about direction: a reversi...
-
----
-
-## 8. Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value
-
-### [Thermodynamics of Learning: A Typed Four-Component Accounting of Memory, Fit, and Value](https://arxiv.org/abs/2608.12791)
-*Akihito Sudo* — **openalex ssrn**, 2026-08-13 — _International Economics_
-
-What a finite learning device has recorded and what will hold value for it on future tasks are not the same quantity. We develop a typed accounting for finite-state learning devices that separates four components: a training-side fit functional $Φ_{\mathrm{fit}}$, the record-correlation stock $J_{D}=I(M;D)$, an update-side search ledger $σ_{M}$, and an operational capital value $V(M;T,b)$. This value is the work gap between an informed protocol class and a blind class obtained by deleting the memory-read port and re-optimizing from scratch. (I) Separation: for every $n$, there is a device fami...
 
 ---
