@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-17
+# Weekly Deep-Reading Queue — week of 2026-08-18
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -53,30 +53,29 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Board Dynamics over the Startup Life Cycle
+## 6. Targeting Support Using Job Seekers' Biases: A Randomized Experiment
 
-### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
-*MICHAEL EWENS, 
-NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
+### [Targeting Support Using Job Seekers' Biases: A Randomized Experiment](https://arxiv.org/abs/2608.16849v1)
+*Bruno Crépon, Aurélien Frot, Christophe Gaillac* — **arxiv**, 2026-08-17 — _Labor & Demographic Economics, method:RCT_
 
-The Journal of Finance, EarlyView.
-
----
-
-## 7. Handover of In-Context Learning State Across Session Boundaries
-
-### [Handover of In-Context Learning State Across Session Boundaries](https://arxiv.org/abs/2608.14528v1)
-*Masahiro Kato, Taka Kato* — **arxiv**, 2026-08-14 — _Public Economics_
-
-This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the task. The application must then decide which information from the earlier session to pass on. We formulate handover as the transfer of a task-relative in-context learning (ICL) state and distinguish exact recovery of earlier material from preservation of the target distribution. Under an exogeneity...
+Most digital job-search assistance encourages unemployed workers to broaden their search toward related occupations, targeting one important source of search inefficiency: insufficient occupational diversification. Our analysis suggests that the relevant margin of adjustment depends on the underlying search problem. Building on a detailed analysis of job seekers' beliefs and search behavior, we identify a large group of pessimistic workers for whom the main constraints are low search effort and low aspirations, rather than insufficient occupational diversification. This diagnosis points to an ...
 
 ---
 
-## 8. Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series
+## 7. Regional advantage in rugby sevens: Is there a home effect when nobody is home?
 
-### [Measuring the Arrow of Time: Identification, Estimation, and Inference for Directional Structure in Multivariate Time Series](https://arxiv.org/abs/2608.13431v1)
-*Avishek Bhandari* — **arxiv**, 2026-08-13 — _Public Economics_
+### [Regional advantage in rugby sevens: Is there a home effect when nobody is home?](https://arxiv.org/abs/2608.16312v1)
+*Fernando Delbianco, Federico Fioravanti, Fernando Tohmé, Martín Trombetta* — **arxiv**, 2026-08-17 — _Unclassified_
 
-Many questions across the sciences take the same form: several coupled series are observed together, and the analyst wants to know not merely that they move together but which one moves first, and how strongly. This paper sets out a complete method built on one organising idea: the direction of a coupled system is exactly the part of its behaviour that changes when the record is played backwards. Tools built on contemporaneous covariance alone (correlation matrices, distance measures, spanning trees, undirected centralities, principal components) carry no information about direction: a reversi...
+We study the existence of a \emph{Regional Differential} in rugby sevens: whether, in tournaments where no competing team enjoys formal home status, some national sides systematically over- or under-perform depending on \emph{where} the event is staged. Using the universe of 2672 men's and women's matches from international rugby sevens tournaments played between 2016 and 2025, principally the World Rugby Sevens Series, but also the World Cup Sevens and the Olympic Games, we replace the binary ``locality'' indicator of the classic home advantage literature with continuous measures of geographi...
+
+---
+
+## 8. Quantile restrictions, revealed rankings, and the limits of multinomial choice
+
+### [Quantile restrictions, revealed rankings, and the limits of multinomial choice](https://arxiv.org/abs/2608.16708v1)
+*Tatiana Komarova* — **arxiv**, 2026-08-17 — _Microeconomics_
+
+This paper analyzes when choice probabilities reveal rankings of deterministic utility indices in semiparametric discrete choice models. It begins with binary choice, where quantile thresholds guarantee ranking recovery, and shows that such thresholds can arise either from behavioral departures from utility maximization (e.g., limited attention) under exchangeable unobservables, or from non-exchangeable unobservables under standard utility maximization. These behavioral and distributional routes are then extended to multinomial choice. Under limited attention, balance restrictions on attention...
 
 ---
