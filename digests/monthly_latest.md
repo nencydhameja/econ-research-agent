@@ -114,6 +114,15 @@ Journal of Political Economy, Ahead of Print.
 
 ## Unclassified
 
+### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
+*VITO D. GALA, 
+JOAO F. GOMES, 
+TONG LIU* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
 BENJAMIN LESTER, 
@@ -239,13 +248,6 @@ The Journal of Finance, EarlyView.
 ### [Do Equity and Options Markets Agree about Volatility?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R)
 *CARSTEN H. CHONG, 
 VIKTOR TODOROV* — **Journal of Finance**, 2026-07-23 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [M&As, Employee Costs, and Labor Reallocation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R)
-*SPYRIDON LAGARAS* — **Journal of Finance**, 2026-07-21 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 

@@ -32,7 +32,18 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Sequential Search for Corporate Bonds
+## 4. Marginal Q
+
+### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
+*VITO D. GALA, 
+JOAO F. GOMES, 
+TONG LIU* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 5. Sequential Search for Corporate Bonds
 
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
@@ -44,7 +55,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Personal Costs of Executive Turnovers
+## 6. Personal Costs of Executive Turnovers
 
 ### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
 *KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
@@ -53,7 +64,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements
+## 7. Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements
 
 ### [Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements](https://arxiv.org/abs/2608.17766v1)
 *Jobst Heitzig* — **arxiv**, 2026-08-18 — _Unclassified_
@@ -62,20 +73,11 @@ We study a dynamic coalition-formation process in the tradition of Konishi and R
 
 ---
 
-## 7. Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
+## 8. Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
 
 ### [Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use](https://arxiv.org/abs/2608.17624v1)
 *Jorge Fábrega* — **arxiv**, 2026-08-18 — _Unclassified_
 
 Delegating cognitive operations to generative artificial intelligence redistributes execution and raises a governance problem: where human direction of the task remains. We distinguish two routes. Specified delegation places that direction before execution, through instructions, constraints, or criteria that delimit the task. Iterative coproduction places it during production, through interventions that correct or redirect provisional outputs. To examine both routes, we use aggregate monthly cells from the Anthropic Economic Index for April and May 2026. The AEI distinguishes two modes of use:...
-
----
-
-## 8. The Long-Term Effects of British and French Colonization in Africa on Trust in Traditional Leaders
-
-### [The Long-Term Effects of British and French Colonization in Africa on Trust in Traditional Leaders](https://arxiv.org/abs/2608.17436v1)
-*Brice Romuald Gueyap Kounga* — **arxiv**, 2026-08-18 — _International Economics, Political Economy, Public Economics_
-
-Trust in local institutions matters for trade, public goods provision, conflict resolution, and democratic consolidation. Using individual data from rounds 6 and 7 of the Afrobarometer surveys, I document that respondents in former British colonies are substantially more likely to trust traditional leaders than respondents in former French colonies. Cross-country comparisons of this kind are confounded by unobserved heterogeneity in pre- and post-colonial histories. To make progress on identification, I focus on Cameroon, which contains regions colonized by Britain and regions colonized by Fra...
 
 ---
