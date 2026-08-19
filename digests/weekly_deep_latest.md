@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-18
+# Weekly Deep-Reading Queue — week of 2026-08-19
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -53,29 +53,29 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Targeting Support Using Job Seekers' Biases: A Randomized Experiment
+## 6. Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements
 
-### [Targeting Support Using Job Seekers' Biases: A Randomized Experiment](https://arxiv.org/abs/2608.16849v1)
-*Bruno Crépon, Aurélien Frot, Christophe Gaillac* — **arxiv**, 2026-08-17 — _Labor & Demographic Economics, method:RCT_
+### [Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements](https://arxiv.org/abs/2608.17766v1)
+*Jobst Heitzig* — **arxiv**, 2026-08-18 — _Unclassified_
 
-Most digital job-search assistance encourages unemployed workers to broaden their search toward related occupations, targeting one important source of search inefficiency: insufficient occupational diversification. Our analysis suggests that the relevant margin of adjustment depends on the underlying search problem. Building on a detailed analysis of job seekers' beliefs and search behavior, we identify a large group of pessimistic workers for whom the main constraints are low search effort and low aspirations, rather than insufficient occupational diversification. This diagnosis points to an ...
-
----
-
-## 7. Regional advantage in rugby sevens: Is there a home effect when nobody is home?
-
-### [Regional advantage in rugby sevens: Is there a home effect when nobody is home?](https://arxiv.org/abs/2608.16312v1)
-*Fernando Delbianco, Federico Fioravanti, Fernando Tohmé, Martín Trombetta* — **arxiv**, 2026-08-17 — _Unclassified_
-
-We study the existence of a \emph{Regional Differential} in rugby sevens: whether, in tournaments where no competing team enjoys formal home status, some national sides systematically over- or under-perform depending on \emph{where} the event is staged. Using the universe of 2672 men's and women's matches from international rugby sevens tournaments played between 2016 and 2025, principally the World Rugby Sevens Series, but also the World Cup Sevens and the Olympic Games, we replace the binary ``locality'' indicator of the classic home advantage literature with continuous measures of geographi...
+We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff sharing follow Heitzig and Kornek (2018): a state is a hierarchy of nested agreements; agreements are formed by merging existing top-level coalitions, and are terminated together with all agreements containing them; and the members of a new agreement share the surplus it generates, measured against the state without that a...
 
 ---
 
-## 8. Quantile restrictions, revealed rankings, and the limits of multinomial choice
+## 7. Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
 
-### [Quantile restrictions, revealed rankings, and the limits of multinomial choice](https://arxiv.org/abs/2608.16708v1)
-*Tatiana Komarova* — **arxiv**, 2026-08-17 — _Microeconomics_
+### [Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use](https://arxiv.org/abs/2608.17624v1)
+*Jorge Fábrega* — **arxiv**, 2026-08-18 — _Unclassified_
 
-This paper analyzes when choice probabilities reveal rankings of deterministic utility indices in semiparametric discrete choice models. It begins with binary choice, where quantile thresholds guarantee ranking recovery, and shows that such thresholds can arise either from behavioral departures from utility maximization (e.g., limited attention) under exchangeable unobservables, or from non-exchangeable unobservables under standard utility maximization. These behavioral and distributional routes are then extended to multinomial choice. Under limited attention, balance restrictions on attention...
+Delegating cognitive operations to generative artificial intelligence redistributes execution and raises a governance problem: where human direction of the task remains. We distinguish two routes. Specified delegation places that direction before execution, through instructions, constraints, or criteria that delimit the task. Iterative coproduction places it during production, through interventions that correct or redirect provisional outputs. To examine both routes, we use aggregate monthly cells from the Anthropic Economic Index for April and May 2026. The AEI distinguishes two modes of use:...
+
+---
+
+## 8. The Long-Term Effects of British and French Colonization in Africa on Trust in Traditional Leaders
+
+### [The Long-Term Effects of British and French Colonization in Africa on Trust in Traditional Leaders](https://arxiv.org/abs/2608.17436v1)
+*Brice Romuald Gueyap Kounga* — **arxiv**, 2026-08-18 — _International Economics, Political Economy, Public Economics_
+
+Trust in local institutions matters for trade, public goods provision, conflict resolution, and democratic consolidation. Using individual data from rounds 6 and 7 of the Afrobarometer surveys, I document that respondents in former British colonies are substantially more likely to trust traditional leaders than respondents in former French colonies. Cross-country comparisons of this kind are confounded by unobserved heterogeneity in pre- and post-colonial histories. To make progress on identification, I focus on Cameroon, which contains regions colonized by Britain and regions colonized by Fra...
 
 ---
