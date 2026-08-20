@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-08-19
+# Economics Research Digest — 2026-08-20
 
 Window: last **30 days** · 30 papers across 8 fields · drawn from 1 sources.
 
@@ -123,6 +123,15 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Can Small Businesses Survive Chapter 11?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R)
+*EDITH HOTCHKISS, 
+BENJAMIN IVERSON, 
+XIANG ZHENG* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
 BENJAMIN LESTER, 
@@ -240,14 +249,6 @@ The Journal of Finance, EarlyView.
 JOHN Y. CAMPBELL, 
 FRANCISCO GOMES, 
 PAOLO SODINI* — **Journal of Finance**, 2026-07-24 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [Do Equity and Options Markets Agree about Volatility?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R)
-*CARSTEN H. CHONG, 
-VIKTOR TODOROV* — **Journal of Finance**, 2026-07-23 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 

@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-19
+# Weekly Deep-Reading Queue — week of 2026-08-20
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -43,7 +43,18 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Sequential Search for Corporate Bonds
+## 5. Can Small Businesses Survive Chapter 11?
+
+### [Can Small Businesses Survive Chapter 11?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R)
+*EDITH HOTCHKISS, 
+BENJAMIN IVERSON, 
+XIANG ZHENG* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 6. Sequential Search for Corporate Bonds
 
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
@@ -55,7 +66,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Personal Costs of Executive Turnovers
+## 7. Personal Costs of Executive Turnovers
 
 ### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
 *KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
@@ -64,20 +75,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements
+## 8. Conformity Traps and the Formation of Independent Judgment
 
-### [Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements](https://arxiv.org/abs/2608.17766v1)
-*Jobst Heitzig* — **arxiv**, 2026-08-18 — _Unclassified_
+### [Conformity Traps and the Formation of Independent Judgment](https://arxiv.org/abs/2608.18981v1)
+*Hector Galindo-Silva* — **arxiv**, 2026-08-19 — _Health, Education & Welfare_
 
-We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff sharing follow Heitzig and Kornek (2018): a state is a hierarchy of nested agreements; agreements are formed by merging existing top-level coalitions, and are terminated together with all agreements containing them; and the members of a new agreement share the surplus it generates, measured against the state without that a...
-
----
-
-## 8. Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
-
-### [Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use](https://arxiv.org/abs/2608.17624v1)
-*Jorge Fábrega* — **arxiv**, 2026-08-18 — _Unclassified_
-
-Delegating cognitive operations to generative artificial intelligence redistributes execution and raises a governance problem: where human direction of the task remains. We distinguish two routes. Specified delegation places that direction before execution, through instructions, constraints, or criteria that delimit the task. Iterative coproduction places it during production, through interventions that correct or redirect provisional outputs. To examine both routes, we use aggregate monthly cells from the Anthropic Economic Index for April and May 2026. The AEI distinguishes two modes of use:...
+I study why some groups---polities and organizations alike---sustain independent judgment while others fall into conformity traps. Social approval can suppress not only the expression of independent judgment but also the upstream practice that keeps such judgment available: maintaining judgment generates visible questioning, and observers cannot distinguish diligence from opposition. Because suspicion falls when questioning is common, the same desire for approval can sustain a questioning culture or a conformity trap. The model separates maintaining judgment from acting on it when novelty arri...
 
 ---
