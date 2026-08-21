@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-20
+# Weekly Deep-Reading Queue — week of 2026-08-21
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -75,11 +75,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Conformity Traps and the Formation of Independent Judgment
+## 8. Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models
 
-### [Conformity Traps and the Formation of Independent Judgment](https://arxiv.org/abs/2608.18981v1)
-*Hector Galindo-Silva* — **arxiv**, 2026-08-19 — _Health, Education & Welfare_
+### [Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models](https://arxiv.org/abs/2608.19634v1)
+*Masahiro Tanaka* — **arxiv**, 2026-08-20 — _Unclassified_
 
-I study why some groups---polities and organizations alike---sustain independent judgment while others fall into conformity traps. Social approval can suppress not only the expression of independent judgment but also the upstream practice that keeps such judgment available: maintaining judgment generates visible questioning, and observers cannot distinguish diligence from opposition. Because suspicion falls when questioning is common, the same desire for approval can sustain a questioning culture or a conformity trap. The model separates maintaining judgment from acting on it when novelty arri...
+Moment restrictions provide a flexible basis for quasi-Bayesian inference when a full likelihood is unavailable, but the weighting matrix in a quadratic moment criterion determines both the relative importance of the moments and the information scale of posterior updating. We propose curvature-calibrated quasi-Bayesian updating, which uses the inverse of the covariance (or long-run covariance) of the moment conditions evaluated at a self-consistent quasi-posterior center. The resulting fixed-point procedure alternates between covariance estimation and simulation from a fixed-weight quasi-poste...
 
 ---
