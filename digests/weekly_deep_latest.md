@@ -32,7 +32,28 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Marginal Q
+## 4. Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices
+
+### [Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R)
+*JESS BENHABIB, 
+ZHAORUI LI, 
+XUEWEN LIU, 
+PENGFEI WANG* — **Journal of Finance**, 2026-08-22 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 5. The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance
+
+### [The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075?af=R)
+*MARINA GERTSBERG* — **Journal of Finance**, 2026-08-21 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 6. Marginal Q
 
 ### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
 *VITO D. GALA, 
@@ -43,7 +64,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Can Small Businesses Survive Chapter 11?
+## 7. Can Small Businesses Survive Chapter 11?
 
 ### [Can Small Businesses Survive Chapter 11?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R)
 *EDITH HOTCHKISS, 
@@ -54,7 +75,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Sequential Search for Corporate Bonds
+## 8. Sequential Search for Corporate Bonds
 
 ### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
 *MAHYAR KARGAR, 
@@ -63,23 +84,5 @@ SÉBASTIEN PLANTE,
 PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-08-11 — _Unclassified_
 
 The Journal of Finance, EarlyView.
-
----
-
-## 7. Personal Costs of Executive Turnovers
-
-### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
-*KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models
-
-### [Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models](https://arxiv.org/abs/2608.19634v1)
-*Masahiro Tanaka* — **arxiv**, 2026-08-20 — _Unclassified_
-
-Moment restrictions provide a flexible basis for quasi-Bayesian inference when a full likelihood is unavailable, but the weighting matrix in a quadratic moment criterion determines both the relative importance of the moments and the information scale of posterior updating. We propose curvature-calibrated quasi-Bayesian updating, which uses the inverse of the covariance (or long-run covariance) of the moment conditions evaluated at a self-consistent quasi-posterior center. The resulting fixed-point procedure alternates between covariance estimation and simulation from a fixed-weight quasi-poste...
 
 ---

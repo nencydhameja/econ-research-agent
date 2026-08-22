@@ -23,15 +23,6 @@ Econometrica, Volume 94, Issue 4, Page 1061-1093, July 2026.
 
 ---
 
-### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
-*CHEN LIN, 
-THOMAS SCHMID, 
-MICHAEL S. WEISBACH* — **Journal of Finance**, 2026-07-24 — _Agricultural & Environmental Economics_
-
-The Journal of Finance, EarlyView.
-
----
-
 ## Business Economics & Innovation
 
 ### [Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110?af=R)
@@ -113,6 +104,23 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ## Unclassified
+
+### [Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R)
+*JESS BENHABIB, 
+ZHAORUI LI, 
+XUEWEN LIU, 
+PENGFEI WANG* — **Journal of Finance**, 2026-08-22 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075?af=R)
+*MARINA GERTSBERG* — **Journal of Finance**, 2026-08-21 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
 *VITO D. GALA, 
@@ -239,16 +247,6 @@ Econometrica, Volume 94, Issue 4, Page 1345-1373, July 2026.
 ### [Dynamic Self‐Fulfilling Fire Sales](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R)
 *PAYMON KHORRAMI, 
 FERNANDO MENDO* — **Journal of Finance**, 2026-07-28 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [The Cross‐Section of Household Preferences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R)
-*LAURENT E. CALVET, 
-JOHN Y. CAMPBELL, 
-FRANCISCO GOMES, 
-PAOLO SODINI* — **Journal of Finance**, 2026-07-24 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
