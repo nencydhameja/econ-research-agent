@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-26
+# Weekly Deep-Reading Queue — week of 2026-08-27
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -54,29 +54,29 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. How does hazard exposure influence job choice? Evaluating time-dependent tradeoffs between salary and hazard risks
+## 6. The Reverse Big Push: Generative AI and Self-Fulfilling Automation
 
-### [How does hazard exposure influence job choice? Evaluating time-dependent tradeoffs between salary and hazard risks](https://arxiv.org/abs/2608.24811v1)
-*Richard Bernknopf, Leila Gonzales, Christpher Keane* — **arxiv**, 2026-08-25 — _Agricultural & Environmental Economics, Labor & Demographic Economics, Law & Economics, Microeconomics_
+### [The Reverse Big Push: Generative AI and Self-Fulfilling Automation](https://arxiv.org/abs/2608.25602v1)
+*Soumen Banerjee, Jianguo Wang* — **arxiv**, 2026-08-26 — _Labor & Demographic Economics_
 
-Natural hazards are a nonmarket disamenity that affects an individual's search for employment resulting in a negative environmental impact that produces an economic inefficiency. We develop a seek-and-screen job search approach that uses a discrete choice simulation to examine how salary, crime, and natural hazard risk influence job choice. We model the job decision process as a series of elimination events using a Cox hazard model grounded in a Random Utility Model. We use data from the discrete choice simulation to estimate both a standard proportional hazards model and an extended specifica...
-
----
-
-## 7. Dynamic Discrete Choice and Inverse Reinforcement Learning: Inferring Preferences and Beliefs From Human Behavior
-
-### [Dynamic Discrete Choice and Inverse Reinforcement Learning: Inferring Preferences and Beliefs From Human Behavior](https://arxiv.org/abs/2608.24362v1)
-*Pranjal Rawat, John Rust* — **arxiv**, 2026-08-25 — _Econometrics & Methods, method:Machine Learning, method:Structural_
-
-This article surveys two deeply connected literatures that approach the same fundamental problem from different disciplinary traditions: dynamic discrete choice (DDC) in structural econometrics and inverse reinforcement learning (IRL) in machine learning. Both seek to infer the preferences of decision makers from observed sequential behavior, assuming that individuals act to maximize an expected reward function within a dynamic, uncertain environment formalized as a Markov decision process (MDP). Despite independent origins, the two fields have converged on similar mathematical formulations. W...
+Generative AI relocates the fixed cost of automation. A model provider pays to train a frontier system, while a downstream firm rents capability by usage; the same firm must carry a continuing payroll to supply a human-augmented service. We study this asymmetry in a local service economy with household budgets and a market-clearing wage. Human augmentation earns a larger surplus from an additional customer, whereas automation has the lower break-even scale. Payroll supports demand across sectors. Wage adjustment works against this feedback but does not generally undo it: when the wage-income e...
 
 ---
 
-## 8. Systematic Bias in Green Patent Classification: Silent Green and False Green
+## 7. Alpha Without Access: Execution Constraints in a Bonding-Curve Market
 
-### [Systematic Bias in Green Patent Classification: Silent Green and False Green](https://arxiv.org/abs/2608.23420v2)
-*Hamid Bekamiri, Jan Auernhammer, Milad Abbasiharofteh, Jesper Lindgaard Christensen* — **arxiv**, 2026-08-24 — _Agricultural & Environmental Economics, Business Economics & Innovation_
+### [Alpha Without Access: Execution Constraints in a Bonding-Curve Market](https://arxiv.org/abs/2607.02795)
+*Brad M Lindsey* — **openalex ssrn**, 2026-08-26 — _Unclassified_
 
-Green-patent indicators based on Cooperative Patent Classification Y02 tags increasingly inform research, industrial policy, and climate-oriented investment, yet their construct validity has not been evaluated at corpus scale. We ask whether Y02 classification errors are random measurement noise or systematic, direction-specific bias. We introduce an Error-as-Signal framework in which disagreement between an administrative label and an independent model is treated as evidence of potential measurement error. Screening 9,075,421 USPTO granted patents from 1962-2024 with a fine-tuned domain model...
+We report a market in which a positive return is visible in prices yet cannot be realized by a fixed trading policy, and we measure why. On a frozen set of 1,220 tokens approaching the pump.fun graduation boundary, a counterfactual buy that ignores the execution race shows a median gross return of +8.5% to +17.45%. Access to that return disappears within seconds: 69.0% of tokens are unreachable at the earliest resolvable state and 89.7% by eight seconds, a collapse reconstructed exactly from graduation timing. Granting the policy zero cost and entry-state pricing — a conditional optimistic bou...
+
+---
+
+## 8. Normative boundaries of AI in scientific work: Evidence from PhD researchers
+
+### [Normative boundaries of AI in scientific work: Evidence from PhD researchers](https://arxiv.org/abs/2608.25678v1)
+*Francesco Angelini, Johan Lyrvall* — **arxiv**, 2026-08-26 — _Health, Education & Welfare_
+
+Artificial intelligence (AI) is increasingly embedded in scientific work, but researchers may not evaluate its use uniformly across research tasks. This study examines task-specific attitudes towards AI among an international, self-selected sample of 3,785 PhD students in STEM and medical and health sciences who participated in Nature's Graduate Survey 2025. We analyse respondents' comfort with using AI for writing a research article, collecting and analysing data, designing experiments, tracking scientific literature, and summarising it. Latent class analysis identifies four distinct attitudi...
 
 ---
