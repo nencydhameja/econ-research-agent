@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-08-27
+# Economics Research Digest — 2026-08-28
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -25,6 +25,20 @@ Econometrica, Volume 94, Issue 4, Page 1061-1093, July 2026.
 
 ## Business Economics & Innovation
 
+### [Sophistication in GenAI Use: Field Evidence from a Large Firm](https://arxiv.org/abs/2608.27364v1)
+*Nicholas J. Hallman, Zachary T. Kowaleski, Anu Puvvada, Jaime J. Schmidt* — **arxiv**, 2026-08-27 — _Business Economics & Innovation_
+
+We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding large language model responses from nearly 4,000 back-office employees across 15 functional areas over eight months in 2025. We document three main findings. First, senior employees exhibit more sophisticated genAI use, consistent with domain expertise complementing genAI capabilities. Second, sophistication varies considerably across functions and is highest in Strategy, Digital Innovation, and Proj...
+
+---
+
+### [Inference for High-Dimensional Network Data](https://arxiv.org/abs/2608.26522v1)
+*Yuya Sasaki, Baoning Zheng* — **arxiv**, 2026-08-27 — _Business Economics & Innovation_
+
+We develop a novel method of inference for network-dependent high-dimensional random vectors. Dependence is characterized via a functional dependence measure based on graph distance, allowing the approximation theory to capture the interaction between the decay of dependence and the growth of network neighborhoods. We establish Gaussian approximation results for the maximum norm under finite-moment and sub-Weibull conditions, providing explicit conditions under which the dimension may increase with the network size. We also propose a high-dimensional network HAC covariance estimator and establ...
+
+---
+
 ### [Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110?af=R)
 *Zhang Chen* — **Econometrica**, 2026-07-29 — _Business Economics & Innovation_
 
@@ -33,6 +47,13 @@ Econometrica, Volume 94, Issue 4, Page 1375-1408, July 2026.
 ---
 
 ## Econometrics & Methods
+
+### [DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics](https://arxiv.org/abs/2608.26584v1)
+*Yizhi Liu, Balaji Padmanabhan, Siva Viswanathan* — **arxiv**, 2026-08-27 — _Econometrics & Methods, method:Machine Learning_
+
+Which visual choices make a post perform better? A growing literature answers this question with pooled coefficients estimated across many creators, which platforms translate into creative recommendations. We show that these coefficients blend two distinct patterns that can point in opposite directions for the same attribute. The first, audience preference, arises because creators who favor a style attract differently composed audiences, so their posts perform differently because of who is watching, not what any single post does. The second, creative effect, captures how a creator's audience r...
+
+---
 
 ### [Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23174?af=R)
 *Manu Navjeevan, 
@@ -66,10 +87,12 @@ Econometrica, Volume 94, Issue 4, Page 1135-1170, July 2026.
 
 ---
 
-### [The Dynamic Trade-Off of Dual-Class Shares](https://arxiv.org/abs/2608.25972v1)
-*Hyunseob Kim, Doron Levit, Roni Michaely* — **arxiv**, 2026-08-26 — _International Economics, Political Economy, method:DiD_
+## Labor & Demographic Economics
 
-Dual-class shares allocate control to founders whose firm-specific investments drive firm value but separate control from ownership, raising agency costs. We analyze this trade-off dynamically. Using new data on US dual-class firms spanning 52 years and difference-in-differences designs, we show that valuations rise following dual-class recapitalizations but decline over time, whereas innovative output increases persistently. These effects are concentrated in industries with greater firm-specific investments. We find corresponding results for stock unifications. Investment by mature dual-class...
+### [The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads](https://arxiv.org/abs/2608.26924v1)
+*Qin Chen, Ying Fang, Xiangyu Wang, Leo Yang Yang* — **arxiv**, 2026-08-27 — _Labor & Demographic Economics_
+
+How do we define an occupation? By its job title? An accountant at a small trading company keeps the books; at a listed firm the same title demands a certified-accountant licence, and the week goes to the reports that regulators and the board read. Same title, different bar, different work. What defines an occupation is who it lets in and what it asks them to do. In a rapidly changing labor market, tracking those requirements and tasks is how to take the market's pulse. Yet no instrument reads both at the speed they change. Official occupational directories like O*NET report one national avera...
 
 ---
 
@@ -91,13 +114,6 @@ Journal of Political Economy, Ahead of Print.
 
 ### [Markups: A Search-Theoretic Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R)
 *Guido MenzioNew York University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-07-31 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
-### [Optimal Tests Following Sequential Experiments](https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R)
-*Karun AdusumilliUniversity of Pennsylvania* — **Journal of Political Economy**, 2026-07-29 — _Political Economy_
 
 Journal of Political Economy, Ahead of Print.
 
@@ -165,6 +181,27 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Strategy-Proof and Minimally Wasteful Random Assignment](https://arxiv.org/abs/2608.27261v1)
+*Christian Basteck, Lars Ehlers* — **arxiv**, 2026-08-27 — _Unclassified_
+
+We study random assignment of indivisible objects among a set of agents with strict preferences and outside options. When agents may rank some objects as unacceptable, we consider different notions of measuring waste of object(s) from an ex-ante perspective. The most natural one is $q$-agent-object-waste whereby both one agent and one of his acceptable objects are unassigned with at least probability $q$. On the one hand, we show that any mechanism satisfying equal treatement of almost equals (whereby any two agents with identical rankings over objects receive the same probability shares for o...
+
+---
+
+### [Nonparametric Identification of Two-Way Unobserved Heterogeneity](https://arxiv.org/abs/2608.27155v1)
+*Hugo Freeman, Dennis Kristensen* — **arxiv**, 2026-08-27 — _Unclassified_
+
+We study identification of two-way unobserved heterogeneity in the nonparametric panel regression $G_{it}=g(α_i,γ_t)+\varepsilon_{it}$, where identification of the latent types reduces to constructing identified, \emph{injective} proxies for them. To this end we consider the singular value decomposition (SVD) of the bivariate regression function $g(α,γ)$ on a product domain $Ω_α\timesΩ_γ$, whose left singular functions $\{u_r\}$ serve as proxies for the unobserved heterogeneity parameter $α$. The arguments are symmetric for $\{v_r\}$ vis-à-vis $γ$. We work under an \emph{observational-equivale...
+
+---
+
+### [Analyzing Within-Subject Experiments: Identification, Testing, and Sensitivity](https://arxiv.org/abs/2608.26606v1)
+*Shiyao Liu, Junni L. Zhang* — **arxiv**, 2026-08-27 — _Unclassified_
+
+Recent work encourages political scientists to move from post-only toward within-subject designs for improved precision from repeated measurements. We formalize a potential-outcomes framework for two-period within-subject designs that allows for unequal allocation and heterogeneous treatment and carryover effects. We characterize the pooled estimator and evaluate the carryover test used to justify pooling. We find: first, pooling identifies the average treatment effect only when the gap in the average carryover effects is zero across the two treatment sequences. The unit-clustered standard err...
+
+---
+
 ### [Backmatter of Econometrica Vol. 94 Iss. 4](https://onlinelibrary.wiley.com/doi/10.3982/ECTA944BM?af=R)
 ** — **Econometrica**, 2026-07-29 — _Unclassified_
 
@@ -206,48 +243,6 @@ Econometrica, Volume 94, Issue 4, Page 1449-1485, July 2026.
 *Christian Cox* — **Econometrica**, 2026-07-29 — _Unclassified_
 
 Econometrica, Volume 94, Issue 4, Page 1209-1243, July 2026.
-
----
-
-### [Dynamic Screening of Buyers With Heterogeneous Purchase Frequency](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23049?af=R)
-*Johannes Hörner, 
-Anna Sanktjohanser* — **Econometrica**, 2026-07-29 — _Unclassified_
-
-Econometrica, Volume 94, Issue 4, Page 1245-1278, July 2026.
-
----
-
-### [The Inference‐Forecast Gap in Belief Updating](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23334?af=R)
-*Tony Q. Fan, 
-Yucheng Liang, 
-Cameron Peng* — **Econometrica**, 2026-07-29 — _Unclassified_
-
-Econometrica, Volume 94, Issue 4, Page 1279-1312, July 2026.
-
----
-
-### [Double Robustness of Local Projections and Some Unpleasant VARithmetic](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23345?af=R)
-*José Luis Montiel Olea, 
-Mikkel Plagborg‐Møller, 
-Eric Qian, 
-Christian K. Wolf* — **Econometrica**, 2026-07-29 — _Unclassified_
-
-Econometrica, Volume 94, Issue 4, Page 1313-1343, July 2026.
-
----
-
-### [The Class Gap in Career Progression: Evidence From U.S. Academia](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23358?af=R)
-*Anna Stansbury, 
-Kyra Rodriguez* — **Econometrica**, 2026-07-29 — _Unclassified_
-
-Econometrica, Volume 94, Issue 4, Page 1345-1373, July 2026.
-
----
-
-### [Potentials and Weak Potentials in Acyclic and Weakly Acyclic Games](https://arxiv.org/abs/2608.25966v1)
-*Igal Milchtaich* — **arxiv**, 2026-08-26 — _Unclassified_
-
-In a number of large, important families of finite games, not only is the set of pure-strategy Nash equilibria nonempty but it is also reachable from any initial strategy profile by some sequence of myopic single-player moves to a better or best-reply strategy. This weak acyclicity property is weaker than acyclicity of the game, which requires every such sequence to reach an equilibrium. For example, all perfect-information extensive-form games are weakly acyclic, but they are generally not acyclic as even sequences of best-improvement steps may cycle. Weak acyclicity is equivalent to acyclici...
 
 ---
 
