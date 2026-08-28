@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-08-28
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -239,13 +239,6 @@ Econometrica, Volume 94, Issue 4, Page 1449-1485, July 2026.
 
 ---
 
-### [The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22979?af=R)
-*Christian Cox* — **Econometrica**, 2026-07-29 — _Unclassified_
-
-Econometrica, Volume 94, Issue 4, Page 1209-1243, July 2026.
-
----
-
 ## method:Field Experiment
 
 ### [Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R)
@@ -253,5 +246,14 @@ Econometrica, Volume 94, Issue 4, Page 1209-1243, July 2026.
 Ariel Zucker* — **Econometrica**, 2026-07-29 — _method:Field Experiment, method:Theory_
 
 Econometrica, Volume 94, Issue 4, Page 1409-1448, July 2026.
+
+---
+
+## method:Theory
+
+### [Numerical certificates for The Endogeneity of Miscalibration](https://arxiv.org/abs/2605.07671)
+*Lauri Lovén, Sasu Tarkoma* — **openalex ssrn**, 2026-08-27 — _method:Theory_
+
+Independent machine checks of the computed claims in The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting (Lovén and Tarkoma). Five floating-point instance and property suites cover the tilt identity, the comparative statics, attainment of first-best screening by the Bregman ramp, both directions of the critical-slope threshold on named and randomly generated admissible generators, and the cubic welfare law below that threshold. A sixth suite recomputes every numeral printed in the paper as a rigorous enclosure in Arb ball arithmetic at 300-bit precision. Nothing is ...
 
 ---
