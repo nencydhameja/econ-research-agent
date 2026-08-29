@@ -63,20 +63,20 @@ Which visual choices make a post perform better? A growing literature answers th
 
 ---
 
-## 7. Strategy-Proof and Minimally Wasteful Random Assignment
+## 7. Thomson: Continual Learning of Frontier Models for SovereignAI
 
-### [Strategy-Proof and Minimally Wasteful Random Assignment](https://arxiv.org/abs/2608.27261v1)
-*Christian Basteck, Lars Ehlers* — **arxiv**, 2026-08-27 — _Unclassified_
+### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://doi.org/10.48550/arxiv.2608.27147)
+*Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
 
-We study random assignment of indivisible objects among a set of agents with strict preferences and outside options. When agents may rank some objects as unacceptable, we consider different notions of measuring waste of object(s) from an ex-ante perspective. The most natural one is $q$-agent-object-waste whereby both one agent and one of his acceptable objects are unassigned with at least probability $q$. On the one hand, we show that any mechanism satisfying equal treatement of almost equals (whereby any two agents with identical rankings over objects receive the same probability shares for o...
+The development of frontier models is commonly perceived to be the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between developers and the diverse user base of modern AI. Recent public discourse acknowledges this concern, calling for SovereignAI (an organisation's capability to independently build, deploy and govern AI use), but offers little concrete advice on how this can be achieved in the short term under a diversity of funding settings. We argue that frontier performance is achievable by a wide range of institutions thr...
 
 ---
 
-## 8. The Reverse Big Push: Generative AI and Self-Fulfilling Automation
+## 8. Interpretable hybrid credit scoring for thin-file and underbanked populations
 
-### [The Reverse Big Push: Generative AI and Self-Fulfilling Automation](https://arxiv.org/abs/2608.25602v1)
-*Soumen Banerjee, Jianguo Wang* — **arxiv**, 2026-08-26 — _Labor & Demographic Economics_
+### [Interpretable hybrid credit scoring for thin-file and underbanked populations](https://doi.org/10.48550/arxiv.2608.26837)
+*Belise Kanziga, Yaé U. Gaba, Olivier Kanamugire* — **openalex ssrn**, 2026-08-27 — _Urban, Rural & Regional Economics_
 
-Generative AI relocates the fixed cost of automation. A model provider pays to train a frontier system, while a downstream firm rents capability by usage; the same firm must carry a continuing payroll to supply a human-augmented service. We study this asymmetry in a local service economy with household budgets and a market-clearing wage. Human augmentation earns a larger surplus from an additional customer, whereas automation has the lower break-even scale. Payroll supports demand across sectors. Wage adjustment works against this feedback but does not generally undo it: when the wage-income e...
+We extend a residual-learning hybrid credit scoring framework (logistic regression scorecard plus a gradient-boosting correction on its residuals, decomposed at each prediction into an interpretability ratio $ρ(x)$ that measures the share attributable to the linear branch) along three axes: an East African empirical instantiation on the Zindi Financial Inclusion in Africa data (Kenya, Rwanda, Tanzania, Uganda); a fairness audit at the granularity of the framework's three interpretability regions; and a thin-file segmentation analysis. On the Taiwan Credit Default benchmark retained for continu...
 
 ---

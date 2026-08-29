@@ -1,13 +1,20 @@
 # Economics Research Digest — 2026-08-29
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Social Network Structure, Wealth, and Wealth Inequality Across Cultures](https://arxiv.org/abs/2608.25488v1)
-*Eleanor A. Power, Monique Borgerhoff Mulder, Samuel Bowles, Matthew O. Jackson et al.* — **arxiv**, 2026-08-26 — _Agricultural & Environmental Economics, Health, Education & Welfare_
+### [Threshold Pricing for Distributed Scheduling of Flexible Demands in Energy Communities](https://doi.org/10.48550/arxiv.2608.27174)
+*Min-Jae Jeon, Lang Tong, Qing Zhao* — **openalex ssrn**, 2026-08-27 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
 
-Despite theory tying wealth inequality to social structure, empirical evidence has been limited to a few studies based on online social media data. This study uses a very different type of data, expands the global coverage to very different types of societies, and investigates new questions. In particular, we collect data from ~3500 sharing units (households) in 46 communities across the globe, representing considerable human social and cultural diversity. In each, we analyze the relationship between people's material wealth and the structure of social networks: borrowing money, sharing food, ...
+This paper develops a price-based distributed scheduling in an energy community whose members own behind-the-meter renewable generation with deferrable EV charging and price-elastic thermostatic loads. A coordinator transacts with the distribution utility under a Net Energy Metering tariff and broadcasts a community price to which each household responds in its own interest, giving a bilevel stochastic dynamic program that is intractable in general. Our main result characterizes that the joint optimal centralized policy is a two-threshold policy on the community's aggregate renewable generatio...
+
+---
+
+### [Profit based evaluation of machine learning for nitrogen recommendations in winter wheat](https://doi.org/10.48550/arxiv.2608.27205)
+*Xulong Wang, Po Yang* — **openalex ssrn**, 2026-08-27 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
+
+Nitrogen rates for winter wheat are set before the season, under unknown prices and weather. The standard UK advice does not respond to prices, yet recent price swings moved the most profitable rate by tens of kilograms per hectare. Machine learning is often proposed as the fix. However, it is usually judged on prediction accuracy, and accurate prediction does not by itself make the recommended rate more profitable. Our insight is to score nitrogen advice directly by the profit it forgoes on measured yield response curves. We build a test bench on 892 such curves from two long running UK exper...
 
 ---
 
@@ -27,10 +34,17 @@ We develop a novel method of inference for network-dependent high-dimensional ra
 
 ---
 
-### [Cross-Section Estimation of Long-Run Relations Using Time-Compressed Data](https://arxiv.org/abs/2608.25901v1)
-*Serena Ng, Nikolay Gospodinov* — **arxiv**, 2026-08-26 — _Business Economics & Innovation, Macroeconomics_
+### [Expected Shortfall Model Averaging](https://doi.org/10.48550/arxiv.2608.26805)
+*Jianming Wu, Xinyu Zhang, Jie Zeng* — **openalex ssrn**, 2026-08-27 — _Business Economics & Innovation_
 
-Many empirical investigations of long-run relations are based on cross-section regressions in averaged or long differenced data that effectively have the time dimension of a $T\times N$ panel compressed. We analyze a class of time-compressed I(1) data and show that they have magnified variability stemming from the fact that the cross-section variance of a non-stationary panel `fans out' with time. Cross-section regressions in time compressed data can potentially yield estimates that are super-consistent and asymptotically normal, whether the regressors are stationary, non-stationary, or highly...
+Expected shortfall (ES) is widely used to measure tail risk in finance and economics, but its prediction is challenging due to non-elicitability and model uncertainty. This paper proposes a two-stage cross-validation model averaging method for ES forecasting. In the first stage, conditional value-at-risk is estimated using quantile model averaging. In the second stage, a transformed response is constructed and mean squared error-based model averaging is applied to estimate ES. We establish theoretical properties of the proposed method under both correct specification and model misspecification...
+
+---
+
+### [Traveling Waves in Equity Markets with Rank-Based Entry and Exit](https://doi.org/10.48550/arxiv.2608.27156)
+*Graeme Baker, Caroline Smyth* — **openalex ssrn**, 2026-08-27 — _Business Economics & Innovation_
+
+We model equity markets using geometric Brownian particles entering and exiting at rank-dependent intensities. In the many-firm limit, the capital distribution converges to the solution of a reaction-diffusion equation with reaction term built from the intensities. Calibrated on CRSP data, the reaction term is bistable, and the long-run distribution is a traveling wave: we prove existence, uniqueness, and, for constant coefficients, exponential relaxation. Turnover, not drift, stabilizes the calibrated market. With measured volatility, the wave tracks the empirical capital distribution in ever...
 
 ---
 
@@ -55,19 +69,12 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Normative boundaries of AI in scientific work: Evidence from PhD researchers](https://arxiv.org/abs/2608.25678v1)
-*Francesco Angelini, Johan Lyrvall* — **arxiv**, 2026-08-26 — _Health, Education & Welfare_
-
-Artificial intelligence (AI) is increasingly embedded in scientific work, but researchers may not evaluate its use uniformly across research tasks. This study examines task-specific attitudes towards AI among an international, self-selected sample of 3,785 PhD students in STEM and medical and health sciences who participated in Nature's Graduate Survey 2025. We analyse respondents' comfort with using AI for writing a research article, collecting and analysing data, designing experiments, tracking scientific literature, and summarising it. Latent class analysis identifies four distinct attitudi...
-
----
-
 ## International Economics
 
-### [The Dynamic Trade-Off of Dual-Class Shares](https://arxiv.org/abs/2608.25972v1)
-*Hyunseob Kim, Doron Levit, Roni Michaely* — **arxiv**, 2026-08-26 — _International Economics, Political Economy, method:DiD_
+### [Emotional Preferences as Goal-Priority Regulation](https://doi.org/10.48550/arxiv.2608.27072)
+*Shiqi Liu, Yihua Tan, Hu Fu, Guanyu Qi* — **openalex ssrn**, 2026-08-27 — _International Economics, Law & Economics_
 
-Dual-class shares allocate control to founders whose firm-specific investments drive firm value but separate control from ownership, raising agency costs. We analyze this trade-off dynamically. Using new data on US dual-class firms spanning 52 years and difference-in-differences designs, we show that valuations rise following dual-class recapitalizations but decline over time, whereas innovative output increases persistently. These effects are concentrated in industries with greater firm-specific investments. We find corresponding results for stock unifications. Investment by mature dual-class...
+A core question in decision-making for agents is whether the relative priorities of competing lower-level objectives can be determined by emotional preferences autonomously generated by higher-level goals, rather than being externally prespecified. Under changing external environments and evolving internal states, emotions play an important functional role in regulating the relative priorities of competing goals. Inspired by the goal-directed theory of emotion, this paper studies how such preference regulation can be computationally realized through reinforcement learning. We first propose a c...
 
 ---
 
@@ -80,10 +87,12 @@ How do we define an occupation? By its job title? An accountant at a small tradi
 
 ---
 
-### [The Reverse Big Push: Generative AI and Self-Fulfilling Automation](https://arxiv.org/abs/2608.25602v1)
-*Soumen Banerjee, Jianguo Wang* — **arxiv**, 2026-08-26 — _Labor & Demographic Economics_
+## Law & Economics
 
-Generative AI relocates the fixed cost of automation. A model provider pays to train a frontier system, while a downstream firm rents capability by usage; the same firm must carry a continuing payroll to supply a human-augmented service. We study this asymmetry in a local service economy with household budgets and a market-clearing wage. Human augmentation earns a larger surplus from an additional customer, whereas automation has the lower break-even scale. Payroll supports demand across sectors. Wage adjustment works against this feedback but does not generally undo it: when the wage-income e...
+### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://doi.org/10.48550/arxiv.2608.27147)
+*Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
+
+The development of frontier models is commonly perceived to be the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between developers and the diverse user base of modern AI. Recent public discourse acknowledges this concern, calling for SovereignAI (an organisation's capability to independently build, deploy and govern AI use), but offers little concrete advice on how this can be achieved in the short term under a diversity of funding settings. We argue that frontier performance is achievable by a wide range of institutions thr...
 
 ---
 
@@ -193,42 +202,42 @@ Recent work encourages political scientists to move from post-only toward within
 
 ---
 
-### [Potentials and Weak Potentials in Acyclic and Weakly Acyclic Games](https://arxiv.org/abs/2608.25966v1)
-*Igal Milchtaich* — **arxiv**, 2026-08-26 — _Unclassified_
+### [Institutional Representation ABM: Parliamentary, Presidential, and Semi-Presidential Legislative Passage](https://arxiv.org/abs/2608.24554)
+*Fuad Ali* — **openalex ssrn**, 2026-08-27 — _Unclassified_
 
-In a number of large, important families of finite games, not only is the set of pure-strategy Nash equilibria nonempty but it is also reachable from any initial strategy profile by some sequence of myopic single-player moves to a better or best-reply strategy. This weak acyclicity property is weaker than acyclicity of the game, which requires every such sequence to reach an equilibrium. For example, all perfect-information extensive-form games are weakly acyclic, but they are generally not acyclic as even sequences of best-improvement steps may cycle. Weak acyclicity is equivalent to acyclici...
-
----
-
-### [Efficient tensor bases for pairwise comparisons](https://arxiv.org/abs/2608.25923v1)
-*Konrad Kułakowski, Ryszard Smarzewski* — **arxiv**, 2026-08-26 — _Unclassified_
-
-In this study, we construct the first orthogonal basis for additively consistent subspace in pairwise comparisons theory. This construction is based on our representation of additively consistent best approximations of skew-symmetric matrices with respect to a tensor basis having minimal support. The orthogonal basis establishes the logarithmic consistent projection for the orthogonal windowing of pairwise comparisons matrices. It is compared with the windowing of the Saaty and SVD types. These comparisons resulted in new composite formulae for logarithmic, Saaty, and SVD projections. The theo...
+An agent-based model comparing four democratic legislative institutions (pure parliamentary, pure republican/presidential, premier-presidential, president-parliamentary) on their ability to pass legislation, represent constituencies, and remain operational under party-system fragmentation and ideological polarisation. Includes a full statistical harness: N=200 seed multiseed comparison with bootstrap confidence intervals, Morris and Sobol sensitivity analyses, mechanism ablations, hung-parliament decomposition, and clustered-initialisation robustness checks. Companion code for arXiv:2608.24554...
 
 ---
 
-### [SAUSS: Stochastic Approximation with Unbiased Simulated Scores for Limited Dependent Variable Models](https://arxiv.org/abs/2608.25304v1)
-*Sokbae Lee, Yuan Liao, Myung Hwan Seo, Youngki Shin* — **arxiv**, 2026-08-26 — _Unclassified_
+### [TTPO: Test-Time Policy Optimization](https://doi.org/10.48550/arxiv.2608.27448)
+*Aozhe Wang, Zhengxi Lu, Jianze Wang, Shangke Lv et al.* — **openalex ssrn**, 2026-08-27 — _Unclassified_
 
-Multinomial choice models allow flexible substitution patterns but become computationally demanding with many alternatives or observations. With a fixed per-observation simulation budget, simulated maximum likelihood introduces simulation bias, while each optimization step requires a full-sample likelihood evaluation. We propose Stochastic Approximation with Unbiased Simulated Scores (SAUSS), an averaged stochastic approximation based on conditionally unbiased mini-batch score estimates. Each iteration uses a fixed mini-batch regardless of sample size. For multinomial probit, accept-reject sam...
+Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels precludes test-time training (TTT). Replacing ground truth with majority-vote pseudo-labels is a natural alternative, yet it is fragile: an incorrect vote corrupts the teacher and misleads every token. We observe that this failure mode is asymmetric: rollouts that disagree with the pseudo-label are typically wrong regardless of whether the vote itself is corre...
+
+---
+
+### [Closing the gap and settling the problem of queens on an $n\times n$ board, each attacking at most one other](https://doi.org/10.48550/arxiv.2608.27432)
+*Kristina Ago, Bojan Bašić, Radojka Ciganović* — **openalex ssrn**, 2026-08-27 — _Unclassified_
+
+Let $q(n)$ denote the largest number of queens that can be placed on an $n\times n$ chessboard so that no queen attacks more than one other queen. We prove that $q(n)=\lfloor4n/3\rfloor$ for every $n\geqslant6$, and that $q(n)=n$ for $n\leqslant5$, which settles a previously conjectural value. As a corollary, we also settle that, in the version of the problem where each queen attacks \emph{exactly} one other queen, the answer is $2\lfloor2n/3\rfloor$, again as previously conjectured.
 
 ---
 
 ## Urban, Rural & Regional Economics
 
-### [Endogenous Selection and Spillovers: Bayesian Inference for Policy-Relevant Causal Effects](https://arxiv.org/abs/2608.25720v1)
-*Duong Trinh* — **arxiv**, 2026-08-26 — _Urban, Rural & Regional Economics, method:Natural Experiment_
+### [Interpretable hybrid credit scoring for thin-file and underbanked populations](https://doi.org/10.48550/arxiv.2608.26837)
+*Belise Kanziga, Yaé U. Gaba, Olivier Kanamugire* — **openalex ssrn**, 2026-08-27 — _Urban, Rural & Regional Economics_
 
-This paper develops a new econometric framework to identify and estimate policy-relevant causal effects in contexts with endogenous selection into treatment and spillovers within single large networks or spatial settings. Conventional causal inference methods relying on either unconfoundedness or no-interference assumptions are generally inadequate in these scenarios. We introduce a Spillover Roy model that jointly models endogenous treatment selection and potential outcomes while allowing spillovers through a low-dimensional exposure mapping of neighbors' treatments. The model captures hetero...
+We extend a residual-learning hybrid credit scoring framework (logistic regression scorecard plus a gradient-boosting correction on its residuals, decomposed at each prediction into an interpretability ratio $ρ(x)$ that measures the share attributable to the linear branch) along three axes: an East African empirical instantiation on the Zindi Financial Inclusion in Africa data (Kenya, Rwanda, Tanzania, Uganda); a fairness audit at the granularity of the framework's three interpretability regions; and a thin-file segmentation analysis. On the Taiwan Credit Default benchmark retained for continu...
 
 ---
 
-## method:Structural
+## method:DiD
 
-### [Nonparametric Bayesian Inference for Partially Identified Discrete Response Models](https://arxiv.org/abs/2608.25814v1)
-*Elie Tamer, Christopher D. Walker* — **arxiv**, 2026-08-26 — _method:Structural_
+### [Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit](https://doi.org/10.48550/arxiv.2608.27309)
+*Shuyi Fan, Boyuan Deng, Mengyu Xu, Xinhong Xie et al.* — **openalex ssrn**, 2026-08-27 — _method:DiD_
 
-This paper proposes a nonparametric Bayesian inference framework for partially identified discrete response models. The key observation is that these models map a reduced-form conditional choice probability to an identified set. Consequently, nonparametric Bayesian inference for the conditional probability mass function leads to Bayesian inference for the identified set. The inference framework nests conditional moment inequalities and linear systems with unknown coefficients as special cases. Importantly, our proposal does not require converting conditional moments into unconditional moments ...
+Audits of LLM judges certify a bias by contrasting matched conditions, and the strongest designs difference twice: a within-item contrast between two candidate responses, differenced again across a manipulated attribute, read off a bounded rating scale. We show that this endpoint is not identified on the scale that reports it. Each term of the double difference is censored by its own share, so the observed statistic confounds differential preference with differential attenuation: a severity shift common to both responses manufactures an interaction whenever the two censor it unequally, as uneq...
 
 ---
 
@@ -237,13 +246,6 @@ This paper proposes a nonparametric Bayesian inference framework for partially i
 ### [Numerical certificates for The Endogeneity of Miscalibration](https://arxiv.org/abs/2605.07671)
 *Lauri Lovén, Sasu Tarkoma* — **openalex ssrn**, 2026-08-27 — _method:Theory_
 
-Independent machine checks of the computed claims in The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting (Lovén and Tarkoma). Five floating-point instance and property suites cover the tilt identity, the comparative statics, attainment of first-best screening by the Bregman ramp, both directions of the critical-slope threshold on named and randomly generated admissible generators, and the cubic welfare law below that threshold. A sixth suite recomputes every numeral printed in the paper as a rigorous enclosure in Arb ball arithmetic at 300-bit precision. Nothing is ...
-
----
-
-### [Agnostic Sequential Rationality](https://arxiv.org/abs/2608.25731v1)
-*Igal Milchtaich* — **arxiv**, 2026-08-26 — _method:Theory_
-
-Agnostic sequential equilibrium (ASE) is a refinement of sequential equilibrium that does not force on the players a single, arbitrary belief system. In addition, whereas sequential equilibrium assumes the players' beliefs to be fully consistent (a notion that is based on perturbations of strategies), ASE employs a novel, simpler and local concept of strong consistency between strategy profiles and off-equilibrium beliefs, which is applicable to a large class of dynamic games, including games with a continuum of actions. In the last respect, the new solution concept is similar to perfect Bayes...
+Independent machine checks of the computed claims in The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting (Lovén and Tarkoma). Five floating-point instance and property suites cover the tilt identity, the comparative statics, attainment of first-best screening by the Bregman ramp, both directions of the critical-slope threshold on named and randomly generated admissible generators, and the cubic welfare law below that threshold. A sixth suite recomputes every numeral printed in the paper as a rigorous enclosure in Arb ball arithmetic at 300-bit precision, the critica...
 
 ---
