@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-29
+# Weekly Deep-Reading Queue — week of 2026-08-30
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -65,7 +65,7 @@ Which visual choices make a post perform better? A growing literature answers th
 
 ## 7. Thomson: Continual Learning of Frontier Models for SovereignAI
 
-### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://doi.org/10.48550/arxiv.2608.27147)
+### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://arxiv.org/abs/2608.27147)
 *Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
 
 The development of frontier models is commonly perceived to be the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between developers and the diverse user base of modern AI. Recent public discourse acknowledges this concern, calling for SovereignAI (an organisation's capability to independently build, deploy and govern AI use), but offers little concrete advice on how this can be achieved in the short term under a diversity of funding settings. We argue that frontier performance is achievable by a wide range of institutions thr...
@@ -74,7 +74,7 @@ The development of frontier models is commonly perceived to be the exclusive rem
 
 ## 8. Interpretable hybrid credit scoring for thin-file and underbanked populations
 
-### [Interpretable hybrid credit scoring for thin-file and underbanked populations](https://doi.org/10.48550/arxiv.2608.26837)
+### [Interpretable hybrid credit scoring for thin-file and underbanked populations](https://arxiv.org/abs/2608.26837)
 *Belise Kanziga, Yaé U. Gaba, Olivier Kanamugire* — **openalex ssrn**, 2026-08-27 — _Urban, Rural & Regional Economics_
 
 We extend a residual-learning hybrid credit scoring framework (logistic regression scorecard plus a gradient-boosting correction on its residuals, decomposed at each prediction into an interpretability ratio $ρ(x)$ that measures the share attributable to the linear branch) along three axes: an East African empirical instantiation on the Zindi Financial Inclusion in Africa data (Kenya, Rwanda, Tanzania, Uganda); a fairness audit at the granularity of the framework's three interpretability regions; and a thin-file segmentation analysis. On the Taiwan Credit Default benchmark retained for continu...
