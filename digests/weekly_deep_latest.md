@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-30
+# Weekly Deep-Reading Queue — week of 2026-08-31
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -45,7 +45,16 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads
+## 5. Countervailing Curation Strategic Disclosure and the Design of Attention
+
+### [Countervailing Curation Strategic Disclosure and the Design of Attention](https://arxiv.org/abs/2608.27903v1)
+*Qian Cao, Yifei Sun* — **arxiv**, 2026-08-28 — _Law & Economics_
+
+Opposing advocates may be unable to fabricate evidence but can choose which true observations to present. We study how a court, editor, or platform should divide potential exposure between an advocate who prefers a higher decision and one who prefers a lower decision. Each advocate controls a separate evidence pool, exposure is committed before the state and evidence are known, and a selection-naive receiver averages displayed observations. Under baseline linear preferences and common knowledge of the realized pools, all Nash equilibria in every finite pool induce the same action and common di...
+
+---
+
+## 6. The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads
 
 ### [The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads](https://arxiv.org/abs/2608.26924v1)
 *Qin Chen, Ying Fang, Xiangyu Wang, Leo Yang Yang* — **arxiv**, 2026-08-27 — _Labor & Demographic Economics_
@@ -54,7 +63,7 @@ How do we define an occupation? By its job title? An accountant at a small tradi
 
 ---
 
-## 6. DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics
+## 7. DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics
 
 ### [DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics](https://arxiv.org/abs/2608.26584v1)
 *Yizhi Liu, Balaji Padmanabhan, Siva Viswanathan* — **arxiv**, 2026-08-27 — _Econometrics & Methods, method:Machine Learning_
@@ -63,20 +72,11 @@ Which visual choices make a post perform better? A growing literature answers th
 
 ---
 
-## 7. Thomson: Continual Learning of Frontier Models for SovereignAI
+## 8. Thomson: Continual Learning of Frontier Models for SovereignAI
 
 ### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://arxiv.org/abs/2608.27147)
 *Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
 
 The development of frontier models is commonly perceived to be the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between developers and the diverse user base of modern AI. Recent public discourse acknowledges this concern, calling for SovereignAI (an organisation's capability to independently build, deploy and govern AI use), but offers little concrete advice on how this can be achieved in the short term under a diversity of funding settings. We argue that frontier performance is achievable by a wide range of institutions thr...
-
----
-
-## 8. Interpretable hybrid credit scoring for thin-file and underbanked populations
-
-### [Interpretable hybrid credit scoring for thin-file and underbanked populations](https://arxiv.org/abs/2608.26837)
-*Belise Kanziga, Yaé U. Gaba, Olivier Kanamugire* — **openalex ssrn**, 2026-08-27 — _Urban, Rural & Regional Economics_
-
-We extend a residual-learning hybrid credit scoring framework (logistic regression scorecard plus a gradient-boosting correction on its residuals, decomposed at each prediction into an interpretability ratio $ρ(x)$ that measures the share attributable to the linear branch) along three axes: an East African empirical instantiation on the Zindi Financial Inclusion in Africa data (Kenya, Rwanda, Tanzania, Uganda); a fairness audit at the granularity of the framework's three interpretability regions; and a thin-file segmentation analysis. On the Taiwan Credit Default benchmark retained for continu...
 
 ---

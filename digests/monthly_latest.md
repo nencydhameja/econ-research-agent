@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-08-30
+# Economics Research Digest — 2026-08-31
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -8,13 +8,6 @@ Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
 *Min-Jae Jeon, Lang Tong, Qing Zhao* — **openalex ssrn**, 2026-08-27 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
 
 This paper develops a price-based distributed scheduling in an energy community whose members own behind-the-meter renewable generation with deferrable EV charging and price-elastic thermostatic loads. A coordinator transacts with the distribution utility under a Net Energy Metering tariff and broadcasts a community price to which each household responds in its own interest, giving a bilevel stochastic dynamic program that is intractable in general. Our main result characterizes that the joint optimal centralized policy is a two-threshold policy on the community's aggregate renewable generatio...
-
----
-
-### [Profit based evaluation of machine learning for nitrogen recommendations in winter wheat](https://arxiv.org/abs/2608.27205)
-*Xulong Wang, Po Yang* — **openalex ssrn**, 2026-08-27 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Machine Learning_
-
-Nitrogen rates for winter wheat are set before the season, under unknown prices and weather. The standard UK advice does not respond to prices, yet recent price swings moved the most profitable rate by tens of kilograms per hectare. Machine learning is often proposed as the fix. However, it is usually judged on prediction accuracy, and accurate prediction does not by itself make the recommended rate more profitable. Our insight is to score nitrogen advice directly by the profit it forgoes on measured yield response curves. We build a test bench on 892 such curves from two long running UK exper...
 
 ---
 
@@ -41,13 +34,6 @@ Expected shortfall (ES) is widely used to measure tail risk in finance and econo
 
 ---
 
-### [Traveling Waves in Equity Markets with Rank-Based Entry and Exit](https://arxiv.org/abs/2608.27156)
-*Graeme Baker, Caroline Smyth* — **openalex ssrn**, 2026-08-27 — _Business Economics & Innovation_
-
-We model equity markets using geometric Brownian particles entering and exiting at rank-dependent intensities. In the many-firm limit, the capital distribution converges to the solution of a reaction-diffusion equation with reaction term built from the intensities. Calibrated on CRSP data, the reaction term is bistable, and the long-run distribution is a traveling wave: we prove existence, uniqueness, and, for constant coefficients, exponential relaxation. Turnover, not drift, stabilizes the calibrated market. With measured volatility, the wave tracks the empirical capital distribution in ever...
-
----
-
 ## Econometrics & Methods
 
 ### [DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics](https://arxiv.org/abs/2608.26584v1)
@@ -66,6 +52,13 @@ Which visual choices make a post perform better? A growing literature answers th
           Fiscal Studies (IFS), Institute for Labor Economics (IZA), and Rockwool FoundationUniversity College London* — **Journal of Political Economy**, 2026-08-10 — _Health, Education & Welfare, Law & Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
+
+---
+
+### [The Race for Elite Destinations: Education Competition and Low Fertility in Korea](https://arxiv.org/abs/2608.27980v1)
+*Dongwoo Kim* — **arxiv**, 2026-08-28 — _Health, Education & Welfare, Labor & Demographic Economics_
+
+South Korea has the world's lowest fertility and an intense education race. Families devote nine percent of lifetime income to education, mostly to private tutoring with near-zero measured returns. I show that competition for coveted careers generates an assignment externality: when all families spend more, the admission bar rises and children become costly. In a quantitative model calibrated to this mechanism, replacing score-based assignment with a capacity-preserving lottery raises completed fertility by 0.24 children per couple. Pronatal transfers deliver one eighth of that increase. Educa...
 
 ---
 
@@ -89,6 +82,13 @@ How do we define an occupation? By its job title? An accountant at a small tradi
 
 ## Law & Economics
 
+### [Countervailing Curation Strategic Disclosure and the Design of Attention](https://arxiv.org/abs/2608.27903v1)
+*Qian Cao, Yifei Sun* — **arxiv**, 2026-08-28 — _Law & Economics_
+
+Opposing advocates may be unable to fabricate evidence but can choose which true observations to present. We study how a court, editor, or platform should divide potential exposure between an advocate who prefers a higher decision and one who prefers a lower decision. Each advocate controls a separate evidence pool, exposure is committed before the state and evidence are known, and a selection-naive receiver averages displayed observations. Under baseline linear preferences and common knowledge of the realized pools, all Nash equilibria in every finite pool induce the same action and common di...
+
+---
+
 ### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://arxiv.org/abs/2608.27147)
 *Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
 
@@ -107,13 +107,6 @@ Journal of Political Economy, Ahead of Print.
 
 ### [Rent Guarantee Insurance](https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R)
 *Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
-### [Markups: A Search-Theoretic Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R)
-*Guido MenzioNew York University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-07-31 — _Political Economy_
 
 Journal of Political Economy, Ahead of Print.
 
@@ -181,6 +174,20 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Causal Non-causal State Space Models and the Modelling of Financial Bubbles](https://arxiv.org/abs/2608.28115v1)
+*Frederik Bjerg Krabbe* — **arxiv**, 2026-08-28 — _Unclassified_
+
+In this paper, we study causal non-causal state space models to model time series characterised by a local explosive increase followed by a sharp decrease such as stock prices. To motivate the use of causal non-causal state space models, we show that the causal non-causal convolution autoregressive model introduced by Gourieroux and Zakoian (2017) can be consistent with the rational expectations stock price model. As in a causal state space model, a central question is how to perform state and parameter inference in the causal non-causal state space model, which we discuss in the paper. We als...
+
+---
+
+### [A Design Concept of Forecasting Software for Normalized Vector Autoregressions with Fat Tails and Stochastic Volatility](https://arxiv.org/abs/2608.28087v1)
+*Fei Shang, Xiaolei Wang, Tomasz Woźniak* — **arxiv**, 2026-08-28 — _Unclassified_
+
+We present a suite of R packages for macroeconomic forecasting that leverages advanced Bayesian, structural, multivariate, dynamic, hierarchical, non-linear, and non-Gaussian models. The suite enables both structural and predictive analyses, and is adapted to time series data across various types, dimensions, and sampling frequencies. Each additional feature increases computational complexity. To address this challenge, our software design incorporates a carefully curated selection of models, efficient algorithms implemented in C++, advanced econometric and numerical methods, robust handling o...
+
+---
+
 ### [Strategy-Proof and Minimally Wasteful Random Assignment](https://arxiv.org/abs/2608.27261v1)
 *Christian Basteck, Lars Ehlers* — **arxiv**, 2026-08-27 — _Unclassified_
 
@@ -229,15 +236,6 @@ Let $q(n)$ denote the largest number of queens that can be placed on an $n\times
 *Belise Kanziga, Yaé U. Gaba, Olivier Kanamugire* — **openalex ssrn**, 2026-08-27 — _Urban, Rural & Regional Economics_
 
 We extend a residual-learning hybrid credit scoring framework (logistic regression scorecard plus a gradient-boosting correction on its residuals, decomposed at each prediction into an interpretability ratio $ρ(x)$ that measures the share attributable to the linear branch) along three axes: an East African empirical instantiation on the Zindi Financial Inclusion in Africa data (Kenya, Rwanda, Tanzania, Uganda); a fairness audit at the granularity of the framework's three interpretability regions; and a thin-file segmentation analysis. On the Taiwan Credit Default benchmark retained for continu...
-
----
-
-## method:DiD
-
-### [Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit](https://arxiv.org/abs/2608.27309)
-*Shuyi Fan, Boyuan Deng, Mengyu Xu, Xinhong Xie et al.* — **openalex ssrn**, 2026-08-27 — _method:DiD_
-
-Audits of LLM judges certify a bias by contrasting matched conditions, and the strongest designs difference twice: a within-item contrast between two candidate responses, differenced again across a manipulated attribute, read off a bounded rating scale. We show that this endpoint is not identified on the scale that reports it. Each term of the double difference is censored by its own share, so the observed statistic confounds differential preference with differential attenuation: a severity shift common to both responses manufactures an interaction whenever the two censor it unequally, as uneq...
 
 ---
 
