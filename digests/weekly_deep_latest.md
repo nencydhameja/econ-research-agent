@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-08-31
+# Weekly Deep-Reading Queue — week of 2026-09-01
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -45,38 +45,38 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Countervailing Curation Strategic Disclosure and the Design of Attention
+## 5. The Price of Intelligence: A Quality-Adjusted Price Index for AI Services
 
-### [Countervailing Curation Strategic Disclosure and the Design of Attention](https://arxiv.org/abs/2608.27903v1)
-*Qian Cao, Yifei Sun* — **arxiv**, 2026-08-28 — _Law & Economics_
+### [The Price of Intelligence: A Quality-Adjusted Price Index for AI Services](https://arxiv.org/abs/2608.29843v1)
+*Louis Yiven Zhu* — **arxiv**, 2026-08-30 — _Business Economics & Innovation_
 
-Opposing advocates may be unable to fabricate evidence but can choose which true observations to present. We study how a court, editor, or platform should divide potential exposure between an advocate who prefers a higher decision and one who prefers a lower decision. Each advocate controls a separate evidence pool, exposure is committed before the state and evidence are known, and a selection-naive receiver averages displayed observations. Under baseline linear preferences and common knowledge of the realized pools, all Nash equilibria in every finite pool induce the same action and common di...
-
----
-
-## 6. The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads
-
-### [The Pulse Beneath the Job Title: Monthly Readings of Requirements and Tasks from 750 Million Chinese Job Ads](https://arxiv.org/abs/2608.26924v1)
-*Qin Chen, Ying Fang, Xiangyu Wang, Leo Yang Yang* — **arxiv**, 2026-08-27 — _Labor & Demographic Economics_
-
-How do we define an occupation? By its job title? An accountant at a small trading company keeps the books; at a listed firm the same title demands a certified-accountant licence, and the week goes to the reports that regulators and the board read. Same title, different bar, different work. What defines an occupation is who it lets in and what it asks them to do. In a rapidly changing labor market, tracking those requirements and tasks is how to take the market's pulse. Yet no instrument reads both at the speed they change. Official occupational directories like O*NET report one national avera...
+Posted prices for AI inference have fallen steadily since 2024, yet the measured speed of that fall depends almost entirely on the method of measurement. This paper constructs quality-adjusted price indices for the AI inference market from public data. The panel assembles 21,024 posted-price observations across 3,208 models and 86 providers and joins them to 4,605 benchmark scores through a latent quality index estimated from benchmark response patterns, so the quality ladder of the hedonic tradition is built here from evaluations in place of product characteristics. Measured by the matched-mo...
 
 ---
 
-## 7. DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics
+## 6. Content Exploration Beyond the Feed: Creator Supply and the Shared Corpus
 
-### [DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics](https://arxiv.org/abs/2608.26584v1)
-*Yizhi Liu, Balaji Padmanabhan, Siva Viswanathan* — **arxiv**, 2026-08-27 — _Econometrics & Methods, method:Machine Learning_
+### [Content Exploration Beyond the Feed: Creator Supply and the Shared Corpus](https://arxiv.org/abs/2608.29430v1)
+*Yuanyuan Shen, Yiren Yan, Wenjie Li, Chunhui Zhu* — **arxiv**, 2026-08-29 — _Unclassified_
 
-Which visual choices make a post perform better? A growing literature answers this question with pooled coefficients estimated across many creators, which platforms translate into creative recommendations. We show that these coefficients blend two distinct patterns that can point in opposite directions for the same attribute. The first, audience preference, arises because creators who favor a style attract differently composed audiences, so their posts perform differently because of who is watching, not what any single post does. The second, creative effect, captures how a creator's audience r...
+Industrial recommenders give new content initial views through budgeted exploration, then use early performance to decide further delivery. On many short-video platforms, exploration is the primary way new videos reach viewers. Viewer-side tests measure consumption; the published budget objectives we review omit creator response. We analyze four experiments on a major short-video platform. An eight-month creator ablation finds production exploration raises videos posted per creator by 8.55% and creators posting at least once by 7.10% relative to a minimal floor. A budget-matched reallocation r...
 
 ---
 
-## 8. Thomson: Continual Learning of Frontier Models for SovereignAI
+## 7. Moments of Random Coefficients in Short Panels
 
-### [Thomson: Continual Learning of Frontier Models for SovereignAI](https://arxiv.org/abs/2608.27147)
-*Shengzhuang Chen, Jerrod Parker, Yejin Bang, Andrew M. Bean et al.* — **openalex ssrn**, 2026-08-27 — _Law & Economics_
+### [Moments of Random Coefficients in Short Panels](https://arxiv.org/abs/2608.31085v1)
+*Irene Botosaru, James L. Powell* — **arxiv**, 2026-08-31 — _Unclassified_
 
-The development of frontier models is commonly perceived to be the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between developers and the diverse user base of modern AI. Recent public discourse acknowledges this concern, calling for SovereignAI (an organisation's capability to independently build, deploy and govern AI use), but offers little concrete advice on how this can be achieved in the short term under a diversity of funding settings. We argue that frontier performance is achievable by a wide range of institutions thr...
+We study identification and estimation of moments of random coefficients in short linear panels, allowing the number of heterogeneous coefficients to exceed the number of equations observed for each unit. Under moment homogeneity, different regressor histories impose restrictions on the same moment vector. We give necessary and sufficient conditions for these restrictions to identify moments of a given order, stated in terms of the row spaces generated by the regressor support. The results show that moments may be identified even when the coefficients cannot be recovered for any individual, an...
+
+---
+
+## 8. Decarbonising price formation: unit-level evidence on battery storage and the imbalance price in the GB Balancing Mechanism
+
+### [Decarbonising price formation: unit-level evidence on battery storage and the imbalance price in the GB Balancing Mechanism](https://arxiv.org/abs/2608.29818v1)
+*Robert Dalton, Aidan O'Sullivan* — **arxiv**, 2026-08-30 — _Unclassified_
+
+Renewables now dominate Great Britain's generation mix but rarely occupy the marginal price-setting position, which raises the question of which flexible technologies translate a renewable-rich system into real-time price formation. This study reconstructs the price-ranked edge of the eligible bid or offer stack in the GB Balancing Mechanism across 50,684 half-hourly Settlement Periods from 2023 to 2025 and attributes it to individual Balancing Mechanism Units, separating long-system bid-active from short-system offer-active conditions and retaining co-marginal ties. Batteries rose from 0.8% t...
 
 ---
