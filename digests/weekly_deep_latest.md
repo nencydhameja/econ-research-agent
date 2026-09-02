@@ -54,29 +54,29 @@ The paper explores a theoretical freemium model for the sale of information, dra
 
 ---
 
-## 6. AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare
+## 6. Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence
+
+### [Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence](https://arxiv.org/abs/2605.29800)
+*David Antonio Tomé* — **openalex ssrn**, 2026-09-01 — _Business Economics & Innovation_
+
+Kohli (2026, arXiv:2605.29800) showed that nine frontier LLM judges deliver only ~2.2 effective independent votes because their errors are correlated, and that the correlation is mostly not explained by item difficulty. This deposit contains a pre-registered replication on consumer hardware (six local open-weight judges, 8B to 35B parameters, four base models, 1,000 ChaosNLI-MNLI items) and a deterministic, bit-replayable instrument that converts judge logs into per-pair corroboration weights via a cross-fitted Generalised Covariance Measure over pre-registered raw-input feature extractors. Al...
+
+---
+
+## 7. Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market
+
+### [Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market](https://arxiv.org/abs/2608.24222)
+*Sadegh Shahmohammadi, Xavier Pinho, Mairi Bowdler, Suhendan Adiguzel-van Zoelen et al.* — **openalex ssrn**, 2026-09-01 — _General Economics & Methodology, method:Machine Learning_
+
+The digital transformation of the Dutch labour market is reshaping occupational language, career pathways, and job-related skills. Addressing these changes requires granular labour market intelligence. This paper develops an AI-based methodology to analyse digitalisation using data covering millions of Dutch job profiles. The methodology combines embedding-based similarity search and large language model classification to map unstructured job information to harmonised ESCO occupations. We also introduce a Digital Semantic Score that measures how strongly job titles and skills are associated wi...
+
+---
+
+## 8. AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare
 
 ### [AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare](https://arxiv.org/abs/2609.01263v1)
 *Ali Zeytoon-Nejad* — **arxiv**, 2026-09-01 — _Business Economics & Innovation, Industrial Organization, Labor & Demographic Economics_
 
 Artificial Intelligence (AI) is rapidly transforming economic systems by altering production processes, labor markets, and the structure of firms and industries. AI is not merely a technological innovation. It is fundamentally a major economic phenomenon and a new wave of innovation with important implications for productivity, employment, market structure, public policy, long-run economic growth, and collective welfare. This essay examines the economics of AI by analyzing the multiple channels through which AI influences economic activity and societal well-being. It argues that AI should be u...
-
----
-
-## 7. Illiquidity at Risk
-
-### [Illiquidity at Risk](https://arxiv.org/abs/2609.00943v1)
-*Demetrio Lacava, Paolo Santucci de Magistris* — **arxiv**, 2026-09-01 — _Unclassified_
-
-Market efficiency relies fundamentally on stable liquidity. Consequently, forecasting liquidity dynamics is a priority for both investors and regulators. We introduce a new tail-risk metric, Illiquidity-at-Risk (IlliQaR), designed to quantify the magnitude of extreme liquidity dry-ups. Relying upon the realized Amihud (a precise illiquidity measurement derived from high-frequency data as the ratio of realized volatility to trading volume) we assess the predictive power of various linear and non-linear econometric models, with a specific focus on the impact of discontinuous jump components. Acc...
-
----
-
-## 8. Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts
-
-### [Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts](https://arxiv.org/abs/2609.00541v1)
-*Valentina Norambuena-Guzman, Cong Chen, Lang Tong, Timothy D. Mount* — **arxiv**, 2026-09-01 — _Unclassified_
-
-In a network with ramp-limited generators and inaccurate net-demand forecasts, practical rolling-window dispatch can drive locational marginal prices (LMPs) below generators' bid-in offers. In such cases, out-of-market (OOM) settlements are used to compensate generators and maintain dispatch-following incentives, but OOM can have negative consequences, including nontransparent real-time price signals, discriminatory compensation, and incentives for untruthful bidding. This paper presents an optimal uniform pricing rule that minimizes demand payments, eliminates OOM make-whole payments, preserv...
 
 ---

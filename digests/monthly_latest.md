@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-09-02
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -20,10 +20,10 @@ Artificial Intelligence (AI) is rapidly transforming economic systems by alterin
 
 ---
 
-### [The Price of Intelligence: A Quality-Adjusted Price Index for AI Services](https://arxiv.org/abs/2608.29843v1)
-*Louis Yiven Zhu* — **arxiv**, 2026-08-30 — _Business Economics & Innovation_
+### [Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence](https://arxiv.org/abs/2605.29800)
+*David Antonio Tomé* — **openalex ssrn**, 2026-09-01 — _Business Economics & Innovation_
 
-Posted prices for AI inference have fallen steadily since 2024, yet the measured speed of that fall depends almost entirely on the method of measurement. This paper constructs quality-adjusted price indices for the AI inference market from public data. The panel assembles 21,024 posted-price observations across 3,208 models and 86 providers and joins them to 4,605 benchmark scores through a latent quality index estimated from benchmark response patterns, so the quality ladder of the hedonic tradition is built here from evaluations in place of product characteristics. Measured by the matched-mo...
+Kohli (2026, arXiv:2605.29800) showed that nine frontier LLM judges deliver only ~2.2 effective independent votes because their errors are correlated, and that the correlation is mostly not explained by item difficulty. This deposit contains a pre-registered replication on consumer hardware (six local open-weight judges, 8B to 35B parameters, four base models, 1,000 ChaosNLI-MNLI items) and a deterministic, bit-replayable instrument that converts judge logs into per-pair corroboration weights via a cross-fitted Generalised Covariance Measure over pre-registered raw-input feature extractors. Al...
 
 ---
 
@@ -33,6 +33,15 @@ Posted prices for AI inference have fallen steadily since 2024, yet the measured
 *Federico A. Bugni, Federico Crippa, Daniel Restrepo* — **arxiv**, 2026-08-31 — _Econometrics & Methods, method:RDD_
 
 We propose the first manipulation test designed for boundary discontinuity designs (BDDs) with general boundary shapes. A BDD is a multidimensional extension of the regression discontinuity design (RDD) in which treatment assignment is determined by whether the multidimensional running variable crosses a lower-dimensional boundary set. The test avoids multivariate density estimation and builds on the observation that, in the absence of manipulation, observations near the boundary should be approximately evenly split between treatment and control within arbitrary groups defined by their project...
+
+---
+
+## General Economics & Methodology
+
+### [Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market](https://arxiv.org/abs/2608.24222)
+*Sadegh Shahmohammadi, Xavier Pinho, Mairi Bowdler, Suhendan Adiguzel-van Zoelen et al.* — **openalex ssrn**, 2026-09-01 — _General Economics & Methodology, method:Machine Learning_
+
+The digital transformation of the Dutch labour market is reshaping occupational language, career pathways, and job-related skills. Addressing these changes requires granular labour market intelligence. This paper develops an AI-based methodology to analyse digitalisation using data covering millions of Dutch job profiles. The methodology combines embedding-based similarity search and large language model classification to map unstructured job information to harmonised ESCO occupations. We also introduce a Digital Semantic Score that measures how strongly job titles and skills are associated wi...
 
 ---
 
@@ -84,20 +93,6 @@ We characterise the division rules for claims problems that satisfy equal treatm
 *Igal Milchtaich* — **arxiv**, 2026-09-01 — _Microeconomics_
 
 The paper explores a theoretical freemium model for the sale of information, drawing on mathematical tools used in the study of repeated zero-sum games and Bayesian persuasion. Unlike standard Bayesian persuasion models, the information seller (IS) is indifferent to the actions taken by the information buyer (IB) and is concerned solely with maximizing the revenue from selling information. Offering some information for free may increase the IB's willingness to pay for additional information. The information that the IB seeks is about the state of the world. Initially, the IB only knows the pri...
-
----
-
-### [On the Complexity of Bayesian Signal Processing](https://arxiv.org/abs/2608.29840v1)
-*Yi Liu* — **arxiv**, 2026-08-30 — _Microeconomics_
-
-We develop a computational framework for Bayesian decision-making. We show that as long as no action is optimal in every state, Bayes-optimal choice is intractable. This hardness need not arise from large action, state, or signal spaces, nor from a complicated represented utility function: extracting enough information from a hard-to-interpret signal to act optimally can itself be computationally hard. We also characterize tractability across approximation notions and identify their sources of difficulty. Under the probably approximately correct criterion, sample-based Bayesian learning is tra...
-
----
-
-### [Pure Risk](https://arxiv.org/abs/2608.29506v1)
-*David Dillenberger, Jay Lu* — **arxiv**, 2026-08-30 — _Microeconomics, method:Theory_
-
-We introduce a behavioral notion of domain-specific risk aversion that separates attitudes toward risk from deterministic utility: an agent is more pure risk averse in one domain than in another if, for prizes that are indifferent under certainty, he is more averse to risk in the former domain than in the latter. We develop a model that goes beyond expected utility by allowing risk attitudes to vary across domains, while preserving expected utility within each domain. The domains are subjective and need not be specified in advance; they are identified from choice behavior. We establish uniquen...
 
 ---
 
@@ -221,17 +216,24 @@ Limited attention forces organizations to decide not only how much to discuss, b
 
 ---
 
-### [Decarbonising price formation: unit-level evidence on battery storage and the imbalance price in the GB Balancing Mechanism](https://arxiv.org/abs/2608.29818v1)
-*Robert Dalton, Aidan O'Sullivan* — **arxiv**, 2026-08-30 — _Unclassified_
+### [Metaorder modelling and identification from public data](http://arxiv.org/abs/2602.19590)
+*Ezra Goliath, Tim Gebbie* — **openalex ssrn**, 2026-08-31 — _Unclassified_
 
-Renewables now dominate Great Britain's generation mix but rarely occupy the marginal price-setting position, which raises the question of which flexible technologies translate a renewable-rich system into real-time price formation. This study reconstructs the price-ranked edge of the eligible bid or offer stack in the GB Balancing Mechanism across 50,684 half-hourly Settlement Periods from 2023 to 2025 and attributes it to individual Balancing Mechanism Units, separating long-system bid-active from short-system offer-active conditions and retaining co-marginal ties. Batteries rose from 0.8% t...
+Market-order flow in financial markets exhibits long-range correlations. This is a widely known stylised fact of financial markets. A popular hypothesis for this stylised fact comes from the Lillo-Mike-Farmer (LMF) order-splitting theory. However, quantitative tests of this theory have historically relied on proprietary datasets with trader identifiers, limiting reproducibility and cross-market validation. We investigate whether it can be recovered from anonymous public data using synthetic metaorder reconstruction. Using transaction and quote data for the largest 239 stocks by market capitali...
 
 ---
 
-### [Credibility in school choice](https://arxiv.org/abs/2608.29597v1)
-*Camilo J. Sirguiado, Jiarui Xie* — **arxiv**, 2026-08-30 — _Unclassified_
+### [Computing Equilibria in Simulation-Based Insurance Markets with Discontinuous Demand](https://arxiv.org/abs/2608.30814)
+*Yunsoo Ha, Linda Nozick* — **openalex ssrn**, 2026-08-31 — _Unclassified_
 
-In centralized school choice, a designer who announces a mechanism may deviate from it to favor some students without being detected. A mechanism is credible if it admits no such deviation. We study this credibility problem when students do not know others' reports and may observe only part of the assignment. Credibility is demanding: among common school choice mechanisms, only deferred acceptance is credible, and only when students observe enough of the assignment. We therefore rank mechanisms by their credibility. Deferred acceptance is more credible than any other stable mechanism and stric...
+We study a simulation-based equilibrium problem arising in competitive insurance markets under hurricane risk. Each insurer seeks to maximize its own profit by selecting regional pricing and reinsurance decisions while satisfying insolvency constraints. The resulting problem is particularly challenging because customer purchase decisions induce discontinuous demand functions, while insolvency constraints create nonconvex feasible regions. To address these challenges, we introduce a pricing-dependent reinsurance optimization operator that reoptimizes reinsurance for each candidate pricing vecto...
+
+---
+
+### [Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation](https://arxiv.org/abs/2608.31041)
+*Fengrui Hua, H. L. Yang, Xinlei Hao, Haohan Zhang et al.* — **openalex ssrn**, 2026-08-31 — _Unclassified_
+
+Quantitative trading is moving from isolated predictive models toward agentic workflows that combine reasoning, tool use, memory, and feedback. This survey reviews agentic quantitative trading across five stages: factor mining, signal discovery, portfolio construction, order execution, and risk management. We further examine agentic quant trading systems through architecture, coordination, and adaptation, while comparing benchmarks across strategy construction, offline trading, live market evaluation, and reliability assessment. Our review finds that current systems remain concentrated on sign...
 
 ---
 
