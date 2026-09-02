@@ -1,8 +1,24 @@
-# Economics Research Digest — 2026-09-01
+# Economics Research Digest — 2026-09-02
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+
+## Agricultural & Environmental Economics
+
+### [Foundation models for electricity price forecasting and battery arbitrage: Can they replace market-specific forecasting models?](https://arxiv.org/abs/2609.00089v1)
+*Arkadiusz Lipiecki, Rafał Weron* — **arxiv**, 2026-08-31 — _Agricultural & Environmental Economics, method:Machine Learning_
+
+Foundation models promise accurate forecasts with little or no task-specific training, but whether they can replace models designed specifically for electricity price forecasting remains unclear. We compare nine variants from five foundation model families, evaluated in zero-shot mode, with two state-of-the-art electricity price forecasting benchmarks in Germany, Poland, and Spain over 2021-2025. Their performance is assessed in terms of point and probabilistic forecasting accuracy, as well as economic value in battery energy storage arbitrage. Only the TabPFN models consistently and significa...
+
+---
 
 ## Business Economics & Innovation
+
+### [AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare](https://arxiv.org/abs/2609.01263v1)
+*Ali Zeytoon-Nejad* — **arxiv**, 2026-09-01 — _Business Economics & Innovation, Industrial Organization, Labor & Demographic Economics_
+
+Artificial Intelligence (AI) is rapidly transforming economic systems by altering production processes, labor markets, and the structure of firms and industries. AI is not merely a technological innovation. It is fundamentally a major economic phenomenon and a new wave of innovation with important implications for productivity, employment, market structure, public policy, long-run economic growth, and collective welfare. This essay examines the economics of AI by analyzing the multiple channels through which AI influences economic activity and societal well-being. It argues that AI should be u...
+
+---
 
 ### [The Price of Intelligence: A Quality-Adjusted Price Index for AI Services](https://arxiv.org/abs/2608.29843v1)
 *Louis Yiven Zhu* — **arxiv**, 2026-08-30 — _Business Economics & Innovation_
@@ -11,10 +27,12 @@ Posted prices for AI inference have fallen steadily since 2024, yet the measured
 
 ---
 
-### [Scrutiny and Conservatism](https://arxiv.org/abs/2608.28866v1)
-*Paul H. Y. Cheung, Zichang Wang* — **arxiv**, 2026-08-28 — _Business Economics & Innovation_
+## Econometrics & Methods
 
-We study a setting in which an agent receives private information before choosing from a menu and anticipates hindsight scrutiny. Such scrutiny creates a motive for conservatism toward menu expansions. Our key axiom, conservatism, is a direct weakening of preference for flexibility: Adding an option is weakly beneficial whenever it leaves the menu's hindsight benchmark unchanged. Together with standard axioms, conservatism characterizes a scrutiny representation of preferences over menus in which the agent behaves as if she evaluates each menu by subtracting anticipated scrutiny from the mater...
+### [Manipulation Testing in Boundary Discontinuity Designs](https://arxiv.org/abs/2609.00350v1)
+*Federico A. Bugni, Federico Crippa, Daniel Restrepo* — **arxiv**, 2026-08-31 — _Econometrics & Methods, method:RDD_
+
+We propose the first manipulation test designed for boundary discontinuity designs (BDDs) with general boundary shapes. A BDD is a multidimensional extension of the regression discontinuity design (RDD) in which treatment assignment is determined by whether the multidimensional running variable crosses a lower-dimensional boundary set. The test avoids multivariate density estimation and builds on the observation that, in the absence of manipulation, observations near the boundary should be approximately evenly split between treatment and control within arbitrary groups defined by their project...
 
 ---
 
@@ -30,14 +48,14 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [The Race for Elite Destinations: Education Competition and Low Fertility in Korea](https://arxiv.org/abs/2608.27980v1)
-*Dongwoo Kim* — **arxiv**, 2026-08-28 — _Health, Education & Welfare, Labor & Demographic Economics_
+## International Economics
 
-South Korea has the world's lowest fertility and an intense education race. Families devote nine percent of lifetime income to education, mostly to private tutoring with near-zero measured returns. I show that competition for coveted careers generates an assignment externality: when all families spend more, the admission bar rises and children become costly. In a quantitative model calibrated to this mechanism, replacing score-based assignment with a capacity-preserving lottery raises completed fertility by 0.24 children per couple. Pronatal transfers deliver one eighth of that increase. Educa...
+### [Mechanism Design for Alignment and Control](https://arxiv.org/abs/2609.01595v1)
+*Dirk Bergemann, Andrew Koh, Stephen Morris* — **arxiv**, 2026-09-01 — _International Economics, method:Theory_
+
+We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-order beliefs can discipline multiple agents. We apply our framework to stylized examples of (i) sandbag...
 
 ---
-
-## International Economics
 
 ### [When Can We Work in Embedding Space? What Text Embeddings Preserve](https://arxiv.org/abs/2608.31059v1)
 *Simon Freyaldenhoven* — **arxiv**, 2026-08-31 — _International Economics, Labor & Demographic Economics, method:Machine Learning_
@@ -53,16 +71,21 @@ Tariff threats can move household beliefs before policy is enacted, yet their ra
 
 ---
 
-## Law & Economics
+## Microeconomics
 
-### [Countervailing Curation Strategic Disclosure and the Design of Attention](https://arxiv.org/abs/2608.27903v1)
-*Qian Cao, Yifei Sun* — **arxiv**, 2026-08-28 — _Law & Economics_
+### [Bi-Compositional Division Rules](https://arxiv.org/abs/2609.01489v1)
+*Christoph Schlegel* — **arxiv**, 2026-09-01 — _Microeconomics_
 
-Opposing advocates may be unable to fabricate evidence but can choose which true observations to present. We study how a court, editor, or platform should divide potential exposure between an advocate who prefers a higher decision and one who prefers a lower decision. Each advocate controls a separate evidence pool, exposure is committed before the state and evidence are known, and a selection-naive receiver averages displayed observations. Under baseline linear preferences and common knowledge of the realized pools, all Nash equilibria in every finite pool induce the same action and common di...
+We characterise the division rules for claims problems that satisfy equal treatment of equals, bilateral consistency, composition down, and composition up. The rules are precisely the members of a one-parameter log-exponential family $\{r^θ\}_{θ\in[-\infty,+\infty]}$, with constrained equal awards (CEA) and constrained equal losses (CEL) as its endpoints. For finite $θ$, $r^θ$ is the equal-sacrifice rule in awards for $u_θ=\log\varphi_θ$, where \[ \varphi_θ(x):=\frac{e^{θx}-1}θ\quad(θ\ne0), \qquad \varphi_0(x):=x, \] and simultaneously the equal-sacrifice rule in losses for the dual utility $u...
 
 ---
 
-## Microeconomics
+### [Freemium Model for Information Provision](https://arxiv.org/abs/2609.01468v1)
+*Igal Milchtaich* — **arxiv**, 2026-09-01 — _Microeconomics_
+
+The paper explores a theoretical freemium model for the sale of information, drawing on mathematical tools used in the study of repeated zero-sum games and Bayesian persuasion. Unlike standard Bayesian persuasion models, the information seller (IS) is indifferent to the actions taken by the information buyer (IB) and is concerned solely with maximizing the revenue from selling information. Offering some information for free may increase the IB's willingness to pay for additional information. The information that the IB seeks is about the state of the world. Initially, the IB only knows the pri...
+
+---
 
 ### [On the Complexity of Bayesian Signal Processing](https://arxiv.org/abs/2608.29840v1)
 *Yi Liu* — **arxiv**, 2026-08-30 — _Microeconomics_
@@ -75,20 +98,6 @@ We develop a computational framework for Bayesian decision-making. We show that 
 *David Dillenberger, Jay Lu* — **arxiv**, 2026-08-30 — _Microeconomics, method:Theory_
 
 We introduce a behavioral notion of domain-specific risk aversion that separates attitudes toward risk from deterministic utility: an agent is more pure risk averse in one domain than in another if, for prizes that are indifferent under certainty, he is more averse to risk in the former domain than in the latter. We develop a model that goes beyond expected utility by allowing risk attitudes to vary across domains, while preserving expected utility within each domain. The domains are subjective and need not be specified in advance; they are identified from choice behavior. We establish uniquen...
-
----
-
-### [Characterization of Concave Consumption Functions under Conditional Impatience](https://arxiv.org/abs/2608.29488v1)
-*Alexis Akira Toda* — **arxiv**, 2026-08-30 — _Microeconomics_
-
-Concave consumption functions imply a marginal propensity to consume that falls with wealth. I characterize the utility functions that guarantee this property in finite-horizon optimal saving problems with stochastic discounting, returns, income, and borrowing limits. Under conditional impatience---the conditional expected discounted gross return does not exceed one---consumption is always concave if and only if inverse absolute prudence, $-u''/u'''$, is concave. Without conditional impatience, hyperbolic absolute risk aversion (HARA) is necessary and sufficient for uniform concavity. A determ...
-
----
-
-### [From the Social Choice Problem to a Collusion-Proof Tendering Mechanism for Dynamic Stochastic Projects](https://arxiv.org/abs/2608.28722v1)
-*Endre Csóka* — **arxiv**, 2026-08-28 — _Microeconomics, method:Theory_
-
-The VCG family and the AGV mechanism are two classical approaches to efficient implementation in the static social choice problem. In 2024, Csóka et al. showed that AGV has critical weaknesses. In contrast, the transferable-utility Guaranteed Utility Mechanism (TU-GUM) retains all the standard desirable properties of AGV while adding further ones, including collusion-proofness, because it implements efficiency in Guaranteed Utility Equilibrium. TU-GUM also applies to a more general dynamic setting with multiple extensions. Moreover, TU-GUM is a special case of an even more general and robust m...
 
 ---
 
@@ -105,15 +114,6 @@ Journal of Political Economy, Ahead of Print.
 *Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
 
 Journal of Political Economy, Ahead of Print.
-
----
-
-## Public Economics
-
-### [Coverage, Not Credit: Failure-Credit Routing of Zeroth-Order Perturbation Budgets Does Not Improve On-Pool Sample Efficiency for LLM Agents](https://doi.org/10.48550/arxiv.2608.28011)
-*Yuxu Ge* — **openalex ssrn**, 2026-08-28 — _Public Economics_
-
-Trajectory-level credit assignment can localize which module of a tool-using LLM agent causes failures using only verifiable signals. We ask whether such failure credit should route a fixed zeroth-order/evolution-strategies (ZO/ES) perturbation budget. Across a synthetic environment and frozen Qwen2.5-1.5B/3B and SmolLM2-1.7B agents, three task families, six allocation schemes, a credit-noise sweep, paired seeds, and exact sign-flip tests, we find no statistically detectable improvement over uniform allocation in any on-pool comparison (no gain of at least 2 percentage points). The joint soft-...
 
 ---
 
@@ -171,6 +171,27 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Illiquidity at Risk](https://arxiv.org/abs/2609.00943v1)
+*Demetrio Lacava, Paolo Santucci de Magistris* — **arxiv**, 2026-09-01 — _Unclassified_
+
+Market efficiency relies fundamentally on stable liquidity. Consequently, forecasting liquidity dynamics is a priority for both investors and regulators. We introduce a new tail-risk metric, Illiquidity-at-Risk (IlliQaR), designed to quantify the magnitude of extreme liquidity dry-ups. Relying upon the realized Amihud (a precise illiquidity measurement derived from high-frequency data as the ratio of realized volatility to trading volume) we assess the predictive power of various linear and non-linear econometric models, with a specific focus on the impact of discontinuous jump components. Acc...
+
+---
+
+### [How outside options are incorporated into payoff distributions](https://arxiv.org/abs/2609.00799v1)
+*Takaaki Abe* — **arxiv**, 2026-09-01 — _Unclassified_
+
+This paper examines how outside options are incorporated into payoff distributions in games with coalition structures. We introduce and characterize the alpha-value, which "fully" incorporates outside options, and provide a new characterization of the Aumann-Dreze value as an allocation rule that does not incorporate outside options. We show that the chi-value (Casajus, 2009) is a component-wise convex combination of these two values and thus incorporates outside options in a discounted form.
+
+---
+
+### [Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts](https://arxiv.org/abs/2609.00541v1)
+*Valentina Norambuena-Guzman, Cong Chen, Lang Tong, Timothy D. Mount* — **arxiv**, 2026-09-01 — _Unclassified_
+
+In a network with ramp-limited generators and inaccurate net-demand forecasts, practical rolling-window dispatch can drive locational marginal prices (LMPs) below generators' bid-in offers. In such cases, out-of-market (OOM) settlements are used to compensate generators and maintain dispatch-following incentives, but OOM can have negative consequences, including nontransparent real-time price signals, discriminatory compensation, and incentives for untruthful bidding. This paper presents an optimal uniform pricing rule that minimizes demand payments, eliminates OOM make-whole payments, preserv...
+
+---
+
 ### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
 *MICHAEL EWENS, 
 NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
@@ -193,6 +214,13 @@ Stablecoins, typically pegged to fiat currencies, cannot achieve true stability 
 
 ---
 
+### [Communicating About Endogenous Issues](https://arxiv.org/abs/2609.00380v1)
+*Elliot Lipnowski, Doron Ravid* — **arxiv**, 2026-08-31 — _Unclassified_
+
+Limited attention forces organizations to decide not only how much to discuss, but also which issues merit discussion. We study strategic communication about a multidimensional decision when a receiver can respond only along a few endogenously chosen issues. Players agree on the ideal action but prioritize different errors. In equilibrium, communicated and omitted issues must be statistically unrelated and separable according to the sender's preferences. Thus, the sender's priorities determine the agenda; the receiver's do not. Synchronized priorities raise the receiver's best equilibrium payo...
+
+---
+
 ### [Decarbonising price formation: unit-level evidence on battery storage and the imbalance price in the GB Balancing Mechanism](https://arxiv.org/abs/2608.29818v1)
 *Robert Dalton, Aidan O'Sullivan* — **arxiv**, 2026-08-30 — _Unclassified_
 
@@ -207,37 +235,11 @@ In centralized school choice, a designer who announces a mechanism may deviate f
 
 ---
 
-### [Content Exploration Beyond the Feed: Creator Supply and the Shared Corpus](https://arxiv.org/abs/2608.29430v1)
-*Yuanyuan Shen, Yiren Yan, Wenjie Li, Chunhui Zhu* — **arxiv**, 2026-08-29 — _Unclassified_
+## method:DiD
 
-Industrial recommenders give new content initial views through budgeted exploration, then use early performance to decide further delivery. On many short-video platforms, exploration is the primary way new videos reach viewers. Viewer-side tests measure consumption; the published budget objectives we review omit creator response. We analyze four experiments on a major short-video platform. An eight-month creator ablation finds production exploration raises videos posted per creator by 8.55% and creators posting at least once by 7.10% relative to a minimal floor. A budget-matched reallocation r...
+### [Which Policy Works, and Where? Estimation and Inference for State-Level Treatment Effects in Difference-in-Differences](https://arxiv.org/abs/2609.01467v1)
+*Nichole Austin, Sunny R. Karim, Erin Strumpf, Matthew D. Webb* — **arxiv**, 2026-09-01 — _method:DiD_
 
----
-
-### [Causal Non-causal State Space Models and the Modelling of Financial Bubbles](https://arxiv.org/abs/2608.28115v1)
-*Frederik Bjerg Krabbe* — **arxiv**, 2026-08-28 — _Unclassified_
-
-In this paper, we study causal non-causal state space models to model time series characterised by a local explosive increase followed by a sharp decrease such as stock prices. To motivate the use of causal non-causal state space models, we show that the causal non-causal convolution autoregressive model introduced by Gourieroux and Zakoian (2017) can be consistent with the rational expectations stock price model. As in a causal state space model, a central question is how to perform state and parameter inference in the causal non-causal state space model, which we discuss in the paper. We als...
-
----
-
-### [A Design Concept of Forecasting Software for Normalized Vector Autoregressions with Fat Tails and Stochastic Volatility](https://arxiv.org/abs/2608.28087v1)
-*Fei Shang, Xiaolei Wang, Tomasz Woźniak* — **arxiv**, 2026-08-28 — _Unclassified_
-
-We present a suite of R packages for macroeconomic forecasting that leverages advanced Bayesian, structural, multivariate, dynamic, hierarchical, non-linear, and non-Gaussian models. The suite enables both structural and predictive analyses, and is adapted to time series data across various types, dimensions, and sampling frequencies. Each additional feature increases computational complexity. To address this challenge, our software design incorporates a carefully curated selection of models, efficient algorithms implemented in C++, advanced econometric and numerical methods, robust handling o...
-
----
-
-### [Emergent aggregation from collective foraging](https://doi.org/10.48550/arxiv.2608.28046)
-*Gorka Muñoz-Gil, Andrea López-Incera, Vide Ramsten, Giovanni Volpe et al.* — **openalex ssrn**, 2026-08-28 — _Unclassified_
-
-Collective behaviour in living systems is usually modelled as the outcome of a \emph{direct} social drive: agents are rewarded, or hard-wired, to align with or approach their neighbours. Here we show that aggregation can instead emerge from an \emph{indirect} objective. We let reinforcement learning foragers, initially performing a random walk, optimize their dynamics from a purely individual reward for finding replenishable targets, while perceiving only their conspecifics and never the targets themselves. As the visual range grows, the agents undergo a sharp crossover from an environment-tun...
-
----
-
-### [Market-Informed Valuation of GMMB Riders with Surrender Options under a Heston Stochastic-Local Volatility Model](https://doi.org/10.48550/arxiv.2608.28397)
-*Ludovic Goudenège, Andrea Molent, Xiao Wei, Antonino Zanette* — **openalex ssrn**, 2026-08-28 — _Unclassified_
-
-We develop a market-informed valuation framework for guaranteed minimum maturity benefit (GMMB) riders with rational surrender under the Heston stochastic-local volatility (SLV) model. The guarantee is written on the fee-deducted account value and is considered both in its terminal-only form and in the presence of early surrender rights. The Heston SLV specification combines stochastic volatility with a leverage function calibrated to a prescribed local-volatility surface. The leverage surface is obtained through a forward Markovian-projection equation so that, at the model level, the SLV dyna...
+Policies with a common objective and implementation date may differ in details or context. We distinguish the aggregate average treatment effect on the treated (ATT) from sub-aggregate ATTs defined by implementation cohort, jurisdiction, period, or policy type. UN-DID and DID-INT, two DiD estimators that construct jurisdiction-by-time effects, estimate these ATTs under parallel-trends conditions matched to the aggregation. In CPS placebo-law simulations, randomization inference is generally well-sized, though some jurisdiction-specific tests are conservative. The jackknife can be undefined for...
 
 ---
