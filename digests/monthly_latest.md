@@ -1,15 +1,6 @@
-# Economics Research Digest — 2026-09-02
+# Economics Research Digest — 2026-09-03
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
-
-## Agricultural & Environmental Economics
-
-### [Foundation models for electricity price forecasting and battery arbitrage: Can they replace market-specific forecasting models?](https://arxiv.org/abs/2609.00089v1)
-*Arkadiusz Lipiecki, Rafał Weron* — **arxiv**, 2026-08-31 — _Agricultural & Environmental Economics, method:Machine Learning_
-
-Foundation models promise accurate forecasts with little or no task-specific training, but whether they can replace models designed specifically for electricity price forecasting remains unclear. We compare nine variants from five foundation model families, evaluated in zero-shot mode, with two state-of-the-art electricity price forecasting benchmarks in Germany, Poland, and Spain over 2021-2025. Their performance is assessed in terms of point and probabilistic forecasting accuracy, as well as economic value in battery energy storage arbitrage. Only the TabPFN models consistently and significa...
-
----
+Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
 
 ## Business Economics & Innovation
 
@@ -24,15 +15,6 @@ Artificial Intelligence (AI) is rapidly transforming economic systems by alterin
 *David Antonio Tomé* — **openalex ssrn**, 2026-09-01 — _Business Economics & Innovation_
 
 Kohli (2026, arXiv:2605.29800) showed that nine frontier LLM judges deliver only ~2.2 effective independent votes because their errors are correlated, and that the correlation is mostly not explained by item difficulty. This deposit contains a pre-registered replication on consumer hardware (six local open-weight judges, 8B to 35B parameters, four base models, 1,000 ChaosNLI-MNLI items) and a deterministic, bit-replayable instrument that converts judge logs into per-pair corroboration weights via a cross-fitted Generalised Covariance Measure over pre-registered raw-input feature extractors. Al...
-
----
-
-## Econometrics & Methods
-
-### [Manipulation Testing in Boundary Discontinuity Designs](https://arxiv.org/abs/2609.00350v1)
-*Federico A. Bugni, Federico Crippa, Daniel Restrepo* — **arxiv**, 2026-08-31 — _Econometrics & Methods, method:RDD_
-
-We propose the first manipulation test designed for boundary discontinuity designs (BDDs) with general boundary shapes. A BDD is a multidimensional extension of the regression discontinuity design (RDD) in which treatment assignment is determined by whether the multidimensional running variable crosses a lower-dimensional boundary set. The test avoids multivariate density estimation and builds on the observation that, in the absence of manipulation, observations near the boundary should be approximately evenly split between treatment and control within arbitrary groups defined by their project...
 
 ---
 
@@ -57,7 +39,28 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+### [What Would it Cost to End Extreme Poverty?](https://arxiv.org/abs/2609.02013v1)
+*Roshni Sahoo, Joshua Blumenstock, Paul Niehaus, Leo Selker et al.* — **arxiv**, 2026-09-02 — _Health, Education & Welfare_
+
+We study poverty minimization via direct transfers, framing this as a statistical learning problem while retaining the information constraints faced by real-world programs. Using nationally representative household consumption surveys from 34 countries that together account for 76% of the world's poor, we estimate that reducing the poverty rate to 1% (from a baseline of 13%) would cost $211 B nominal per year. This is 4.0 times the corresponding reduction in the aggregate poverty gap, but only 19% of the cost of universal basic income. Extrapolated globally, the results imply a cost of 0.28% o...
+
+---
+
 ## International Economics
+
+### [Off-policy causal estimation in networks](https://arxiv.org/abs/2609.02756v1)
+*Sahil Loomba, Dean Eckles* — **arxiv**, 2026-09-02 — _International Economics, Urban, Rural & Regional Economics_
+
+In the presence of interference, where the treatment assigned to one unit can affect the outcomes of others, many causal estimands depend on the treatment-assignment policy under which the experiment is conducted. This policy dependence creates a fundamental challenge for off-policy estimation, where the goal is to estimate causal quantities under a hypothetical intervention policy different from the one used to collect data. We study this problem of off-policy estimation of causal effects for heterogeneous Bernoulli policies. By representing exposure-weighted potential outcomes in the biased ...
+
+---
+
+### [Competitive Market Behavior of LLMs](https://arxiv.org/abs/2609.02580v1)
+*Pawel Struski, Jakub Swistak, Inez Okulska, Przemyslaw Biecek* — **arxiv**, 2026-09-02 — _International Economics_
+
+Large language models (LLMs) are increasingly deployed as economic agents, yet there is little evidence whether LLM agents are suited for participating in market mechanisms designed for humans, and whether these mechanisms deliver desired outcomes when faced with LLM agents. We address this question by replicating seminal economic experiments, replacing human subjects with LLM agents. We place agents in a double auction environment, which is a widely-used market mechanism. We check whether such a market is able to deliver an efficient allocation of resources, thereby testing a novel dimension ...
+
+---
 
 ### [Mechanism Design for Alignment and Control](https://arxiv.org/abs/2609.01595v1)
 *Dirk Bergemann, Andrew Koh, Stephen Morris* — **arxiv**, 2026-09-01 — _International Economics, method:Theory_
@@ -66,21 +69,14 @@ We develop a framework for mechanism design with AI agents whose alignment (pref
 
 ---
 
-### [When Can We Work in Embedding Space? What Text Embeddings Preserve](https://arxiv.org/abs/2608.31059v1)
-*Simon Freyaldenhoven* — **arxiv**, 2026-08-31 — _International Economics, Labor & Demographic Economics, method:Machine Learning_
-
-When do text embeddings work as inputs to empirical analysis? Their use rests on an assumption: that we can trade text for its low-dimensional embedding, and lose little in doing so. I make that assumption precise under a generative model in which documents are mixtures of latent topics. I study two uses---clustering units in embedding space and controlling for high-dimensional text. A cluster of embeddings is a set of documents with similar topic mixtures; controlling for the embedding is equivalent to controlling for the topic mixture, so validity reduces to whether that mixture captures the...
-
----
-
-### [Tariff Threats, Macroeconomic Expectations, and Policy Communication Strategies: Experiments Based on a Multi-Agent System](https://arxiv.org/abs/2608.30522v1)
-*Jianhao Lin, Lexuan Sun, Yixin Yan* — **arxiv**, 2026-08-31 — _International Economics, Labor & Demographic Economics, Macroeconomics_
-
-Tariff threats can move household beliefs before policy is enacted, yet their rapidly changing language is difficult to study with conventional surveys. We build a multi-agent system that turns 300 households from the Michigan Surveys of Consumers into persistent large-language-model agents exposed to social-media information over several simulated months. Calibrated agents reproduce some distributional and demographic patterns in human survey data collected after the announcement of Liberation Day tariffs. Simulated experiments indicate that immediacy, rate salience, semantic progression, mes...
-
----
-
 ## Microeconomics
+
+### [Sequential Pricing Mechanisms for Surplus Division](https://arxiv.org/abs/2609.02773v1)
+*Yukihiko Funaki, Yukio Koriyama, Matias Nunez, Giacomo Rostagno* — **arxiv**, 2026-09-02 — _Microeconomics, method:Theory_
+
+Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we propose the Price-Accept-and-Choose (PA&C) mechanism, which preserves efficiency while eliminating P&C's first-mover advantage. We then analyze randomized and bidding variants and show that the resulting equilibrium payoffs correspond to standard solutions in transferable utility games: the Center of the Imputation Set value for P&C and the Shapley value for PA&C. In the randomized variants, these solutions arise in expectation; in the bidding variants, they are implemented on every equilibrium path. We further re...
+
+---
 
 ### [Bi-Compositional Division Rules](https://arxiv.org/abs/2609.01489v1)
 *Christoph Schlegel* — **arxiv**, 2026-09-01 — _Microeconomics_
@@ -166,6 +162,34 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Dutch Books for Language Models](https://arxiv.org/abs/2609.02797v1)
+*Isaiah Andrews, Suproteem Sarkar* — **arxiv**, 2026-09-02 — _Unclassified_
+
+People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? Users of language models may implicitly trust that these forecasts fall out of a coherent world model. In this paper, we evaluate the coherence of language model probabilistic forecasts through a procedure that builds on a theorem due to de Finetti. We elicit forecasts from language models across events generated from stock returns data. We then use linear programs to compute the largest Dutch-book...
+
+---
+
+### [Estimation risk in conditional expectiles](https://arxiv.org/abs/2609.02673v1)
+*Marcelo Fernandes, Vitor Henriques, Eduardo Fonseca Mendes* — **arxiv**, 2026-09-02 — _Unclassified_
+
+We establish the consistency and asymptotic normality of a two-step estimator of conditional expectiles in the context of conditional scale models. We first estimate the conditional variance parameters by quasi-maximum likelihood and then compute the unconditional expectile of the innovations using the empirical distribution of the standardized residuals. We show how replacing true innovations with standardized residuals affects the asymptotic variances of both conditional and unconditional expectile estimators. Finally, our empirical analysis reveals that conditional expectiles assess tail ri...
+
+---
+
+### [Strategic Centrality and the Emergence of Core-Periphery Networks](https://arxiv.org/abs/2609.02357v1)
+*Itai Arieli, João Correia-da-Silva, Wade Hann-Caruthers, Anna Rubinchik* — **arxiv**, 2026-09-02 — _Unclassified_
+
+We study a network formation game in which agents sponsor links at a linear cost in order to maximize centrality, defined as a weighted sum of walk counts with positive and weakly decreasing weights. This class includes Katz Bonacich centrality and total communicability and captures environments in which access decays with distance. Our main result is a sharp equilibrium characterization: every Nash equilibrium network is core periphery, meaning there exists a set $C$ such that every node is linked to every node in $C$, and there are no other edges. The driving force is that linking to better ...
+
+---
+
+### [Equilibrium Architecture in Multi-Battle Contests with Count-Dependent Prizes](https://arxiv.org/abs/2609.02031v1)
+*Zhonghong Kuang, Jingfeng Lu* — **arxiv**, 2026-09-02 — _Unclassified_
+
+Two contestants with possibly different marginal costs compete across identical battlefields governed by a Tullock technology with discriminatory power at most one. A symmetric schedule divides a fixed prize according to the number of victories. Allowing for inactivity, unequal efforts across battlefields, and arbitrary mixed strategies, we prove the existence and uniformity of equilibrium. Equilibrium may be pure, semi-pure (one contestant mixes), or two-sided mixed; in a two-sided mixed equilibrium, each contestant uses at most countably many positive effort levels. Multiple equilibria with ...
+
+---
+
 ### [Illiquidity at Risk](https://arxiv.org/abs/2609.00943v1)
 *Demetrio Lacava, Paolo Santucci de Magistris* — **arxiv**, 2026-09-01 — _Unclassified_
 
@@ -187,11 +211,17 @@ In a network with ramp-limited generators and inaccurate net-demand forecasts, p
 
 ---
 
-### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
-*MICHAEL EWENS, 
-NADYA MALENKO* — **Journal of Finance**, 2026-08-03 — _Unclassified_
+### [Headline Estimation with Multiple Research Designs](https://arxiv.org/abs/2609.01943v1)
+*Vod Vilfort* — **arxiv**, 2026-09-01 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+To study a scalar parameter, a researcher may consider multiple research designs. Based on the evidence across designs, the researcher may wish to formulate a headline estimate of the parameter. I examine how to choose this headline when it is unclear which design is most appropriate for studying the parameter. I model this setting by assuming that (i) exactly one of the designs is valid for the parameter and (ii) the researcher has ambiguity about which design is valid, represented by a class of priors over the candidate designs. To account for ambiguity, I propose reporting the headline esti...
+
+---
+
+### [Robust Variance Estimation in Linear Regression: A Projection-Geometry Perspective](https://arxiv.org/abs/2609.01804v1)
+*Yanping Chen* — **arxiv**, 2026-09-01 — _Unclassified_
+
+Inference in linear regression commonly treats OLS residuals as proxies for unobserved errors. This approximation can fail when the regression projection is nonlocal relative to the error-dependence structure. Residualization then shifts covariance information across observations and clusters, while conventional heteroskedasticity-consistent (HC) and cluster-robust variance estimators (CRVE) retain only diagonal or within-cluster residual moments and may therefore understate sampling uncertainty. This paper develops a projection-geometry framework for robust variance estimation. The variance o...
 
 ---
 
@@ -199,41 +229,6 @@ The Journal of Finance, EarlyView.
 *Irene Botosaru, James L. Powell* — **arxiv**, 2026-08-31 — _Unclassified_
 
 We study identification and estimation of moments of random coefficients in short linear panels, allowing the number of heterogeneous coefficients to exceed the number of equations observed for each unit. Under moment homogeneity, different regressor histories impose restrictions on the same moment vector. We give necessary and sufficient conditions for these restrictions to identify moments of a given order, stated in terms of the row spaces generated by the regressor support. The results show that moments may be identified even when the coefficients cannot be recovered for any individual, an...
-
----
-
-### [Redefining Stablecoins from Nominal to Real Value: A Maximum Likelihood Approach](https://arxiv.org/abs/2608.30225v1)
-*Tomonori Kanno, Kensuke Ito, Yushi Yoshimura, Kyohei Shibano* — **arxiv**, 2026-08-31 — _Unclassified_
-
-Stablecoins, typically pegged to fiat currencies, cannot achieve true stability because they inherit fluctuations in the underlying unit of account. To overcome this limitation, we introduce a stablecoin pegged to the Maximum Likelihood Value (MLV), a newly defined unit of account derived as the most probable configuration of latent real-value movements that explains observed nominal-value (price) changes. Grounded in inferential statistics and modern portfolio theory, MLV represents the most stable unit of account, as it enforces a zero real return on the minimum-variance portfolio. Empirical...
-
----
-
-### [Communicating About Endogenous Issues](https://arxiv.org/abs/2609.00380v1)
-*Elliot Lipnowski, Doron Ravid* — **arxiv**, 2026-08-31 — _Unclassified_
-
-Limited attention forces organizations to decide not only how much to discuss, but also which issues merit discussion. We study strategic communication about a multidimensional decision when a receiver can respond only along a few endogenously chosen issues. Players agree on the ideal action but prioritize different errors. In equilibrium, communicated and omitted issues must be statistically unrelated and separable according to the sender's preferences. Thus, the sender's priorities determine the agenda; the receiver's do not. Synchronized priorities raise the receiver's best equilibrium payo...
-
----
-
-### [Metaorder modelling and identification from public data](http://arxiv.org/abs/2602.19590)
-*Ezra Goliath, Tim Gebbie* — **openalex ssrn**, 2026-08-31 — _Unclassified_
-
-Market-order flow in financial markets exhibits long-range correlations. This is a widely known stylised fact of financial markets. A popular hypothesis for this stylised fact comes from the Lillo-Mike-Farmer (LMF) order-splitting theory. However, quantitative tests of this theory have historically relied on proprietary datasets with trader identifiers, limiting reproducibility and cross-market validation. We investigate whether it can be recovered from anonymous public data using synthetic metaorder reconstruction. Using transaction and quote data for the largest 239 stocks by market capitali...
-
----
-
-### [Computing Equilibria in Simulation-Based Insurance Markets with Discontinuous Demand](https://arxiv.org/abs/2608.30814)
-*Yunsoo Ha, Linda Nozick* — **openalex ssrn**, 2026-08-31 — _Unclassified_
-
-We study a simulation-based equilibrium problem arising in competitive insurance markets under hurricane risk. Each insurer seeks to maximize its own profit by selecting regional pricing and reinsurance decisions while satisfying insolvency constraints. The resulting problem is particularly challenging because customer purchase decisions induce discontinuous demand functions, while insolvency constraints create nonconvex feasible regions. To address these challenges, we introduce a pricing-dependent reinsurance optimization operator that reoptimizes reinsurance for each candidate pricing vecto...
-
----
-
-### [Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation](https://arxiv.org/abs/2608.31041)
-*Fengrui Hua, H. L. Yang, Xinlei Hao, Haohan Zhang et al.* — **openalex ssrn**, 2026-08-31 — _Unclassified_
-
-Quantitative trading is moving from isolated predictive models toward agentic workflows that combine reasoning, tool use, memory, and feedback. This survey reviews agentic quantitative trading across five stages: factor mining, signal discovery, portfolio construction, order execution, and risk management. We further examine agentic quant trading systems through architecture, coordination, and adaptation, while comparing benchmarks across strategy construction, offline trading, live market evaluation, and reliability assessment. Our review finds that current systems remain concentrated on sign...
 
 ---
 
