@@ -59,20 +59,20 @@ The digital transformation of the Dutch labour market is reshaping occupational 
 
 ---
 
-## 7. Robust Variance Estimation in Linear Regression: A Projection-Geometry Perspective
+## 7. When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation
 
-### [Robust Variance Estimation in Linear Regression: A Projection-Geometry Perspective](https://arxiv.org/abs/2609.01804v1)
-*Yanping Chen* — **arxiv**, 2026-09-01 — _Unclassified_
+### [When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation](https://doi.org/10.48550/arxiv.2609.01519)
+*Peiying Zhu, Sidi Chang* — **openalex ssrn**, 2026-09-01 — _Unclassified_
 
-Inference in linear regression commonly treats OLS residuals as proxies for unobserved errors. This approximation can fail when the regression projection is nonlocal relative to the error-dependence structure. Residualization then shifts covariance information across observations and clusters, while conventional heteroskedasticity-consistent (HC) and cluster-robust variance estimators (CRVE) retain only diagonal or within-cluster residual moments and may therefore understate sampling uncertainty. This paper develops a projection-geometry framework for robust variance estimation. The variance o...
+Interactive simulations increasingly evaluate policies in markets populated by language-model agents. Their outputs can look economic---prices, profits, consumer surplus, and welfare---without instantiating the behavior named in the claim. We audit this risk in a multi-turn buyer--seller testbed for configurable hotel transactions. An initial implementation reported welfare gains from two marketplace guardrails of +87.4, +35.0, and +28.8 across a Qwen2.5 1.5B--14B ladder. It also gave guarded and unguarded agents different offer schemas and choice procedures. Holding the schema and buyer choos...
 
 ---
 
-## 8. AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare
+## 8. Causal Evidentiary Governance for High-Risk Machine Learning Systems
 
-### [AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare](https://arxiv.org/abs/2609.01263v1)
-*Ali Zeytoon-Nejad* — **arxiv**, 2026-09-01 — _Business Economics & Innovation, Industrial Organization, Labor & Demographic Economics_
+### [Causal Evidentiary Governance for High-Risk Machine Learning Systems](https://doi.org/10.48550/arxiv.2609.01040)
+*Samah kareem, Barış Çeliktaş* — **openalex ssrn**, 2026-09-01 — _Econometrics & Methods, General Economics & Methodology, method:Machine Learning_
 
-Artificial Intelligence (AI) is rapidly transforming economic systems by altering production processes, labor markets, and the structure of firms and industries. AI is not merely a technological innovation. It is fundamentally a major economic phenomenon and a new wave of innovation with important implications for productivity, employment, market structure, public policy, long-run economic growth, and collective welfare. This essay examines the economics of AI by analyzing the multiple channels through which AI influences economic activity and societal well-being. It argues that AI should be u...
+Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observational fairness metrics, post-hoc explainability, and immutable audit logs, but provide limited support for causal attribution and efficient evidentiary verification. We introduce Causal Evidentiary Governance (CEG), a framework in which regulated institutions commit to a versioned directed acyclic graph (DAG) that partitions causal pathways into allowable and disallowe...
 
 ---
