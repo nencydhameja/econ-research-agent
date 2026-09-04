@@ -1,13 +1,13 @@
 # Economics Research Digest — 2026-09-04
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
-## Business Economics & Innovation
+## Agricultural & Environmental Economics
 
-### [AI and the Economy: An Economic Examination of Production, Distribution, Firms, Labor, and Welfare](https://arxiv.org/abs/2609.01263v1)
-*Ali Zeytoon-Nejad* — **arxiv**, 2026-09-01 — _Business Economics & Innovation, Industrial Organization, Labor & Demographic Economics_
+### [Prosumer Synchronisation Risk: Impacts of Time-Varying Tariffs on Distribution Network Expansion](https://doi.org/10.48550/arxiv.2609.02174)
+*Dillon Zadoks, Alfredo Oneto, Carlo Tajoli, Yi Guo et al.* — **openalex ssrn**, 2026-09-02 — _Agricultural & Environmental Economics, International Economics_
 
-Artificial Intelligence (AI) is rapidly transforming economic systems by altering production processes, labor markets, and the structure of firms and industries. AI is not merely a technological innovation. It is fundamentally a major economic phenomenon and a new wave of innovation with important implications for productivity, employment, market structure, public policy, long-run economic growth, and collective welfare. This essay examines the economics of AI by analyzing the multiple channels through which AI influences economic activity and societal well-being. It argues that AI should be u...
+The rapid deployment of distributed energy resources, including heat pumps, electric vehicles, photovoltaics, and battery storage, is reshaping the operation of low-voltage networks. While distribution system operators often aim to develop time-varying tariffs to incentivise network-friendly behaviour and defer reinforcements, they risk triggering prosumer synchronisation. As prosumers follow price signals, their behaviour may synchronise, avoiding existing load peaks while creating undesirable peaks at other times. This paper quantifies the impact on low-voltage network reinforcement needs wh...
 
 ---
 
@@ -53,10 +53,19 @@ Large language models (LLMs) are increasingly deployed as economic agents, yet t
 
 ---
 
-### [Mechanism Design for Alignment and Control](https://arxiv.org/abs/2609.01595v1)
-*Dirk Bergemann, Andrew Koh, Stephen Morris* — **arxiv**, 2026-09-01 — _International Economics, method:Theory_
+### [Approximately Efficient Multidimensional Bilateral Trade](https://doi.org/10.48550/arxiv.2609.02872)
+*Aviad Rubinstein, Xizhi Tan, Zixin Zhou* — **openalex ssrn**, 2026-09-02 — _International Economics, method:Theory_
 
-We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-order beliefs can discipline multiple agents. We apply our framework to stylized examples of (i) sandbag...
+A central challenge in mechanism design is to develop truthful trade mechanisms that maximize the expected gains-from-trade (GFT) in two-sided markets. Because achieving the full GFT is generally impossible, the literature has focused on constant-factor approximations---a notoriously difficult problem even in simple settings. It was only recently that a breakthrough result by [DMSW22] achieved a constant-factor approximation for single-item bilateral trade. The same guarantee was later extended to single-dimensional matching markets with general downward-closed constraints [BRTW26]. Most exist...
+
+---
+
+## Law & Economics
+
+### [Rights by Architecture: A Human-Compatible Sociotechnical Layer for Digital Protection Across Regulatory Regimes](https://doi.org/10.48550/arxiv.2609.02455)
+*Soheil Human* — **openalex ssrn**, 2026-09-02 — _Law & Economics_
+
+Digital rights increasingly exist in law but remain difficult to exercise through the information systems that mediate them. Using disciplined conceptual synthesis and problematization, this critical-conceptual IS paper explains the gap through the interaction of legal heterogeneity, conflicting organizational and commercial incentives, fragmented architectures, and asymmetrical control over rights-relevant acts. It then theorizes a human-compatible rights layer: a governed sociotechnical capability for standardized, machine-readable, bidirectional, and jurisdictionally plural communication of...
 
 ---
 
@@ -69,17 +78,10 @@ Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we
 
 ---
 
-### [Bi-Compositional Division Rules](https://arxiv.org/abs/2609.01489v1)
-*Christoph Schlegel* — **arxiv**, 2026-09-01 — _Microeconomics_
+### [Sequential Pricing Mechanisms for Surplus Division](https://doi.org/10.48550/arxiv.2609.02773)
+*Yukihiko Funaki, Yukio Koriyama, Matias Nunez, Giacomo Rostagno* — **openalex ssrn**, 2026-09-02 — _Microeconomics, method:Theory_
 
-We characterise the division rules for claims problems that satisfy equal treatment of equals, bilateral consistency, composition down, and composition up. The rules are precisely the members of a one-parameter log-exponential family $\{r^θ\}_{θ\in[-\infty,+\infty]}$, with constrained equal awards (CEA) and constrained equal losses (CEL) as its endpoints. For finite $θ$, $r^θ$ is the equal-sacrifice rule in awards for $u_θ=\log\varphi_θ$, where \[ \varphi_θ(x):=\frac{e^{θx}-1}θ\quad(θ\ne0), \qquad \varphi_0(x):=x, \] and simultaneously the equal-sacrifice rule in losses for the dual utility $u...
-
----
-
-### [Freemium Model for Information Provision](https://arxiv.org/abs/2609.01468v1)
-*Igal Milchtaich* — **arxiv**, 2026-09-01 — _Microeconomics_
-
-The paper explores a theoretical freemium model for the sale of information, drawing on mathematical tools used in the study of repeated zero-sum games and Bayesian persuasion. Unlike standard Bayesian persuasion models, the information seller (IS) is indifferent to the actions taken by the information buyer (IB) and is concerned solely with maximizing the revenue from selling information. Offering some information for free may increase the IB's willingness to pay for additional information. The information that the IB seeks is about the state of the world. Initially, the IB only knows the pri...
+Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we propose the Price-Accept-and-Choose (PA&C) mechanism, which preserves efficiency while eliminating P&C's first-mover advantage. We then analyze randomized and bidding variants and show that the resulting equilibrium payoffs correspond to standard solutions in transferable utility games: the Center of the Imputation Set value for P&C and the Shapley value for PA&C. In the randomized variants, these solutions arise in expectation; in the bidding variants, they are implemented on every equilibrium path. We further re...
 
 ---
 
@@ -103,6 +105,15 @@ Journal of Political Economy, Ahead of Print.
 *Yutong Zhang, Yangfan Zhou* — **arxiv**, 2026-09-03 — _Political Economy_
 
 We study robust mechanisms when the designer possesses a Bayesian belief over some components of agents' private information but faces ambiguity over others. The designer evaluates mechanisms by their worst-case performance over all joint distributions consistent with her belief over the Bayesian components. The framework encompasses settings such as multidimensional delegation in which a principal knows the distribution of the state but not the agent's preferences (e.g., his tradeoffs across dimensions), screening in which a seller only has misspecified estimates of buyer preferences, and auc...
+
+---
+
+## Public Economics
+
+### [PolERo: Studying Political Evasion in Romanian](https://doi.org/10.48550/arxiv.2609.02391)
+*Gabriel Stefan, Sergiu Nisioi* — **openalex ssrn**, 2026-09-02 — _Public Economics_
+
+Political evasion refers to responses that engage with a question while withholding the requested information. Recent NLP work frames political evasion as a classification task using a two-level taxonomy of response clarity and fine-grained evasion strategies. Existing work on response clarity and evasion classification is limited to English, leaving open whether the taxonomy and model behavior transfer across languages and political contexts. We introduce PolERo, a dataset of 3,574 human-annotated question-answer pairs extracted from official transcripts of five Romanian presidents. We evalua...
 
 ---
 
@@ -167,6 +178,13 @@ We give an exact randomization-based confidence set for the average treatment ef
 
 ---
 
+### [The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination](https://arxiv.org/abs/2604.19784)
+*Daniel Bilar* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+Coalition behavior in multi-agent systems appears across four substrates: quantum entanglement, evolutionary covert-tag recognition, engineered handshake codes, and emergent relational memory in frontier language models. These are treated as instances of one structure: a joint action distribution over an inside set of agents that fails to factor when conditioned on what an outside principal can observe. The structure is a binding operator B = (S, I, Wagents, Wapparatus, ρ, χ, χactual) with recognition-channel proxy κH, the principal-relative uncertainty coefficient on the channel through which...
+
+---
+
 ### [Dutch Books for Language Models](https://arxiv.org/abs/2609.02797v1)
 *Isaiah Andrews, Suproteem Sarkar* — **arxiv**, 2026-09-02 — _Unclassified_
 
@@ -195,24 +213,17 @@ Two contestants with possibly different marginal costs compete across identical 
 
 ---
 
-### [Illiquidity at Risk](https://arxiv.org/abs/2609.00943v1)
-*Demetrio Lacava, Paolo Santucci de Magistris* — **arxiv**, 2026-09-01 — _Unclassified_
+### [Insights on Time-consistent Deep Hedging under Elicitable Dynamic Risk Measures](https://doi.org/10.48550/arxiv.2609.02014)
+*Shuyi Zhang, Frédéric Godin* — **openalex ssrn**, 2026-09-02 — _Unclassified_
 
-Market efficiency relies fundamentally on stable liquidity. Consequently, forecasting liquidity dynamics is a priority for both investors and regulators. We introduce a new tail-risk metric, Illiquidity-at-Risk (IlliQaR), designed to quantify the magnitude of extreme liquidity dry-ups. Relying upon the realized Amihud (a precise illiquidity measurement derived from high-frequency data as the ratio of realized volatility to trading volume) we assess the predictive power of various linear and non-linear econometric models, with a specific focus on the impact of discontinuous jump components. Acc...
-
----
-
-### [How outside options are incorporated into payoff distributions](https://arxiv.org/abs/2609.00799v1)
-*Takaaki Abe* — **arxiv**, 2026-09-01 — _Unclassified_
-
-This paper examines how outside options are incorporated into payoff distributions in games with coalition structures. We introduce and characterize the alpha-value, which "fully" incorporates outside options, and provide a new characterization of the Aumann-Dreze value as an allocation rule that does not incorporate outside options. We show that the chi-value (Casajus, 2009) is a component-wise convex combination of these two values and thus incorporates outside options in a discounted form.
+We study deep hedging in the context of dynamics risk measures, where sequential decisions are time-consistent. Whereas the literature in such context mainly considers low-dimensional problems with simple environment dynamics, we tackle the high-dimensional problem of basket option hedging; we show that the approach is feasible and can be used conveniently in the presence of more complex state spaces. We rely on the conditional elicitability of spectral risk measures to represent the optimization objective. We provide insights on how the choice of scoring function impacts the training of the h...
 
 ---
 
-### [Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts](https://arxiv.org/abs/2609.00541v1)
-*Valentina Norambuena-Guzman, Cong Chen, Lang Tong, Timothy D. Mount* — **arxiv**, 2026-09-01 — _Unclassified_
+### [Equilibrium Architecture in Multi-Battle Contests with Count-Dependent Prizes](https://doi.org/10.48550/arxiv.2609.02031)
+*Zhonghong Kuang, Jingfeng Lu* — **openalex ssrn**, 2026-09-02 — _Unclassified_
 
-In a network with ramp-limited generators and inaccurate net-demand forecasts, practical rolling-window dispatch can drive locational marginal prices (LMPs) below generators' bid-in offers. In such cases, out-of-market (OOM) settlements are used to compensate generators and maintain dispatch-following incentives, but OOM can have negative consequences, including nontransparent real-time price signals, discriminatory compensation, and incentives for untruthful bidding. This paper presents an optimal uniform pricing rule that minimizes demand payments, eliminates OOM make-whole payments, preserv...
+Two contestants with possibly different marginal costs compete across identical battlefields governed by a Tullock technology with discriminatory power at most one. A symmetric schedule divides a fixed prize according to the number of victories. Allowing for inactivity, unequal efforts across battlefields, and arbitrary mixed strategies, we prove the existence and uniformity of equilibrium. Equilibrium may be pure, semi-pure (one contestant mixes), or two-sided mixed; in a two-sided mixed equilibrium, each contestant uses at most countably many positive effort levels. Multiple equilibria with ...
 
 ---
 
@@ -222,15 +233,6 @@ In a network with ramp-limited generators and inaccurate net-demand forecasts, p
 *Kieran James Walsh* — **arxiv**, 2026-09-03 — _Urban, Rural & Regional Economics_
 
 I provide the first analytic construction of a canonical Aiyagari economy exhibiting at least three steady states. Along the way, I provide new upper and lower bounds on the stationary capital supply for the case where the net return on saving is negative. I also give parameter restrictions that guarantee the existence of a steady state with a rental rate in the neighborhood of a remarkably simple number: the capital share times the depreciation rate.
-
----
-
-## method:DiD
-
-### [Which Policy Works, and Where? Estimation and Inference for State-Level Treatment Effects in Difference-in-Differences](https://arxiv.org/abs/2609.01467v1)
-*Nichole Austin, Sunny R. Karim, Erin Strumpf, Matthew D. Webb* — **arxiv**, 2026-09-01 — _method:DiD_
-
-Policies with a common objective and implementation date may differ in details or context. We distinguish the aggregate average treatment effect on the treated (ATT) from sub-aggregate ATTs defined by implementation cohort, jurisdiction, period, or policy type. UN-DID and DID-INT, two DiD estimators that construct jurisdiction-by-time effects, estimate these ATTs under parallel-trends conditions matched to the aggregation. In CPS placebo-law simulations, randomization inference is generally well-sized, though some jurisdiction-specific tests are conservative. The jackknife can be undefined for...
 
 ---
 

@@ -23,7 +23,16 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 3. Off-policy causal estimation in networks
+## 3. The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination
+
+### [The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination](https://arxiv.org/abs/2604.19784)
+*Daniel Bilar* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+Coalition behavior in multi-agent systems appears across four substrates: quantum entanglement, evolutionary covert-tag recognition, engineered handshake codes, and emergent relational memory in frontier language models. These are treated as instances of one structure: a joint action distribution over an inside set of agents that fails to factor when conditioned on what an outside principal can observe. The structure is a binding operator B = (S, I, Wagents, Wapparatus, ρ, χ, χactual) with recognition-channel proxy κH, the principal-relative uncertainty coefficient on the channel through which...
+
+---
+
+## 4. Off-policy causal estimation in networks
 
 ### [Off-policy causal estimation in networks](https://arxiv.org/abs/2609.02756v1)
 *Sahil Loomba, Dean Eckles* — **arxiv**, 2026-09-02 — _International Economics, Urban, Rural & Regional Economics_
@@ -32,47 +41,38 @@ In the presence of interference, where the treatment assigned to one unit can af
 
 ---
 
-## 4. Freemium Model for Information Provision
+## 5. Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails
 
-### [Freemium Model for Information Provision](https://arxiv.org/abs/2609.01468v1)
-*Igal Milchtaich* — **arxiv**, 2026-09-01 — _Microeconomics_
+### [Agentic Settlement Protocol: An Application Profile for Refundable, Delayed-Fulfilment Agent Commerce on Stablecoin Rails](https://doi.org/10.48550/arxiv.2609.02208)
+*Behnam, Mohammadkhani, Atul Khekade, Ritesh Kakkad* — **openalex ssrn**, 2026-09-02 — _Unclassified_
 
-The paper explores a theoretical freemium model for the sale of information, drawing on mathematical tools used in the study of repeated zero-sum games and Bayesian persuasion. Unlike standard Bayesian persuasion models, the information seller (IS) is indifferent to the actions taken by the information buyer (IB) and is concerned solely with maximizing the revenue from selling information. Offering some information for free may increase the IB's willingness to pay for additional information. The information that the IB seeks is about the state of the world. Initially, the IB only knows the pri...
-
----
-
-## 5. Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence
-
-### [Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence](https://arxiv.org/abs/2605.29800)
-*David Antonio Tomé* — **openalex ssrn**, 2026-09-01 — _Business Economics & Innovation_
-
-Kohli (2026, arXiv:2605.29800) showed that nine frontier LLM judges deliver only ~2.2 effective independent votes because their errors are correlated, and that the correlation is mostly not explained by item difficulty. This deposit contains a pre-registered replication on consumer hardware (six local open-weight judges, 8B to 35B parameters, four base models, 1,000 ChaosNLI-MNLI items) and a deterministic, bit-replayable instrument that converts judge logs into per-pair corroboration weights via a cross-fitted Generalised Covariance Measure over pre-registered raw-input feature extractors. Al...
+Autonomous agents can already pay per request: HTTP-native protocols such as x402 let an agent sign a stablecoin authorization and receive a resource in the same round trip. That model is atomic and final, which suits metered access and fails commerce: a purchase made on a person's behalf -- a service appointment, a physical order, a flight -- is large, frequently cancelled, and should not become the seller's money until delivery. We present the Agentic Settlement Protocol (ASP), an application profile over on-chain authorize-and-capture escrow (as standardised by the Commerce Payments Protoco...
 
 ---
 
-## 6. Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market
+## 6. Coverage, Not Targeting: A Structural Regime in Multi-Turn Agent Credit Assignment
 
-### [Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market](https://arxiv.org/abs/2608.24222)
-*Sadegh Shahmohammadi, Xavier Pinho, Mairi Bowdler, Suhendan Adiguzel-van Zoelen et al.* — **openalex ssrn**, 2026-09-01 — _General Economics & Methodology, method:Machine Learning_
+### [Coverage, Not Targeting: A Structural Regime in Multi-Turn Agent Credit Assignment](https://doi.org/10.48550/arxiv.2609.02417)
+*Chenyu Zhou, Qiliang Jiang, Shuning Wu, Xu Zhou* — **openalex ssrn**, 2026-09-02 — _Unclassified_
 
-The digital transformation of the Dutch labour market is reshaping occupational language, career pathways, and job-related skills. Addressing these changes requires granular labour market intelligence. This paper develops an AI-based methodology to analyse digitalisation using data covering millions of Dutch job profiles. The methodology combines embedding-based similarity search and large language model classification to map unstructured job information to harmonised ESCO occupations. We also introduce a Digital Semantic Score that measures how strongly job titles and skills are associated wi...
-
----
-
-## 7. When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation
-
-### [When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation](https://doi.org/10.48550/arxiv.2609.01519)
-*Peiying Zhu, Sidi Chang* — **openalex ssrn**, 2026-09-01 — _Unclassified_
-
-Interactive simulations increasingly evaluate policies in markets populated by language-model agents. Their outputs can look economic---prices, profits, consumer surplus, and welfare---without instantiating the behavior named in the claim. We audit this risk in a multi-turn buyer--seller testbed for configurable hotel transactions. An initial implementation reported welfare gains from two marketplace guardrails of +87.4, +35.0, and +28.8 across a Qwen2.5 1.5B--14B ladder. It also gave guarded and unguarded agents different offer schemas and choice procedures. Holding the schema and buyer choos...
+Multi-turn agentic RL increasingly treats credit assignment as a targeting problem: given a terminal verifiable reward, per-turn methods localize credit onto the turns that mattered. We identify the structural quantity that predicts when this is the right move, the verifier information density V_d = k/C (the fraction of an agent's C-step causal chain whose per-turn correctness the verifier exposes), and show that terminal-state verifiers sit deep in a low-V_d regime where targeting is the wrong axis. In controlled shared-rollout comparisons on tau^2-bench that separate reward density from cred...
 
 ---
 
-## 8. Causal Evidentiary Governance for High-Risk Machine Learning Systems
+## 7. Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization
 
-### [Causal Evidentiary Governance for High-Risk Machine Learning Systems](https://doi.org/10.48550/arxiv.2609.01040)
-*Samah kareem, Barış Çeliktaş* — **openalex ssrn**, 2026-09-01 — _Econometrics & Methods, General Economics & Methodology, method:Machine Learning_
+### [Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization](https://doi.org/10.48550/arxiv.2609.02677)
+*Giovanni Dispoto, Marcello Restelli, Carmine Ventre* — **openalex ssrn**, 2026-09-02 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
 
-Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observational fairness metrics, post-hoc explainability, and immutable audit logs, but provide limited support for causal attribution and efficient evidentiary verification. We introduce Causal Evidentiary Governance (CEG), a framework in which regulated institutions commit to a versioned directed acyclic graph (DAG) that partitions causal pathways into allowable and disallowe...
+Modern portfolio management increasingly demands a balance between traditional risk-adjusted returns and strict Environmental, Social, and Governance (ESG) mandates. Current Reinforcement Learning (RL) approaches typically optimize for a single ESG provider, neglecting the significant divergence in rating methodologies across the industry and the unintuitive nature of manually weighting conflicting objectives. This paper addresses these limitations by formulating ESG-aware portfolio optimization as a Multi-Objective Reinforcement Learning (MORL) problem that simultaneously incorporates ratings...
+
+---
+
+## 8. Approximately Efficient Multidimensional Bilateral Trade
+
+### [Approximately Efficient Multidimensional Bilateral Trade](https://doi.org/10.48550/arxiv.2609.02872)
+*Aviad Rubinstein, Xizhi Tan, Zixin Zhou* — **openalex ssrn**, 2026-09-02 — _International Economics, method:Theory_
+
+A central challenge in mechanism design is to develop truthful trade mechanisms that maximize the expected gains-from-trade (GFT) in two-sided markets. Because achieving the full GFT is generally impossible, the literature has focused on constant-factor approximations---a notoriously difficult problem even in simple settings. It was only recently that a breakthrough result by [DMSW22] achieved a constant-factor approximation for single-item bilateral trade. The same guarantee was later extended to single-dimensional matching markets with general downward-closed constraints [BRTW26]. Most exist...
 
 ---
