@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-03
+# Economics Research Digest — 2026-09-04
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Business Economics & Innovation
 
@@ -8,22 +8,6 @@ Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
 *Ali Zeytoon-Nejad* — **arxiv**, 2026-09-01 — _Business Economics & Innovation, Industrial Organization, Labor & Demographic Economics_
 
 Artificial Intelligence (AI) is rapidly transforming economic systems by altering production processes, labor markets, and the structure of firms and industries. AI is not merely a technological innovation. It is fundamentally a major economic phenomenon and a new wave of innovation with important implications for productivity, employment, market structure, public policy, long-run economic growth, and collective welfare. This essay examines the economics of AI by analyzing the multiple channels through which AI influences economic activity and societal well-being. It argues that AI should be u...
-
----
-
-### [Six Nameplates, Two Effective Votes: A Pre-Registered Local Replication of Correlated LLM Judge Errors, with a Deterministic Instrument for Measuring Panel Independence](https://arxiv.org/abs/2605.29800)
-*David Antonio Tomé* — **openalex ssrn**, 2026-09-01 — _Business Economics & Innovation_
-
-Kohli (2026, arXiv:2605.29800) showed that nine frontier LLM judges deliver only ~2.2 effective independent votes because their errors are correlated, and that the correlation is mostly not explained by item difficulty. This deposit contains a pre-registered replication on consumer hardware (six local open-weight judges, 8B to 35B parameters, four base models, 1,000 ChaosNLI-MNLI items) and a deterministic, bit-replayable instrument that converts judge logs into per-pair corroboration weights via a cross-fitted Generalised Covariance Measure over pre-registered raw-input feature extractors. Al...
-
----
-
-## General Economics & Methodology
-
-### [Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market](https://arxiv.org/abs/2608.24222)
-*Sadegh Shahmohammadi, Xavier Pinho, Mairi Bowdler, Suhendan Adiguzel-van Zoelen et al.* — **openalex ssrn**, 2026-09-01 — _General Economics & Methodology, method:Machine Learning_
-
-The digital transformation of the Dutch labour market is reshaping occupational language, career pathways, and job-related skills. Addressing these changes requires granular labour market intelligence. This paper develops an AI-based methodology to analyse digitalisation using data covering millions of Dutch job profiles. The methodology combines embedding-based similarity search and large language model classification to map unstructured job information to harmonised ESCO occupations. We also introduce a Digital Semantic Score that measures how strongly job titles and skills are associated wi...
 
 ---
 
@@ -36,6 +20,13 @@ The digital transformation of the Dutch labour market is reshaping occupational 
           Fiscal Studies (IFS), Institute for Labor Economics (IZA), and Rockwool FoundationUniversity College London* — **Journal of Political Economy**, 2026-08-10 — _Health, Education & Welfare, Law & Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Natural Disasters and the Nonprofit Sector](https://arxiv.org/abs/2609.04136v1)
+*Mayleen Cortez-Rodriguez* — **arxiv**, 2026-09-03 — _Health, Education & Welfare_
+
+When natural disasters strike, individuals, communities, and even entire countries can suffer. Researchers have studied the impacts of disasters on various factors of interest, from mental health, to poverty, to economic activity. However, the impact of disasters on the nonprofit sector is understudied despite the nonprofit sector's perhaps surprising role in local or national economies as well as its role in disaster response and recovery. Thus, we study the effect of natural disaster damage on different county-level nonprofit outcomes using a panel dataset spanning 1991 to 2021 and causal in...
 
 ---
 
@@ -108,10 +99,10 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Context-Grounding Gains Are Mediated by Pre-existing Machinery: Auditing GRPO, SFT, and DPO](https://doi.org/10.48550/arxiv.2609.00925)
-*Prakhar Gupta, Vaibhav Gupta* — **openalex ssrn**, 2026-09-01 — _Political Economy_
+### [Knowledge-Based Mechanisms](https://arxiv.org/abs/2609.03439v1)
+*Yutong Zhang, Yangfan Zhou* — **arxiv**, 2026-09-03 — _Political Economy_
 
-Language models can ignore prompt evidence when it conflicts with memorized knowledge. Post-training can make models follow such evidence more reliably, but it is unclear whether these gains require new machinery or strengthen machinery already present. We compare nine post-training arms spanning GRPO, SFT, and DPO from one starting checkpoint, with key comparisons extended across scales and families. We estimate a grounding direction from that checkpoint before training. Across five tested GRPO variants, grounding gains are small. For the two variants replicated across seeds, equivalence test...
+We study robust mechanisms when the designer possesses a Bayesian belief over some components of agents' private information but faces ambiguity over others. The designer evaluates mechanisms by their worst-case performance over all joint distributions consistent with her belief over the Bayesian components. The framework encompasses settings such as multidimensional delegation in which a principal knows the distribution of the state but not the agent's preferences (e.g., his tradeoffs across dimensions), screening in which a seller only has misspecified estimates of buyer preferences, and auc...
 
 ---
 
@@ -169,6 +160,13 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Randomization Inference for Matched Pairs with Binary Outcomes](https://arxiv.org/abs/2609.03227v1)
+*Bob Wilson* — **arxiv**, 2026-09-03 — _Unclassified_
+
+We give an exact randomization-based confidence set for the average treatment effect (ATE) in matched-pair studies with a binary outcome, requiring neither monotonicity nor any distributional assumption beyond the within-pair coin flip. At its core is an analytic solution to the worst-case allocation of attributable effects: two binomial-symmetry lemmas identify the pattern hardest to reject as a single boundary corner, so testing null hypotheses needs no integer program and no numerical search. Inverting the test via binary search yields a prediction set for the attributable effect in O(log S...
+
+---
+
 ### [Dutch Books for Language Models](https://arxiv.org/abs/2609.02797v1)
 *Isaiah Andrews, Suproteem Sarkar* — **arxiv**, 2026-09-02 — _Unclassified_
 
@@ -218,17 +216,12 @@ In a network with ramp-limited generators and inaccurate net-demand forecasts, p
 
 ---
 
-### [Headline Estimation with Multiple Research Designs](https://arxiv.org/abs/2609.01943v1)
-*Vod Vilfort* — **arxiv**, 2026-09-01 — _Unclassified_
+## Urban, Rural & Regional Economics
 
-To study a scalar parameter, a researcher may consider multiple research designs. Based on the evidence across designs, the researcher may wish to formulate a headline estimate of the parameter. I examine how to choose this headline when it is unclear which design is most appropriate for studying the parameter. I model this setting by assuming that (i) exactly one of the designs is valid for the parameter and (ii) the researcher has ambiguity about which design is valid, represented by a class of priors over the candidate designs. To account for ambiguity, I propose reporting the headline esti...
+### [Proof of Steady-State Multiplicity in Aiyagari](https://arxiv.org/abs/2609.03730v1)
+*Kieran James Walsh* — **arxiv**, 2026-09-03 — _Urban, Rural & Regional Economics_
 
----
-
-### [Robust Variance Estimation in Linear Regression: A Projection-Geometry Perspective](https://arxiv.org/abs/2609.01804v1)
-*Yanping Chen* — **arxiv**, 2026-09-01 — _Unclassified_
-
-Inference in linear regression commonly treats OLS residuals as proxies for unobserved errors. This approximation can fail when the regression projection is nonlocal relative to the error-dependence structure. Residualization then shifts covariance information across observations and clusters, while conventional heteroskedasticity-consistent (HC) and cluster-robust variance estimators (CRVE) retain only diagonal or within-cluster residual moments and may therefore understate sampling uncertainty. This paper develops a projection-geometry framework for robust variance estimation. The variance o...
+I provide the first analytic construction of a canonical Aiyagari economy exhibiting at least three steady states. Along the way, I provide new upper and lower bounds on the stationary capital supply for the case where the net return on saving is negative. I also give parameter restrictions that guarantee the existence of a steady state with a rental rate in the neighborhood of a remarkably simple number: the capital share times the depreciation rate.
 
 ---
 
@@ -238,5 +231,14 @@ Inference in linear regression commonly treats OLS residuals as proxies for unob
 *Nichole Austin, Sunny R. Karim, Erin Strumpf, Matthew D. Webb* — **arxiv**, 2026-09-01 — _method:DiD_
 
 Policies with a common objective and implementation date may differ in details or context. We distinguish the aggregate average treatment effect on the treated (ATT) from sub-aggregate ATTs defined by implementation cohort, jurisdiction, period, or policy type. UN-DID and DID-INT, two DiD estimators that construct jurisdiction-by-time effects, estimate these ATTs under parallel-trends conditions matched to the aggregation. In CPS placebo-law simulations, randomization inference is generally well-sized, though some jurisdiction-specific tests are conservative. The jackknife can be undefined for...
+
+---
+
+## method:Theory
+
+### [Tournaments with Managerial Discretion](https://arxiv.org/abs/2609.04068v1)
+*Peiran Xiao, Hashim Zaman* — **arxiv**, 2026-09-03 — _method:Theory_
+
+We study tournaments with managerial discretion in hiring. A manager selects a coworker from a pool of candidates and then competes against him in a Lazear--Rosen--style tournament with a prize equal to a share of total output. A profit-maximizing principal sets the prize share together with a head start (or handicap)---an advantage (or disadvantage) in the output comparison---granted to the manager. The head start affects output through three channels: (i) encouraging the manager, (ii) discouraging the new hire, and (iii) inducing the manager to hire a stronger candidate. The hiring effect do...
 
 ---
