@@ -1,13 +1,13 @@
-# Economics Research Digest — 2026-09-04
+# Economics Research Digest — 2026-09-05
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Prosumer Synchronisation Risk: Impacts of Time-Varying Tariffs on Distribution Network Expansion](https://doi.org/10.48550/arxiv.2609.02174)
-*Dillon Zadoks, Alfredo Oneto, Carlo Tajoli, Yi Guo et al.* — **openalex ssrn**, 2026-09-02 — _Agricultural & Environmental Economics, International Economics_
+### [Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage](https://doi.org/10.48550/arxiv.2609.03767)
+*Yuxin Xia, Frederik Schiele, Yihong Zhou, Volkan Kumtepeli et al.* — **openalex ssrn**, 2026-09-03 — _Agricultural & Environmental Economics_
 
-The rapid deployment of distributed energy resources, including heat pumps, electric vehicles, photovoltaics, and battery storage, is reshaping the operation of low-voltage networks. While distribution system operators often aim to develop time-varying tariffs to incentivise network-friendly behaviour and defer reinforcements, they risk triggering prosumer synchronisation. As prosumers follow price signals, their behaviour may synchronise, avoiding existing load peaks while creating undesirable peaks at other times. This paper quantifies the impact on low-voltage network reinforcement needs wh...
+Grid-scale battery energy storage can generate revenue by stacking services across electricity and frequency response markets, yet identifying the lifetime profit-maximising stacking strategy remains challenging. Decisions across services are coupled through shared battery system capacity, constrained by system operator energy management rules, and further shaped by product-specific technical requirements that govern system operation, degradation, and lifetime profitability. This paper presents an ageing-aware receding-horizon framework for co-optimising multi-service stacking that explicitly ...
 
 ---
 
@@ -30,14 +30,21 @@ When natural disasters strike, individuals, communities, and even entire countri
 
 ---
 
-### [What Would it Cost to End Extreme Poverty?](https://arxiv.org/abs/2609.02013v1)
-*Roshni Sahoo, Joshua Blumenstock, Paul Niehaus, Leo Selker et al.* — **arxiv**, 2026-09-02 — _Health, Education & Welfare_
+### [Natural Disasters and the Nonprofit Sector](https://doi.org/10.48550/arxiv.2609.04136)
+*Mayleen Cortez-Rodriguez* — **openalex ssrn**, 2026-09-03 — _Health, Education & Welfare_
 
-We study poverty minimization via direct transfers, framing this as a statistical learning problem while retaining the information constraints faced by real-world programs. Using nationally representative household consumption surveys from 34 countries that together account for 76% of the world's poor, we estimate that reducing the poverty rate to 1% (from a baseline of 13%) would cost $211 B nominal per year. This is 4.0 times the corresponding reduction in the aggregate poverty gap, but only 19% of the cost of universal basic income. Extrapolated globally, the results imply a cost of 0.28% o...
+When natural disasters strike, individuals, communities, and even entire countries can suffer. Researchers have studied the impacts of disasters on various factors of interest, from mental health, to poverty, to economic activity. However, the impact of disasters on the nonprofit sector is understudied despite the nonprofit sector's perhaps surprising role in local or national economies as well as its role in disaster response and recovery. Thus, we study the effect of natural disaster damage on different county-level nonprofit outcomes using a panel dataset spanning 1991 to 2021 and causal in...
 
 ---
 
 ## International Economics
+
+### [Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin](https://doi.org/10.48550/arxiv.2609.03437)
+*Seung Ho Choi, Seoin Jang, Hyunwoo Lee, Hayoung Choi* — **openalex ssrn**, 2026-09-03 — _International Economics_
+
+This study examines cross-asset connectedness in an international financial network of major exchange rates, gold futures, and Bitcoin. Moving beyond the conventional net transmitter--receiver classification, we characterize asset roles through three complementary dimensions: direct spillover transmission, stationary source-tracing dynamics, and multistep upstream connectivity. Return spillovers are estimated using VAR generalized forecast-error variance decomposition (VAR-GFEVD). The positive pairwise net-spillover structure is then mapped into a row-stochastic Markov kernel whose transitions...
+
+---
 
 ### [Off-policy causal estimation in networks](https://arxiv.org/abs/2609.02756v1)
 *Sahil Loomba, Dean Eckles* — **arxiv**, 2026-09-02 — _International Economics, Urban, Rural & Regional Economics_
@@ -46,26 +53,12 @@ In the presence of interference, where the treatment assigned to one unit can af
 
 ---
 
-### [Competitive Market Behavior of LLMs](https://arxiv.org/abs/2609.02580v1)
-*Pawel Struski, Jakub Swistak, Inez Okulska, Przemyslaw Biecek* — **arxiv**, 2026-09-02 — _International Economics_
-
-Large language models (LLMs) are increasingly deployed as economic agents, yet there is little evidence whether LLM agents are suited for participating in market mechanisms designed for humans, and whether these mechanisms deliver desired outcomes when faced with LLM agents. We address this question by replicating seminal economic experiments, replacing human subjects with LLM agents. We place agents in a double auction environment, which is a widely-used market mechanism. We check whether such a market is able to deliver an efficient allocation of resources, thereby testing a novel dimension ...
-
----
-
-### [Approximately Efficient Multidimensional Bilateral Trade](https://doi.org/10.48550/arxiv.2609.02872)
-*Aviad Rubinstein, Xizhi Tan, Zixin Zhou* — **openalex ssrn**, 2026-09-02 — _International Economics, method:Theory_
-
-A central challenge in mechanism design is to develop truthful trade mechanisms that maximize the expected gains-from-trade (GFT) in two-sided markets. Because achieving the full GFT is generally impossible, the literature has focused on constant-factor approximations---a notoriously difficult problem even in simple settings. It was only recently that a breakthrough result by [DMSW22] achieved a constant-factor approximation for single-item bilateral trade. The same guarantee was later extended to single-dimensional matching markets with general downward-closed constraints [BRTW26]. Most exist...
-
----
-
 ## Law & Economics
 
-### [Rights by Architecture: A Human-Compatible Sociotechnical Layer for Digital Protection Across Regulatory Regimes](https://doi.org/10.48550/arxiv.2609.02455)
-*Soheil Human* — **openalex ssrn**, 2026-09-02 — _Law & Economics_
+### [After Cheap Discovery: From unknown to known-and-unfixed](https://doi.org/10.48550/arxiv.2609.03266)
+*Bahman Sistany* — **openalex ssrn**, 2026-09-03 — _Law & Economics_
 
-Digital rights increasingly exist in law but remain difficult to exercise through the information systems that mediate them. Using disciplined conceptual synthesis and problematization, this critical-conceptual IS paper explains the gap through the interaction of legal heterogeneity, conflicting organizational and commercial incentives, fragmented architectures, and asymmetrical control over rights-relevant acts. It then theorizes a human-compatible rights layer: a governed sociotechnical capability for standardized, machine-readable, bidirectional, and jurisdictionally plural communication of...
+Automated vulnerability discovery has removed the scarcity of expert attention that protected most software. The response has concentrated on discovery and on repair, and both are becoming cheaper. This article argues that neither cost curve determines exposure. What determines it is remediation coverage at the release decision: the fraction of identified vulnerabilities fixed before a product ships, and the residue of known, assessed, unremediated flaws an organisation has decided to ship with. Four arguments follow. The residue is not a random sample of what was found, because triage sorts o...
 
 ---
 
@@ -73,13 +66,6 @@ Digital rights increasingly exist in law but remain difficult to exercise throug
 
 ### [Sequential Pricing Mechanisms for Surplus Division](https://arxiv.org/abs/2609.02773v1)
 *Yukihiko Funaki, Yukio Koriyama, Matias Nunez, Giacomo Rostagno* — **arxiv**, 2026-09-02 — _Microeconomics, method:Theory_
-
-Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we propose the Price-Accept-and-Choose (PA&C) mechanism, which preserves efficiency while eliminating P&C's first-mover advantage. We then analyze randomized and bidding variants and show that the resulting equilibrium payoffs correspond to standard solutions in transferable utility games: the Center of the Imputation Set value for P&C and the Shapley value for PA&C. In the randomized variants, these solutions arise in expectation; in the bidding variants, they are implemented on every equilibrium path. We further re...
-
----
-
-### [Sequential Pricing Mechanisms for Surplus Division](https://doi.org/10.48550/arxiv.2609.02773)
-*Yukihiko Funaki, Yukio Koriyama, Matias Nunez, Giacomo Rostagno* — **openalex ssrn**, 2026-09-02 — _Microeconomics, method:Theory_
 
 Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we propose the Price-Accept-and-Choose (PA&C) mechanism, which preserves efficiency while eliminating P&C's first-mover advantage. We then analyze randomized and bidding variants and show that the resulting equilibrium payoffs correspond to standard solutions in transferable utility games: the Center of the Imputation Set value for P&C and the Shapley value for PA&C. In the randomized variants, these solutions arise in expectation; in the bidding variants, they are implemented on every equilibrium path. We further re...
 
@@ -108,12 +94,10 @@ We study robust mechanisms when the designer possesses a Bayesian belief over so
 
 ---
 
-## Public Economics
+### [Knowledge-Based Mechanisms](https://doi.org/10.48550/arxiv.2609.03439)
+*Yutong Zhang, Yangfan Zhou* — **openalex ssrn**, 2026-09-03 — _Political Economy_
 
-### [PolERo: Studying Political Evasion in Romanian](https://doi.org/10.48550/arxiv.2609.02391)
-*Gabriel Stefan, Sergiu Nisioi* — **openalex ssrn**, 2026-09-02 — _Public Economics_
-
-Political evasion refers to responses that engage with a question while withholding the requested information. Recent NLP work frames political evasion as a classification task using a two-level taxonomy of response clarity and fine-grained evasion strategies. Existing work on response clarity and evasion classification is limited to English, leaving open whether the taxonomy and model behavior transfer across languages and political contexts. We introduce PolERo, a dataset of 3,574 human-annotated question-answer pairs extracted from official transcripts of five Romanian presidents. We evalua...
+We study robust mechanisms when the designer possesses a Bayesian belief over some components of agents' private information but faces ambiguity over others. The designer evaluates mechanisms by their worst-case performance over all joint distributions consistent with her belief over the Bayesian components. The framework encompasses settings such as multidimensional delegation in which a principal knows the distribution of the state but not the agent's preferences (e.g., his tradeoffs across dimensions), screening in which a seller only has misspecified estimates of buyer preferences, and auc...
 
 ---
 
@@ -185,45 +169,45 @@ Coalition behavior in multi-agent systems appears across four substrates: quantu
 
 ---
 
+### [TIGPO: Temporal Instance-Graph Policy Optimization for Long-Horizon LLM Agents](https://doi.org/10.48550/arxiv.2609.03383)
+*Jinwei Gan* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+Graph-based policy optimization improves credit assignment for long-horizon LLM agents by organizing rollout trajectories into state-transition graphs. However, existing methods construct graphs independently within each policy update, discarding transitions discovered by earlier policies and limiting advantage estimation to small, batch-local rollout groups. We propose \emph{Temporal Instance-Graph Policy Optimization} (TIGPO), which extends graph-based credit assignment across policy updates. TIGPO maintains a persistent transition graph for each task, allowing valid transitions discovered b...
+
+---
+
+### [EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://doi.org/10.48550/arxiv.2609.03846)
+*Zih-Sian Yang, Yi-Hao Chen, Yu-Te Kuan, Cheng-Jui Wu et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, the associated threshold problem inherits the known strong NP-hardness of NSW maximization under identical additive valuations and is strongly NP-complete. We therefore focus on welfare guarantees satisfied by arbitrary EF1 allocations. Although every such allocation is known to achieve an $e^{-1/e}$-approximation to the unrestricted optimal NSW, we identif...
+
+---
+
+### [Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://doi.org/10.48550/arxiv.2609.03786)
+*Kichang Lee, JeongGil Ko* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+This paper uses the Korean Baseball Organization's adoption of the Automated Ball-Strike (ABS) system to audit long-standing claims about contextual bias in human ball-strike calls. Using pitch-level KBO data from 2021 through the available portion of the 2026 season, we model called-strike probability for taken pitches near the strike-zone boundary, with 2022-2023 as the primary human-umpire baseline and ABS seasons (2024 and onward) as a diagnostic benchmark. The strongest evidence concerns count pressure. Relative to 0--0 counts, human umpires called substantially fewer strikes in two-strik...
+
+---
+
+### [GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis](https://doi.org/10.48550/arxiv.2609.03553)
+*Linh Le, Melanie Bui, My Chiffon Nguyen, Zachary Schlosser et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic da...
+
+---
+
+### [Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses](https://doi.org/10.48550/arxiv.2609.03230)
+*Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+
+Requirements engineering (RE) governs the quality of everything downstream in systems engineering (SE); defective requirements that survive review cycles propagate into design rework, schedule delays, and cost overruns. Because requirements are often written in natural language, recent advances in generative AI have raised expectations that large language models (LLMs) can absorb requirement quality assessment, a task otherwise slow and human expertise-intensive. Yet empirical evidence on whether LLMs can be trusted to do so remains scarce. This study presents the first benchmarking analysis o...
+
+---
+
 ### [Dutch Books for Language Models](https://arxiv.org/abs/2609.02797v1)
 *Isaiah Andrews, Suproteem Sarkar* — **arxiv**, 2026-09-02 — _Unclassified_
 
 People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? Users of language models may implicitly trust that these forecasts fall out of a coherent world model. In this paper, we evaluate the coherence of language model probabilistic forecasts through a procedure that builds on a theorem due to de Finetti. We elicit forecasts from language models across events generated from stock returns data. We then use linear programs to compute the largest Dutch-book...
-
----
-
-### [Estimation risk in conditional expectiles](https://arxiv.org/abs/2609.02673v1)
-*Marcelo Fernandes, Vitor Henriques, Eduardo Fonseca Mendes* — **arxiv**, 2026-09-02 — _Unclassified_
-
-We establish the consistency and asymptotic normality of a two-step estimator of conditional expectiles in the context of conditional scale models. We first estimate the conditional variance parameters by quasi-maximum likelihood and then compute the unconditional expectile of the innovations using the empirical distribution of the standardized residuals. We show how replacing true innovations with standardized residuals affects the asymptotic variances of both conditional and unconditional expectile estimators. Finally, our empirical analysis reveals that conditional expectiles assess tail ri...
-
----
-
-### [Strategic Centrality and the Emergence of Core-Periphery Networks](https://arxiv.org/abs/2609.02357v1)
-*Itai Arieli, João Correia-da-Silva, Wade Hann-Caruthers, Anna Rubinchik* — **arxiv**, 2026-09-02 — _Unclassified_
-
-We study a network formation game in which agents sponsor links at a linear cost in order to maximize centrality, defined as a weighted sum of walk counts with positive and weakly decreasing weights. This class includes Katz Bonacich centrality and total communicability and captures environments in which access decays with distance. Our main result is a sharp equilibrium characterization: every Nash equilibrium network is core periphery, meaning there exists a set $C$ such that every node is linked to every node in $C$, and there are no other edges. The driving force is that linking to better ...
-
----
-
-### [Equilibrium Architecture in Multi-Battle Contests with Count-Dependent Prizes](https://arxiv.org/abs/2609.02031v1)
-*Zhonghong Kuang, Jingfeng Lu* — **arxiv**, 2026-09-02 — _Unclassified_
-
-Two contestants with possibly different marginal costs compete across identical battlefields governed by a Tullock technology with discriminatory power at most one. A symmetric schedule divides a fixed prize according to the number of victories. Allowing for inactivity, unequal efforts across battlefields, and arbitrary mixed strategies, we prove the existence and uniformity of equilibrium. Equilibrium may be pure, semi-pure (one contestant mixes), or two-sided mixed; in a two-sided mixed equilibrium, each contestant uses at most countably many positive effort levels. Multiple equilibria with ...
-
----
-
-### [Insights on Time-consistent Deep Hedging under Elicitable Dynamic Risk Measures](https://doi.org/10.48550/arxiv.2609.02014)
-*Shuyi Zhang, Frédéric Godin* — **openalex ssrn**, 2026-09-02 — _Unclassified_
-
-We study deep hedging in the context of dynamics risk measures, where sequential decisions are time-consistent. Whereas the literature in such context mainly considers low-dimensional problems with simple environment dynamics, we tackle the high-dimensional problem of basket option hedging; we show that the approach is feasible and can be used conveniently in the presence of more complex state spaces. We rely on the conditional elicitability of spectral risk measures to represent the optimization objective. We provide insights on how the choice of scoring function impacts the training of the h...
-
----
-
-### [Equilibrium Architecture in Multi-Battle Contests with Count-Dependent Prizes](https://doi.org/10.48550/arxiv.2609.02031)
-*Zhonghong Kuang, Jingfeng Lu* — **openalex ssrn**, 2026-09-02 — _Unclassified_
-
-Two contestants with possibly different marginal costs compete across identical battlefields governed by a Tullock technology with discriminatory power at most one. A symmetric schedule divides a fixed prize according to the number of victories. Allowing for inactivity, unequal efforts across battlefields, and arbitrary mixed strategies, we prove the existence and uniformity of equilibrium. Equilibrium may be pure, semi-pure (one contestant mixes), or two-sided mixed; in a two-sided mixed equilibrium, each contestant uses at most countably many positive effort levels. Multiple equilibria with ...
 
 ---
 
@@ -236,11 +220,25 @@ I provide the first analytic construction of a canonical Aiyagari economy exhibi
 
 ---
 
+### [Proof of Steady-State Multiplicity in Aiyagari](https://doi.org/10.48550/arxiv.2609.03730)
+*Kieran James Walsh* — **openalex ssrn**, 2026-09-03 — _Urban, Rural & Regional Economics_
+
+I provide the first analytic construction of a canonical Aiyagari economy exhibiting at least three steady states. Along the way, I provide new upper and lower bounds on the stationary capital supply for the case where the net return on saving is negative. I also give parameter restrictions that guarantee the existence of a steady state with a rental rate in the neighborhood of a remarkably simple number: the capital share times the depreciation rate.
+
+---
+
 ## method:Theory
 
 ### [Tournaments with Managerial Discretion](https://arxiv.org/abs/2609.04068v1)
 *Peiran Xiao, Hashim Zaman* — **arxiv**, 2026-09-03 — _method:Theory_
 
 We study tournaments with managerial discretion in hiring. A manager selects a coworker from a pool of candidates and then competes against him in a Lazear--Rosen--style tournament with a prize equal to a share of total output. A profit-maximizing principal sets the prize share together with a head start (or handicap)---an advantage (or disadvantage) in the output comparison---granted to the manager. The head start affects output through three channels: (i) encouraging the manager, (ii) discouraging the new hire, and (iii) inducing the manager to hire a stronger candidate. The hiring effect do...
+
+---
+
+### [Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution](https://doi.org/10.48550/arxiv.2609.03474)
+*Elaine Shi, Mengqian Zhang, Hao Chung, Yuhao Li* — **openalex ssrn**, 2026-09-03 — _method:Theory_
+
+Miner extractable value (MEV) in automated market makers allows block builders to profit from transaction ordering and injected trades, imposing costs on users and contributing to builder centralization. We introduce Otter (Optimal Truthful Trading with Excess Redistribution), a two-asset batch AMM that achieves provable MEV resilience when the consensus layer provides censorship resilience and block space is uncongested. Otter makes truthful behavior a dominant strategy for both users and builders. Consequently, a builder cannot profit from strategic deviations, including reordering bids or i...
 
 ---
