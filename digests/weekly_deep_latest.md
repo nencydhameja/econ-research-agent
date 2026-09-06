@@ -13,7 +13,7 @@ Coalition behavior in multi-agent systems appears across four substrates: quantu
 
 ## 2. EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments
 
-### [EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://doi.org/10.48550/arxiv.2609.03846)
+### [EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846)
 *Zih-Sian Yang, Yi-Hao Chen, Yu-Te Kuan, Cheng-Jui Wu et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, the associated threshold problem inherits the known strong NP-hardness of NSW maximization under identical additive valuations and is strongly NP-complete. We therefore focus on welfare guarantees satisfied by arbitrary EF1 allocations. Although every such allocation is known to achieve an $e^{-1/e}$-approximation to the unrestricted optimal NSW, we identif...
@@ -22,7 +22,7 @@ We study the allocation of indivisible goods among agents with identical additiv
 
 ## 3. Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition
 
-### [Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://doi.org/10.48550/arxiv.2609.03786)
+### [Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786)
 *Kichang Lee, JeongGil Ko* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 This paper uses the Korean Baseball Organization's adoption of the Automated Ball-Strike (ABS) system to audit long-standing claims about contextual bias in human ball-strike calls. Using pitch-level KBO data from 2021 through the available portion of the 2026 season, we model called-strike probability for taken pitches near the strike-zone boundary, with 2022-2023 as the primary human-umpire baseline and ABS seasons (2024 and onward) as a diagnostic benchmark. The strongest evidence concerns count pressure. Relative to 0--0 counts, human umpires called substantially fewer strikes in two-strik...
@@ -31,7 +31,7 @@ This paper uses the Korean Baseball Organization's adoption of the Automated Bal
 
 ## 4. GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis
 
-### [GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis](https://doi.org/10.48550/arxiv.2609.03553)
+### [GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis](https://arxiv.org/abs/2609.03553)
 *Linh Le, Melanie Bui, My Chiffon Nguyen, Zachary Schlosser et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic da...
@@ -40,7 +40,7 @@ Policy analysis requires more than predicting whether a proposal will pass: it r
 
 ## 5. Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses
 
-### [Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses](https://doi.org/10.48550/arxiv.2609.03230)
+### [Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses](https://arxiv.org/abs/2609.03230)
 *Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 Requirements engineering (RE) governs the quality of everything downstream in systems engineering (SE); defective requirements that survive review cycles propagate into design rework, schedule delays, and cost overruns. Because requirements are often written in natural language, recent advances in generative AI have raised expectations that large language models (LLMs) can absorb requirement quality assessment, a task otherwise slow and human expertise-intensive. Yet empirical evidence on whether LLMs can be trusted to do so remains scarce. This study presents the first benchmarking analysis o...
@@ -49,7 +49,7 @@ Requirements engineering (RE) governs the quality of everything downstream in sy
 
 ## 6. Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution
 
-### [Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution](https://doi.org/10.48550/arxiv.2609.03474)
+### [Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution](https://arxiv.org/abs/2609.03474)
 *Elaine Shi, Mengqian Zhang, Hao Chung, Yuhao Li* — **openalex ssrn**, 2026-09-03 — _method:Theory_
 
 Miner extractable value (MEV) in automated market makers allows block builders to profit from transaction ordering and injected trades, imposing costs on users and contributing to builder centralization. We introduce Otter (Optimal Truthful Trading with Excess Redistribution), a two-asset batch AMM that achieves provable MEV resilience when the consensus layer provides censorship resilience and block space is uncongested. Otter makes truthful behavior a dominant strategy for both users and builders. Consequently, a builder cannot profit from strategic deviations, including reordering bids or i...
@@ -58,7 +58,7 @@ Miner extractable value (MEV) in automated market makers allows block builders t
 
 ## 7. Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage
 
-### [Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage](https://doi.org/10.48550/arxiv.2609.03767)
+### [Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage](https://arxiv.org/abs/2609.03767)
 *Yuxin Xia, Frederik Schiele, Yihong Zhou, Volkan Kumtepeli et al.* — **openalex ssrn**, 2026-09-03 — _Agricultural & Environmental Economics_
 
 Grid-scale battery energy storage can generate revenue by stacking services across electricity and frequency response markets, yet identifying the lifetime profit-maximising stacking strategy remains challenging. Decisions across services are coupled through shared battery system capacity, constrained by system operator energy management rules, and further shaped by product-specific technical requirements that govern system operation, degradation, and lifetime profitability. This paper presents an ageing-aware receding-horizon framework for co-optimising multi-service stacking that explicitly ...
@@ -67,7 +67,7 @@ Grid-scale battery energy storage can generate revenue by stacking services acro
 
 ## 8. Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin
 
-### [Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin](https://doi.org/10.48550/arxiv.2609.03437)
+### [Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin](https://arxiv.org/abs/2609.03437)
 *Seung Ho Choi, Seoin Jang, Hyunwoo Lee, Hayoung Choi* — **openalex ssrn**, 2026-09-03 — _International Economics_
 
 This study examines cross-asset connectedness in an international financial network of major exchange rates, gold futures, and Bitcoin. Moving beyond the conventional net transmitter--receiver classification, we characterize asset roles through three complementary dimensions: direct spillover transmission, stationary source-tracing dynamics, and multistep upstream connectivity. Return spillovers are estimated using VAR generalized forecast-error variance decomposition (VAR-GFEVD). The positive pairwise net-spillover structure is then mapped into a row-stochastic Markov kernel whose transitions...
