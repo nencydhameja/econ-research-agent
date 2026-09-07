@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-06
+# Economics Research Digest — 2026-09-07
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -8,6 +8,15 @@ Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 *Yuxin Xia, Frederik Schiele, Yihong Zhou, Volkan Kumtepeli et al.* — **openalex ssrn**, 2026-09-03 — _Agricultural & Environmental Economics_
 
 Grid-scale battery energy storage can generate revenue by stacking services across electricity and frequency response markets, yet identifying the lifetime profit-maximising stacking strategy remains challenging. Decisions across services are coupled through shared battery system capacity, constrained by system operator energy management rules, and further shaped by product-specific technical requirements that govern system operation, degradation, and lifetime profitability. This paper presents an ageing-aware receding-horizon framework for co-optimising multi-service stacking that explicitly ...
+
+---
+
+## Econometrics & Methods
+
+### [Identification and Estimation of Intergenerational Income Mobility Measures](https://arxiv.org/abs/2609.04994v1)
+*Alejandro Puerta-Cuartas* — **arxiv**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+
+Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased mac...
 
 ---
 
@@ -30,13 +39,6 @@ When natural disasters strike, individuals, communities, and even entire countri
 
 ---
 
-### [Natural Disasters and the Nonprofit Sector](https://arxiv.org/abs/2609.04136)
-*Mayleen Cortez-Rodriguez* — **openalex ssrn**, 2026-09-03 — _Health, Education & Welfare_
-
-When natural disasters strike, individuals, communities, and even entire countries can suffer. Researchers have studied the impacts of disasters on various factors of interest, from mental health, to poverty, to economic activity. However, the impact of disasters on the nonprofit sector is understudied despite the nonprofit sector's perhaps surprising role in local or national economies as well as its role in disaster response and recovery. Thus, we study the effect of natural disaster damage on different county-level nonprofit outcomes using a panel dataset spanning 1991 to 2021 and causal in...
-
----
-
 ## International Economics
 
 ### [Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin](https://arxiv.org/abs/2609.03437)
@@ -46,28 +48,12 @@ This study examines cross-asset connectedness in an international financial netw
 
 ---
 
-### [Off-policy causal estimation in networks](https://arxiv.org/abs/2609.02756v1)
-*Sahil Loomba, Dean Eckles* — **arxiv**, 2026-09-02 — _International Economics, Urban, Rural & Regional Economics_
-
-In the presence of interference, where the treatment assigned to one unit can affect the outcomes of others, many causal estimands depend on the treatment-assignment policy under which the experiment is conducted. This policy dependence creates a fundamental challenge for off-policy estimation, where the goal is to estimate causal quantities under a hypothetical intervention policy different from the one used to collect data. We study this problem of off-policy estimation of causal effects for heterogeneous Bernoulli policies. By representing exposure-weighted potential outcomes in the biased ...
-
----
-
 ## Law & Economics
 
 ### [After Cheap Discovery: From unknown to known-and-unfixed](https://arxiv.org/abs/2609.03266)
 *Bahman Sistany* — **openalex ssrn**, 2026-09-03 — _Law & Economics_
 
 Automated vulnerability discovery has removed the scarcity of expert attention that protected most software. The response has concentrated on discovery and on repair, and both are becoming cheaper. This article argues that neither cost curve determines exposure. What determines it is remediation coverage at the release decision: the fraction of identified vulnerabilities fixed before a product ships, and the residue of known, assessed, unremediated flaws an organisation has decided to ship with. Four arguments follow. The residue is not a random sample of what was found, because triage sorts o...
-
----
-
-## Microeconomics
-
-### [Sequential Pricing Mechanisms for Surplus Division](https://arxiv.org/abs/2609.02773v1)
-*Yukihiko Funaki, Yukio Koriyama, Matias Nunez, Giacomo Rostagno* — **arxiv**, 2026-09-02 — _Microeconomics, method:Theory_
-
-Extending the Price-and-Choose (P&C) mechanism of Echenique and Nunez (2025), we propose the Price-Accept-and-Choose (PA&C) mechanism, which preserves efficiency while eliminating P&C's first-mover advantage. We then analyze randomized and bidding variants and show that the resulting equilibrium payoffs correspond to standard solutions in transferable utility games: the Center of the Imputation Set value for P&C and the Shapley value for PA&C. In the randomized variants, these solutions arise in expectation; in the bidding variants, they are implemented on every equilibrium path. We further re...
 
 ---
 
@@ -94,10 +80,12 @@ We study robust mechanisms when the designer possesses a Bayesian belief over so
 
 ---
 
-### [Knowledge-Based Mechanisms](https://arxiv.org/abs/2609.03439)
-*Yutong Zhang, Yangfan Zhou* — **openalex ssrn**, 2026-09-03 — _Political Economy_
+## Public Economics
 
-We study robust mechanisms when the designer possesses a Bayesian belief over some components of agents' private information but faces ambiguity over others. The designer evaluates mechanisms by their worst-case performance over all joint distributions consistent with her belief over the Bayesian components. The framework encompasses settings such as multidimensional delegation in which a principal knows the distribution of the state but not the agent's preferences (e.g., his tradeoffs across dimensions), screening in which a seller only has misspecified estimates of buyer preferences, and auc...
+### [Optimal Rates for Agentic Networked Information Aggregation](https://arxiv.org/abs/2609.05318v1)
+*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-04 — _Public Economics_
+
+Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study information aggregation in a networked learning model. The model captures a central pattern in agentic AI: each agent sees only part of the data and passes on only its own conclusion. Their model considers a linear regression problem with the mean squared error (MSE) loss. Agents sit in a DAG and each sees only a subset of the features and its parents' predictions, fits a linear predictor, and passes only its prediction forward. The benchmark is the full-feature learner that sees all raw features. A path of depth $D$...
 
 ---
 
@@ -155,6 +143,27 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?](https://arxiv.org/abs/2609.05372v1)
+*Yong Cai, Agathe Pernoud, Boli Xu* — **arxiv**, 2026-09-04 — _Unclassified_
+
+This paper studies the effects of p-hacking on the bias of published estimates when papers with statistically significant results are selectively published. We show that fast p-hacking---actions that lead to large changes in p-values---always exacerbates the bias from selective publication. On the other hand, slow p-hacking---actions that lead to small changes in p-values---exacerbates bias when selection is weak, but mitigates it when selection is strong. In a model featuring both types of p-hacking, we show that a normality assumption identifies the true distribution of effects as well as th...
+
+---
+
+### [Creators Have Difficulty Abandoning Ideas They Generated](https://arxiv.org/abs/2609.05115v1)
+*Jin Kim, George E. Newman* — **arxiv**, 2026-09-04 — _Unclassified_
+
+Creativity researchers often distinguish between two stages of the creative process: generation versus selection. While much is known about the psychology of idea generation (e.g., the factors that lead to a greater number of novel and useful ideas), less is understood about the nature of selection, or how generation and selection interact. Here we investigate how the act of generating ideas may potentially distort the selection process. Using an incentive-compatible paradigm in which pairs of participants reviewed the same ideas and were rewarded for submitting only high-quality ideas, we fin...
+
+---
+
+### [Belief Updating without Complete Trust](https://arxiv.org/abs/2609.04622v1)
+*Jawwad Noor, Yuzhao Yang* — **arxiv**, 2026-09-04 — _Unclassified_
+
+We represent a non-Bayesian agent as one who does not completely trust the information they receive. The behavioral expression of complete trust lies in a homogeneity property of Bayesian updating: posterior beliefs do not change if a signal is made arbitrarily rare by scaling down its likelihood vector. We show that simply dropping this property and retaining all other Bayesian behavioral properties yields a unique representation where the agent is still Bayesian but has subjective uncertainty over the information structure generating the signal. The representation result is proved using the ...
+
+---
+
 ### [Randomization Inference for Matched Pairs with Binary Outcomes](https://arxiv.org/abs/2609.03227v1)
 *Bob Wilson* — **arxiv**, 2026-09-03 — _Unclassified_
 
@@ -201,13 +210,6 @@ Policy analysis requires more than predicting whether a proposal will pass: it r
 *Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 Requirements engineering (RE) governs the quality of everything downstream in systems engineering (SE); defective requirements that survive review cycles propagate into design rework, schedule delays, and cost overruns. Because requirements are often written in natural language, recent advances in generative AI have raised expectations that large language models (LLMs) can absorb requirement quality assessment, a task otherwise slow and human expertise-intensive. Yet empirical evidence on whether LLMs can be trusted to do so remains scarce. This study presents the first benchmarking analysis o...
-
----
-
-### [Dutch Books for Language Models](https://arxiv.org/abs/2609.02797v1)
-*Isaiah Andrews, Suproteem Sarkar* — **arxiv**, 2026-09-02 — _Unclassified_
-
-People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? Users of language models may implicitly trust that these forecasts fall out of a coherent world model. In this paper, we evaluate the coherence of language model probabilistic forecasts through a procedure that builds on a theorem due to de Finetti. We elicit forecasts from language models across events generated from stock returns data. We then use linear programs to compute the largest Dutch-book...
 
 ---
 
