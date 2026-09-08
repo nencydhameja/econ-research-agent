@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-07
+# Weekly Deep-Reading Queue — week of 2026-09-08
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -11,7 +11,52 @@ Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study in
 
 ---
 
-## 2. The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination
+## 2. LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models
+
+### [LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models](https://doi.org/10.48550/arxiv.2609.04866)
+*Iias Faiud, Hossein Khaleghy, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _Agricultural & Environmental Economics_
+
+Recent advances in large language models (LLMs) create opportunities to enrich simulation-based energy policy analysis, particularly by supporting structured behavioural assumptions and exploratory techno-economic scenarios. However, directly replacing adoption models with LLM reasoning raises concerns regarding interpretability, reproducibility, and behavioural validity. This paper proposes a hybrid framework for LLM-assisted specification design, integrating bounded behavioural rubrics and structured scenario specifications into a calibrated agent-based model (ABM) of solar photovoltaic (PV)...
+
+---
+
+## 3. PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting
+
+### [PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting](https://doi.org/10.48550/arxiv.2609.05235)
+*Maryam Fakhari, Mehran Safayani* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+
+Cryptocurrency markets exhibit extreme volatility and non-stationary dynamics that challenge conventional forecasting methods. Although Large Language Models (LLMs) have shown promise for time series forecasting, the combined effects of adaptation choices remain largely unexplored in financial settings. This study introduces PRICE, a structured approach for adapting LLMs to short-term Bitcoin price forecasting. Built on a 4-bit quantized LLaMA-3 8B model, PRICE investigates how fine-tuning, numerical representation, prompting, inference, and decoding jointly influence forecasting performance. ...
+
+---
+
+## 4. Pricing rides as option contracts: guarantees and memberships under travel-time uncertainty
+
+### [Pricing rides as option contracts: guarantees and memberships under travel-time uncertainty](https://doi.org/10.48550/arxiv.2609.04618)
+*Mohamad Elmasri, Mingze Li, Yunran Wei* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+
+Modern ride-share platforms must commit to a price before a trip is taken, yet the realized fare depends on travel time that is uncertain at the moment of sale, which can occur days in advance. The upfront price thus decomposes into the expected fare and the premium on an insurance claim whose payoff is the shortfall between the realized and promised prices. This work computes the fair premium for such a claim, following from contingent-claim pricing. Recent advances in travel-time distribution modeling cast the asymptotic distribution of travel time as a Brownian motion on a metric graph carr...
+
+---
+
+## 5. Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing
+
+### [Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing](https://doi.org/10.48550/arxiv.2609.04917)
+*Linsen Zhu, Mengqing Cai* — **openalex ssrn**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+
+Artificial intelligence (AI) now supports investment workflows from data and prediction through research, portfolios, execution, and tool use. Technical capability, however, is not evidence of investment profitability. This critical state-of-the-art review examines public research available through 31 August 2026 on listed equities, exchange-traded funds, centralized crypto spot, perpetual futures, and on-chain markets. We organize evidence with an alpha-translation chain: point-in-time information must yield a stable signal, feasible positions, executable orders, and risk-adjusted returns aft...
+
+---
+
+## 6. Reinforcement Learning for Sequential Solar PV Policy Design under Uncertainty: An Agent-Based Approach
+
+### [Reinforcement Learning for Sequential Solar PV Policy Design under Uncertainty: An Agent-Based Approach](https://doi.org/10.48550/arxiv.2609.04880)
+*Iias Faiud, Jonaid Shianifar, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _International Economics_
+
+Designing effective and fiscally sustainable policies for solar photovoltaic (PV) adoption requires balancing adoption gains against public expenditure under uncertainty and heterogeneous decision-making. This study formulates PV policy design as a sequential decision problem and integrates reinforcement learning (RL) with a stochastic agent-based model (ABM) that simulates yearly solar PV adoption under uncertainty. A policymaker agent selects annual incentives, including capital grants, subsidised loan rates, and feed-in tariffs, over a 16-year horizon. Adoption--cost trade-offs are explored...
+
+---
+
+## 7. The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination
 
 ### [The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination](https://arxiv.org/abs/2604.19784)
 *Daniel Bilar* — **openalex ssrn**, 2026-09-03 — _Unclassified_
@@ -20,56 +65,11 @@ Coalition behavior in multi-agent systems appears across four substrates: quantu
 
 ---
 
-## 3. EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments
+## 8. EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments
 
 ### [EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846)
 *Zih-Sian Yang, Yi-Hao Chen, Yu-Te Kuan, Cheng-Jui Wu et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
 
 We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, the associated threshold problem inherits the known strong NP-hardness of NSW maximization under identical additive valuations and is strongly NP-complete. We therefore focus on welfare guarantees satisfied by arbitrary EF1 allocations. Although every such allocation is known to achieve an $e^{-1/e}$-approximation to the unrestricted optimal NSW, we identif...
-
----
-
-## 4. Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition
-
-### [Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786)
-*Kichang Lee, JeongGil Ko* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-This paper uses the Korean Baseball Organization's adoption of the Automated Ball-Strike (ABS) system to audit long-standing claims about contextual bias in human ball-strike calls. Using pitch-level KBO data from 2021 through the available portion of the 2026 season, we model called-strike probability for taken pitches near the strike-zone boundary, with 2022-2023 as the primary human-umpire baseline and ABS seasons (2024 and onward) as a diagnostic benchmark. The strongest evidence concerns count pressure. Relative to 0--0 counts, human umpires called substantially fewer strikes in two-strik...
-
----
-
-## 5. GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis
-
-### [GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis](https://arxiv.org/abs/2609.03553)
-*Linh Le, Melanie Bui, My Chiffon Nguyen, Zachary Schlosser et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic da...
-
----
-
-## 6. Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses
-
-### [Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses](https://arxiv.org/abs/2609.03230)
-*Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-Requirements engineering (RE) governs the quality of everything downstream in systems engineering (SE); defective requirements that survive review cycles propagate into design rework, schedule delays, and cost overruns. Because requirements are often written in natural language, recent advances in generative AI have raised expectations that large language models (LLMs) can absorb requirement quality assessment, a task otherwise slow and human expertise-intensive. Yet empirical evidence on whether LLMs can be trusted to do so remains scarce. This study presents the first benchmarking analysis o...
-
----
-
-## 7. Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution
-
-### [Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution](https://arxiv.org/abs/2609.03474)
-*Elaine Shi, Mengqian Zhang, Hao Chung, Yuhao Li* — **openalex ssrn**, 2026-09-03 — _method:Theory_
-
-Miner extractable value (MEV) in automated market makers allows block builders to profit from transaction ordering and injected trades, imposing costs on users and contributing to builder centralization. We introduce Otter (Optimal Truthful Trading with Excess Redistribution), a two-asset batch AMM that achieves provable MEV resilience when the consensus layer provides censorship resilience and block space is uncongested. Otter makes truthful behavior a dominant strategy for both users and builders. Consequently, a builder cannot profit from strategic deviations, including reordering bids or i...
-
----
-
-## 8. Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage
-
-### [Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage](https://arxiv.org/abs/2609.03767)
-*Yuxin Xia, Frederik Schiele, Yihong Zhou, Volkan Kumtepeli et al.* — **openalex ssrn**, 2026-09-03 — _Agricultural & Environmental Economics_
-
-Grid-scale battery energy storage can generate revenue by stacking services across electricity and frequency response markets, yet identifying the lifetime profit-maximising stacking strategy remains challenging. Decisions across services are coupled through shared battery system capacity, constrained by system operator energy management rules, and further shaped by product-specific technical requirements that govern system operation, degradation, and lifetime profitability. This paper presents an ageing-aware receding-horizon framework for co-optimising multi-service stacking that explicitly ...
 
 ---

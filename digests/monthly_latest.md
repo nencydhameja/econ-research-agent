@@ -1,13 +1,20 @@
-# Economics Research Digest — 2026-09-07
+# Economics Research Digest — 2026-09-08
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Lifetime Profit-Maximising Co-optimisation of Multi-Service Stacking for Battery Storage](https://arxiv.org/abs/2609.03767)
-*Yuxin Xia, Frederik Schiele, Yihong Zhou, Volkan Kumtepeli et al.* — **openalex ssrn**, 2026-09-03 — _Agricultural & Environmental Economics_
+### [Locational Marginal Pricing for Adaptive Robust Look-Ahead Dispatch with Casual Affine Recourse](https://doi.org/10.48550/arxiv.2609.05156)
+*Aidan Looney, Qian Zhang, Le Xie* — **openalex ssrn**, 2026-09-04 — _Agricultural & Environmental Economics_
 
-Grid-scale battery energy storage can generate revenue by stacking services across electricity and frequency response markets, yet identifying the lifetime profit-maximising stacking strategy remains challenging. Decisions across services are coupled through shared battery system capacity, constrained by system operator energy management rules, and further shaped by product-specific technical requirements that govern system operation, degradation, and lifetime profitability. This paper presents an ageing-aware receding-horizon framework for co-optimising multi-service stacking that explicitly ...
+This paper develops a marginal pricing mechanism for adaptive robust look-ahead economic dispatch (LAED) under net-load uncertainty. In current market practice, deterministic multi-interval dispatch can misprice flexibility when forecast error is large. Fully adaptive robust (FAR) dispatch captures this uncertainty, but competing worst-case trajectories can imply different marginal values of demand, leaving no single price for market settlement. We propose causal affine recourse (CAR) as a tractable, price-forming approximation. CAR replaces independently optimized trajectory-specific schedule...
+
+---
+
+### [LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models](https://doi.org/10.48550/arxiv.2609.04866)
+*Iias Faiud, Hossein Khaleghy, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _Agricultural & Environmental Economics_
+
+Recent advances in large language models (LLMs) create opportunities to enrich simulation-based energy policy analysis, particularly by supporting structured behavioural assumptions and exploratory techno-economic scenarios. However, directly replacing adoption models with LLM reasoning raises concerns regarding interpretability, reproducibility, and behavioural validity. This paper proposes a hybrid framework for LLM-assisted specification design, integrating bounded behavioural rubrics and structured scenario specifications into a calibrated agent-based model (ABM) of solar photovoltaic (PV)...
 
 ---
 
@@ -17,6 +24,20 @@ Grid-scale battery energy storage can generate revenue by stacking services acro
 *Alejandro Puerta-Cuartas* — **arxiv**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
 
 Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased mac...
+
+---
+
+### [Identification and Estimation of Intergenerational Income Mobility Measures](https://doi.org/10.48550/arxiv.2609.04994)
+*Alejandro Puerta* — **openalex ssrn**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+
+Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased mac...
+
+---
+
+### [Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing](https://doi.org/10.48550/arxiv.2609.04917)
+*Linsen Zhu, Mengqing Cai* — **openalex ssrn**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+
+Artificial intelligence (AI) now supports investment workflows from data and prediction through research, portfolios, execution, and tool use. Technical capability, however, is not evidence of investment profitability. This critical state-of-the-art review examines public research available through 31 August 2026 on listed equities, exchange-traded funds, centralized crypto spot, perpetual futures, and on-chain markets. We organize evidence with an alpha-translation chain: point-in-time information must yield a stable signal, feasible positions, executable orders, and risk-adjusted returns aft...
 
 ---
 
@@ -41,19 +62,17 @@ When natural disasters strike, individuals, communities, and even entire countri
 
 ## International Economics
 
-### [Markovian Shock-Source Tracing and Multidimensional Asset Roles in Exchange Rates, Gold Futures, and Bitcoin](https://arxiv.org/abs/2609.03437)
-*Seung Ho Choi, Seoin Jang, Hyunwoo Lee, Hayoung Choi* — **openalex ssrn**, 2026-09-03 — _International Economics_
+### [Convex Modeling of Price Cross-Impact over Time](https://doi.org/10.48550/arxiv.2609.04712)
+*Vincent Yinjun-Wang, Madeleine Udell* — **openalex ssrn**, 2026-09-04 — _International Economics_
 
-This study examines cross-asset connectedness in an international financial network of major exchange rates, gold futures, and Bitcoin. Moving beyond the conventional net transmitter--receiver classification, we characterize asset roles through three complementary dimensions: direct spillover transmission, stationary source-tracing dynamics, and multistep upstream connectivity. Return spillovers are estimated using VAR generalized forecast-error variance decomposition (VAR-GFEVD). The positive pairwise net-spillover structure is then mapped into a row-stochastic Markov kernel whose transitions...
+Transaction costs can make or break a trading strategy, particularly in relative-value trading of commodity and macro markets, where edges are a few basis points. Price impact is a central component of transaction cost. Price impact models usually include self-impact (a trade in a contract moves that contract's price) but omit two well-documented effects: cross-impact (a trade in one contract also moves the prices of related contracts) and transient impact (price impact decays over time, so an unwind recovers part of the entry cost). A model without these effects overprices the impact of relat...
 
 ---
 
-## Law & Economics
+### [Reinforcement Learning for Sequential Solar PV Policy Design under Uncertainty: An Agent-Based Approach](https://doi.org/10.48550/arxiv.2609.04880)
+*Iias Faiud, Jonaid Shianifar, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _International Economics_
 
-### [After Cheap Discovery: From unknown to known-and-unfixed](https://arxiv.org/abs/2609.03266)
-*Bahman Sistany* — **openalex ssrn**, 2026-09-03 — _Law & Economics_
-
-Automated vulnerability discovery has removed the scarcity of expert attention that protected most software. The response has concentrated on discovery and on repair, and both are becoming cheaper. This article argues that neither cost curve determines exposure. What determines it is remediation coverage at the release decision: the fraction of identified vulnerabilities fixed before a product ships, and the residue of known, assessed, unremediated flaws an organisation has decided to ship with. Four arguments follow. The residue is not a random sample of what was found, because triage sorts o...
+Designing effective and fiscally sustainable policies for solar photovoltaic (PV) adoption requires balancing adoption gains against public expenditure under uncertainty and heterogeneous decision-making. This study formulates PV policy design as a sequential decision problem and integrates reinforcement learning (RL) with a stochastic agent-based model (ABM) that simulates yearly solar PV adoption under uncertainty. A policymaker agent selects annual incentives, including capital grants, subsidised loan rates, and feed-in tariffs, over a 16-year horizon. Adoption--cost trade-offs are explored...
 
 ---
 
@@ -73,19 +92,19 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Knowledge-Based Mechanisms](https://arxiv.org/abs/2609.03439v1)
-*Yutong Zhang, Yangfan Zhou* — **arxiv**, 2026-09-03 — _Political Economy_
-
-We study robust mechanisms when the designer possesses a Bayesian belief over some components of agents' private information but faces ambiguity over others. The designer evaluates mechanisms by their worst-case performance over all joint distributions consistent with her belief over the Bayesian components. The framework encompasses settings such as multidimensional delegation in which a principal knows the distribution of the state but not the agent's preferences (e.g., his tradeoffs across dimensions), screening in which a seller only has misspecified estimates of buyer preferences, and auc...
-
----
-
 ## Public Economics
 
 ### [Optimal Rates for Agentic Networked Information Aggregation](https://arxiv.org/abs/2609.05318v1)
 *MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-04 — _Public Economics_
 
 Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study information aggregation in a networked learning model. The model captures a central pattern in agentic AI: each agent sees only part of the data and passes on only its own conclusion. Their model considers a linear regression problem with the mean squared error (MSE) loss. Agents sit in a DAG and each sees only a subset of the features and its parents' predictions, fits a linear predictor, and passes only its prediction forward. The benchmark is the full-feature learner that sees all raw features. A path of depth $D$...
+
+---
+
+### [ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies](https://doi.org/10.48550/arxiv.2609.04667)
+*Xinran Zhang, Pengrui Lu, Lyumanshan Ye, Pengfei Liu* — **openalex ssrn**, 2026-09-04 — _Public Economics_
+
+Large language model (LLM) agents are increasingly proposed for enterprise workflows, yet existing evaluations rarely test whether business-decision conclusions transfer across competitive market ecologies. We introduce ERPBench, an execution-instrumented benchmark for enterprise decision agents in a six-round Enterprise Resource Planning (ERP) simulation with coupled pricing, production, procurement, inventory, finance, and shared-market competition. ERPBench evaluates the same 100 fixed problems in two matched competitive market ecologies: Solo, where each evaluated LLM agent competes agains...
 
 ---
 
@@ -136,13 +155,6 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
-*KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-08-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
 ### [Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?](https://arxiv.org/abs/2609.05372v1)
 *Yong Cai, Agathe Pernoud, Boli Xu* — **arxiv**, 2026-09-04 — _Unclassified_
 
@@ -164,68 +176,61 @@ We represent a non-Bayesian agent as one who does not completely trust the infor
 
 ---
 
-### [Randomization Inference for Matched Pairs with Binary Outcomes](https://arxiv.org/abs/2609.03227v1)
-*Bob Wilson* — **arxiv**, 2026-09-03 — _Unclassified_
+### [Tensor-Network Inference in a Field-Coupled XY Model for Portfolio Allocation](https://doi.org/10.48550/arxiv.2609.05045)
+*Kartikeya Chowdhry, G Subrahmanya V. R. K. Rao* — **openalex ssrn**, 2026-09-04 — _Unclassified_
 
-We give an exact randomization-based confidence set for the average treatment effect (ATE) in matched-pair studies with a binary outcome, requiring neither monotonicity nor any distributional assumption beyond the within-pair coin flip. At its core is an analytic solution to the worst-case allocation of attributable effects: two binomial-symmetry lemmas identify the pattern hardest to reject as a single boundary corner, so testing null hypotheses needs no integer program and no numerical search. Inverting the test via binary search yields a prediction set for the attributable effect in O(log S...
-
----
-
-### [The Shibboleth Lattice: Recognition Channels and the Universality of In-Group Coordination](https://arxiv.org/abs/2604.19784)
-*Daniel Bilar* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-Coalition behavior in multi-agent systems appears across four substrates: quantum entanglement, evolutionary covert-tag recognition, engineered handshake codes, and emergent relational memory in frontier language models. These are treated as instances of one structure: a joint action distribution over an inside set of agents that fails to factor when conditioned on what an outside principal can observe. The structure is a binding operator B = (S, I, Wagents, Wapparatus, ρ, χ, χactual) with recognition-channel proxy κH, the principal-relative uncertainty coefficient on the channel through which...
+We apply tensor-network methods to a field-coupled XY model for long-only portfolio construction. Daily return statistics set asset-specific fields and correlation couplings. Correlation distance, four-point Gromov hyperbolicity, and Ward clustering are used to construct a sparse interaction path. A Fourier-Bessel expansion maps the continuous angular partition function to a finite-current tensor network; bottom-up and top-down contractions then give the one-site marginals and equilibrium cosine scores. A softmax map converts these scores into positive, fully invested portfolio weights. We stu...
 
 ---
 
-### [TIGPO: Temporal Instance-Graph Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.03383)
-*Jinwei Gan* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+### [How Faithful Is Attribution for Sales Forecasting? A Counterfactual Study](https://doi.org/10.48550/arxiv.2609.04797)
+*Glib Kechyn* — **openalex ssrn**, 2026-09-04 — _Unclassified_
 
-Graph-based policy optimization improves credit assignment for long-horizon LLM agents by organizing rollout trajectories into state-transition graphs. However, existing methods construct graphs independently within each policy update, discarding transitions discovered by earlier policies and limiting advantage estimation to small, batch-local rollout groups. We propose \emph{Temporal Instance-Graph Policy Optimization} (TIGPO), which extends graph-based credit assignment across policy updates. TIGPO maintains a persistent transition graph for each task, allowing valid transitions discovered b...
-
----
-
-### [EF1-Constrained Nash Social Welfare with Identical Additive Valuations: Complexity, Guarantees, and Experiments](https://arxiv.org/abs/2609.03846)
-*Zih-Sian Yang, Yi-Hao Chen, Yu-Te Kuan, Cheng-Jui Wu et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, the associated threshold problem inherits the known strong NP-hardness of NSW maximization under identical additive valuations and is strongly NP-complete. We therefore focus on welfare guarantees satisfied by arbitrary EF1 allocations. Although every such allocation is known to achieve an $e^{-1/e}$-approximation to the unrestricted optimal NSW, we identif...
+Deep models for sales forecasting, such as WaveNet-style dilated convolutional networks, are accurate but opaque: when a single model predicts sales for one of many series, it offers no account of why. We add a post-hoc, architecture-agnostic counterfactual interpretability layer to a multi-series WaveNet forecaster trained on the full Corporacion Favorita grocery dataset (174,685 series over 1,688 days). The method decomposes each forecast into contributions that sum exactly to the predicted value, avoiding the allocation artifacts we observed with additive SHAP-style attribution. We evaluate...
 
 ---
 
-### [Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786)
-*Kichang Lee, JeongGil Ko* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+### [Quantity, Risk, and Return](https://doi.org/10.48550/arxiv.2609.05162)
+*Yu An, Yinan Su, Chen Wang* — **openalex ssrn**, 2026-09-04 — _Unclassified_
 
-This paper uses the Korean Baseball Organization's adoption of the Automated Ball-Strike (ABS) system to audit long-standing claims about contextual bias in human ball-strike calls. Using pitch-level KBO data from 2021 through the available portion of the 2026 season, we model called-strike probability for taken pitches near the strike-zone boundary, with 2022-2023 as the primary human-umpire baseline and ABS seasons (2024 and onward) as a diagnostic benchmark. The strongest evidence concerns count pressure. Relative to 0--0 counts, human umpires called substantially fewer strikes in two-strik...
-
----
-
-### [GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis](https://arxiv.org/abs/2609.03553)
-*Linh Le, Melanie Bui, My Chiffon Nguyen, Zachary Schlosser et al.* — **openalex ssrn**, 2026-09-03 — _Unclassified_
-
-Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic da...
+We propose a new model of expected stock returns that incorporates quantity information from market trading activities into the factor pricing framework. We posit that the expected return of a stock is determined by not only its factor risk exposures (beta) but also the factor's quantity fluctuations (q) induced by trading flows, and hence term the model beta times quantity (BTQ). The rationale is that sophisticated investors should demand a higher factor premium when they have absorbed noise trading flows of stocks with high loadings to that factor. The BTQ model provides a compelling risk-ba...
 
 ---
 
-### [Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses](https://arxiv.org/abs/2609.03230)
-*Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu* — **openalex ssrn**, 2026-09-03 — _Unclassified_
+### [PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting](https://doi.org/10.48550/arxiv.2609.05235)
+*Maryam Fakhari, Mehran Safayani* — **openalex ssrn**, 2026-09-04 — _Unclassified_
 
-Requirements engineering (RE) governs the quality of everything downstream in systems engineering (SE); defective requirements that survive review cycles propagate into design rework, schedule delays, and cost overruns. Because requirements are often written in natural language, recent advances in generative AI have raised expectations that large language models (LLMs) can absorb requirement quality assessment, a task otherwise slow and human expertise-intensive. Yet empirical evidence on whether LLMs can be trusted to do so remains scarce. This study presents the first benchmarking analysis o...
-
----
-
-## Urban, Rural & Regional Economics
-
-### [Proof of Steady-State Multiplicity in Aiyagari](https://arxiv.org/abs/2609.03730v1)
-*Kieran James Walsh* — **arxiv**, 2026-09-03 — _Urban, Rural & Regional Economics_
-
-I provide the first analytic construction of a canonical Aiyagari economy exhibiting at least three steady states. Along the way, I provide new upper and lower bounds on the stationary capital supply for the case where the net return on saving is negative. I also give parameter restrictions that guarantee the existence of a steady state with a rental rate in the neighborhood of a remarkably simple number: the capital share times the depreciation rate.
+Cryptocurrency markets exhibit extreme volatility and non-stationary dynamics that challenge conventional forecasting methods. Although Large Language Models (LLMs) have shown promise for time series forecasting, the combined effects of adaptation choices remain largely unexplored in financial settings. This study introduces PRICE, a structured approach for adapting LLMs to short-term Bitcoin price forecasting. Built on a 4-bit quantized LLaMA-3 8B model, PRICE investigates how fine-tuning, numerical representation, prompting, inference, and decoding jointly influence forecasting performance. ...
 
 ---
 
-### [Proof of Steady-State Multiplicity in Aiyagari](https://arxiv.org/abs/2609.03730)
-*Kieran James Walsh* — **openalex ssrn**, 2026-09-03 — _Urban, Rural & Regional Economics_
+### [CABAL: Multi-Agent Simulacra for Tracing the Effects of Collusive Bidding in Peer Review](https://doi.org/10.48550/arxiv.2609.05227)
+*Jicheng Zhou, Kemou Li, Kahim Wong, Zheyuan Li et al.* — **openalex ssrn**, 2026-09-04 — _Unclassified_
 
-I provide the first analytic construction of a canonical Aiyagari economy exhibiting at least three steady states. Along the way, I provide new upper and lower bounds on the stationary capital supply for the case where the net return on saving is negative. I also give parameter restrictions that guarantee the existence of a steady state with a rental rate in the neighborhood of a remarkably simple number: the capital share times the depreciation rate.
+Recent reports during the AAAI-27 review cycle highlight the risk of reviewers coordinating bids for reciprocal assignment advantage. Prior work treats bidding, reviewer assignment, and review manipulation as separate stages, leaving the lifecycle effects of collusive bidding unclear. Real-world analysis is further constrained by typically unobservable collusive intent and the lack of counterfactuals for the same conference. Motivated by this gap, we introduce \alg, an end-to-end multi-agent simulacra framework for studying reviewer assignment integrity by holding the conference environment fi...
+
+---
+
+### [Pricing rides as option contracts: guarantees and memberships under travel-time uncertainty](https://doi.org/10.48550/arxiv.2609.04618)
+*Mohamad Elmasri, Mingze Li, Yunran Wei* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+
+Modern ride-share platforms must commit to a price before a trip is taken, yet the realized fare depends on travel time that is uncertain at the moment of sale, which can occur days in advance. The upfront price thus decomposes into the expected fare and the premium on an insurance claim whose payoff is the shortfall between the realized and promised prices. This work computes the fair premium for such a claim, following from contingent-claim pricing. Recent advances in travel-time distribution modeling cast the asymptotic distribution of travel time as a Brownian motion on a metric graph carr...
+
+---
+
+### [Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?](https://doi.org/10.48550/arxiv.2609.05372)
+*Yong Cai, Agathe Pernoud, Boli Xu* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+
+This paper studies the effects of p-hacking on the bias of published estimates when papers with statistically significant results are selectively published. We show that fast p-hacking---actions that lead to large changes in p-values---always exacerbates the bias from selective publication. On the other hand, slow p-hacking---actions that lead to small changes in p-values---exacerbates bias when selection is weak, but mitigates it when selection is strong. In a model featuring both types of p-hacking, we show that a normality assumption identifies the true distribution of effects as well as th...
+
+---
+
+## method:Natural Experiment
+
+### [Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers](https://doi.org/10.48550/arxiv.2609.05189)
+*Yumiao Li, Peixin Liu, Donglin Di, Chen Li et al.* — **openalex ssrn**, 2026-09-04 — _method:Natural Experiment_
+
+Assessing the impacts of social policy changes is a widely acknowledged challenge for policymakers. Econometric methods can be unreliable when extrapolating to hypothetical scenarios, while field pilot programs are highly costly. In this paper, we propose using large language models (LLMs) as policy-assessment tools adapted from general-purpose models. We present FlexPension-LLM, the first domain-specialized large language model for a hierarchical pension-enrollment prediction task among flexible workers in China, and introduce DKI-RDistill, which injects policy-grounded cues into the prompt, ...
 
 ---
 
@@ -235,12 +240,5 @@ I provide the first analytic construction of a canonical Aiyagari economy exhibi
 *Peiran Xiao, Hashim Zaman* — **arxiv**, 2026-09-03 — _method:Theory_
 
 We study tournaments with managerial discretion in hiring. A manager selects a coworker from a pool of candidates and then competes against him in a Lazear--Rosen--style tournament with a prize equal to a share of total output. A profit-maximizing principal sets the prize share together with a head start (or handicap)---an advantage (or disadvantage) in the output comparison---granted to the manager. The head start affects output through three channels: (i) encouraging the manager, (ii) discouraging the new hire, and (iii) inducing the manager to hire a stronger candidate. The hiring effect do...
-
----
-
-### [Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution](https://arxiv.org/abs/2609.03474)
-*Elaine Shi, Mengqian Zhang, Hao Chung, Yuhao Li* — **openalex ssrn**, 2026-09-03 — _method:Theory_
-
-Miner extractable value (MEV) in automated market makers allows block builders to profit from transaction ordering and injected trades, imposing costs on users and contributing to builder centralization. We introduce Otter (Optimal Truthful Trading with Excess Redistribution), a two-asset batch AMM that achieves provable MEV resilience when the consensus layer provides censorship resilience and block space is uncongested. Otter makes truthful behavior a dominant strategy for both users and builders. Consequently, a builder cannot profit from strategic deviations, including reordering bids or i...
 
 ---
