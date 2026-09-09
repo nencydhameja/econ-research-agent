@@ -1,47 +1,65 @@
-# Economics Research Digest — 2026-09-08
+# Economics Research Digest — 2026-09-09
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 14 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Locational Marginal Pricing for Adaptive Robust Look-Ahead Dispatch with Casual Affine Recourse](https://doi.org/10.48550/arxiv.2609.05156)
-*Aidan Looney, Qian Zhang, Le Xie* — **openalex ssrn**, 2026-09-04 — _Agricultural & Environmental Economics_
+### [The consequences of high SMR operating costs in electricity markets](https://arxiv.org/abs/2609.08929v1)
+*Pradyumna Rao, Daniel T. Kaffine, Bri-Mathias Hodge* — **arxiv**, 2026-09-08 — _Agricultural & Environmental Economics_
 
-This paper develops a marginal pricing mechanism for adaptive robust look-ahead economic dispatch (LAED) under net-load uncertainty. In current market practice, deterministic multi-interval dispatch can misprice flexibility when forecast error is large. Fully adaptive robust (FAR) dispatch captures this uncertainty, but competing worst-case trajectories can imply different marginal values of demand, leaving no single price for market settlement. We propose causal affine recourse (CAR) as a tractable, price-forming approximation. CAR replaces independently optimized trajectory-specific schedule...
+As US power markets contend with growing demand for firm generation, the nuclear industry has offered Small Modular Reactors (SMRs). However, how these concepts would fare in a rapidly evolving power grid is unclear, given the paucity of operational examples. Current literature, informed by substantial cost escalations for traditional nuclear plants, focuses on the investment costs SMRs need to achieve for private investment feasibility. However, this work finds that the operating and marginal costs of SMRs are more critical to economic feasibility in market environments. This work dispatches ...
 
 ---
 
-### [LLM-Assisted Behavioural and Scenario Augmentation for Agent-Based Energy Adoption Models](https://doi.org/10.48550/arxiv.2609.04866)
-*Iias Faiud, Hossein Khaleghy, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _Agricultural & Environmental Economics_
+## Business Economics & Innovation
 
-Recent advances in large language models (LLMs) create opportunities to enrich simulation-based energy policy analysis, particularly by supporting structured behavioural assumptions and exploratory techno-economic scenarios. However, directly replacing adoption models with LLM reasoning raises concerns regarding interpretability, reproducibility, and behavioural validity. This paper proposes a hybrid framework for LLM-assisted specification design, integrating bounded behavioural rubrics and structured scenario specifications into a calibrated agent-based model (ABM) of solar photovoltaic (PV)...
+### [AI Innovation and Firm Performance in the Medical Device Industry](https://arxiv.org/abs/2609.08485v1)
+*Fazliddin Shermatov, Stephane Robin, Aldo Geuna* — **arxiv**, 2026-09-08 — _Business Economics & Innovation, Health, Education & Welfare_
+
+Whether artificial intelligence pays off for the firms that build it into their products is hard to establish, because AI innovation is itself hard to observe. The medical technology sector is a rare exception: an AI-enabled device must obtain clearance from a national health authority before it can reach a patient, leaving a dated, firm-attributable record of AI innovation output that can be observed directly rather than proxied. We exploit this setting with a three-stage recursive model estimated on a novel firm-level dataset linking FDA premarket clearances, USPTO patents, Scopus publicatio...
+
+---
+
+### [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](https://arxiv.org/abs/2609.08166v1)
+*Alexander Crosier, Kyle Onghai, Ronnie Sircar* — **arxiv**, 2026-09-08 — _Business Economics & Innovation_
+
+The twenty-first century's transformative technology, artificial intelligence, is increasingly constrained by the twentieth century's transformative technology, the electricity grid. Rapid growth in electricity demand from data centers is leading to higher electricity prices, without a compensating supply-side response. We develop a framework linking data-center load growth, available generation capacity, and market-clearing prices to understand this phenomenon. We first analyze a deterministic model to show how differing estimates of demand and supply growth rates affect prices. We then model...
 
 ---
 
 ## Econometrics & Methods
 
-### [Identification and Estimation of Intergenerational Income Mobility Measures](https://arxiv.org/abs/2609.04994v1)
-*Alejandro Puerta-Cuartas* — **arxiv**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+### [CausalVerify: An Execution-Grounded Benchmark for LLM Causal Inference Workflows](https://arxiv.org/abs/2609.07944v1)
+*Yonghong Zhang, Ricardo Correia, Isabel M. Parra, Yong Xie* — **arxiv**, 2026-09-07 — _Econometrics & Methods, method:DiD, method:IV, method:RDD_
 
-Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased mac...
-
----
-
-### [Identification and Estimation of Intergenerational Income Mobility Measures](https://doi.org/10.48550/arxiv.2609.04994)
-*Alejandro Puerta* — **openalex ssrn**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
-
-Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased mac...
+Existing causal-inference benchmarks for LLMs mostly score method descriptions or whether generated code runs, not whether the executed workflow recovers the target causal estimate. CausalVerify studies this verification problem for structured econometric causal-estimation workflows by separating realistic interpretation from verifiable computation. It pairs 259 published economics papers (reconstructed research question, data description, institutional context) with 100 fixed-seed synthetic scenarios that realise CSV datasets for difference-in-differences, event study, instrumental variables,...
 
 ---
 
-### [Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing](https://doi.org/10.48550/arxiv.2609.04917)
-*Linsen Zhu, Mengqing Cai* — **openalex ssrn**, 2026-09-04 — _Econometrics & Methods, method:Machine Learning_
+### [Choosing the Dictionary and Penalty for IV-LASSO](https://arxiv.org/abs/2609.07033v1)
+*Yukun Ma, Manu Navjeevan, Bogdan Salahub* — **arxiv**, 2026-09-07 — _Econometrics & Methods, International Economics, method:IV, method:Machine Learning, method:Structural_
 
-Artificial intelligence (AI) now supports investment workflows from data and prediction through research, portfolios, execution, and tool use. Technical capability, however, is not evidence of investment profitability. This critical state-of-the-art review examines public research available through 31 August 2026 on listed equities, exchange-traded funds, centralized crypto spot, perpetual futures, and on-chain markets. We organize evidence with an alpha-translation chain: point-in-time information must yield a stable signal, feasible positions, executable orders, and risk-adjusted returns aft...
+Estimating the first stage of an instrumental variables (IV) model with the least absolute shrinkage and selection operator (LASSO) requires choosing a dictionary of technical instruments and a penalty level. First-order asymptotic theory offers no guidance on these choices, as any consistent implementation yields a structural parameter estimator with the same limiting distribution. In finite samples, however, these choices can have a substantial impact on the resulting structural parameter estimate. Working in a model with a single endogenous regressor and homoskedastic Gaussian errors, we us...
+
+---
+
+## Financial Economics
+
+### [Policy Gains or Household Need? The Allocation Logic of China's Dibao Program](https://arxiv.org/abs/2609.08411v1)
+*Haojie Liu, Jiyuan Ling, Zihan Lin* — **arxiv**, 2026-09-08 — _Financial Economics, Health, Education & Welfare_
+
+When social assistance is scarce, should it prioritize households in greatest need or those expected to benefit most? Using panel data from the China Household Finance Survey, we distinguish allocation principles by combining predicted policy gains with entry into China's Minimum Living Standard Guarantee (Dibao). We estimate heterogeneous predicted gains in consumption and education and then recover the conditional priorities revealed by recipient selection. Predicted gains explain little of allocation: a Shapley decomposition attributes 96.9\% of the improvement in allocation fit to househol...
 
 ---
 
 ## Health, Education & Welfare
+
+### [Self-Fulfilling Prophecies, Quasi Nonergodicity, and Wealth Inequality: A Comment](https://arxiv.org/abs/2609.08198v1)
+*Alexis Akira Toda* — **arxiv**, 2026-09-08 — _Health, Education & Welfare_
+
+Bouchaud and Farmer (2023) argue that self-fulfilling beliefs generate a realistic wealth distribution. Their reported Gini coefficient, quantiles, and Pareto exponent are computed from dynasty-level wealth averaged over 250 dates, not from a cross section. Correcting the estimand strengthens their qualitative result: with $N=1{,}000{,}000$ dynasties, the terminal cross-sectional Gini is 0.883 rather than 0.7, and median wealth is 0.0052 rather than 0.39 of average wealth. The model therefore generates more inequality, but not the reported quantitative fit. Appendix F analyzes a different proc...
+
+---
 
 ### [The Effect of Education Policy on Crime: An Intergenerational Perspective](https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R)
 *Ulrika AhrsjöCostas MeghirMårten PalmeMarieke SchnabelStockholm School of EconomicsYale University, Institute for Fiscal Studies (IFS), National Bureau of
@@ -53,26 +71,30 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Natural Disasters and the Nonprofit Sector](https://arxiv.org/abs/2609.04136v1)
-*Mayleen Cortez-Rodriguez* — **arxiv**, 2026-09-03 — _Health, Education & Welfare_
+## Industrial Organization
 
-When natural disasters strike, individuals, communities, and even entire countries can suffer. Researchers have studied the impacts of disasters on various factors of interest, from mental health, to poverty, to economic activity. However, the impact of disasters on the nonprofit sector is understudied despite the nonprofit sector's perhaps surprising role in local or national economies as well as its role in disaster response and recovery. Thus, we study the effect of natural disaster damage on different county-level nonprofit outcomes using a panel dataset spanning 1991 to 2021 and causal in...
+### [Robust A/B Decisions](https://arxiv.org/abs/2609.07633v1)
+*Max H. Farrell, Malika Korganbekova, Sanjog Misra* — **arxiv**, 2026-09-07 — _Industrial Organization, Microeconomics_
 
----
-
-## International Economics
-
-### [Convex Modeling of Price Cross-Impact over Time](https://doi.org/10.48550/arxiv.2609.04712)
-*Vincent Yinjun-Wang, Madeleine Udell* — **openalex ssrn**, 2026-09-04 — _International Economics_
-
-Transaction costs can make or break a trading strategy, particularly in relative-value trading of commodity and macro markets, where edges are a few basis points. Price impact is a central component of transaction cost. Price impact models usually include self-impact (a trade in a contract moves that contract's price) but omit two well-documented effects: cross-impact (a trade in one contract also moves the prices of related contracts) and transient impact (price impact decays over time, so an unwind recovers part of the entry cost). A model without these effects overprices the impact of relat...
+A/B tests are standard in firm decision making. In the standard pipeline, experimental data is converted to a deployment decision by applying a t-test of the difference in means (the lift) and deploying the treatment if lift is positive and statistically significant. This common workflow answers the wrong question. We argue that firms need a decision rule for economic payoffs in the future deployment environment, not a test of equality in the experimental sample. We develop an ambiguity-averse decision framework in which each arm is evaluated by its ambiguity-penalized value over distributions...
 
 ---
 
-### [Reinforcement Learning for Sequential Solar PV Policy Design under Uncertainty: An Agent-Based Approach](https://doi.org/10.48550/arxiv.2609.04880)
-*Iias Faiud, Jonaid Shianifar, Michael Schukat, Karl Mason* — **openalex ssrn**, 2026-09-04 — _International Economics_
+## Labor & Demographic Economics
 
-Designing effective and fiscally sustainable policies for solar photovoltaic (PV) adoption requires balancing adoption gains against public expenditure under uncertainty and heterogeneous decision-making. This study formulates PV policy design as a sequential decision problem and integrates reinforcement learning (RL) with a stochastic agent-based model (ABM) that simulates yearly solar PV adoption under uncertainty. A policymaker agent selects annual incentives, including capital grants, subsidised loan rates, and feed-in tariffs, over a 16-year horizon. Adoption--cost trade-offs are explored...
+### [An evidence review of worker retraining](https://arxiv.org/abs/2609.07011v1)
+*David Roodman, Maxim Massenkoff* — **arxiv**, 2026-09-07 — _Labor & Demographic Economics_
+
+We review the evidence on subsidized job training programs in industrial countries. We provide critical, narrative summaries of randomized studies of major job training in the US; of two "judge randomization" studies in the US and Denmark; and of previous meta-analyses. We then perform a meta-analysis of 56 randomized trials of job training in the US since 1973, the most exhaustive meta-analysis in this niche. Here, average impacts are positive but modest: employment rises 1.7 percentage points in years 3-5, and annual pre-tax earnings by roughly \$800 per person offered training. At an averag...
+
+---
+
+## Macroeconomics
+
+### [Sign Restrictions and Supply-demand Decompositions of Inflation](https://arxiv.org/abs/2609.06907v1)
+*Matthew Read* — **arxiv**, 2026-09-07 — _Macroeconomics_
+
+Sign restrictions on the slopes of supply and demand curves are often used to identify historical decompositions in structural vector autoregressions. I show that the identifying power of these restrictions depends on both reduced-form parameters and realised forecast errors. Consequently, unlike many other structural objects, the strength of identification cannot be assessed from reduced-form parameters alone. Empirically, identified sets for historical decompositions of US inflation are typically largely uninformative, both in aggregate and in most expenditure categories. Existing inflation ...
 
 ---
 
@@ -85,6 +107,13 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+### [Jointly Satisfying Pareto Optimality and Justified Representation is NP-Hard in Approval-Based Multiwinner Voting](https://arxiv.org/abs/2609.08357v1)
+*Chris Dong* — **arxiv**, 2026-09-08 — _Political Economy_
+
+An open problem in approval-based multiwinner voting concerns whether we can efficiently compute committees that satisfy both justified representation and Pareto optimality. We answer this question negatively by proving that, on the domain of all profiles, outputting a committee satisfying both axioms is NP-hard. An initial proof was found by ChatGPT Astra. This was then verified and rewritten by the author.
+
+---
+
 ### [Rent Guarantee Insurance](https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R)
 *Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research* — **Journal of Political Economy**, 2026-08-10 — _Political Economy_
 
@@ -94,17 +123,10 @@ Journal of Political Economy, Ahead of Print.
 
 ## Public Economics
 
-### [Optimal Rates for Agentic Networked Information Aggregation](https://arxiv.org/abs/2609.05318v1)
-*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-04 — _Public Economics_
+### [Median-based Splitting Rules for Causal Trees and Forests](https://arxiv.org/abs/2609.07888v1)
+*Lennard Maßmann, Karolina Gliszczyńska-Schroeder* — **arxiv**, 2026-09-07 — _Public Economics, method:Machine Learning, method:RCT_
 
-Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study information aggregation in a networked learning model. The model captures a central pattern in agentic AI: each agent sees only part of the data and passes on only its own conclusion. Their model considers a linear regression problem with the mean squared error (MSE) loss. Agents sit in a DAG and each sees only a subset of the features and its parents' predictions, fits a linear predictor, and passes only its prediction forward. The benchmark is the full-feature learner that sees all raw features. A path of depth $D$...
-
----
-
-### [ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies](https://doi.org/10.48550/arxiv.2609.04667)
-*Xinran Zhang, Pengrui Lu, Lyumanshan Ye, Pengfei Liu* — **openalex ssrn**, 2026-09-04 — _Public Economics_
-
-Large language model (LLM) agents are increasingly proposed for enterprise workflows, yet existing evaluations rarely test whether business-decision conclusions transfer across competitive market ecologies. We introduce ERPBench, an execution-instrumented benchmark for enterprise decision agents in a six-round Enterprise Resource Planning (ERP) simulation with coupled pricing, production, procurement, inventory, finance, and shared-market competition. ERPBench evaluates the same 100 fixed problems in two matched competitive market ecologies: Solo, where each evaluated LLM agent competes agains...
+Heavy-tailed and skewed outcomes are common in the randomized experiments and observational studies used to estimate heterogeneous treatment effects, yet the mean-squared-error criterion that guides splitting in honest causal trees is sensitive to the extreme values they generate. Building on the causal forest framework (Athey and Imbens, 2016; Wager and Athey, 2018), we introduce the Median Squared Deviation (MSD) criterion, which replaces the leafwise difference in means in the honest splitting objective with the Hodges--Lehmann location estimator while leaving honest leaf estimation and for...
 
 ---
 
@@ -155,90 +177,78 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?](https://arxiv.org/abs/2609.05372v1)
-*Yong Cai, Agathe Pernoud, Boli Xu* — **arxiv**, 2026-09-04 — _Unclassified_
+### [Designing Spatial Treatments](https://arxiv.org/abs/2609.08335v1)
+*Stefan Faridani, Michael P. Leung* — **arxiv**, 2026-09-08 — _Unclassified_
 
-This paper studies the effects of p-hacking on the bias of published estimates when papers with statistically significant results are selectively published. We show that fast p-hacking---actions that lead to large changes in p-values---always exacerbates the bias from selective publication. On the other hand, slow p-hacking---actions that lead to small changes in p-values---exacerbates bias when selection is weak, but mitigates it when selection is strong. In a model featuring both types of p-hacking, we show that a normality assumption identifies the true distribution of effects as well as th...
-
----
-
-### [Creators Have Difficulty Abandoning Ideas They Generated](https://arxiv.org/abs/2609.05115v1)
-*Jin Kim, George E. Newman* — **arxiv**, 2026-09-04 — _Unclassified_
-
-Creativity researchers often distinguish between two stages of the creative process: generation versus selection. While much is known about the psychology of idea generation (e.g., the factors that lead to a greater number of novel and useful ideas), less is understood about the nature of selection, or how generation and selection interact. Here we investigate how the act of generating ideas may potentially distort the selection process. Using an incentive-compatible paradigm in which pairs of participants reviewed the same ideas and were rewarded for submitting only high-quality ideas, we fin...
+Spatial treatments are interventions assigned to locations potentially distinct from those of the responding units. We study their optimal design under a general model in which a unit's response diminishes with distance to a treated site. Our estimand of interest is an ``uncontaminated'' effect equal to the average impact of a single intervention site over all hypothetical sites. We propose a novel design based on a Matérn point process which separates treatments by a distance of at least $r$. A larger choice of $r$ reduces bias by separating interventions but increases variance by reducing th...
 
 ---
 
-### [Belief Updating without Complete Trust](https://arxiv.org/abs/2609.04622v1)
-*Jawwad Noor, Yuzhao Yang* — **arxiv**, 2026-09-04 — _Unclassified_
+### [Measuring DeFi Risk](https://arxiv.org/abs/2609.07902v1)
+*Jeremy Bertomeu, Xiumin Martin, Ibrahima Sall* — **arxiv**, 2026-09-07 — _Unclassified_
 
-We represent a non-Bayesian agent as one who does not completely trust the information they receive. The behavioral expression of complete trust lies in a homogeneity property of Bayesian updating: posterior beliefs do not change if a signal is made arbitrarily rare by scaling down its likelihood vector. We show that simply dropping this property and retaining all other Bayesian behavioral properties yields a unique representation where the agent is still Bayesian but has subjective uncertainty over the information structure generating the signal. The representation result is proved using the ...
-
----
-
-### [Tensor-Network Inference in a Field-Coupled XY Model for Portfolio Allocation](https://doi.org/10.48550/arxiv.2609.05045)
-*Kartikeya Chowdhry, G Subrahmanya V. R. K. Rao* — **openalex ssrn**, 2026-09-04 — _Unclassified_
-
-We apply tensor-network methods to a field-coupled XY model for long-only portfolio construction. Daily return statistics set asset-specific fields and correlation couplings. Correlation distance, four-point Gromov hyperbolicity, and Ward clustering are used to construct a sparse interaction path. A Fourier-Bessel expansion maps the continuous angular partition function to a finite-current tensor network; bottom-up and top-down contractions then give the one-site marginals and equilibrium cosine scores. A softmax map converts these scores into positive, fully invested portfolio weights. We stu...
+Decentralized finance (DeFi) lending has grown from nonexistent in 2017 to nearly 40 billion US Dollars in deposited funds in May 2022. Using cryptocurrency as collateral, the platforms match speculative margin trading with yield-seeking depositors lending coins pegged to the dollar (stable coins). Depositors receive claims guaranteed by a basket of collateral, akin to new stable coins. We develop a framework requiring only knowledge of aggregate deposits and borrowings to measure overall system risks to lenders and borrowers. Using evidence from major protocols, the measures identify an incre...
 
 ---
 
-### [How Faithful Is Attribution for Sales Forecasting? A Counterfactual Study](https://doi.org/10.48550/arxiv.2609.04797)
-*Glib Kechyn* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+### [Disclosure under Noisy Information Processing](https://arxiv.org/abs/2609.07898v1)
+*Jeremy Bertomeu, Edwige Cheynel, Peicong Hu* — **arxiv**, 2026-09-07 — _Unclassified_
 
-Deep models for sales forecasting, such as WaveNet-style dilated convolutional networks, are accurate but opaque: when a single model predicts sales for one of many series, it offers no account of why. We add a post-hoc, architecture-agnostic counterfactual interpretability layer to a multi-series WaveNet forecaster trained on the full Corporacion Favorita grocery dataset (174,685 series over 1,688 days). The method decomposes each forecast into contributions that sum exactly to the predicted value, avoiding the allocation artifacts we observed with additive SHAP-style attribution. We evaluate...
-
----
-
-### [Quantity, Risk, and Return](https://doi.org/10.48550/arxiv.2609.05162)
-*Yu An, Yinan Su, Chen Wang* — **openalex ssrn**, 2026-09-04 — _Unclassified_
-
-We propose a new model of expected stock returns that incorporates quantity information from market trading activities into the factor pricing framework. We posit that the expected return of a stock is determined by not only its factor risk exposures (beta) but also the factor's quantity fluctuations (q) induced by trading flows, and hence term the model beta times quantity (BTQ). The rationale is that sophisticated investors should demand a higher factor premium when they have absorbed noise trading flows of stocks with high loadings to that factor. The BTQ model provides a compelling risk-ba...
+We study voluntary disclosure when investors observe firm reports through noisy information intermediaries such as auditors, analysts, rating agencies, or data providers. Any processing noise overturns the standard prediction of a unique partial-disclosure equilibrium. With low disclosure costs, the model unravels to full disclosure despite positive costs. With higher costs, the game admits two threshold equilibria featuring different disclosure probabilities. We characterize how the cost threshold for unraveling and the equilibrium set respond to changes in noise and fundamental uncertainty. ...
 
 ---
 
-### [PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting](https://doi.org/10.48550/arxiv.2609.05235)
-*Maryam Fakhari, Mehran Safayani* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+### [Midterm Review](https://arxiv.org/abs/2609.07871v1)
+*Doruk Cetemen, Yonggyun Kim, Fei Li, Curtis R. Taylor* — **arxiv**, 2026-09-07 — _Unclassified_
 
-Cryptocurrency markets exhibit extreme volatility and non-stationary dynamics that challenge conventional forecasting methods. Although Large Language Models (LLMs) have shown promise for time series forecasting, the combined effects of adaptation choices remain largely unexplored in financial settings. This study introduces PRICE, a structured approach for adapting LLMs to short-term Bitcoin price forecasting. Built on a 4-bit quantized LLaMA-3 8B model, PRICE investigates how fine-tuning, numerical representation, prompting, inference, and decoding jointly influence forecasting performance. ...
-
----
-
-### [CABAL: Multi-Agent Simulacra for Tracing the Effects of Collusive Bidding in Peer Review](https://doi.org/10.48550/arxiv.2609.05227)
-*Jicheng Zhou, Kemou Li, Kahim Wong, Zheyuan Li et al.* — **openalex ssrn**, 2026-09-04 — _Unclassified_
-
-Recent reports during the AAAI-27 review cycle highlight the risk of reviewers coordinating bids for reciprocal assignment advantage. Prior work treats bidding, reviewer assignment, and review manipulation as separate stages, leaving the lifecycle effects of collusive bidding unclear. Real-world analysis is further constrained by typically unobservable collusive intent and the lack of counterfactuals for the same conference. Motivated by this gap, we introduce \alg, an end-to-end multi-agent simulacra framework for studying reviewer assignment integrity by holding the conference environment fi...
+We study why organizations conduct interim performance reviews when monetary rewards are limited. An interim review creates incentive capacity by allowing future work and career opportunities to serve as rewards for past performance. Optimal review policies map a continuum of performance outcomes into a simple incentive ladder: termination, tough or easy continuation, and, for exceptional performance, an early maximal reward with no further work. Review can even sustain high effort when terminal compensation alone cannot. Its timing balances two forces: waiting improves the information reveale...
 
 ---
 
-### [Pricing rides as option contracts: guarantees and memberships under travel-time uncertainty](https://doi.org/10.48550/arxiv.2609.04618)
-*Mohamad Elmasri, Mingze Li, Yunran Wei* — **openalex ssrn**, 2026-09-04 — _Unclassified_
+### [The Profit Alignment Problem: How Profit Mandates Induce Alignment Failures in LLMs](https://arxiv.org/abs/2609.07731v1)
+*Eric So* — **arxiv**, 2026-09-07 — _Unclassified_
 
-Modern ride-share platforms must commit to a price before a trip is taken, yet the realized fare depends on travel time that is uncertain at the moment of sale, which can occur days in advance. The upfront price thus decomposes into the expected fare and the premium on an insurance claim whose payoff is the shortfall between the realized and promised prices. This work computes the fair premium for such a claim, following from contingent-claim pricing. Recent advances in travel-time distribution modeling cast the asymptotic distribution of travel time as a Brownian motion on a metric graph carr...
-
----
-
-### [Does p-Hacking Mitigate or Exacerbate the Effects of Publication Bias?](https://doi.org/10.48550/arxiv.2609.05372)
-*Yong Cai, Agathe Pernoud, Boli Xu* — **openalex ssrn**, 2026-09-04 — _Unclassified_
-
-This paper studies the effects of p-hacking on the bias of published estimates when papers with statistically significant results are selectively published. We show that fast p-hacking---actions that lead to large changes in p-values---always exacerbates the bias from selective publication. On the other hand, slow p-hacking---actions that lead to small changes in p-values---exacerbates bias when selection is weak, but mitigates it when selection is strong. In a model featuring both types of p-hacking, we show that a normality assumption identifies the true distribution of effects as well as th...
+We show that ordinary business language --- "maximize profitability" --- induces profit-oriented ambiguity resolution: LLMs systematically dismiss ambiguous signals of potential safety violations to serve business objectives. In 3,600 controlled trials across eight reasoning-capable LLMs, adding a profit mandate to otherwise identical prompts increases risk-dismissing judgments by 6.8 percentage points (p < 0.0001), suppresses board escalation recommendations by 13.9pp (p < 0.0001), and shifts severity assessments downward (p < 0.0001). The mandate never instructs models to downplay risks; ins...
 
 ---
 
-## method:Natural Experiment
+### [Very Justified Envy](https://arxiv.org/abs/2609.07682v1)
+*Adam Hamdan* — **arxiv**, 2026-09-07 — _Unclassified_
 
-### [Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers](https://doi.org/10.48550/arxiv.2609.05189)
-*Yumiao Li, Peixin Liu, Donglin Di, Chen Li et al.* — **openalex ssrn**, 2026-09-04 — _method:Natural Experiment_
-
-Assessing the impacts of social policy changes is a widely acknowledged challenge for policymakers. Econometric methods can be unreliable when extrapolating to hypothetical scenarios, while field pilot programs are highly costly. In this paper, we propose using large language models (LLMs) as policy-assessment tools adapted from general-purpose models. We present FlexPension-LLM, the first domain-specialized large language model for a hierarchical pension-enrollment prediction task among flexible workers in China, and introduce DKI-RDistill, which injects policy-grounded cues into the prompt, ...
+This paper studies the intensity of priority violations in matching markets. An agent is said to have very justified envy if she prefers another agent's match to her own and her priority advantage for the object exceeds $k$ ranks. I show that unless $k$ is prohibitively large, Pareto efficiency is incompatible with the elimination of very justified envy. A simple generalization of Deferred Acceptance and Immediate Acceptance is proposed and shown to eliminate very justified envy for any $k$. In simulations of random matching markets, I find that modest relaxations to justified envy can yield s...
 
 ---
 
-## method:Theory
+### [Filtering without recursion and some of its uses in financial economics](https://arxiv.org/abs/2609.07207v1)
+*Simon Donker van Heel, Neil Shephard* — **arxiv**, 2026-09-07 — _Unclassified_
 
-### [Tournaments with Managerial Discretion](https://arxiv.org/abs/2609.04068v1)
-*Peiran Xiao, Hashim Zaman* — **arxiv**, 2026-09-03 — _method:Theory_
+We develop a filter for time series, defined at each time $t$ as the minimizer of a discounted convex combination of observed and expected losses. The filter can be estimated by simulation to an arbitrary level of accuracy in $O(1)$ flops at each time point $t$ and can be run for all values $t=1,...,T$ in parallel. These methods are applied to robustly compute a preaveraged price process from the more than 1.5 million trades made on a single financial asset in a single day where the noise's variance is infinite. It yields a flat "volatility signature" plot, down to the 1 second level, so the m...
 
-We study tournaments with managerial discretion in hiring. A manager selects a coworker from a pool of candidates and then competes against him in a Lazear--Rosen--style tournament with a prize equal to a share of total output. A profit-maximizing principal sets the prize share together with a head start (or handicap)---an advantage (or disadvantage) in the output comparison---granted to the manager. The head start affects output through three channels: (i) encouraging the manager, (ii) discouraging the new hire, and (iii) inducing the manager to hire a stronger candidate. The hiring effect do...
+---
+
+## method:Lab Experiment
+
+### [Access to Live AI Advice and Behavior Under Risk: An Incentivized Experiment](https://arxiv.org/abs/2609.07358v1)
+*Paul Althaus, Leon Houf, Christiane Schwieren* — **arxiv**, 2026-09-07 — _method:Lab Experiment_
+
+Generative AI has become an everyday advisor, and the systems people consult are live and interactive, not pre-scripted. We ask whether access to such a system changes behavior under risk. In an incentivized experiment (N = 158), participants made lottery choices with an optional decision aid presented as a conventional pre-written tool, a live one-shot AI, or a live interactive AI they could query, with information format held equivalent across conditions. Risk preferences are elicited via DOSE. We find no evidence that access to a live AI advisor changes risk aversion.
+
+---
+
+## method:RCT
+
+### [Covariate Adjustment in Randomized Experiments: A Unified Framework for Decision and Practice](https://arxiv.org/abs/2609.09039v1)
+*Jiawei Fu, Donald P. Green* — **arxiv**, 2026-09-08 — _method:RCT_
+
+Should researchers adjust for covariates in randomized experiments, and if so, how? The literature offers three distinct prescriptions: do not adjust because randomization guarantees unbiasedness; adjust for outcome-prognostic covariates to improve precision; or adjust for covariates imbalanced between treatment arms. These competing prescriptions create confusion and uncertainty. We develop a unified framework for decision and practice. Given available information, we show that the optimal correction is what we call ex-post bias. The only relevant criterion for adjustment is prognosticity for...
+
+---
+
+## method:Survey Experiment
+
+### [Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups](https://arxiv.org/abs/2609.09046v1)
+*Leon Houf, Christiane Schwieren* — **arxiv**, 2026-09-08 — _method:Survey Experiment_
+
+In-group favouritism and out-group hostility are well-documented, but real-world group settings rarely fit a simple dichotomy. Often, a "middle-group" shares some identity markers with the in-group without fully belonging to it. How do people treat such intermediate groups? We address this question using a formal identity marker framework and a multi-lab online experiment (N = 376) with a private allocation task immune to reputation effects and demand characteristics. We find that a middle-group can be treated neutrally, i.e., distinct from both in-group favouritism and out-group hostility, bu...
 
 ---
