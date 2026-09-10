@@ -1,8 +1,26 @@
-# Weekly Deep-Reading Queue — week of 2026-09-09
+# Weekly Deep-Reading Queue — week of 2026-09-10
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. AI Innovation and Firm Performance in the Medical Device Industry
+## 1. High Volume Low Complexity Surgical Hubs in England: Can They Improve Physician Productivity?
+
+### [High Volume Low Complexity Surgical Hubs in England: Can They Improve Physician Productivity?](https://arxiv.org/abs/2609.10380v1)
+*Zecharias Anteneh, Adriana Castelli, Peter Sivey, Andrew Street et al.* — **arxiv**, 2026-09-09 — _Business Economics & Innovation, Health, Education & Welfare, method:DiD_
+
+Whether organisational separation of elective and emergency care improves physician productivity remains an open question. Most existing evidence relies on cross-sectional comparisons or volume-based outcomes that cannot isolate efficiency gains from input expansion or provider selection. In contrast, this paper exploits the staggered rollout of NHS England's surgical hub programme, a set of dedicated ring-fenced elective facilities introduced as part of its Elective Recovery Plan, to provide causal estimates of the effect of elective-emergency separation on physician productivity. Using this ...
+
+---
+
+## 2. Reducing Prescription Errors Through Information Intervention: A Field Experiment in Healthcare Operations
+
+### [Reducing Prescription Errors Through Information Intervention: A Field Experiment in Healthcare Operations](https://arxiv.org/abs/2609.09673v1)
+*Xiaodan Shao, Vivek Choudhary, Arnab Majumdar* — **arxiv**, 2026-09-09 — _Business Economics & Innovation, method:DiD, method:Field Experiment_
+
+Drug-drug interaction (DDI) errors pose serious risks to patient safety. Existing decision-support systems often require physicians to respond to alerts, disrupting workflows and contributing to high override rates. We examine whether a non-mandatory information intervention can reduce DDI errors and foster learning. Using a randomized field experiment with India's largest electronic medical record platform, we analyze 2.81 million prescriptions from 1,700 physicians using a difference-in-differences design. Treatment physicians received real-time information highlighting DDI errors without be...
+
+---
+
+## 3. AI Innovation and Firm Performance in the Medical Device Industry
 
 ### [AI Innovation and Firm Performance in the Medical Device Industry](https://arxiv.org/abs/2609.08485v1)
 *Fazliddin Shermatov, Stephane Robin, Aldo Geuna* — **arxiv**, 2026-09-08 — _Business Economics & Innovation, Health, Education & Welfare_
@@ -11,7 +29,25 @@ Whether artificial intelligence pays off for the firms that build it into their 
 
 ---
 
-## 2. Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups
+## 4. Entropic Risk-Sensitive Evolutionary Learning and Equilibrium Selection in Coordination Games
+
+### [Entropic Risk-Sensitive Evolutionary Learning and Equilibrium Selection in Coordination Games](https://doi.org/10.48550/arxiv.2609.08677)
+*Solaleh Mohammadi, Xiang Gao, Kaiqing Zhang* — **openalex ssrn**, 2026-09-08 — _Unclassified_
+
+We study risk-sensitive evolutionary learning dynamics and their long-run equilibrium selection behaviors in coordination games. Agents' risk attitudes enter through the classical entropic risk measure, which evaluates opponent-induced payoff uncertainty and feeds into noisy best responses under two standard revision protocols: best response with mutations and logit choice. We first analyze $2\times 2$ coordination games in both single-population symmetric and two-population asymmetric settings. In the single-population setting, unlike the risk-neutral case where the dynamics are known to favo...
+
+---
+
+## 5. Automated Design of Inventory Policy with Large Language Models: An Exploratory Study
+
+### [Automated Design of Inventory Policy with Large Language Models: An Exploratory Study](https://doi.org/10.48550/arxiv.2609.08071)
+*Fenghua Yang, Preet Baxi, Yi Zhang, Stefanus Jasin et al.* — **openalex ssrn**, 2026-09-08 — _Unclassified_
+
+Firms making inventory decisions have access to operational data, optimization tools, and large language models (LLMs). Typically, data characterize the operating environment, optimization selects parameters within a prespecified inventory policy class, and LLMs support coding and decision analysis. We develop an integrated framework that combines these resources to automate inventory policy design. Given demand data, the framework iteratively uses an LLM to generate parameterized policy classes and an external solver to optimize its parameters within each class. Across 30 lost-sales inventory...
+
+---
+
+## 6. Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups
 
 ### [Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups](https://arxiv.org/abs/2609.09046v1)
 *Leon Houf, Christiane Schwieren* — **arxiv**, 2026-09-08 — _method:Survey Experiment_
@@ -20,56 +56,20 @@ In-group favouritism and out-group hostility are well-documented, but real-world
 
 ---
 
-## 3. The consequences of high SMR operating costs in electricity markets
+## 7. Buy Now, Pay Later: Academic Insights and Open Policy Questions
+
+### [Buy Now, Pay Later: Academic Insights and Open Policy Questions](https://arxiv.org/abs/2609.09323v1)
+*Benedict Guttman-Kenney, Walter W. Zhang* — **arxiv**, 2026-09-08 — _Business Economics & Innovation_
+
+Buy Now, Pay Later (BNPL) has moved from a novelty product to mainstream consumer finance in the space of a few years. Before 2020, BNPL was a niche offering at the checkouts of online fashion merchants. BNPL then experienced substantial growth (Consumer Financial Protection Bureau, 2022; Salem & Udis, 2025), coinciding with increased online shopping since the onset of the COVID-19 pandemic in 2020. BNPL is now a pervasive payment option. In 2026, you can use BNPL to delay and split up payments for anything ranging from a pizza to your rent, and many items in between. As the market has grown, ...
+
+---
+
+## 8. The consequences of high SMR operating costs in electricity markets
 
 ### [The consequences of high SMR operating costs in electricity markets](https://arxiv.org/abs/2609.08929v1)
 *Pradyumna Rao, Daniel T. Kaffine, Bri-Mathias Hodge* — **arxiv**, 2026-09-08 — _Agricultural & Environmental Economics_
 
 As US power markets contend with growing demand for firm generation, the nuclear industry has offered Small Modular Reactors (SMRs). However, how these concepts would fare in a rapidly evolving power grid is unclear, given the paucity of operational examples. Current literature, informed by substantial cost escalations for traditional nuclear plants, focuses on the investment costs SMRs need to achieve for private investment feasibility. However, this work finds that the operating and marginal costs of SMRs are more critical to economic feasibility in market environments. This work dispatches ...
-
----
-
-## 4. CausalVerify: An Execution-Grounded Benchmark for LLM Causal Inference Workflows
-
-### [CausalVerify: An Execution-Grounded Benchmark for LLM Causal Inference Workflows](https://arxiv.org/abs/2609.07944v1)
-*Yonghong Zhang, Ricardo Correia, Isabel M. Parra, Yong Xie* — **arxiv**, 2026-09-07 — _Econometrics & Methods, method:DiD, method:IV, method:RDD_
-
-Existing causal-inference benchmarks for LLMs mostly score method descriptions or whether generated code runs, not whether the executed workflow recovers the target causal estimate. CausalVerify studies this verification problem for structured econometric causal-estimation workflows by separating realistic interpretation from verifiable computation. It pairs 259 published economics papers (reconstructed research question, data description, institutional context) with 100 fixed-seed synthetic scenarios that realise CSV datasets for difference-in-differences, event study, instrumental variables,...
-
----
-
-## 5. Choosing the Dictionary and Penalty for IV-LASSO
-
-### [Choosing the Dictionary and Penalty for IV-LASSO](https://arxiv.org/abs/2609.07033v1)
-*Yukun Ma, Manu Navjeevan, Bogdan Salahub* — **arxiv**, 2026-09-07 — _Econometrics & Methods, International Economics, method:IV, method:Machine Learning, method:Structural_
-
-Estimating the first stage of an instrumental variables (IV) model with the least absolute shrinkage and selection operator (LASSO) requires choosing a dictionary of technical instruments and a penalty level. First-order asymptotic theory offers no guidance on these choices, as any consistent implementation yields a structural parameter estimator with the same limiting distribution. In finite samples, however, these choices can have a substantial impact on the resulting structural parameter estimate. Working in a model with a single endogenous regressor and homoskedastic Gaussian errors, we us...
-
----
-
-## 6. Robust A/B Decisions
-
-### [Robust A/B Decisions](https://arxiv.org/abs/2609.07633v1)
-*Max H. Farrell, Malika Korganbekova, Sanjog Misra* — **arxiv**, 2026-09-07 — _Industrial Organization, Microeconomics_
-
-A/B tests are standard in firm decision making. In the standard pipeline, experimental data is converted to a deployment decision by applying a t-test of the difference in means (the lift) and deploying the treatment if lift is positive and statistically significant. This common workflow answers the wrong question. We argue that firms need a decision rule for economic payoffs in the future deployment environment, not a test of equality in the experimental sample. We develop an ambiguity-averse decision framework in which each arm is evaluated by its ambiguity-penalized value over distributions...
-
----
-
-## 7. AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers
-
-### [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](https://arxiv.org/abs/2609.08166v1)
-*Alexander Crosier, Kyle Onghai, Ronnie Sircar* — **arxiv**, 2026-09-08 — _Business Economics & Innovation_
-
-The twenty-first century's transformative technology, artificial intelligence, is increasingly constrained by the twentieth century's transformative technology, the electricity grid. Rapid growth in electricity demand from data centers is leading to higher electricity prices, without a compensating supply-side response. We develop a framework linking data-center load growth, available generation capacity, and market-clearing prices to understand this phenomenon. We first analyze a deterministic model to show how differing estimates of demand and supply growth rates affect prices. We then model...
-
----
-
-## 8. Policy Gains or Household Need? The Allocation Logic of China's Dibao Program
-
-### [Policy Gains or Household Need? The Allocation Logic of China's Dibao Program](https://arxiv.org/abs/2609.08411v1)
-*Haojie Liu, Jiyuan Ling, Zihan Lin* — **arxiv**, 2026-09-08 — _Financial Economics, Health, Education & Welfare_
-
-When social assistance is scarce, should it prioritize households in greatest need or those expected to benefit most? Using panel data from the China Household Finance Survey, we distinguish allocation principles by combining predicted policy gains with entry into China's Minimum Living Standard Guarantee (Dibao). We estimate heterogeneous predicted gains in consumption and education and then recover the conditional priorities revealed by recipient selection. Predicted gains explain little of allocation: a Shapley decomposition attributes 96.9\% of the improvement in allocation fit to househol...
 
 ---
