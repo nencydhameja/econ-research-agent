@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-10
+# Economics Research Digest — 2026-09-11
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 12 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -15,13 +15,6 @@ In many power systems, wind and solar generation increasingly often exceeds elec
 *Pradyumna Rao, Daniel T. Kaffine, Bri-Mathias Hodge* — **arxiv**, 2026-09-08 — _Agricultural & Environmental Economics_
 
 As US power markets contend with growing demand for firm generation, the nuclear industry has offered Small Modular Reactors (SMRs). However, how these concepts would fare in a rapidly evolving power grid is unclear, given the paucity of operational examples. Current literature, informed by substantial cost escalations for traditional nuclear plants, focuses on the investment costs SMRs need to achieve for private investment feasibility. However, this work finds that the operating and marginal costs of SMRs are more critical to economic feasibility in market environments. This work dispatches ...
-
----
-
-### [Credible Discourse on Climate Policy: Beyond Dueling Certitudes](https://arxiv.org/abs/2609.09337v1)
-*Charles F. Manski* — **arxiv**, 2026-09-08 — _Agricultural & Environmental Economics, Microeconomics_
-
-Whatever the policy question under consideration, reasoned and realistic evaluation requires credible policy analysis under uncertainty. This holds particularly to the study of climate policy in the United States, where science and ideology have become increasingly entangled. Welfare economics provides a transparent formal framework to describe and evaluate the subtle tradeoffs that must be addressed when comparing alternative climate policies. The largely qualitative discussions of climate policy in public-facing reports suffer from failure to use welfare economics to assess tradeoffs. I use ...
 
 ---
 
@@ -48,20 +41,6 @@ Whether artificial intelligence pays off for the firms that build it into their 
 
 ---
 
-### [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](https://arxiv.org/abs/2609.08166v1)
-*Alexander Crosier, Kyle Onghai, Ronnie Sircar* — **arxiv**, 2026-09-08 — _Business Economics & Innovation_
-
-The twenty-first century's transformative technology, artificial intelligence, is increasingly constrained by the twentieth century's transformative technology, the electricity grid. Rapid growth in electricity demand from data centers is leading to higher electricity prices, without a compensating supply-side response. We develop a framework linking data-center load growth, available generation capacity, and market-clearing prices to understand this phenomenon. We first analyze a deterministic model to show how differing estimates of demand and supply growth rates affect prices. We then model...
-
----
-
-### [Buy Now, Pay Later: Academic Insights and Open Policy Questions](https://arxiv.org/abs/2609.09323v1)
-*Benedict Guttman-Kenney, Walter W. Zhang* — **arxiv**, 2026-09-08 — _Business Economics & Innovation_
-
-Buy Now, Pay Later (BNPL) has moved from a novelty product to mainstream consumer finance in the space of a few years. Before 2020, BNPL was a niche offering at the checkouts of online fashion merchants. BNPL then experienced substantial growth (Consumer Financial Protection Bureau, 2022; Salem & Udis, 2025), coinciding with increased online shopping since the onset of the COVID-19 pandemic in 2020. BNPL is now a pervasive payment option. In 2026, you can use BNPL to delay and split up payments for anything ranging from a pizza to your rent, and many items in between. As the market has grown, ...
-
----
-
 ## Financial Economics
 
 ### [Policy Gains or Household Need? The Allocation Logic of China's Dibao Program](https://arxiv.org/abs/2609.08411v1)
@@ -73,17 +52,10 @@ When social assistance is scarce, should it prioritize households in greatest ne
 
 ## Health, Education & Welfare
 
-### [Self-Fulfilling Prophecies, Quasi Nonergodicity, and Wealth Inequality: A Comment](https://arxiv.org/abs/2609.08198v1)
-*Alexis Akira Toda* — **arxiv**, 2026-09-08 — _Health, Education & Welfare_
+### [Optimal Covariate Adjustment beyond the Average Treatment Effect: Treated-Population and Overlap-Weighted Estimands](https://arxiv.org/abs/2609.11222v1)
+*Shoki Okubo* — **arxiv**, 2026-09-10 — _Health, Education & Welfare_
 
-Bouchaud and Farmer (2023) argue that self-fulfilling beliefs generate a realistic wealth distribution. Their reported Gini coefficient, quantiles, and Pareto exponent are computed from dynasty-level wealth averaged over 250 dates, not from a cross section. Correcting the estimand strengthens their qualitative result: with $N=1{,}000{,}000$ dynasties, the terminal cross-sectional Gini is 0.883 rather than 0.7, and median wealth is 0.0052 rather than 0.39 of average wealth. The model therefore generates more inequality, but not the reported quantitative fit. Appendix F analyzes a different proc...
-
----
-
-### [Self-Fulfilling Prophecies, Quasi Nonergodicity, and Wealth Inequality: A Comment](https://doi.org/10.48550/arxiv.2609.08198)
-*Alexis Akira Toda* — **openalex ssrn**, 2026-09-08 — _Health, Education & Welfare_
-
-Bouchaud and Farmer (2023) argue that self-fulfilling beliefs generate a realistic wealth distribution. Their reported Gini coefficient, quantiles, and Pareto exponent are computed from dynasty-level wealth averaged over 250 dates, not from a cross section. Correcting the estimand strengthens their qualitative result: with $N=1{,}000{,}000$ dynasties, the terminal cross-sectional Gini is 0.883 rather than 0.7, and median wealth is 0.0052 rather than 0.39 of average wealth. The model therefore generates more inequality, but not the reported quantitative fit. Appendix F analyzes a different proc...
+Graphical causal inference supplies a complete theory of efficient covariate adjustment for the average treatment effect: one adjustment set, computable from the graph, is optimal under every compatible distribution. We show that this is a property of the average treatment effect's inverse-prevalence weights, not of causal estimands in general. For the average treatment effect on the treated we index the efficiency bound by the adjustment set and derive exact identities for its change under treatment-side and outcome-side extensions of a valid set. Covariates that predict only the treated-arm ...
 
 ---
 
@@ -97,6 +69,13 @@ When a country's population declines, the aggregate economy appears to contract 
 ---
 
 ## Microeconomics
+
+### [Utility-Level-Dependent Ambiguity](https://arxiv.org/abs/2609.11748v1)
+*Kemal Ozbek* — **arxiv**, 2026-09-10 — _Microeconomics_
+
+Experimental evidence suggests that ambiguity-sensitive choice can vary systematically with the circumstances of a decision. This paper isolates one channel within a stable preference relation: ambiguity weighting may depend on the act's certainty-equivalent level. After the standard Anscombe-Aumann calibration of consequence utility, a set of behavioral axioms yields a unique continuous family of normalized monotone capacities $\{ν_v\}_{v\in(0,1)}$. Each nonendpoint act is evaluated by the Choquet integral associated with the capacity at its own interior certainty-equivalent level, while none...
+
+---
 
 ### [The Response of Consumption to Interest Rates with Borrowing Constraints: An Analytical Approach](https://arxiv.org/abs/2609.09888v1)
 *Jordan Roulleau-Pasdeloup* — **arxiv**, 2026-09-09 — _Microeconomics_
@@ -132,6 +111,15 @@ In this paper we consider situations of (multidimensional) spatial majority voti
 *Chris Dong* — **arxiv**, 2026-09-08 — _Political Economy_
 
 An open problem in approval-based multiwinner voting concerns whether we can efficiently compute committees that satisfy both justified representation and Pareto optimality. We answer this question negatively by proving that, on the domain of all profiles, outputting a committee satisfying both axioms is NP-hard. An initial proof was found by ChatGPT Astra. This was then verified and rewritten by the author.
+
+---
+
+## Public Economics
+
+### [Experimental Design for Policy Choice](https://arxiv.org/abs/2609.10971v1)
+*Samuel D. Higbee* — **arxiv**, 2026-09-10 — _Public Economics_
+
+We show how to optimally design experiments when the resulting data will be used to choose a welfare-maximizing policy subject to constraints. A decision maker seeks to maximize Bayes expected welfare by choosing a policy whose effects depend on an unknown finite-dimensional parameter. The decision maker has access to a first wave of experimental data with a fixed design but may choose the design of a second wave that will be collected before choosing the policy. The resulting experimental design--policy choice problem is a very high-dimensional dynamic program that is generally intractable in...
 
 ---
 
@@ -172,6 +160,34 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact](https://arxiv.org/abs/2609.11915v1)
+*Masahiro Kato, Daiki Honma, Taka Kato* — **arxiv**, 2026-09-10 — _Unclassified_
+
+Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business response...
+
+---
+
+### [Market-Informed Networks for Modeling and Forecast Evaluation of Financial Extremes](https://arxiv.org/abs/2609.11575v1)
+*Ayla Jungbluth, Johannes Lederer, Simon Trimborn* — **arxiv**, 2026-09-10 — _Unclassified_
+
+Modeling the joint distribution of extreme values in high-dimensional financial time series is challenging because extremes are sparse and locally extreme observations are not necessarily extreme relative to their full marginal distribution. To address this, we introduce a time-dependent network Hüsler-Reiss model in which market-informed adjacency matrices determine how strongly observations contribute to the estimation. We propose binary and weighted specifications, including the Joint Extremes Adjacency Matrix (JEAM) which combines information about individual extremeness with historical pa...
+
+---
+
+### [Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism](https://arxiv.org/abs/2609.11374v1)
+*Yosuke Hashidate* — **arxiv**, 2026-09-10 — _Unclassified_
+
+We study a mechanism of cooperation in the Prisoner's Dilemma (PD). Incorporating social preferences as efficiency concerns into the PD game, we study how altruism translates into cooperation. Under complete information, cooperation requires the opponent's altruism to clear a threshold. We then introduce a subjective extension of Bayesian Nash equilibrium that relaxes the Common Prior Assumption, letting players hold heterogeneous, potentially misspecified beliefs about each other's altruistic type. Cooperation then depends on beliefs about altruism rather than altruism itself, and can be sust...
+
+---
+
+### [Identification in Linear Quantile Panel Models](https://arxiv.org/abs/2609.10925v1)
+*Shakeeb Khan, Elie Tamer* — **arxiv**, 2026-09-10 — _Unclassified_
+
+This paper studies identification in linear quantile panel models with unrestricted individual heterogeneity when the number of time periods is fixed and small. We impose strict exogeneity, whereby the conditional quantile restriction holds given the individual's complete regressor history and latent individual effect, but otherwise allow the disturbances to be arbitrarily dependent over time.
+
+---
+
 ### [Italian Business-to-Business Invoicing Data: A Network Analysis](https://arxiv.org/abs/2609.10227v1)
 *Valerio Astuti, Daniele Piras* — **arxiv**, 2026-09-09 — _Unclassified_
 
@@ -186,36 +202,10 @@ In large markets, scarce attention limits partner evaluation and creates allocat
 
 ---
 
-### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
-*MAHYAR KARGAR, 
-BENJAMIN LESTER, 
-SÉBASTIEN PLANTE, 
-PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-08-11 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
 ### [Designing Spatial Treatments](https://arxiv.org/abs/2609.08335v1)
 *Stefan Faridani, Michael P. Leung* — **arxiv**, 2026-09-08 — _Unclassified_
 
 Spatial treatments are interventions assigned to locations potentially distinct from those of the responding units. We study their optimal design under a general model in which a unit's response diminishes with distance to a treated site. Our estimand of interest is an ``uncontaminated'' effect equal to the average impact of a single intervention site over all hypothetical sites. We propose a novel design based on a Matérn point process which separates treatments by a distance of at least $r$. A larger choice of $r$ reduces bias by separating interventions but increases variance by reducing th...
-
----
-
-### [When is statistical evidence strong enough? Using hypothesis tests to value data collection](https://arxiv.org/abs/2609.09544v1)
-*Aristotelis Epanomeritakis, Davide Viviano* — **arxiv**, 2026-09-08 — _Unclassified_
-
-We recast statistical significance as a choice between making an immediate policy recommendation and deferring it until further evidence is collected. We show that the welfare-optimal decision corresponds, under minimax regret, to a statistical test whose level depends on the cost and precision of additional evidence. Inverting this rule, we introduce and recommend reporting the abstention-value (A-value) alongside traditional p-values to determine where additional data collection is most needed. The A-value defines the break-even welfare cost of abstaining and recommending further experimenta...
-
----
-
-## method:DiD
-
-### [Two Margins in Difference-in-Differences with a Continuous Treatment](https://arxiv.org/abs/2609.09488v1)
-*Fangzhou Yu* — **arxiv**, 2026-09-08 — _method:DiD_
-
-This paper studies difference-in-differences with staggered adoption and a continuous, time-invariant dose. Each cohort-time comparison contains two margins. The level margin is the average treatment effect at realized doses. Under level parallel trends it equals the level contrast between the treated cohort and not-yet-treated controls. The response margin is the within-cohort slope of the outcome change on dose. It uses no controls, and its causal interpretation requires a response parallel trends assumption and a restriction on selection on gains. We show that the continuous-dose OLS coeffi...
 
 ---
 
@@ -243,5 +233,12 @@ In-group favouritism and out-group hostility are well-documented, but real-world
 *Shota Ichihashi, Fei Li, Dihan Zou* — **arxiv**, 2026-09-09 — _method:Theory_
 
 We study peer monitoring design in knowledge production. A principal leads agents who work on different but related tasks. By working on their own tasks, agents acquire information that is useful for evaluating their peers' performance. We consider robust contracts under which effort by all agents is the unique rationalizable outcome. The optimal contract induces a hierarchy of monitoring authority: agents easier for the principal to monitor directly are assigned greater authority to evaluate other agents. Task diversity improves information value but weakens peer monitoring. This tension dist...
+
+---
+
+### [Where Should Society Draw the Line? A Social Choice Approach to Collective Consent](https://arxiv.org/abs/2609.10759v1)
+*Chris Dong, Sonja Kraiczy, Rohit Vasishta, Markus Brill et al.* — **arxiv**, 2026-09-09 — _method:Theory_
+
+Society constantly has to determine the boundaries of what it deems acceptable, from legislative decisions to the guardrails governing autonomous systems. We initiate the axiomatic study of collective consent: given individuals' attitudes toward options, which options should receive societal consent? We organize our analysis around three principles: sufficient support, minority protection, and dominance by decisively better options. Each captures a distinct reason for withholding societal consent from an option. For each principle, we develop a corresponding solution concept that transparently...
 
 ---
