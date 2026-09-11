@@ -67,7 +67,7 @@ Whether artificial intelligence pays off for the firms that build it into their 
 
 ## 8. Entropic Risk-Sensitive Evolutionary Learning and Equilibrium Selection in Coordination Games
 
-### [Entropic Risk-Sensitive Evolutionary Learning and Equilibrium Selection in Coordination Games](https://doi.org/10.48550/arxiv.2609.08677)
+### [Entropic Risk-Sensitive Evolutionary Learning and Equilibrium Selection in Coordination Games](https://arxiv.org/abs/2609.08677)
 *Solaleh Mohammadi, Xiang Gao, Kaiqing Zhang* — **openalex ssrn**, 2026-09-08 — _Unclassified_
 
 We study risk-sensitive evolutionary learning dynamics and their long-run equilibrium selection behaviors in coordination games. Agents' risk attitudes enter through the classical entropic risk measure, which evaluates opponent-induced payoff uncertainty and feeds into noisy best responses under two standard revision protocols: best response with mutations and logit choice. We first analyze $2\times 2$ coordination games in both single-population symmetric and two-population asymmetric settings. In the single-population setting, unlike the risk-neutral case where the dynamics are known to favo...

@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-09-11
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,10 +11,24 @@ In many power systems, wind and solar generation increasingly often exceeds elec
 
 ---
 
-### [The consequences of high SMR operating costs in electricity markets](https://arxiv.org/abs/2609.08929v1)
-*Pradyumna Rao, Daniel T. Kaffine, Bri-Mathias Hodge* — **arxiv**, 2026-09-08 — _Agricultural & Environmental Economics_
+### [Predicting tipping points: The many shades of non-equilibrium and catch-22s of early-warning](https://doi.org/10.48550/arxiv.2609.10378)
+*Johannes Lohmann* — **openalex ssrn**, 2026-09-09 — _Agricultural & Environmental Economics_
 
-As US power markets contend with growing demand for firm generation, the nuclear industry has offered Small Modular Reactors (SMRs). However, how these concepts would fare in a rapidly evolving power grid is unclear, given the paucity of operational examples. Current literature, informed by substantial cost escalations for traditional nuclear plants, focuses on the investment costs SMRs need to achieve for private investment feasibility. However, this work finds that the operating and marginal costs of SMRs are more critical to economic feasibility in market environments. This work dispatches ...
+The potential of crossing climate tipping points (TP) has reached the attention of many researchers and the general public. On the one hand, the basis for this concern is strengthening, with simulations showing that abrupt transitions might occur even for moderate emission scenarios. On the other hand, our understanding of what constitutes such transitions mathematically is becoming more nuanced. This leads to challenges for the fidelity of early-warning signals (EWS), which accompany bifurcations in systems that closely track a slowly changing steady state. Different kinds of out-of-equilibri...
+
+---
+
+### [Do wind and solar curtail at negative electricity prices? Incentives and evidence across two decades of German renewable support schemes](https://doi.org/10.48550/arxiv.2609.10053)
+*Lion Hirth* — **openalex ssrn**, 2026-09-09 — _Agricultural & Environmental Economics, International Economics_
+
+In many power systems, wind and solar generation increasingly often exceeds electricity demand. Curtailing renewable generation in those hours matters both for prices and for the physical stability of the grid. Turning off wind turbines and solar panels is technically easier than ramping down a large power station, yet support schemes often give renewables an economic incentive to keep producing at negative prices. This paper studies wind and solar energy in Germany. For each cohort of generators it estimates, hour by hour, the incentive implied by two decades of support policy. It then sets t...
+
+---
+
+### [Energy pathway variety and the progress of the energy transition in European countries](https://doi.org/10.48550/arxiv.2609.09607)
+*Noam Abadi, Rossana Mastrandrea, Franco Ruzzenenti, Andrea Diaz* — **openalex ssrn**, 2026-09-09 — _Agricultural & Environmental Economics_
+
+The integration of new energy forms into existing energy infrastructure has emerged as a critical challenge in the context of the pursuit of a sustainable energy transition. One of the main challenges is understanding how this integration takes place not only from the introduction, but also as energy follows existing paths or creates new ones through which it is transformed and used by different activities. Here we introduce techniques from network science to analyse this process for the case of 29 European countries between 1992 and 2021. We study how new energy forms increase or decrease the...
 
 ---
 
@@ -31,22 +45,6 @@ Whether organisational separation of elective and emergency care improves physic
 *Xiaodan Shao, Vivek Choudhary, Arnab Majumdar* — **arxiv**, 2026-09-09 — _Business Economics & Innovation, method:DiD, method:Field Experiment_
 
 Drug-drug interaction (DDI) errors pose serious risks to patient safety. Existing decision-support systems often require physicians to respond to alerts, disrupting workflows and contributing to high override rates. We examine whether a non-mandatory information intervention can reduce DDI errors and foster learning. Using a randomized field experiment with India's largest electronic medical record platform, we analyze 2.81 million prescriptions from 1,700 physicians using a difference-in-differences design. Treatment physicians received real-time information highlighting DDI errors without be...
-
----
-
-### [AI Innovation and Firm Performance in the Medical Device Industry](https://arxiv.org/abs/2609.08485v1)
-*Fazliddin Shermatov, Stephane Robin, Aldo Geuna* — **arxiv**, 2026-09-08 — _Business Economics & Innovation, Health, Education & Welfare_
-
-Whether artificial intelligence pays off for the firms that build it into their products is hard to establish, because AI innovation is itself hard to observe. The medical technology sector is a rare exception: an AI-enabled device must obtain clearance from a national health authority before it can reach a patient, leaving a dated, firm-attributable record of AI innovation output that can be observed directly rather than proxied. We exploit this setting with a three-stage recursive model estimated on a novel firm-level dataset linking FDA premarket clearances, USPTO patents, Scopus publicatio...
-
----
-
-## Financial Economics
-
-### [Policy Gains or Household Need? The Allocation Logic of China's Dibao Program](https://arxiv.org/abs/2609.08411v1)
-*Haojie Liu, Jiyuan Ling, Zihan Lin* — **arxiv**, 2026-09-08 — _Financial Economics, Health, Education & Welfare_
-
-When social assistance is scarce, should it prioritize households in greatest need or those expected to benefit most? Using panel data from the China Household Finance Survey, we distinguish allocation principles by combining predicted policy gains with entry into China's Minimum Living Standard Guarantee (Dibao). We estimate heterogeneous predicted gains in consumption and education and then recover the conditional priorities revealed by recipient selection. Predicted gains explain little of allocation: a Shapley decomposition attributes 96.9\% of the improvement in allocation fit to househol...
 
 ---
 
@@ -68,6 +66,13 @@ When a country's population declines, the aggregate economy appears to contract 
 
 ---
 
+### [How an Economy Shrinks in Space: Concavity-on-Jobs and Upward Consolidation under Demographic Decline](https://doi.org/10.48550/arxiv.2609.09859)
+*Tomoya Mori, Miki Ogawa* — **openalex ssrn**, 2026-09-09 — _Labor & Demographic Economics, Urban, Rural & Regional Economics_
+
+When a country's population declines, the aggregate economy appears to contract on the intensive margin: industrial diversity intact, every industry a little smaller. At the regional level, contraction is uneven and takes the extensive form: entire industries disappear, one after another. The relevant unit is the city: industries are nested by size - the hierarchy property of industrial location - each viable only above a minimum population. Necessity industries' thresholds bunch at the low end, so a city's industry count - and its jobs - is sharply concave in size (concavity on jobs). A modes...
+
+---
+
 ## Microeconomics
 
 ### [Utility-Level-Dependent Ambiguity](https://arxiv.org/abs/2609.11748v1)
@@ -79,6 +84,13 @@ Experimental evidence suggests that ambiguity-sensitive choice can vary systemat
 
 ### [The Response of Consumption to Interest Rates with Borrowing Constraints: An Analytical Approach](https://arxiv.org/abs/2609.09888v1)
 *Jordan Roulleau-Pasdeloup* — **arxiv**, 2026-09-09 — _Microeconomics_
+
+I derive an explicit mapping from initial assets, income and the real interest rate to consumption for an income fluctuation problem with a borrowing constraint and CARA utility. I show that there exists a threshold of initial wealth over which the partial equilibrium consumption response to a permanent increase in the real interest rate is positive, consistent with recent empirical evidence. I further show that precautionary savings reinforce the possibility of crowding in and that the possibility of a positive response extends to a more standard CRRA utility whenever the elasticity of intert...
+
+---
+
+### [The Response of Consumption to Interest Rates with Borrowing Constraints: An Analytical Approach](https://doi.org/10.48550/arxiv.2609.09888)
+*Jordan Roulleau-Pasdeloup* — **openalex ssrn**, 2026-09-09 — _Microeconomics_
 
 I derive an explicit mapping from initial assets, income and the real interest rate to consumption for an income fluctuation problem with a borrowing constraint and CARA utility. I show that there exists a threshold of initial wealth over which the partial equilibrium consumption response to a permanent increase in the real interest rate is positive, consistent with recent empirical evidence. I further show that precautionary savings reinforce the possibility of crowding in and that the possibility of a positive response extends to a more standard CRRA utility whenever the elasticity of intert...
 
@@ -107,10 +119,17 @@ In this paper we consider situations of (multidimensional) spatial majority voti
 
 ---
 
-### [Jointly Satisfying Pareto Optimality and Justified Representation is NP-Hard in Approval-Based Multiwinner Voting](https://arxiv.org/abs/2609.08357v1)
-*Chris Dong* — **arxiv**, 2026-09-08 — _Political Economy_
+### [On accessibility of the core in mutidimensional spatial majority voting situations](https://doi.org/10.48550/arxiv.2609.10029)
+*Anindya Bhattacharya, Francesco Ciardiello* — **openalex ssrn**, 2026-09-09 — _Political Economy_
 
-An open problem in approval-based multiwinner voting concerns whether we can efficiently compute committees that satisfy both justified representation and Pareto optimality. We answer this question negatively by proving that, on the domain of all profiles, outputting a committee satisfying both axioms is NP-hard. An initial proof was found by ChatGPT Astra. This was then verified and rewritten by the author.
+In this paper we consider situations of (multidimensional) spatial majority voting. We analyze such situations having an even number (greater than or equal to 4) of voters and assume that each voter's preference over the set of policies is ``Euclidean": i.e., each voter has a most preferred ``ideal" policy and the voter's pay-offs from policies decrease as the (Euclidean) distance of the policies from the ideal policy goes up. We confine attention to voting situations for which the core has a single element belonging to the interior of the policy set. It is known that under conditions usual in...
+
+---
+
+### [Strategic communication of narratives: An experiment](https://doi.org/10.48550/arxiv.2609.10074)
+*Gerrit Bauch, Arthur Dolgopolov, Manuel Foerster* — **openalex ssrn**, 2026-09-09 — _Political Economy, method:Lab Experiment_
+
+We investigate the strategic communication of narratives under model uncertainty. The sender has private information about the true data-generating process of publicly observable data. The receiver is uncertain about how to interpret the data, but aware of the sender's incentives to strategically provide interpretations (``narratives''). We theoretically show that the size of the conflict of interest between the sender and the receiver is a crucial determinant of equilibrium communication. In particular, the stronger the sender's bias, (i) the more senders exaggerate their information and (ii)...
 
 ---
 
@@ -199,31 +218,6 @@ We present a comprehensive description of the network of Italian Business-to-Bus
 *Victor H. Aguiar, Dian Hong* — **arxiv**, 2026-09-09 — _Unclassified_
 
 In large markets, scarce attention limits partner evaluation and creates allocation loss, which stability magnifies. In an independent random market with average executable degree $d$, unmatched shares fall at rates $e^{-\sqrt d}$ under stability and $e^{-d}$ under maximum matching on the same graph. Changing consideration can make applications rejected in a provisional active-screen computation relevant again. Exact query-neutral implementation must retain allocation-relevant off-screen authorizations; otherwise, missing authorization must be reacquired. Limited-attention deferred acceptance ...
-
----
-
-### [Designing Spatial Treatments](https://arxiv.org/abs/2609.08335v1)
-*Stefan Faridani, Michael P. Leung* — **arxiv**, 2026-09-08 — _Unclassified_
-
-Spatial treatments are interventions assigned to locations potentially distinct from those of the responding units. We study their optimal design under a general model in which a unit's response diminishes with distance to a treated site. Our estimand of interest is an ``uncontaminated'' effect equal to the average impact of a single intervention site over all hypothetical sites. We propose a novel design based on a Matérn point process which separates treatments by a distance of at least $r$. A larger choice of $r$ reduces bias by separating interventions but increases variance by reducing th...
-
----
-
-## method:RCT
-
-### [Covariate Adjustment in Randomized Experiments: A Unified Framework for Decision and Practice](https://arxiv.org/abs/2609.09039v1)
-*Jiawei Fu, Donald P. Green* — **arxiv**, 2026-09-08 — _method:RCT_
-
-Should researchers adjust for covariates in randomized experiments, and if so, how? The literature offers three distinct prescriptions: do not adjust because randomization guarantees unbiasedness; adjust for outcome-prognostic covariates to improve precision; or adjust for covariates imbalanced between treatment arms. These competing prescriptions create confusion and uncertainty. We develop a unified framework for decision and practice. Given available information, we show that the optimal correction is what we call ex-post bias. The only relevant criterion for adjustment is prognosticity for...
-
----
-
-## method:Survey Experiment
-
-### [Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups](https://arxiv.org/abs/2609.09046v1)
-*Leon Houf, Christiane Schwieren* — **arxiv**, 2026-09-08 — _method:Survey Experiment_
-
-In-group favouritism and out-group hostility are well-documented, but real-world group settings rarely fit a simple dichotomy. Often, a "middle-group" shares some identity markers with the in-group without fully belonging to it. How do people treat such intermediate groups? We address this question using a formal identity marker framework and a multi-lab online experiment (N = 376) with a private allocation task immune to reputation effects and demand characteristics. We find that a middle-group can be treated neutrally, i.e., distinct from both in-group favouritism and out-group hostility, bu...
 
 ---
 
