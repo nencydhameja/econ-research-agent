@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-12
+# Economics Research Digest — 2026-09-13
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -97,13 +97,6 @@ I derive an explicit mapping from initial assets, income and the real interest r
 ---
 
 ## Political Economy
-
-### [From Doubt to Devotion: Trials and Learning-Based Pricing](https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R)
-*Tan GanNicholas WuLondon School of EconomicsYale University* — **Journal of Political Economy**, 2026-08-13 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
 
 ### [Strategic communication of narratives: An experiment](https://arxiv.org/abs/2609.10074v1)
 *Gerrit Bauch, Arthur Dolgopolov, Manuel Foerster* — **arxiv**, 2026-09-09 — _Political Economy, method:Lab Experiment_
@@ -218,6 +211,15 @@ We present a comprehensive description of the network of Italian Business-to-Bus
 *Victor H. Aguiar, Dian Hong* — **arxiv**, 2026-09-09 — _Unclassified_
 
 In large markets, scarce attention limits partner evaluation and creates allocation loss, which stability magnifies. In an independent random market with average executable degree $d$, unmatched shares fall at rates $e^{-\sqrt d}$ under stability and $e^{-d}$ under maximum matching on the same graph. Changing consideration can make applications rejected in a provisional active-screen computation relevant again. Exact query-neutral implementation must retain allocation-relevant off-screen authorizations; otherwise, missing authorization must be reacquired. Limited-attention deferred acceptance ...
+
+---
+
+## method:Survey Experiment
+
+### [Going Beyond the In-/Out-Group Dichotomy: Investigating Altruism towards Middle-Groups](https://arxiv.org/abs/2609.09046v1)
+*Leon Houf, Christiane Schwieren* — **arxiv**, 2026-09-08 — _method:Survey Experiment_
+
+In-group favouritism and out-group hostility are well-documented, but real-world group settings rarely fit a simple dichotomy. Often, a "middle-group" shares some identity markers with the in-group without fully belonging to it. How do people treat such intermediate groups? We address this question using a formal identity marker framework and a multi-lab online experiment (N = 376) with a private allocation task immune to reputation effects and demand characteristics. We find that a middle-group can be treated neutrally, i.e., distinct from both in-group favouritism and out-group hostility, bu...
 
 ---
 
