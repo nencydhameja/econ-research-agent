@@ -1,8 +1,17 @@
-# Weekly Deep-Reading Queue — week of 2026-09-14
+# Weekly Deep-Reading Queue — week of 2026-09-15
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Optimal Covariate Adjustment beyond the Average Treatment Effect: Treated-Population and Overlap-Weighted Estimands
+## 1. A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios
+
+### [A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios](https://doi.org/10.48550/arxiv.2609.13125)
+*Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish, Marwa Solayman* — **openalex ssrn**, 2026-09-11 — _method:Machine Learning_
+
+Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversified panel of 14 U.S. equities spanning six industry sectors. The LSTM component, comprising two stacked layers with 64 hidden units, processes 60-day sliding windows of five sequential market features t...
+
+---
+
+## 2. Optimal Covariate Adjustment beyond the Average Treatment Effect: Treated-Population and Overlap-Weighted Estimands
 
 ### [Optimal Covariate Adjustment beyond the Average Treatment Effect: Treated-Population and Overlap-Weighted Estimands](https://arxiv.org/abs/2609.11222v1)
 *Shoki Okubo* — **arxiv**, 2026-09-10 — _Health, Education & Welfare_
@@ -11,7 +20,7 @@ Graphical causal inference supplies a complete theory of efficient covariate adj
 
 ---
 
-## 2. Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting
+## 3. Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting
 
 ### [Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting](https://arxiv.org/abs/2609.11607)
 *Jihoon Kwon, Lawrence Liu, Daekyung Park, Sumin Kim et al.* — **openalex ssrn**, 2026-09-10 — _Unclassified_
@@ -20,7 +29,7 @@ When forecasting a firm's future financial performance, alternative data - data 
 
 ---
 
-## 3. CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting
+## 4. CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting
 
 ### [CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.11206)
 *Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli, Maryam Amirshahkarami et al.* — **openalex ssrn**, 2026-09-10 — _Unclassified_
@@ -29,7 +38,7 @@ Cryptocurrency forecasting presents a distinctive combination of extreme cross-a
 
 ---
 
-## 4. But How Would AI Agents Run a Town's Economy?
+## 5. But How Would AI Agents Run a Town's Economy?
 
 ### [But How Would AI Agents Run a Town's Economy?](https://arxiv.org/abs/2609.11108)
 *Sajal Regmi, Siddhartha Pudasaini, Chetan Phakami Pun* — **openalex ssrn**, 2026-09-10 — _Public Economics_
@@ -38,7 +47,7 @@ We placed 100 memory-equipped large language model (LLM) agents in charge of a c
 
 ---
 
-## 5. The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems
+## 6. The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems
 
 ### [The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems](https://arxiv.org/abs/2609.11146)
 *Yangze Liu, Zhongyi Han* — **openalex ssrn**, 2026-09-10 — _Industrial Organization_
@@ -47,29 +56,20 @@ AI-generated text is flowing back into the training corpora of the next generati
 
 ---
 
-## 6. Work, Wellbeing, and Choice: Empirical Lessons for AI Futures
+## 7. Seasonal Trading in Commodity Futures: Evidence from Regression and Singular Spectrum Signals
 
-### [Work, Wellbeing, and Choice: Empirical Lessons for AI Futures](https://arxiv.org/abs/2609.11019)
-*Stephanie C. Y. Chan, Adam Bales, Katherine L. Hermann, Iason Gabriel* — **openalex ssrn**, 2026-09-10 — _Labor & Demographic Economics_
+### [Seasonal Trading in Commodity Futures: Evidence from Regression and Singular Spectrum Signals](https://doi.org/10.48550/arxiv.2609.12227)
+*Ralph Kosch, Robin Forsberg* — **openalex ssrn**, 2026-09-10 — _Unclassified_
 
-Advances in AI-driven automation have raised questions about how humans might find wellbeing in a world where paid employment is less necessary or less available than before. Paid work has been variously characterized as both a contributor and an impediment to human wellbeing. What is already known about the relationship between paid work and wellbeing? What factors influence wellbeing among people who do not work---or who do not need to work? And how might these factors bear upon prospective AI-induced economic transformations? To help provide empirical grounding for these questions, we surve...
-
----
-
-## 7. Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism
-
-### [Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism](https://arxiv.org/abs/2609.11374v1)
-*Yosuke Hashidate* — **arxiv**, 2026-09-10 — _Unclassified_
-
-We study a mechanism of cooperation in the Prisoner's Dilemma (PD). Incorporating social preferences as efficiency concerns into the PD game, we study how altruism translates into cooperation. Under complete information, cooperation requires the opponent's altruism to clear a threshold. We then introduce a subjective extension of Bayesian Nash equilibrium that relaxes the Common Prior Assumption, letting players hold heterogeneous, potentially misspecified beliefs about each other's altruistic type. Cooperation then depends on beliefs about altruism rather than altruism itself, and can be sust...
+Commodity futures are shaped by harvest cycles, weather shocks, storage conditions, and seasonal demand, but it remains unclear whether recurring patterns yield robust out-of-sample trading profits. Existing research documents return seasonality in commodity futures as well as more complex seasonal structure, while leaving less evidence on how alternative seasonal models compare under common implementation constraints. This article compares dummy-variable regression (DVR), Singular Spectrum Analysis (SSA), and robust low-rank SSA (RLSSA) within a unified trading framework, including a volatili...
 
 ---
 
-## 8. Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism
+## 8. Information Specialization and Constrained Synthesis in Multi-Agent LLM Forecasting: A Prospective Live-Study of the 2026 FIFA World Cup
 
-### [Social Preferences and Cooperation: Beliefs, Robustness, and the Limits of Altruism](https://arxiv.org/abs/2609.11374)
-*Yosuke Hashidate* — **openalex ssrn**, 2026-09-10 — _Unclassified_
+### [Information Specialization and Constrained Synthesis in Multi-Agent LLM Forecasting: A Prospective Live-Study of the 2026 FIFA World Cup](https://doi.org/10.48550/arxiv.2609.12495)
+*Julian Varghese, Lucas Bickmann, Sarah Sandmann* — **openalex ssrn**, 2026-09-11 — _Microeconomics_
 
-We study a mechanism of cooperation in the Prisoner's Dilemma (PD). Incorporating social preferences as efficiency concerns into the PD game, we study how altruism translates into cooperation. Under complete information, cooperation requires the opponent's altruism to clear a threshold. We then introduce a subjective extension of Bayesian Nash equilibrium that relaxes the Common Prior Assumption, letting players hold heterogeneous, potentially misspecified beliefs about each other's altruistic type. Cooperation then depends on beliefs about altruism rather than altruism itself, and can be sust...
+Large language models are being organized into multi-agent systems with specialized roles, but whether such specialization produces distinct forecasts and whether subsequent synthesis improves utility remains unclear. In this study, we carried out a live, prospective evaluation over the final 56 matches of the information-dense 2026 FIFA World Cup, keeping a frontier foundation model constant while assigning two primary forecasting agents contrasting specialist roles: a quantitative specialist focusing on structured performance statistics and a news specialist focusing on current injuries, tac...
 
 ---
