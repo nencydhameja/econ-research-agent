@@ -2,7 +2,16 @@
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration
+## 1. AI Inference Emission and Resource Factors for Corporate GHG Inventories
+
+### [AI Inference Emission and Resource Factors for Corporate GHG Inventories](https://arxiv.org/abs/2606.10660)
+*Guillermo Llopis* — **openalex ssrn**, 2026-09-15 — _Agricultural & Environmental Economics, General Economics & Methodology_
+
+Version 2 (2026-09-15) of the SOMA AI-inference emission and resource factor dataset. Associated paper: Llopis, G. (2026), Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting, arXiv:2606.10660, under review at Sustainable Production and Consumption. v2 adds embodied-hardware and training-amortisation terms (lifecycle_factors.csv), France and Finland, a commercial model-class mapping table (model_class_mapping.csv) and a consistency checker (tools/check_factors.py). The concept DOI 10.5281/zenodo.20443585 always resolves to the late...
+
+---
+
+## 2. Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration
 
 ### [Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration](https://arxiv.org/abs/2609.16509v1)
 *Won-Ki Seo, Kyungsik Nam* — **arxiv**, 2026-09-15 — _Agricultural & Environmental Economics_
@@ -11,7 +20,7 @@ Anthropogenic forcing components follow different long-run paths, while persiste
 
 ---
 
-## 2. Conformal Policy Learning with Distribution-Free Safety Guarantees
+## 3. Conformal Policy Learning with Distribution-Free Safety Guarantees
 
 ### [Conformal Policy Learning with Distribution-Free Safety Guarantees](https://arxiv.org/abs/2609.17296v1)
 *Ying Jin, Naoki Egami* — **arxiv**, 2026-09-15 — _method:RCT_
@@ -20,7 +29,7 @@ Policy learning aims to determine who should be treated based on individual char
 
 ---
 
-## 3. Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control
+## 4. Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control
 
 ### [Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](https://arxiv.org/abs/2609.15803v1)
 *Natalie Collina, Surbhi Goel, Aaron Roth, Sikata Bela Sengupta* — **arxiv**, 2026-09-14 — _Microeconomics_
@@ -29,7 +38,7 @@ Long-running AI agents create a control problem: each action they take changes t
 
 ---
 
-## 4. Penalized Maximum Likelihood Inference of Core-Periphery Networks
+## 5. Penalized Maximum Likelihood Inference of Core-Periphery Networks
 
 ### [Penalized Maximum Likelihood Inference of Core-Periphery Networks](https://arxiv.org/abs/2609.15796v1)
 *Antonio Mosca, Piero Mazzarisi* — **arxiv**, 2026-09-14 — _General Economics & Methodology_
@@ -38,7 +47,7 @@ Likelihood-based network models are often fitted under links' independence and l
 
 ---
 
-## 5. Global Poverty Beyond the Official Line: A bounded estimate of material insufficiency
+## 6. Global Poverty Beyond the Official Line: A bounded estimate of material insufficiency
 
 ### [Global Poverty Beyond the Official Line: A bounded estimate of material insufficiency](https://arxiv.org/abs/2609.16203v1)
 *Giancarlo Crocetti* — **arxiv**, 2026-09-14 — _Health, Education & Welfare_
@@ -47,29 +56,20 @@ Numbers this large invite a defensive reflex: reach for the reassuring figure an
 
 ---
 
-## 6. Eigenvalue-Decomposition Cost Denoising as an Alternative to Predict-then-Optimize for Shortest-Path Problems
+## 7. Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress
 
-### [Eigenvalue-Decomposition Cost Denoising as an Alternative to Predict-then-Optimize for Shortest-Path Problems](https://arxiv.org/abs/2609.15111v1)
-*Henry Aldridge-Krawciw, Irene Aldridge* — **arxiv**, 2026-09-14 — _Unclassified_
+### [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](https://doi.org/10.48550/arxiv.2609.15919)
+*Gaurav Tewari* — **openalex ssrn**, 2026-09-14 — _Unclassified_
 
-Predict-then-optimize methods such as Smart "Predict, then Optimize" (SPO+) of Elmachtoub and Grigas (2022) learn a mapping from contextual features to unknown edge costs and then solve the induced combinatorial problem on the predicted costs. This approach is powerful but relies on the predictive model being well specified: when the true cost-generating process is nonlinear in the features and the predictor is linear, SPO+'s performance degrades as the misspecification grows. We propose and evaluate a structurally different remedy for a specific but common setting: when the decision-maker obs...
-
----
-
-## 7. An Integrative Multidimensional Conceptualization of Telework Behavior: A Systematic Review and Grounded Theory Approach
-
-### [An Integrative Multidimensional Conceptualization of Telework Behavior: A Systematic Review and Grounded Theory Approach](https://arxiv.org/abs/2609.17409v1)
-*Sahar Babaei, Saeed Nosratabadi, Thabit Atobishi, Sahar Abu Bakir* — **arxiv**, 2026-09-15 — _Agricultural & Environmental Economics, Business Economics & Innovation, Health, Education & Welfare_
-
-Telework has expanded rapidly, and understanding the behaviors employees enact under it has become correspondingly important. This study develops an integrative conceptual framework specifying the multidimensional nature of telework behavior. A systematic literature review following PRISMA identified 114 review articles, which were analyzed using constructivist grounded theory. Six behavioral dimensions were identified, covering performance, communication, environmental, task, policy, and well-being conduct. Antecedents were grouped into individual factors, job characteristics, organizational ...
+Artificial intelligence presents firms with an unusual timing problem. The technology frontier is improving rapidly, implementation is partly irreversible, and organization-specific capabilities are accumulated through action. This paper develops a two-period decision model of AI deployment under uncertainty in which a firm chooses among immediate deployment, a limited pilot, and waiting. Deployment earns current operating value but exposes the firm to architectural obsolescence; waiting preserves the option to adopt after the frontier is observed; a pilot sacrifices current operating value to...
 
 ---
 
-## 8. Extended Version: Storage-Based Strategic Manipulation of Constraint-Binding Patterns in Power Networks
+## 8. Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies
 
-### [Extended Version: Storage-Based Strategic Manipulation of Constraint-Binding Patterns in Power Networks](https://arxiv.org/abs/2609.15755v2)
-*Mehdi Davoudi, Minghao Mou, Junjie Qin* — **arxiv**, 2026-09-14 — _Agricultural & Environmental Economics_
+### [Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies](https://doi.org/10.48550/arxiv.2609.15940)
+*Hiroki Sawada, Shunichi Kasahara* — **openalex ssrn**, 2026-09-14 — _Unclassified_
 
-This paper studies the strategic market participation of a monopolistic energy storage aggregator (ESA) in a day-ahead electricity market. The ESA coordinates geographically distributed storage units, submits a coordinated bid for its portfolio, and may hold financial transmission rights (FTRs). The system operator clears the market through a network-constrained, multi-period economic dispatch, determining generation and load schedules, nodal prices, energy-market payments, and FTR payoffs. We formulate the ESA--system-operator interaction as a Stackelberg game and characterize its equilibrium...
+Vision-language-action policies are typically evaluated one perturbation at a time, providing a useful diagnosis of their sensitivity to individual distribution shifts. Real-world deployment, however, may involve several shifts simultaneously, and it remains unclear how these individual robustness measurements compose. We ask whether compound robustness can be inferred from single-axis evaluations. We introduce LIBERO-CTRL, a six-axis benchmark that pairs each initial state across single-axis conditions and a matched simultaneous condition. This design reveals two opposing outcome changes that...
 
 ---

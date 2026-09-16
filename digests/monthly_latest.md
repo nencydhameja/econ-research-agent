@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-09-16
 
-Window: last **30 days** · 30 papers across 13 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 13 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -18,17 +18,17 @@ Anthropogenic forcing components follow different long-run paths, while persiste
 
 ---
 
+### [AI Inference Emission and Resource Factors for Corporate GHG Inventories](https://arxiv.org/abs/2606.10660)
+*Guillermo Llopis* — **openalex ssrn**, 2026-09-15 — _Agricultural & Environmental Economics, General Economics & Methodology_
+
+Version 2 (2026-09-15) of the SOMA AI-inference emission and resource factor dataset. Associated paper: Llopis, G. (2026), Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting, arXiv:2606.10660, under review at Sustainable Production and Consumption. v2 adds embodied-hardware and training-amortisation terms (lifecycle_factors.csv), France and Finland, a commercial model-class mapping table (model_class_mapping.csv) and a consistency checker (tools/check_factors.py). The concept DOI 10.5281/zenodo.20443585 always resolves to the late...
+
+---
+
 ### [Extended Version: Storage-Based Strategic Manipulation of Constraint-Binding Patterns in Power Networks](https://arxiv.org/abs/2609.15755v2)
 *Mehdi Davoudi, Minghao Mou, Junjie Qin* — **arxiv**, 2026-09-14 — _Agricultural & Environmental Economics_
 
 This paper studies the strategic market participation of a monopolistic energy storage aggregator (ESA) in a day-ahead electricity market. The ESA coordinates geographically distributed storage units, submits a coordinated bid for its portfolio, and may hold financial transmission rights (FTRs). The system operator clears the market through a network-constrained, multi-period economic dispatch, determining generation and load schedules, nodal prices, energy-market payments, and FTR payoffs. We formulate the ESA--system-operator interaction as a Stackelberg game and characterize its equilibrium...
-
----
-
-### [Redistributive Policies for the Times of Transformative AI](https://arxiv.org/abs/2609.14750v1)
-*Jakub Growiec, Klaus Prettner, Maciej Szkróbka* — **arxiv**, 2026-09-13 — _Agricultural & Environmental Economics, Business Economics & Innovation, Health, Education & Welfare_
-
-After the arrival of transformative artificial intelligence (TAI), broad-based automation is expected to decrease the labor share and increase income and wealth inequality. Although economic growth is likely to accelerate, most of its gains may accrue to a narrow group of individuals and firms. Hence, if unmitigated by redistributive policy, income and wealth inequality may rise to levels unseen in the industrial economy. Using a unifying theoretical framework, we survey the redistributive policies proposed for the era of TAI, such as universal basic income (UBI), universal basic capital (UBC)...
 
 ---
 
@@ -116,13 +116,6 @@ Long-running AI agents create a control problem: each action they take changes t
 
 ---
 
-### [Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination](https://arxiv.org/abs/2609.14767v1)
-*Burak Agachan, Max van Duijn, Amirhossein Zohrehvand* — **arxiv**, 2026-09-13 — _Microeconomics_
-
-Hierarchical orchestration, in which a Manager agent reviews worker output and can send it back for revision, is the default coordination pattern in production multi-agent LLM frameworks. Classical organizational theory predicts that the authority link speeds convergence on decisive output; work on sycophancy and Degeneration-of-Thought predicts that authoritative critique makes LLM output worse. Prior comparisons vary whole frameworks on tasks with checkable answers, leaving the authority link untested on open-ended work. We present a paired experiment that holds five LLM agents, their roles,...
-
----
-
 ## Unclassified
 
 ### [Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R)
@@ -199,6 +192,13 @@ Consider a situation wherein a decision maker sequentially searches for the best
 *Gabriel Manso, Emma Fu, Neil Thompson* — **arxiv**, 2026-09-14 — _Unclassified_
 
 As artificial intelligence's capabilities improve, it is increasingly viewed as a general scientific method. But how true are these claims? Does AI outperform all techniques, or only some, and how is this changing? To assess the claims, we assemble a corpus of 2,507 head-to-head comparisons between AI and other scientific analysis techniques across 27 scientific disciplines from papers published between 2000 and early 2025. We find a profound dichotomy. Relative to traditional statistics, AI often outperforms, but at a significantly higher computational cost. But there are also nearly a quarte...
+
+---
+
+### [One Example Is Enough to Pass Fairness Benchmarks: Rethinking Fairness Evaluation for Aligned LLMs](https://doi.org/10.48550/arxiv.2609.14860)
+*Naihao Deng, Samee Arif, Shuaichen Chang, Yulong Chen et al.* — **openalex ssrn**, 2026-09-14 — _Unclassified_
+
+Warning: This submission studies stereotypes and biases, and contains toxic and offensive examples, used for illustration purposes only. Fairness benchmarks such as BBQ have become the de facto standard for fairness evaluation across major model families. We argue that these benchmarks are too easy to support their role: training Qwen 2.5 7B Base with Group Relative Policy Optimization (GRPO) on a single BBQ example, or placing that example in context as a one-shot demonstration for in-context learning (ICL), lifts mean BBQ accuracy from 79.9% to 92.9% and 99.0%, respectively, closing 80% of t...
 
 ---
 
