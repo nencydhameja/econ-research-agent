@@ -1,8 +1,62 @@
-# Weekly Deep-Reading Queue — week of 2026-09-16
+# Weekly Deep-Reading Queue — week of 2026-09-17
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. AI Inference Emission and Resource Factors for Corporate GHG Inventories
+## 1. Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences
+
+### [Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences](https://arxiv.org/abs/2609.19081v1)
+*Thomas Leavitt* — **arxiv**, 2026-09-16 — _Labor & Demographic Economics, method:DiD_
+
+In the canonical Difference-in-Differences design, the control group's post-treatment change serves as an imputation of the treated group's counterfactual change in the same period, an imputation justified by parallel trends. However, differences in group composition can produce between-group differences in how outcomes would evolve over time, rendering this imputation vulnerable to confounding. An alternative imputation -- such as one based on the treated group's pre-treatment change -- avoids such between-group confounding but introduces the risk of confounding from within-group temporal shi...
+
+---
+
+## 2. Multitask Reinforcement Learning for Assisting Choice Model Specification
+
+### [Multitask Reinforcement Learning for Assisting Choice Model Specification](https://arxiv.org/abs/2609.18441v1)
+*Gabriel Nova, Stephane Hess, Sander Van Cranenburgh* — **arxiv**, 2026-09-16 — _Microeconomics, Public Economics_
+
+Discrete choice model specification is a time-consuming task in which modellers often specify and estimate multiple models while balancing goodness-of-fit, parsimony, and behavioural plausibility. We present Delphos, a multitask reinforcement learning framework that learns transferable specification strategies across transport choice datasets. Delphos frames model specification as a sequential decision-making problem in which it applies a sequence of modelling actions and receives feedback from an estimation environment based on model performance and convergence. To transfer modelling decision...
+
+---
+
+## 3. Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series
+
+### [Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series](https://arxiv.org/abs/2609.18157v1)
+*Huan Gong, Feiyu Jiang* — **arxiv**, 2026-09-16 — _Unclassified_
+
+Modern economic and financial data are increasingly organized as multiway arrays, with observations indexed simultaneously by geographic regions, industrial sectors, asset categories, and other economic characteristics. Representing such data as tensor-valued time series preserves their intrinsic multiway structure. Although substantial effort has been devoted to modeling the conditional mean of tensor-valued time series, comparatively less attention has been paid to their conditional covariance dynamics. The latter remains challenging because unrestricted multivariate covariance models involv...
+
+---
+
+## 4. Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation
+
+### [Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation](https://arxiv.org/abs/2609.18147v1)
+*Genta Okada* — **arxiv**, 2026-09-16 — _Political Economy_
+
+Moving from geographically fragmented to pooled waiting lists in deceased-donor organ transplantation can improve efficiency, but it raises concerns about regional fairness and participation incentives. This paper studies Pareto gains from such transitions in a multi-class queueing model with impatient agents, perishable items, and a tractable homogeneous compatibility friction. Unlike standard approaches that focus on static match quality or ignore regional incentives in dynamic settings, our analysis identifies dynamic risk pooling as the main source of Pareto improvements for regions: pooli...
+
+---
+
+## 5. Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm
+
+### [Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm](https://arxiv.org/abs/2609.18161v1)
+*Sang-Seung Yi* — **arxiv**, 2026-09-16 — _Law & Economics_
+
+Qualcomm's No License, No Chips policy let it levy a royalty surcharge on every handset, whether or not it used a Qualcomm modem chip. In FTC v. Qualcomm, the Ninth Circuit reversed the district court after accepting Qualcomm's argument that, because the surcharge did not vary with the chip, it was "chip neutral" and left handset makers' choices undistorted. I develop an equilibrium model of the modem chip market and show the defense to be wrong: the surcharge's facial neutrality does not imply economic neutrality. For per handset surcharges, a surcharge and an equal government tax affect the ...
+
+---
+
+## 6. Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders
+
+### [Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders](https://arxiv.org/abs/2609.17989v1)
+*Davood Wadi, Yu Ma* — **arxiv**, 2026-09-16 — _Industrial Organization, Political Economy_
+
+Large language models (LLMs) now serve as conversational shopping assistants on platforms that also sell advertising. These AI agents face a conflict of duty. They advise consumers who rely on their judgment, yet are deployed by platforms that benefit when sponsored listings are chosen. Sponsorship disclosures, designed to allow consumers to penalize paid placements, now reach the AI agent rather than the consumer, and the agent's evaluation of them is hidden from the consumer. Drawing on the fiduciary concept of conflict of duty, we argue that an agent's evaluation of a sponsored listing shou...
+
+---
+
+## 7. AI Inference Emission and Resource Factors for Corporate GHG Inventories
 
 ### [AI Inference Emission and Resource Factors for Corporate GHG Inventories](https://arxiv.org/abs/2606.10660)
 *Guillermo Llopis* — **openalex ssrn**, 2026-09-15 — _Agricultural & Environmental Economics, General Economics & Methodology_
@@ -11,65 +65,11 @@ Version 2 (2026-09-15) of the SOMA AI-inference emission and resource factor dat
 
 ---
 
-## 2. Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration
+## 8. Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs
 
-### [Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration](https://arxiv.org/abs/2609.16509v1)
-*Won-Ki Seo, Kyungsik Nam* — **arxiv**, 2026-09-15 — _Agricultural & Environmental Economics_
+### [Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs](https://doi.org/10.48550/arxiv.2609.16454)
+*Kirill Skobelev, Eric Fithian, X. Y. Han* — **openalex ssrn**, 2026-09-15 — _Unclassified_
 
-Anthropogenic forcing components follow different long-run paths, while persistent temperature change can involve distributional changes beyond the mean. Scalar regressions aggregate these components and retain only mean temperature, obscuring how distinct forcing paths relate to persistent distributional change. We develop new testing, estimation, and inference methods for long-run relations between an integrated predictor vector and a density-valued response. These comprise a residual-based test of between-cointegration (whether predictor trends account for all stochastic trends in the respo...
-
----
-
-## 3. Conformal Policy Learning with Distribution-Free Safety Guarantees
-
-### [Conformal Policy Learning with Distribution-Free Safety Guarantees](https://arxiv.org/abs/2609.17296v1)
-*Ying Jin, Naoki Egami* — **arxiv**, 2026-09-15 — _method:RCT_
-
-Policy learning aims to determine who should be treated based on individual characteristics. In high-stakes settings such as medicine and public policy where safety is a central concern, improving the average outcomes alone may not be sufficient: decision makers may also seek to protect individuals from harm, in line with the Hippocratic principle of ``do no harm.'' In this paper, we propose \textit{conformal policy learning} (CPL), a policy learning procedure with a new distribution-free safety guarantee that controls the probability of assigning treatment to an individual who would be harmed...
-
----
-
-## 4. Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control
-
-### [Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](https://arxiv.org/abs/2609.15803v1)
-*Natalie Collina, Surbhi Goel, Aaron Roth, Sikata Bela Sengupta* — **arxiv**, 2026-09-14 — _Microeconomics_
-
-Long-running AI agents create a control problem: each action they take changes the state, which in turn affects the trajectory of future actions. If the agent is not fully aligned, then guaranteeing safety requires approving consequential actions before allowing them to be executed. But requiring human approval at every step makes attention a bottleneck. Delegating review to other AI agents raises the same alignment problem: the reviewers may themselves be misaligned. We identify a condition on a reviewing panel that is weaker than individual alignment yet necessary and sufficient for a guaran...
-
----
-
-## 5. Penalized Maximum Likelihood Inference of Core-Periphery Networks
-
-### [Penalized Maximum Likelihood Inference of Core-Periphery Networks](https://arxiv.org/abs/2609.15796v1)
-*Antonio Mosca, Piero Mazzarisi* — **arxiv**, 2026-09-14 — _General Economics & Methodology_
-
-Likelihood-based network models are often fitted under links' independence and low-order constraints, while empirical networks frequently exhibit systematic higher-order structures such as triangles and wedges, characterizing the observed clustering patterns. Real-world core-periphery networks such as the interbank market or the air transportation system represent key examples, with cores displaying complex and nonlinear features. We formalize Penalized Likelihood with Structural Discrepancies (PLSD) as an inference-level correction that trades likelihood fit for agreement with targeted motifs...
-
----
-
-## 6. Global Poverty Beyond the Official Line: A bounded estimate of material insufficiency
-
-### [Global Poverty Beyond the Official Line: A bounded estimate of material insufficiency](https://arxiv.org/abs/2609.16203v1)
-*Giancarlo Crocetti* — **arxiv**, 2026-09-14 — _Health, Education & Welfare_
-
-Numbers this large invite a defensive reflex: reach for the reassuring figure and move on. By the most widely cited measure, the World Bank's extreme-poverty line of \$3.00 per day (2021 PPP), approximately 847 million people, or 10.4% of the world's population, lived in poverty in 2024. That figure is accurate as measured. It is also, by design, a floor: a threshold built to mark bare survival in the poorest economies, not to describe what it takes for a family anywhere to live with basic security. The central argument of this report is that the reassurance offered by that single line is larg...
-
----
-
-## 7. Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress
-
-### [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](https://doi.org/10.48550/arxiv.2609.15919)
-*Gaurav Tewari* — **openalex ssrn**, 2026-09-14 — _Unclassified_
-
-Artificial intelligence presents firms with an unusual timing problem. The technology frontier is improving rapidly, implementation is partly irreversible, and organization-specific capabilities are accumulated through action. This paper develops a two-period decision model of AI deployment under uncertainty in which a firm chooses among immediate deployment, a limited pilot, and waiting. Deployment earns current operating value but exposes the firm to architectural obsolescence; waiting preserves the option to adopt after the frontier is observed; a pilot sacrifices current operating value to...
-
----
-
-## 8. Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies
-
-### [Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies](https://doi.org/10.48550/arxiv.2609.15940)
-*Hiroki Sawada, Shunichi Kasahara* — **openalex ssrn**, 2026-09-14 — _Unclassified_
-
-Vision-language-action policies are typically evaluated one perturbation at a time, providing a useful diagnosis of their sensitivity to individual distribution shifts. Real-world deployment, however, may involve several shifts simultaneously, and it remains unclear how these individual robustness measurements compose. We ask whether compound robustness can be inferred from single-axis evaluations. We introduce LIBERO-CTRL, a six-axis benchmark that pairs each initial state across single-axis conditions and a matched simultaneous condition. This design reveals two opposing outcome changes that...
+Recent work by Doshi and Hauser (2024), Bisbee et al. (2024), and Xie et al. (2026) raises concerns that outputs from large language models (LLMs) tend to be under-diverse: they repeat or resemble one another more often than responses from the population they are meant to represent, a phenomenon known as mode collapse. In this work, we show that whether mode-collapse, or its opposite, occurs depends on the specific model and dataset used. Further, with sufficient supervised fine-tuning (SFT) data, LLM output diversity converges toward that of the target distribution from which fine-tuning data...
 
 ---
