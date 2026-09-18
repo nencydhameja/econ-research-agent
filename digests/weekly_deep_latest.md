@@ -1,8 +1,44 @@
-# Weekly Deep-Reading Queue — week of 2026-09-17
+# Weekly Deep-Reading Queue — week of 2026-09-18
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences
+## 1. Using machine learning metrics to provide deeper insights into the performance of choice models
+
+### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
+*Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
+
+Machine learning (ML) techniques are increasingly drawing interest in the choice modelling (CM) field. The focus has primarily been on comparing the performance of these contrasting approaches or on improving behavioural insights for ML techniques, rather than translating ideas from one field into the other. In the present paper, we specifically focus on knowledge transfer from ML into CM in the context of model performance evaluation. In CM, model performance is typically evaluated using log-likelihood and related indicators, which are aggregate fit metrics that focus on overall fit. Converse...
+
+---
+
+## 2. Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models
+
+### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://arxiv.org/abs/2609.20554v1)
+*Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **arxiv**, 2026-09-17 — _Unclassified_
+
+We examine whether post-origin training information inflates the measured accuracy and economic value of financial forecasts. We evaluate five sets of financial time-series foundation models, each comprising independently trained annual vintages under U.S., global, and factor-augmented training environments, across 14 equity markets and four forecast horizons. Rolling comparisons vary the annual vintage for a fixed forecast; fixed-vintage comparisons hold the vintage fixed as target windows move across its training cutoff. Each alternative forecast is paired with an origin-aligned point-in-tim...
+
+---
+
+## 3. A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
+
+### [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)
+*Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller* — **arxiv**, 2026-09-17 — _Unclassified_
+
+LLM-based GUI agents increasingly act on behalf of users in digital environments that were designed with human users in mind. These graphical user interfaces were designed to support, but also deliberately steer, the behaviour and decisions of users. While behavioural biases in the textual outputs of LLMs are well-documented, far less is known about how such influence operates when models act as agents that perceive interfaces and execute decisions---and, in particular, whether the reasoning capabilities increasingly built into these agents make them more robust to it. Drawing on Dual-Process ...
+
+---
+
+## 4. Anonymous Accountability
+
+### [Anonymous Accountability](https://arxiv.org/abs/2609.19771v1)
+*Georgy Lukyanov, Muslim Salakhov* — **arxiv**, 2026-09-17 — _Unclassified_
+
+We ask how an expert panel should disclose auditable conflicts of interest when reports are named and experts care about their reputations for ability. Before sealed binary assessments are filed, an auditor commits to disclosing no orientation information, each named expert's orientation, or only the number of experts oriented in each direction; disclosure occurs after reports are locked. Holding reporting behaviour fixed, composition disclosure and individual attribution are exactly Blackwell-equivalent for learning the state at every finite panel size. Conditional on named reports remaining ...
+
+---
+
+## 5. Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences
 
 ### [Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences](https://arxiv.org/abs/2609.19081v1)
 *Thomas Leavitt* — **arxiv**, 2026-09-16 — _Labor & Demographic Economics, method:DiD_
@@ -11,7 +47,7 @@ In the canonical Difference-in-Differences design, the control group's post-trea
 
 ---
 
-## 2. Multitask Reinforcement Learning for Assisting Choice Model Specification
+## 6. Multitask Reinforcement Learning for Assisting Choice Model Specification
 
 ### [Multitask Reinforcement Learning for Assisting Choice Model Specification](https://arxiv.org/abs/2609.18441v1)
 *Gabriel Nova, Stephane Hess, Sander Van Cranenburgh* — **arxiv**, 2026-09-16 — _Microeconomics, Public Economics_
@@ -20,7 +56,7 @@ Discrete choice model specification is a time-consuming task in which modellers 
 
 ---
 
-## 3. Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series
+## 7. Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series
 
 ### [Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series](https://arxiv.org/abs/2609.18157v1)
 *Huan Gong, Feiyu Jiang* — **arxiv**, 2026-09-16 — _Unclassified_
@@ -29,47 +65,11 @@ Modern economic and financial data are increasingly organized as multiway arrays
 
 ---
 
-## 4. Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation
+## 8. Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation
 
 ### [Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation](https://arxiv.org/abs/2609.18147v1)
 *Genta Okada* — **arxiv**, 2026-09-16 — _Political Economy_
 
 Moving from geographically fragmented to pooled waiting lists in deceased-donor organ transplantation can improve efficiency, but it raises concerns about regional fairness and participation incentives. This paper studies Pareto gains from such transitions in a multi-class queueing model with impatient agents, perishable items, and a tractable homogeneous compatibility friction. Unlike standard approaches that focus on static match quality or ignore regional incentives in dynamic settings, our analysis identifies dynamic risk pooling as the main source of Pareto improvements for regions: pooli...
-
----
-
-## 5. Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm
-
-### [Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm](https://arxiv.org/abs/2609.18161v1)
-*Sang-Seung Yi* — **arxiv**, 2026-09-16 — _Law & Economics_
-
-Qualcomm's No License, No Chips policy let it levy a royalty surcharge on every handset, whether or not it used a Qualcomm modem chip. In FTC v. Qualcomm, the Ninth Circuit reversed the district court after accepting Qualcomm's argument that, because the surcharge did not vary with the chip, it was "chip neutral" and left handset makers' choices undistorted. I develop an equilibrium model of the modem chip market and show the defense to be wrong: the surcharge's facial neutrality does not imply economic neutrality. For per handset surcharges, a surcharge and an equal government tax affect the ...
-
----
-
-## 6. Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders
-
-### [Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders](https://arxiv.org/abs/2609.17989v1)
-*Davood Wadi, Yu Ma* — **arxiv**, 2026-09-16 — _Industrial Organization, Political Economy_
-
-Large language models (LLMs) now serve as conversational shopping assistants on platforms that also sell advertising. These AI agents face a conflict of duty. They advise consumers who rely on their judgment, yet are deployed by platforms that benefit when sponsored listings are chosen. Sponsorship disclosures, designed to allow consumers to penalize paid placements, now reach the AI agent rather than the consumer, and the agent's evaluation of them is hidden from the consumer. Drawing on the fiduciary concept of conflict of duty, we argue that an agent's evaluation of a sponsored listing shou...
-
----
-
-## 7. AI Inference Emission and Resource Factors for Corporate GHG Inventories
-
-### [AI Inference Emission and Resource Factors for Corporate GHG Inventories](https://arxiv.org/abs/2606.10660)
-*Guillermo Llopis* — **openalex ssrn**, 2026-09-15 — _Agricultural & Environmental Economics, General Economics & Methodology_
-
-Version 2 (2026-09-15) of the SOMA AI-inference emission and resource factor dataset. Associated paper: Llopis, G. (2026), Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting, arXiv:2606.10660, under review at Sustainable Production and Consumption. v2 adds embodied-hardware and training-amortisation terms (lifecycle_factors.csv), France and Finland, a commercial model-class mapping table (model_class_mapping.csv) and a consistency checker (tools/check_factors.py). The concept DOI 10.5281/zenodo.20443585 always resolves to the late...
-
----
-
-## 8. Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs
-
-### [Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs](https://doi.org/10.48550/arxiv.2609.16454)
-*Kirill Skobelev, Eric Fithian, X. Y. Han* — **openalex ssrn**, 2026-09-15 — _Unclassified_
-
-Recent work by Doshi and Hauser (2024), Bisbee et al. (2024), and Xie et al. (2026) raises concerns that outputs from large language models (LLMs) tend to be under-diverse: they repeat or resemble one another more often than responses from the population they are meant to represent, a phenomenon known as mode collapse. In this work, we show that whether mode-collapse, or its opposite, occurs depends on the specific model and dataset used. Further, with sufficient supervised fine-tuning (SFT) data, LLM output diversity converges toward that of the target distribution from which fine-tuning data...
 
 ---

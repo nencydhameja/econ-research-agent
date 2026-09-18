@@ -1,91 +1,38 @@
-# Economics Research Digest — 2026-09-17
+# Economics Research Digest — 2026-09-18
 
-Window: last **30 days** · 30 papers across 14 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Fractional Assignment with $\ell_1$ Preferences](https://arxiv.org/abs/2609.18299v1)
-*Yasushi Kawase, Warut Suksompong, Hanna Sumita, Yu Yokoi* — **arxiv**, 2026-09-16 — _Agricultural & Environmental Economics_
+### [Tradeable Import Certificates for Strategic Supply Security](https://arxiv.org/abs/2609.20282v1)
+*Sebastian Kranz* — **arxiv**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
 
-We study a fractional assignment setting where $n$ objects are to be assigned to $n$ agents with unit capacity, and each agent specifies an ideal distribution over the objects. Unlike in classic random assignment, these ideal distributions are not necessarily degenerate, as agents may prefer a mixture of objects rather than any single object. We assume that agents seek to minimize the $\ell_1$ distance between their ideal distribution and the distribution they receive, which is equivalent to maximizing the overlap between the two distributions. We propose two mechanisms, one based on water fil...
-
----
-
-### [An Integrative Multidimensional Conceptualization of Telework Behavior: A Systematic Review and Grounded Theory Approach](https://arxiv.org/abs/2609.17409v1)
-*Sahar Babaei, Saeed Nosratabadi, Thabit Atobishi, Sahar Abu Bakir* — **arxiv**, 2026-09-15 — _Agricultural & Environmental Economics, Business Economics & Innovation, Health, Education & Welfare_
-
-Telework has expanded rapidly, and understanding the behaviors employees enact under it has become correspondingly important. This study develops an integrative conceptual framework specifying the multidimensional nature of telework behavior. A systematic literature review following PRISMA identified 114 review articles, which were analyzed using constructivist grounded theory. Six behavioral dimensions were identified, covering performance, communication, environmental, task, policy, and well-being conduct. Antecedents were grouped into individual factors, job characteristics, organizational ...
-
----
-
-### [Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration](https://arxiv.org/abs/2609.16509v1)
-*Won-Ki Seo, Kyungsik Nam* — **arxiv**, 2026-09-15 — _Agricultural & Environmental Economics_
-
-Anthropogenic forcing components follow different long-run paths, while persistent temperature change can involve distributional changes beyond the mean. Scalar regressions aggregate these components and retain only mean temperature, obscuring how distinct forcing paths relate to persistent distributional change. We develop new testing, estimation, and inference methods for long-run relations between an integrated predictor vector and a density-valued response. These comprise a residual-based test of between-cointegration (whether predictor trends account for all stochastic trends in the respo...
+Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
 
 ---
 
 ## Business Economics & Innovation
 
-### [Mapping AI Economic Complexity](https://arxiv.org/abs/2609.17200v1)
-*Daeun Moon, Yeokyung Hwang, Junseok Hwang, Dawoon Jeong* — **arxiv**, 2026-09-15 — _Business Economics & Innovation, International Economics_
+### [An Arbitrarily Precise Global Closed Form Approximation for the Neoclassical Growth Model](https://arxiv.org/abs/2609.20405v1)
+*Jordan Roulleau-Pasdeloup* — **arxiv**, 2026-09-17 — _Business Economics & Innovation, Microeconomics_
 
-Green economic complexity provides a generalizable framework for examining countries' productive capabilities in a defined product set. We apply this framework to AI-enabling goods within the full product space, linking current specialization with adjacent diversification opportunities. Using BACI exports for 2007-2023 and 103 AI-enabling goods, we measure complexity-weighted specialization (AECI), product-level adjacent opportunities (AIAP), and average complexity-weighted relatedness of remaining candidates (AECP). In 2023, Japan leads AECI, while China leads AECP; portfolio breadth accounts...
+I consider a neoclassical growth model with a constant absolute risk aversion (CARA) utility function and derive a global closed form approximation that is arbitrarily precise as the discount rate $ρ$ is close to the population growth rate $n$. I use it to show that the consumption function is strictly concave and that countries can have two different paths converging to the steady-state: front-loading and back-loading.
 
 ---
 
 ## Econometrics & Methods
 
+### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
+*Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
+
+Machine learning (ML) techniques are increasingly drawing interest in the choice modelling (CM) field. The focus has primarily been on comparing the performance of these contrasting approaches or on improving behavioural insights for ML techniques, rather than translating ideas from one field into the other. In the present paper, we specifically focus on knowledge transfer from ML into CM in the context of model performance evaluation. In CM, model performance is typically evaluated using log-likelihood and related indicators, which are aggregate fit metrics that focus on overall fit. Converse...
+
+---
+
 ### [Shrinkage Bayesian Causal Forest with Instrumental Variable](https://arxiv.org/abs/2609.18903v1)
 *Lennard Maßmann, Jens Klenke* — **arxiv**, 2026-09-16 — _Econometrics & Methods, Health, Education & Welfare, method:IV, method:Machine Learning_
 
 Discovering interpretable subgroups whose complier effects deviate from the average is a central goal of instrumental variable analysis under imperfect compliance, yet existing tree-based methods degrade when most covariates are irrelevant to the effect. We propose Shrinkage Bayesian Causal Forest with Instrumental Variable (SBCF-IV) for discovering and estimating subgroups with heterogeneous Complier Average Causal Effects (CACE) in sparse high-dimensional settings. SBCF-IV places a sparsity-inducing Dirichlet prior on the splitting probabilities of the Bayesian Additive Regression Trees that...
-
----
-
-### [What No First Stage Can Detect: Functional-Form Contamination in Linear IV](https://arxiv.org/abs/2609.18172v1)
-*Parush Arora* — **arxiv**, 2026-09-16 — _Econometrics & Methods, method:IV_
-
-Applied instrumental variables (IV) practice reports a first-stage F, now often the conditional F of Sanderson and Windmeijer (2016), and reads a large value as license to interpret the second stage. We show that no first-stage diagnostic can provide it. With a scalar instrument, a scalar treatment, and covariates entered linearly, the 2SLS estimand splits into a signal that a saturated specification would target and a contamination, the covariance between curvature in the instrument propensity and a covariate level function. The same nuisance sits in both terms, so it biases the estimand and ...
-
----
-
-### [Profiled Anderson--Rubin Test: Robust Inference Allowing for Direct Effects of Instruments](https://arxiv.org/abs/2609.18150v1)
-*Jung Hyub Lee* — **arxiv**, 2026-09-16 — _Econometrics & Methods, Health, Education & Welfare, Labor & Demographic Economics, method:IV_
-
-Instrumental variable analyses often rely on the assumption that instruments affect the outcome only through the endogenous regressor. In many applications, researchers can defend only a plausible range for direct effects of instruments, while conventional sensitivity analyses may be unreliable when instruments are weak. This paper proposes the profiled Anderson--Rubin (pAR) test, which considers all direct effects within a prespecified range and retains a candidate effect whenever at least one admissible direct effect is consistent with the data. Under the maintained sampling assumptions, the...
-
----
-
-### [Causal Inference under Dynamic Selection: Time-Varying Covariates and Latent Heterogeneity](https://arxiv.org/abs/2609.17170v1)
-*Weisheng Zhang* — **arxiv**, 2026-09-15 — _Econometrics & Methods, Labor & Demographic Economics, method:DiD_
-
-I study dynamic treatment effects in panel data under staggered adoption when treatment timing depends jointly on unobserved time-invariant heterogeneity and time-varying pretreatment covariates, including lagged outcomes. Untreated potential outcomes follow a nonparametric dynamic panel model that allows flexible interactions between time-varying covariates and latent heterogeneity. I use pretreatment outcome histories to find individuals with similar time-invariant latent factors, and the key requirement is that these histories are sufficiently informative about those latent factors. I devel...
-
----
-
-## General Economics & Methodology
-
-### [A continuous-time dynamic contracting problem with limited liability and finite horizon](https://arxiv.org/abs/2609.18287v1)
-*Andrea Bovo, Tiziano De Angelis, Stéphane Villeneuve* — **arxiv**, 2026-09-16 — _General Economics & Methodology_
-
-We perform a detailed study of a principal--agent problem in a continuous time version of the celebrated Holmström--Milgrom model (Econometrica 55 (2), 1987) where we add limited liability for the Agent. We develop a probabilistic methodology to prove that the Principal's value function is the unique bounded classical solution to a fully nonlinear and fully degenerate partial differential equation (PDE) with Cauchy-Dirichlet boundary conditions on $[0,T]\times[0,\infty)$. Indeed, we also prove infinite continuous differentiability of the solution in the interior of the domain. The strength of ...
-
----
-
-## Industrial Organization
-
-### [Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders](https://arxiv.org/abs/2609.17989v1)
-*Davood Wadi, Yu Ma* — **arxiv**, 2026-09-16 — _Industrial Organization, Political Economy_
-
-Large language models (LLMs) now serve as conversational shopping assistants on platforms that also sell advertising. These AI agents face a conflict of duty. They advise consumers who rely on their judgment, yet are deployed by platforms that benefit when sponsored listings are chosen. Sponsorship disclosures, designed to allow consumers to penalize paid placements, now reach the AI agent rather than the consumer, and the agent's evaluation of them is hidden from the consumer. Drawing on the fiduciary concept of conflict of duty, we argue that an agent's evaluation of a sponsored listing shou...
-
----
-
-### [Auction Design with ROI-Constrained Bidders: Truthfulness and Revenue Maximization](https://arxiv.org/abs/2609.16522v1)
-*Zhiqiang Zhuang, Quan Yu, Yisong Wang, Kewen Wang et al.* — **arxiv**, 2026-09-15 — _Industrial Organization_
-
-The return-on-investment (ROI) constraint is central to many auctions, particularly in online advertising, where a bidder is unwilling to pay more than a fixed fraction of the value obtained. We study truthful and revenue-maximizing auctions for ROI-constrained bidders. We first characterize truthful auctions when both valuations and ROI constraints are private, showing that the allocation rule uniquely determines the payment rule. Building on this characterization, for multiple bidders we introduce $σ$-increment mechanisms that resemble Myerson's optimal mechanism~\cite{journals/mor/Myerson81...
 
 ---
 
@@ -105,14 +52,28 @@ This paper develops a framework for individualized treatment allocation when int
 
 ---
 
-### [Rate-Agnostic Wald Inference for Dyadic Regressions](https://arxiv.org/abs/2609.16968v1)
-*Benjamin O. Harrison, David T. Jacho-Chavez* — **arxiv**, 2026-09-15 — _International Economics_
+## Labor & Demographic Economics
 
-This paper develops Wald inference for least-squares estimation of linear regression models on dyadic data, accommodating configurations where multiple observations share the same pair of units (e.g., directed flows, multilayer networks, and dyadic panels). We establish that the dyadic-robust Wald statistic is asymptotically $χ^2_q$ for an arbitrary nonrandom sequence of full-rank restrictions, under a single condition on the accumulation of dependence. Throughout, no convergence rate is assumed or estimated, permitting the condition number of the score's variance matrix to diverge. We further...
+### [Cosine metric as a structural economic similarity measure](https://arxiv.org/abs/2609.20424v1)
+*Marina Telezhkina, Dominik Wied* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
+
+Structural similarity, the extent to which economic mechanisms respond alike to common shocks, matters for economic forecasting, policy transfer, and other decisions that rely on evidence from comparable settings. For mechanisms approximated by linear models, this idea has a simple geometric representation: The smaller the angle between their coefficient vectors, the more similarly they respond to the same shock. This paper introduces the cosine of this angle as a measure of structural similarity and develops the corresponding inference procedure. Applied to New Jersey's wage mechanism around ...
 
 ---
 
-## Labor & Demographic Economics
+### [Taxing Capital to Protect It](https://arxiv.org/abs/2609.19764v1)
+*Georgy Lukyanov, Hengrina Ly* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
+
+This paper studies the composition of taxation when the government cannot fully commit to respecting private returns after investment. A fiscal authority must finance a given expenditure from labor and capital income. Ordinary tax receipts are protected, but an opportunistic executive can seize part of the remaining capital payment. We show that a revenue-neutral increase in the capital tax raises the probability of compliance whenever the labor tax is below its local, fixed-wage revenue peak, provided the equilibrium remains on a regular mixing branch. This result does not depend on the elast...
+
+---
+
+### [Screening Out the Needy: The Effects of SNAP Work Requirements](https://arxiv.org/abs/2609.19660v1)
+*Lexin Cai, Hyewon Kim, Pauline Leung* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics_
+
+We examine the effectiveness of work requirements as a screening device in the Supplemental Nutrition Assistance Program (SNAP). Work requirements for "able-bodied adults without dependents" were suspended after the Great Recession and gradually reinstated across counties and states in the 2010s. Using linked administrative SNAP and employment data from five states and a triple-differences design, we find that work requirements reduce SNAP participation by seven percent without increasing labor supply and disproportionately screen out low-income individuals. We develop a welfare framework to i...
+
+---
 
 ### [Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences](https://arxiv.org/abs/2609.19081v1)
 *Thomas Leavitt* — **arxiv**, 2026-09-16 — _Labor & Demographic Economics, method:DiD_
@@ -121,39 +82,28 @@ In the canonical Difference-in-Differences design, the control group's post-trea
 
 ---
 
-## Law & Economics
-
-### [Why a Non-Discriminatory Royalty Surcharge Is Not Chip-Neutral: The Error in FTC v. Qualcomm](https://arxiv.org/abs/2609.18161v1)
-*Sang-Seung Yi* — **arxiv**, 2026-09-16 — _Law & Economics_
-
-Qualcomm's No License, No Chips policy let it levy a royalty surcharge on every handset, whether or not it used a Qualcomm modem chip. In FTC v. Qualcomm, the Ninth Circuit reversed the district court after accepting Qualcomm's argument that, because the surcharge did not vary with the chip, it was "chip neutral" and left handset makers' choices undistorted. I develop an equilibrium model of the modem chip market and show the defense to be wrong: the surcharge's facial neutrality does not imply economic neutrality. For per handset surcharges, a surcharge and an equal government tax affect the ...
-
----
-
 ## Microeconomics
 
-### [Multitask Reinforcement Learning for Assisting Choice Model Specification](https://arxiv.org/abs/2609.18441v1)
-*Gabriel Nova, Stephane Hess, Sander Van Cranenburgh* — **arxiv**, 2026-09-16 — _Microeconomics, Public Economics_
+### [Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets](https://arxiv.org/abs/2609.20017v1)
+*Chengqi Zang, Gabriel P. Andrade, Tomoyuki Nakajima* — **arxiv**, 2026-09-17 — _Microeconomics_
 
-Discrete choice model specification is a time-consuming task in which modellers often specify and estimate multiple models while balancing goodness-of-fit, parsimony, and behavioural plausibility. We present Delphos, a multitask reinforcement learning framework that learns transferable specification strategies across transport choice datasets. Delphos frames model specification as a sequential decision-making problem in which it applies a sequence of modelling actions and receives feedback from an estimation environment based on model performance and convergence. To transfer modelling decision...
+Prediction-market shares differ from traditional financial products in that, with no information or outside utility, classical delta-neutral Central Limit Order Book~(CLOB) market making cannot be financed by payoff-uninformative noise flow. Transaction-level evidence from a major prediction-market CLOB platform shows makers profiting not from spread but from carrying an under-priced side to settlement --- the empirical signature of behavioral tail demand rather than classical, randomized noise. We build this tail demand directly into the model and study an LMSR and a CLOB on the same event. A...
 
 ---
 
 ## Political Economy
 
-### [Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation](https://arxiv.org/abs/2609.18147v1)
-*Genta Okada* — **arxiv**, 2026-09-16 — _Political Economy_
+### [Unpriced Internal Externalities and Structural Inefficiency in Organizations](https://arxiv.org/abs/2609.20462v1)
+*Jan van de Poll* — **arxiv**, 2026-09-17 — _Political Economy_
 
-Moving from geographically fragmented to pooled waiting lists in deceased-donor organ transplantation can improve efficiency, but it raises concerns about regional fairness and participation incentives. This paper studies Pareto gains from such transitions in a multi-class queueing model with impatient agents, perishable items, and a tractable homogeneous compatibility friction. Unlike standard approaches that focus on static match quality or ignore regional incentives in dynamic settings, our analysis identifies dynamic risk pooling as the main source of Pareto improvements for regions: pooli...
+Organizations often invest substantial effort in improving internal mechanisms such as processes, governance, and technology, yet realize only modest performance gains. This paper proposes a structural explanation for this pattern. We introduce the concept of internal externalities: unpriced cross-effects generated by internal organizational mechanisms that act simultaneously on multiple objectives. When these effects oppose one another, effort cancels internally, limiting attainable performance even without incentive misalignment or informational constraints. We formalize this mechanism by mo...
 
 ---
 
-## Public Economics
+### [Stable Allocations, Unstable Payment Paths: The Shapley Value and Voluntary Coalition Formation](https://arxiv.org/abs/2609.20421v1)
+*Tongseok Lim* — **arxiv**, 2026-09-17 — _Political Economy_
 
-### [Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making](https://arxiv.org/abs/2609.18591v1)
-*Yu Liu, Wenwen Li, Yifan Dou, Guangnan Ye* — **arxiv**, 2026-09-16 — _Public Economics_
-
-In-context learning (ICL) enables large language model (LLM) agents to improve decisions using interaction history, yet it remains unclear whether such improvement reflects refined internal reasoning or mere extrapolation of statistical patterns. To disentangle these mechanisms, we study LLM agents in multi-agent incomplete-information games that require recursive belief reasoning. By constructing a public goods game and manipulating the statistical structure of historical feedback, we evaluate decision quality against a history-independent rational expectations equilibrium (REE) benchmark. Ou...
+The random-order interpretation of the Shapley value specifies both a terminal allocation and a payment path: when a player enters, she receives her marginal contribution at that moment. We ask whether players would voluntarily follow this path. A player may prefer to wait if her marginal contribution is expected to rise as the coalition grows. This creates a tension in convex games. The Shapley allocation belongs to the core, but, except in additive games, the associated marginal-contribution payment path does not support voluntary entry. We separate these two objects by introducing payment f...
 
 ---
 
@@ -173,6 +123,76 @@ The Journal of Finance, EarlyView.
 *MARINA GERTSBERG* — **Journal of Finance**, 2026-08-21 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://arxiv.org/abs/2609.20554v1)
+*Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **arxiv**, 2026-09-17 — _Unclassified_
+
+We examine whether post-origin training information inflates the measured accuracy and economic value of financial forecasts. We evaluate five sets of financial time-series foundation models, each comprising independently trained annual vintages under U.S., global, and factor-augmented training environments, across 14 equity markets and four forecast horizons. Rolling comparisons vary the annual vintage for a fixed forecast; fixed-vintage comparisons hold the vintage fixed as target windows move across its training cutoff. Each alternative forecast is paired with an origin-aligned point-in-tim...
+
+---
+
+### [Gaussian Boundary Inference in a Hypergeometric Heavy-Tailed Family](https://arxiv.org/abs/2609.20393v1)
+*Steve Lawford* — **arxiv**, 2026-09-17 — _Unclassified_
+
+This paper develops inference for a Gaussian-nested hypergeometric family of distribution functions. The family \[ G_c(z) = \frac12 + z\,\frac{Γ(c-1/2)}{2\sqrt2\,Γ(c)}\,{}_1F_1\!\left(\frac12;c;-\frac{z^2}{2}\right),\quad c\ge\frac32, \] contains the standard normal distribution at the boundary $c=3/2$. Away from the boundary, the density has algebraic tail behaviour $g_c(z)\sim(c-3/2)|z|^{-3}$, so the parameter $c$ indexes a directed heavy-tailed deformation of the Gaussian law. The distribution also admits an equivalent beta-precision normal scale-mixture representation, in which the Gaussia...
+
+---
+
+### [Noise-adjusted turnover in estimated networks](https://arxiv.org/abs/2609.20044v1)
+*Sultan Amed, Sayantan Banerjee* — **arxiv**, 2026-09-17 — _Unclassified_
+
+Economic networks are often estimated separately over two periods, and changes in their edge sets are interpreted as structural rewiring. Since both networks are estimated, observed turnover also reflects graph-selection error. We study the two-snapshot Hamming-turnover functional under a homogeneous edge-misclassification model. With known sensitivity and specificity and conditional independence of the estimated edge indicators across periods, latent turnover admits a closed-form unbiased adjustment based only on observed turnover and the two estimated graph sizes. We then examine the effects...
+
+---
+
+### [A polyhedral characterization of worker-quasi-stable matchings](https://arxiv.org/abs/2609.20032v1)
+*Nadia Guiñazú, Noelia Juarez, Paola Manasero, Pablo Neme et al.* — **arxiv**, 2026-09-17 — _Unclassified_
+
+We provide the first polyhedral characterization of worker-quasi-stable matchings in the classical one-to-one matching model. By modifying the classical stability constraints, we introduce a convex polytope and prove that it is integral. Consequently, its extreme points coincide exactly with the incidence vectors of worker-quasi-stable matchings, demonstrating that worker-quasi-stability preserves the geometric tractability of standard stability.
+
+---
+
+### [Rational Bargaining: Characterization and Implementation](https://arxiv.org/abs/2609.19932v1)
+*Philipp Peitler* — **arxiv**, 2026-09-17 — _Unclassified_
+
+The von Neumann-Morgenstern axioms are uncontroversial desiderata for individual decision-making. We say that a bargaining solution is rational if it can be interpreted as the most preferred alternatives under these axioms. Yet, neither the Nash nor the Kalai-Smorodinsky bargaining solution is rational in this sense. We formalize two consequences of rationality, namely that one can neither be strictly better off nor strictly worse off from randomizing over different actions. These two axioms, together with other standard axioms, characterize the relative utilitarian bargaining solution. We the...
+
+---
+
+### [Putting Context into Preference Aggregation](https://arxiv.org/abs/2609.19888v1)
+*Philipp Peitler, Karl H. Schlag* — **arxiv**, 2026-09-17 — _Unclassified_
+
+The axioms underlying Arrow's impossibility theorem are very restrictive in terms of what can be used when aggregating preferences. Social preferences may not depend on the menu nor on preferences over alternatives outside the menu. But context matters. So, we weaken these restrictions to allow for context to be included. The context, as we define, describes which alternatives in the menu and which preferences over alternatives outside the menu matter. We obtain unique representations. These are discussed in examples involving markets, the intertemporal well-being of an individual, and bargain...
+
+---
+
+### [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)
+*Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller* — **arxiv**, 2026-09-17 — _Unclassified_
+
+LLM-based GUI agents increasingly act on behalf of users in digital environments that were designed with human users in mind. These graphical user interfaces were designed to support, but also deliberately steer, the behaviour and decisions of users. While behavioural biases in the textual outputs of LLMs are well-documented, far less is known about how such influence operates when models act as agents that perceive interfaces and execute decisions---and, in particular, whether the reasoning capabilities increasingly built into these agents make them more robust to it. Drawing on Dual-Process ...
+
+---
+
+### [Anonymous Accountability](https://arxiv.org/abs/2609.19771v1)
+*Georgy Lukyanov, Muslim Salakhov* — **arxiv**, 2026-09-17 — _Unclassified_
+
+We ask how an expert panel should disclose auditable conflicts of interest when reports are named and experts care about their reputations for ability. Before sealed binary assessments are filed, an auditor commits to disclosing no orientation information, each named expert's orientation, or only the number of experts oriented in each direction; disclosure occurs after reports are locked. Holding reporting behaviour fixed, composition disclosure and individual attribution are exactly Blackwell-equivalent for learning the state at every finite panel size. Conditional on named reports remaining ...
+
+---
+
+### [Axiomatizing Local Asymptotic Minimax Risk](https://arxiv.org/abs/2609.19738v1)
+*Ricky Li* — **arxiv**, 2026-09-17 — _Unclassified_
+
+Local asymptotic minimax (LAM) risk is a foundational efficiency criterion in statistics and econometrics. The literature uses two definitions of LAM risk: one which appears in classical lower bounds and another which appears in arguments establishing attainment of those bounds. Conventional efficiency arguments are consistent with any estimator-dependent weighted average of the two, and consequently do not reveal which of these generalized $α$-LAM risk indices describes researchers' actual preferences. We take a decision-theoretic approach to systematically resolve this ambiguity. We axiomati...
+
+---
+
+### [Vector Vine Copula Models for Multivariate Longitudinal Data](https://arxiv.org/abs/2609.19547v1)
+*Michael Stanley Smith, Lin Deng* — **arxiv**, 2026-09-17 — _Unclassified_
+
+Multivariate longitudinal data may exhibit non-Gaussian margins, nonlinear dynamics, and response vectors with composition that varies across waves. To account for these features, we introduce a vector drawable vine (VD-vine) copula that extends conventional drawable vine copulas from scalar to vector-valued nodes. Here, the response vector at each wave forms a multivariate marginal, and serial dependence is captured through a sequence of linking vector copulas. We establish that the VD-vine is itself a vector copula and reduces to a conventional drawable vine for scalar nodes. Recursive forwa...
 
 ---
 
@@ -208,41 +228,11 @@ We analyze incomplete-information games where an oracle publicly shares informat
 
 ---
 
-### [Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series](https://arxiv.org/abs/2609.18157v1)
-*Huan Gong, Feiyu Jiang* — **arxiv**, 2026-09-16 — _Unclassified_
+## method:Propensity Score
 
-Modern economic and financial data are increasingly organized as multiway arrays, with observations indexed simultaneously by geographic regions, industrial sectors, asset categories, and other economic characteristics. Representing such data as tensor-valued time series preserves their intrinsic multiway structure. Although substantial effort has been devoted to modeling the conditional mean of tensor-valued time series, comparatively less attention has been paid to their conditional covariance dynamics. The latter remains challenging because unrestricted multivariate covariance models involv...
+### [Beyond Linearity: Semiparametric Solutions to Contamination Bias with Multi-valued Treatments](https://arxiv.org/abs/2609.20473v1)
+*Michel Csillag Finger, Vitor Possebom* — **arxiv**, 2026-09-17 — _method:Propensity Score_
 
----
-
-### [Empirical Bayes for compound adaptive experiments](https://arxiv.org/abs/2609.17158v1)
-*Karun Adusumilli, Jiaying Gu, Junfan Tao* — **arxiv**, 2026-09-15 — _Unclassified_
-
-We investigate Empirical Bayes (EB) methods in the context of compound adaptive experiments, where the arm distribution in each experiment follows a normal distribution with an unknown mean that we seek to estimate. There are two main EB strategies: $g$-modeling, which estimates the prior by maximizing the marginal likelihood, and $f$-modeling, which derives posterior means directly from the empirical distribution of the observations. We show that $g$-modeling continues to be a valid EB procedure even when it incorrectly assumes that data are collected exogenously; its validity does not depend...
-
----
-
-### [A Multiverse of Good and Bad Controls: Candidate Causal Graphs for Interpreting Model Robustness Analysis](https://arxiv.org/abs/2609.16618v1)
-*Shoki Okubo* — **arxiv**, 2026-09-15 — _Unclassified_
-
-Model robustness analysis estimates an effect across a multiverse of specifications that pools control sets identifying the declared estimand with sets that condition on mediators or colliders. We propose stating rival assumptions about contested controls as a small set of candidate causal graphs, enumerating the adjustment sets each graph licenses, and reporting robustness metrics conditional on each graph. A finite-mixture identity splits the licensed multiverse's dispersion into within-graph and between-graph components; the between-graph share is a conditional descriptive summary whose rea...
-
----
-
-## method:RCT
-
-### [Conformal Policy Learning with Distribution-Free Safety Guarantees](https://arxiv.org/abs/2609.17296v1)
-*Ying Jin, Naoki Egami* — **arxiv**, 2026-09-15 — _method:RCT_
-
-Policy learning aims to determine who should be treated based on individual characteristics. In high-stakes settings such as medicine and public policy where safety is a central concern, improving the average outcomes alone may not be sufficient: decision makers may also seek to protect individuals from harm, in line with the Hippocratic principle of ``do no harm.'' In this paper, we propose \textit{conformal policy learning} (CPL), a policy learning procedure with a new distribution-free safety guarantee that controls the probability of assigning treatment to an individual who would be harmed...
-
----
-
-## method:Theory
-
-### [On testing the incentive compatibility of single-parameter allocation mechanisms](https://arxiv.org/abs/2609.17406v1)
-*Jason Milionis, William Pires* — **arxiv**, 2026-09-15 — _method:Theory_
-
-This paper is the first work at the intersection of game theory and property testing, giving algorithms and lower bounds for efficiently testing whether an allocation mechanism is incentive compatible (IC). We propose distinguishing whether a mechanism is $ε$-far from being IC, i.e., when it observes many monotonicity "violations." Conceptually, inspired by the literature on Boolean function monotonicity testing, we construct a tester for discrete single-parameter allocation rules. Technically, our work is the first to consider monotonicity testing of vector-valued functions on the hypergrid. ...
+We examine semiparametric solutions to contamination bias for nonbinary treatments. Deepening the discussion by Goldsmith-Pinkham et al. (2024), we detail how spline functions approximate conditional expectation and propensity score functions under weak functional-form assumptions. Reanalyzing 18 regressions across 11 studies, we compare standard linear regressions against parametric and semiparametric versions of three contamination-robust estimators. We document large point-estimate discrepancies between parametric and semiparametric approaches and find that adopting flexible semiparametric ...
 
 ---
