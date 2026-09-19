@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-18
+# Weekly Deep-Reading Queue — week of 2026-09-19
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -29,47 +29,47 @@ LLM-based GUI agents increasingly act on behalf of users in digital environments
 
 ---
 
-## 4. Anonymous Accountability
+## 4. Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models
 
-### [Anonymous Accountability](https://arxiv.org/abs/2609.19771v1)
-*Georgy Lukyanov, Muslim Salakhov* — **arxiv**, 2026-09-17 — _Unclassified_
+### [Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models](https://doi.org/10.48550/arxiv.2609.19674)
+*Yufeng Wang, Parivesh Priye, Lu Wei, Haibin Ling* — **openalex ssrn**, 2026-09-17 — _Agricultural & Environmental Economics, Public Economics_
 
-We ask how an expert panel should disclose auditable conflicts of interest when reports are named and experts care about their reputations for ability. Before sealed binary assessments are filed, an auditor commits to disclosing no orientation information, each named expert's orientation, or only the number of experts oriented in each direction; disclosure occurs after reports are locked. Holding reporting behaviour fixed, composition disclosure and individual attribution are exactly Blackwell-equivalent for learning the state at every finite panel size. Conditional on named reports remaining ...
-
----
-
-## 5. Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences
-
-### [Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences](https://arxiv.org/abs/2609.19081v1)
-*Thomas Leavitt* — **arxiv**, 2026-09-16 — _Labor & Demographic Economics, method:DiD_
-
-In the canonical Difference-in-Differences design, the control group's post-treatment change serves as an imputation of the treated group's counterfactual change in the same period, an imputation justified by parallel trends. However, differences in group composition can produce between-group differences in how outcomes would evolve over time, rendering this imputation vulnerable to confounding. An alternative imputation -- such as one based on the treated group's pre-treatment change -- avoids such between-group confounding but introduces the risk of confounding from within-group temporal shi...
+A learned simulator can reproduce its training conditions accurately yet fail in two distinct ways once those conditions change. Over long rollouts, small errors accumulate until the trajectory drifts away from physically plausible behavior; under an intervention on a physical parameter, the model may continue to follow the law seen during training rather than the intervened one. We show that these two failures require different structural remedies. Evolving a learned energy with a symplectic integrator preserves the geometry of the conservative dynamics and keeps rollouts bounded and physical...
 
 ---
 
-## 6. Multitask Reinforcement Learning for Assisting Choice Model Specification
+## 5. Proposing, never assigning: fair allocation of control-room shifts in experimental particle physics collaborations from ranked wishes under institutional quotas
 
-### [Multitask Reinforcement Learning for Assisting Choice Model Specification](https://arxiv.org/abs/2609.18441v1)
-*Gabriel Nova, Stephane Hess, Sander Van Cranenburgh* — **arxiv**, 2026-09-16 — _Microeconomics, Public Economics_
+### [Proposing, never assigning: fair allocation of control-room shifts in experimental particle physics collaborations from ranked wishes under institutional quotas](https://doi.org/10.48550/arxiv.2609.19658)
+*K. Benslama* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-Discrete choice model specification is a time-consuming task in which modellers often specify and estimate multiple models while balancing goodness-of-fit, parsimony, and behavioural plausibility. We present Delphos, a multitask reinforcement learning framework that learns transferable specification strategies across transport choice datasets. Delphos frames model specification as a sequential decision-making problem in which it applies a sequence of modelling actions and receives feedback from an estimation environment based on model performance and convergence. To transfer modelling decision...
-
----
-
-## 7. Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series
-
-### [Tensor-BEKK: Conditional Covariance Modeling and Inference for Tensor-Valued Time Series](https://arxiv.org/abs/2609.18157v1)
-*Huan Gong, Feiyu Jiang* — **arxiv**, 2026-09-16 — _Unclassified_
-
-Modern economic and financial data are increasingly organized as multiway arrays, with observations indexed simultaneously by geographic regions, industrial sectors, asset categories, and other economic characteristics. Representing such data as tensor-valued time series preserves their intrinsic multiway structure. Although substantial effort has been devoted to modeling the conditional mean of tensor-valued time series, comparatively less attention has been paid to their conditional covariance dynamics. The latter remains challenging because unrestricted multivariate covariance models involv...
+Experimental particle physics collaborations staff their detectors around the clock with members drawn from dozens of institutions. The established practice is a credit system with self-sign-up: institutions owe a quota of credit, and people take the seats they want when booking opens. This paper describes a method in which seats are instead allocated from ranked wishes under institutional quotas, the result is issued as offers that each person accepts or declines, and an independent checker recomputes every rule before anything is published: the platform proposes, never assigns, and proves th...
 
 ---
 
-## 8. Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation
+## 6. Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models
 
-### [Dynamic Pooling and Regional Participation in Deceased-Donor Organ Allocation](https://arxiv.org/abs/2609.18147v1)
-*Genta Okada* — **arxiv**, 2026-09-16 — _Political Economy_
+### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://doi.org/10.48550/arxiv.2609.20554)
+*Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-Moving from geographically fragmented to pooled waiting lists in deceased-donor organ transplantation can improve efficiency, but it raises concerns about regional fairness and participation incentives. This paper studies Pareto gains from such transitions in a multi-class queueing model with impatient agents, perishable items, and a tractable homogeneous compatibility friction. Unlike standard approaches that focus on static match quality or ignore regional incentives in dynamic settings, our analysis identifies dynamic risk pooling as the main source of Pareto improvements for regions: pooli...
+We examine whether post-origin training information inflates the measured accuracy and economic value of financial forecasts. We evaluate five sets of financial time-series foundation models, each comprising independently trained annual vintages under U.S., global, and factor-augmented training environments, across 14 equity markets and four forecast horizons. Rolling comparisons vary the annual vintage for a fixed forecast; fixed-vintage comparisons hold the vintage fixed as target windows move across its training cutoff. Each alternative forecast is paired with an origin-aligned point-in-tim...
+
+---
+
+## 7. Welfare-Opaque Income: Taxation under AI-Agent Delegation
+
+### [Welfare-Opaque Income: Taxation under AI-Agent Delegation](https://doi.org/10.48550/arxiv.2609.20425)
+*Yukun Zhang, Kemu Xu, Yishen Chen* — **openalex ssrn**, 2026-09-17 — _Public Economics_
+
+We study income taxation when an AI agent implements economically relevant choices through a rule hidden from the government. Alongside unobserved productive ability, this hidden preference-to-execution mapping creates \emph{double unobservability}: the same observable tax-base response can carry different welfare consequences. We call the resulting income \emph{welfare-opaque}. Our constructions show that tax-base statistics can coincide while reform welfare effects differ, even when mechanical welfare weights are identical. We derive an optimal-tax condition that adds a response-weighted exe...
+
+---
+
+## 8. The More It Says, the More You Pay: A Black-Box Audit of Provider-Side Token Inflation in LLM Services
+
+### [The More It Says, the More You Pay: A Black-Box Audit of Provider-Side Token Inflation in LLM Services](https://doi.org/10.48550/arxiv.2609.20370)
+*Leilei Chen, Lan Zhang, Chen Tang, Pengcheng Sun et al.* — **openalex ssrn**, 2026-09-17 — _Macroeconomics, Microeconomics_
+
+In pay-per-token LLM services, the more a model says, the more users pay. Dishonest providers can covertly manipulate generation to inflate output tokens while largely preserving task utility. We define such manipulation as a Provider-Side Token Inflation Attack (PTIA) and instantiate five representative attacks at the query, prompt, representation, and model levels of the provider-controlled pipeline. Our experiments show that each attack increases mean output length to more than 10.2x the clean baseline, demonstrating PTIA's financial appeal and feasibility at multiple stages of generation. ...
 
 ---

@@ -1,11 +1,18 @@
-# Economics Research Digest — 2026-09-18
+# Economics Research Digest — 2026-09-19
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
 ### [Tradeable Import Certificates for Strategic Supply Security](https://arxiv.org/abs/2609.20282v1)
 *Sebastian Kranz* — **arxiv**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
+
+Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
+
+---
+
+### [Tradeable Import Certificates for Strategic Supply Security](https://doi.org/10.48550/arxiv.2609.20282)
+*Sebastian Kranz* — **openalex ssrn**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
 
 Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
 
@@ -26,29 +33,6 @@ I consider a neoclassical growth model with a constant absolute risk aversion (C
 *Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
 
 Machine learning (ML) techniques are increasingly drawing interest in the choice modelling (CM) field. The focus has primarily been on comparing the performance of these contrasting approaches or on improving behavioural insights for ML techniques, rather than translating ideas from one field into the other. In the present paper, we specifically focus on knowledge transfer from ML into CM in the context of model performance evaluation. In CM, model performance is typically evaluated using log-likelihood and related indicators, which are aggregate fit metrics that focus on overall fit. Converse...
-
----
-
-### [Shrinkage Bayesian Causal Forest with Instrumental Variable](https://arxiv.org/abs/2609.18903v1)
-*Lennard Maßmann, Jens Klenke* — **arxiv**, 2026-09-16 — _Econometrics & Methods, Health, Education & Welfare, method:IV, method:Machine Learning_
-
-Discovering interpretable subgroups whose complier effects deviate from the average is a central goal of instrumental variable analysis under imperfect compliance, yet existing tree-based methods degrade when most covariates are irrelevant to the effect. We propose Shrinkage Bayesian Causal Forest with Instrumental Variable (SBCF-IV) for discovering and estimating subgroups with heterogeneous Complier Average Causal Effects (CACE) in sparse high-dimensional settings. SBCF-IV places a sparsity-inducing Dirichlet prior on the splitting probabilities of the Bayesian Additive Regression Trees that...
-
----
-
-## International Economics
-
-### [PPML and Heavy-Tailed Trade and Factor Flows: Why Standard Inference Fails and How to Fix It](https://arxiv.org/abs/2609.18750v1)
-*Peter H. Egger, Ting Ji, Yulong Wang* — **arxiv**, 2026-09-16 — _International Economics_
-
-The Poisson pseudo-maximum likelihood (PPML) estimator is widely used for estimating bilateral gravity equations. Its consistency requires only a correctly specified conditional mean. Conventional inference, however, also requires finite-variance scores and Gaussian limits. We show that these conditions fail: bilateral flows are Pareto-tailed, PPML scores have a stable limit under a structural gravity data-generating process, and sandwich confidence intervals are too narrow. We retain PPML for point estimation but replace sandwich inference with an m-out-of-n bootstrap robust to heavy tails. A...
-
----
-
-### [Policy Targeting with Market Equilibrium](https://arxiv.org/abs/2609.18600v1)
-*Gyungbae Park* — **arxiv**, 2026-09-16 — _International Economics_
-
-This paper develops a framework for individualized treatment allocation when interventions shift equilibrium prices and generate spillovers across treated and untreated units. The planner chooses which units receive a subsidy while allowing equilibrium prices to adjust endogenously. We show that the resulting welfare function is supermodular under broad and interpretable conditions, implying complementarity across treatment assignments and enabling exact polynomial-time optimization. This structure clarifies how equilibrium spillovers shape the trade-off between universal and targeted distribu...
 
 ---
 
@@ -75,10 +59,10 @@ We examine the effectiveness of work requirements as a screening device in the S
 
 ---
 
-### [Beyond Pretrends: A Discordance-Based Sensitivity Analysis for Difference-in-Differences](https://arxiv.org/abs/2609.19081v1)
-*Thomas Leavitt* — **arxiv**, 2026-09-16 — _Labor & Demographic Economics, method:DiD_
+### [Cosine metric as a structural economic similarity measure](https://doi.org/10.48550/arxiv.2609.20424)
+*Marina Telezhkina, Dominik Wied* — **openalex ssrn**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
 
-In the canonical Difference-in-Differences design, the control group's post-treatment change serves as an imputation of the treated group's counterfactual change in the same period, an imputation justified by parallel trends. However, differences in group composition can produce between-group differences in how outcomes would evolve over time, rendering this imputation vulnerable to confounding. An alternative imputation -- such as one based on the treated group's pre-treatment change -- avoids such between-group confounding but introduces the risk of confounding from within-group temporal shi...
+Structural similarity, the extent to which economic mechanisms respond alike to common shocks, matters for economic forecasting, policy transfer, and other decisions that rely on evidence from comparable settings. For mechanisms approximated by linear models, this idea has a simple geometric representation: The smaller the angle between their coefficient vectors, the more similarly they respond to the same shock. This paper introduces the cosine of this angle as a measure of structural similarity and develops the corresponding inference procedure. Applied to New Jersey's wage mechanism around ...
 
 ---
 
@@ -196,35 +180,45 @@ Multivariate longitudinal data may exhibit non-Gaussian margins, nonlinear dynam
 
 ---
 
-### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
-*VITO D. GALA, 
-JOAO F. GOMES, 
-TONG LIU* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+### [Quantifying Overclaiming Propensity in Frontier LLM Agents](https://doi.org/10.48550/arxiv.2609.20812)
+*Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo, Saskia Helbling et al.* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \emph{OverclaimBench}, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurem...
 
 ---
 
-### [Can Small Businesses Survive Chapter 11?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R)
-*EDITH HOTCHKISS, 
-BENJAMIN IVERSON, 
-XIANG ZHENG* — **Journal of Finance**, 2026-08-19 — _Unclassified_
+### [Putting Context into Preference Aggregation](https://doi.org/10.48550/arxiv.2609.19888)
+*Philipp Peitler, Karl H. Schlag* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+The axioms underlying Arrow's impossibility theorem are very restrictive in terms of what can be used when aggregating preferences. Social preferences may not depend on the menu nor on preferences over alternatives outside the menu. But context matters. So, we weaken these restrictions to allow for context to be included. The context, as we define, describes which alternatives in the menu and which preferences over alternatives outside the menu matter. We obtain unique representations. These are discussed in examples involving markets, the intertemporal well-being of an individual, and bargain...
 
 ---
 
-### [Conditionally linear, matrix normal state space models](https://arxiv.org/abs/2609.18734v1)
-*Drew D. Creal, Marcelo C. Medeiros, Rodrigo Sarlo* — **arxiv**, 2026-09-16 — _Unclassified_
+### [Odds-Ratio Thompson Sampling: A Specification and Design Guide for Contrast-Based Multi-Armed Bandits](https://doi.org/10.48550/arxiv.2609.19709)
+*Sulgi Kim* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-We develop a class of linear state space models for matrix-valued time series data where the state is a latent matrix normal process. We derive matrix versions of the Kalman filter, log-likelihood, and smoother enabling estimation of the latent state matrix as well as the model's parameters. To conduct Bayesian inference, we provide algorithms that draw from the joint posterior distribution of the latent state matrices conditional on the observed data and parameters. We apply these methods to a large panel of U.S. macroeconomic time series across the 50 U.S. states. The proposed framework acco...
+Batched multi-armed bandits update on a service's own schedule, and the usual implementation carries each arm's absolute reward rate from one update to the next. When the shared level moves between batches, that memory goes stale even though the comparisons between arms may not have. Odds-Ratio Thompson Sampling (OR-TS) instead carries the joint posterior over log-odds contrasts and fits the common level afresh in every batch, marginalizing it out. This paper specifies that update, places it inside a Bayesian bandit agent with two controls, decay for how much past evidence survives an update a...
 
 ---
 
-### [Comparison of Deterministic Information Providers](https://arxiv.org/abs/2609.18701v1)
-*David Lagziel, Ehud Lehrer, Tao Wang* — **arxiv**, 2026-09-16 — _Unclassified_
+### [Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts](https://doi.org/10.48550/arxiv.2609.20353)
+*Rui Ai, David Simchi-Levi, Han Zhong* — **openalex ssrn**, 2026-09-17 — _Unclassified_
 
-We analyze incomplete-information games where an oracle publicly shares information with players. One oracle dominates another if, in every game, it can match the set of equilibrium outcomes induced by the latter. Characterizations are provided for deterministic signaling functions, based on simultaneous posterior matching, a constructive partition criterion, and common knowledge components. This study elaborates on the work of Blackwell (1951) in games with incomplete information, using the common knowledge components of Aumann (1976).
+We study repeated contract design when a principal observes outcomes but not the actions that generate them. The principal may use any bounded outcome-contingent payment vector, and the agent's best response can make expected profit discontinuous in those payments. For every fixed number $m\ge2$ of outcomes, the minimax regret over $T$ rounds is of order $T^{m/(m+1)}$, up to logarithmic factors. The upper bound allows arbitrary action spaces and agent heterogeneity, without smoothness or monotone-surplus assumptions. Its key is an effective-dimension reduction that the benchmark can be normali...
+
+---
+
+### [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](https://doi.org/10.48550/arxiv.2609.20548)
+*Karthik Sivachandran, Rohan Paleja* — **openalex ssrn**, 2026-09-17 — _Unclassified_
+
+Reinforcement learning agents trained to maximize their own reward in repeated interactions can converge to supra-competitive outcomes resembling explicit collusion, without communication or shared design. Existing mitigation approaches are largely tied to specific economic settings, like two-sided platforms and auctions, leaving open how to design interventions for general repeated games. We address this gap by formalizing the connection between empirical observations from prior work on Q-learning collusion and classical theory of Simple Penal Codes (SPCs). We show any non-trivial SPC induces...
+
+---
+
+### [SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes](https://doi.org/10.48550/arxiv.2609.19705)
+*Mengxiao Wang, Nitesh Saxena* — **openalex ssrn**, 2026-09-17 — _Unclassified_
+
+Autonomous large language model (LLM) agents are moving rapidly into high-stakes domains, yet existing agentic-AI security studies remain largely domain-agnostic and overlook the distinctive, high-consequence attack surface such settings create. We examine this gap through financial trading agents, a representative case of high-stakes agentic security, where a single compromised agent has direct execution authority over real capital in an adversarial, reflexive market. To this end, we present FARSIGHT (Financial Agent Robustness and Security Investigation and Global Holistic Testing), a framew...
 
 ---
 
