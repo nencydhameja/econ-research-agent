@@ -1,18 +1,19 @@
-# Economics Research Digest — 2026-09-19
+# Economics Research Digest — 2026-09-20
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Tradeable Import Certificates for Strategic Supply Security](https://arxiv.org/abs/2609.20282v1)
-*Sebastian Kranz* — **arxiv**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
+### [Environmental Consequences of Hydrocarbon Infrastructure Policy](https://www.journals.uchicago.edu/doi/abs/10.1086/742713?af=R)
+*Thomas R. CovertRyan KelloggAirbnbHarris School of Public Policy, University of Chicago; and National Bureau of
+          Economic Research* — **Journal of Political Economy**, 2026-09-04 — _Agricultural & Environmental Economics, Political Economy_
 
-Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
+Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Tradeable Import Certificates for Strategic Supply Security](https://doi.org/10.48550/arxiv.2609.20282)
-*Sebastian Kranz* — **openalex ssrn**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
+### [Tradeable Import Certificates for Strategic Supply Security](https://arxiv.org/abs/2609.20282v1)
+*Sebastian Kranz* — **arxiv**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
 
 Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
 
@@ -29,6 +30,13 @@ I consider a neoclassical growth model with a constant absolute risk aversion (C
 
 ## Econometrics & Methods
 
+### [Debiasing and t-Tests for Synthetic Control Inference on Average Causal Effects](https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R)
+*Victor ChernozhukovKaspar WüthrichYinchu ZhuMassachusetts Institute of Technology and University College LondonUniversity of MichiganBrandeis University* — **Journal of Political Economy**, 2026-08-21 — _Econometrics & Methods, Political Economy, method:Synthetic Control_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
 ### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
 *Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
 
@@ -37,6 +45,13 @@ Machine learning (ML) techniques are increasingly drawing interest in the choice
 ---
 
 ## Labor & Demographic Economics
+
+### [The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining](https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R)
+*David A. GreenBen M. SandIain G. SnoddyJeanne TschoppUniversity of British Columbia and Institute for Fiscal StudiesYork UniversityAnalysis GroupUniversity of Bern* — **Journal of Political Economy**, 2026-08-25 — _Labor & Demographic Economics, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
 
 ### [Cosine metric as a structural economic similarity measure](https://arxiv.org/abs/2609.20424v1)
 *Marina Telezhkina, Dominik Wied* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
@@ -52,20 +67,6 @@ This paper studies the composition of taxation when the government cannot fully 
 
 ---
 
-### [Screening Out the Needy: The Effects of SNAP Work Requirements](https://arxiv.org/abs/2609.19660v1)
-*Lexin Cai, Hyewon Kim, Pauline Leung* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics_
-
-We examine the effectiveness of work requirements as a screening device in the Supplemental Nutrition Assistance Program (SNAP). Work requirements for "able-bodied adults without dependents" were suspended after the Great Recession and gradually reinstated across counties and states in the 2010s. Using linked administrative SNAP and employment data from five states and a triple-differences design, we find that work requirements reduce SNAP participation by seven percent without increasing labor supply and disproportionately screen out low-income individuals. We develop a welfare framework to i...
-
----
-
-### [Cosine metric as a structural economic similarity measure](https://doi.org/10.48550/arxiv.2609.20424)
-*Marina Telezhkina, Dominik Wied* — **openalex ssrn**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
-
-Structural similarity, the extent to which economic mechanisms respond alike to common shocks, matters for economic forecasting, policy transfer, and other decisions that rely on evidence from comparable settings. For mechanisms approximated by linear models, this idea has a simple geometric representation: The smaller the angle between their coefficient vectors, the more similarly they respond to the same shock. This paper introduces the cosine of this angle as a measure of structural similarity and develops the corresponding inference procedure. Applied to New Jersey's wage mechanism around ...
-
----
-
 ## Microeconomics
 
 ### [Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets](https://arxiv.org/abs/2609.20017v1)
@@ -76,6 +77,57 @@ Prediction-market shares differ from traditional financial products in that, wit
 ---
 
 ## Political Economy
+
+### [Quota Mechanisms: Finite-Sample Optimality and Robustness](https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R)
+*Ian BallDeniz KattwinkelMassachusetts Institute of TechnologyUniversity College London* — **Journal of Political Economy**, 2026-09-17 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Regulatory Competition in the US Life Insurance Industry](https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R)
+*Johnny TangCornell University* — **Journal of Political Economy**, 2026-09-15 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Peer Effects and Rank Concerns in the Classroom](https://www.journals.uchicago.edu/doi/abs/10.1086/742714?af=R)
+*Michela M. TincaniUniversity College London (UCL), Institute for Fiscal Studies, Stone Centre at
+          UCL, CESifo, Human Capital and Economic Opportunity Global Working Group, and
+          INSPIRE* — **Journal of Political Economy**, 2026-09-03 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Mis(sed) Diagnosis: Physician Decision-Making and ADHD](https://www.journals.uchicago.edu/doi/abs/10.1086/742421?af=R)
+*Kelli MarquardtFederal Reserve Bank of Chicago* — **Journal of Political Economy**, 2026-09-02 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/743795?af=R)
+** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 8, Page Inside front cover-i, August 2026.
+
+---
+
+### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/743444?af=R)
+** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 8, Page 2555-2555, August 2026.
+
+---
+
+### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/743796?af=R)
+** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 8, Page Inside back cover-Inside back cover, August 2026.
+
+---
 
 ### [Unpriced Internal Externalities and Structural Inefficiency in Organizations](https://arxiv.org/abs/2609.20462v1)
 *Jan van de Poll* — **arxiv**, 2026-09-17 — _Political Economy_
@@ -170,55 +222,6 @@ We ask how an expert panel should disclose auditable conflicts of interest when 
 *Ricky Li* — **arxiv**, 2026-09-17 — _Unclassified_
 
 Local asymptotic minimax (LAM) risk is a foundational efficiency criterion in statistics and econometrics. The literature uses two definitions of LAM risk: one which appears in classical lower bounds and another which appears in arguments establishing attainment of those bounds. Conventional efficiency arguments are consistent with any estimator-dependent weighted average of the two, and consequently do not reveal which of these generalized $α$-LAM risk indices describes researchers' actual preferences. We take a decision-theoretic approach to systematically resolve this ambiguity. We axiomati...
-
----
-
-### [Vector Vine Copula Models for Multivariate Longitudinal Data](https://arxiv.org/abs/2609.19547v1)
-*Michael Stanley Smith, Lin Deng* — **arxiv**, 2026-09-17 — _Unclassified_
-
-Multivariate longitudinal data may exhibit non-Gaussian margins, nonlinear dynamics, and response vectors with composition that varies across waves. To account for these features, we introduce a vector drawable vine (VD-vine) copula that extends conventional drawable vine copulas from scalar to vector-valued nodes. Here, the response vector at each wave forms a multivariate marginal, and serial dependence is captured through a sequence of linking vector copulas. We establish that the VD-vine is itself a vector copula and reduces to a conventional drawable vine for scalar nodes. Recursive forwa...
-
----
-
-### [Quantifying Overclaiming Propensity in Frontier LLM Agents](https://doi.org/10.48550/arxiv.2609.20812)
-*Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo, Saskia Helbling et al.* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \emph{OverclaimBench}, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurem...
-
----
-
-### [Putting Context into Preference Aggregation](https://doi.org/10.48550/arxiv.2609.19888)
-*Philipp Peitler, Karl H. Schlag* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-The axioms underlying Arrow's impossibility theorem are very restrictive in terms of what can be used when aggregating preferences. Social preferences may not depend on the menu nor on preferences over alternatives outside the menu. But context matters. So, we weaken these restrictions to allow for context to be included. The context, as we define, describes which alternatives in the menu and which preferences over alternatives outside the menu matter. We obtain unique representations. These are discussed in examples involving markets, the intertemporal well-being of an individual, and bargain...
-
----
-
-### [Odds-Ratio Thompson Sampling: A Specification and Design Guide for Contrast-Based Multi-Armed Bandits](https://doi.org/10.48550/arxiv.2609.19709)
-*Sulgi Kim* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-Batched multi-armed bandits update on a service's own schedule, and the usual implementation carries each arm's absolute reward rate from one update to the next. When the shared level moves between batches, that memory goes stale even though the comparisons between arms may not have. Odds-Ratio Thompson Sampling (OR-TS) instead carries the joint posterior over log-odds contrasts and fits the common level afresh in every batch, marginalizing it out. This paper specifies that update, places it inside a Bayesian bandit agent with two controls, decay for how much past evidence survives an update a...
-
----
-
-### [Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts](https://doi.org/10.48550/arxiv.2609.20353)
-*Rui Ai, David Simchi-Levi, Han Zhong* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-We study repeated contract design when a principal observes outcomes but not the actions that generate them. The principal may use any bounded outcome-contingent payment vector, and the agent's best response can make expected profit discontinuous in those payments. For every fixed number $m\ge2$ of outcomes, the minimax regret over $T$ rounds is of order $T^{m/(m+1)}$, up to logarithmic factors. The upper bound allows arbitrary action spaces and agent heterogeneity, without smoothness or monotone-surplus assumptions. Its key is an effective-dimension reduction that the benchmark can be normali...
-
----
-
-### [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](https://doi.org/10.48550/arxiv.2609.20548)
-*Karthik Sivachandran, Rohan Paleja* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-Reinforcement learning agents trained to maximize their own reward in repeated interactions can converge to supra-competitive outcomes resembling explicit collusion, without communication or shared design. Existing mitigation approaches are largely tied to specific economic settings, like two-sided platforms and auctions, leaving open how to design interventions for general repeated games. We address this gap by formalizing the connection between empirical observations from prior work on Q-learning collusion and classical theory of Simple Penal Codes (SPCs). We show any non-trivial SPC induces...
-
----
-
-### [SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes](https://doi.org/10.48550/arxiv.2609.19705)
-*Mengxiao Wang, Nitesh Saxena* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-Autonomous large language model (LLM) agents are moving rapidly into high-stakes domains, yet existing agentic-AI security studies remain largely domain-agnostic and overlook the distinctive, high-consequence attack surface such settings create. We examine this gap through financial trading agents, a representative case of high-stakes agentic security, where a single compromised agent has direct execution authority over real capital in an adversarial, reflexive market. To this end, we present FARSIGHT (Financial Agent Robustness and Security Investigation and Global Holistic Testing), a framew...
 
 ---
 
