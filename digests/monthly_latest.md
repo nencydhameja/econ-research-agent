@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-20
+# Economics Research Digest — 2026-09-21
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -30,17 +30,19 @@ I consider a neoclassical growth model with a constant absolute risk aversion (C
 
 ## Econometrics & Methods
 
-### [Debiasing and t-Tests for Synthetic Control Inference on Average Causal Effects](https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R)
-*Victor ChernozhukovKaspar WüthrichYinchu ZhuMassachusetts Institute of Technology and University College LondonUniversity of MichiganBrandeis University* — **Journal of Political Economy**, 2026-08-21 — _Econometrics & Methods, Political Economy, method:Synthetic Control_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
 ### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
 *Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
 
 Machine learning (ML) techniques are increasingly drawing interest in the choice modelling (CM) field. The focus has primarily been on comparing the performance of these contrasting approaches or on improving behavioural insights for ML techniques, rather than translating ideas from one field into the other. In the present paper, we specifically focus on knowledge transfer from ML into CM in the context of model performance evaluation. In CM, model performance is typically evaluated using log-likelihood and related indicators, which are aggregate fit metrics that focus on overall fit. Converse...
+
+---
+
+## Health, Education & Welfare
+
+### [Testing Conditional Stochastic Dominance via Copula Derivatives](https://arxiv.org/abs/2609.21622v1)
+*Weiqi Yang, Weiwei Zhuang, Xiaojun Song* — **arxiv**, 2026-09-18 — _Health, Education & Welfare_
+
+Comparing two populations at the same physical covariate value requires more than conditional means or isolated target-point decisions: researchers may need evidence about an entire conditional-distribution ordering over a continuum, even when covariate margins differ. This paper makes that common-value comparison estimable under an explicit structure--flexibility tradeoff and turns the resulting surface into simultaneous evidence for first-order stochastic dominance. Population-specific margins map the common covariate value into each group, while a fitted copula-derivative representation lin...
 
 ---
 
@@ -57,22 +59,6 @@ Journal of Political Economy, Ahead of Print.
 *Marina Telezhkina, Dominik Wied* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
 
 Structural similarity, the extent to which economic mechanisms respond alike to common shocks, matters for economic forecasting, policy transfer, and other decisions that rely on evidence from comparable settings. For mechanisms approximated by linear models, this idea has a simple geometric representation: The smaller the angle between their coefficient vectors, the more similarly they respond to the same shock. This paper introduces the cosine of this angle as a measure of structural similarity and develops the corresponding inference procedure. Applied to New Jersey's wage mechanism around ...
-
----
-
-### [Taxing Capital to Protect It](https://arxiv.org/abs/2609.19764v1)
-*Georgy Lukyanov, Hengrina Ly* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
-
-This paper studies the composition of taxation when the government cannot fully commit to respecting private returns after investment. A fiscal authority must finance a given expenditure from labor and capital income. Ordinary tax receipts are protected, but an opportunistic executive can seize part of the remaining capital payment. We show that a revenue-neutral increase in the capital tax raises the probability of compliance whenever the labor tax is below its local, fixed-wage revenue peak, provided the equilibrium remains on a regular mixing branch. This result does not depend on the elast...
-
----
-
-## Microeconomics
-
-### [Who Aggregates Information? Screening, Rent, and the Coexistence of CLOB and AMM Prediction Markets](https://arxiv.org/abs/2609.20017v1)
-*Chengqi Zang, Gabriel P. Andrade, Tomoyuki Nakajima* — **arxiv**, 2026-09-17 — _Microeconomics_
-
-Prediction-market shares differ from traditional financial products in that, with no information or outside utility, classical delta-neutral Central Limit Order Book~(CLOB) market making cannot be financed by payoff-uninformative noise flow. Transaction-level evidence from a major prediction-market CLOB platform shows makers profiting not from spread but from carrying an under-priced side to settlement --- the empirical signature of behavioral tail demand rather than classical, randomized noise. We build this tail demand directly into the model and study an LMSR and a CLOB on the same event. A...
 
 ---
 
@@ -155,10 +141,45 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075?af=R)
-*MARINA GERTSBERG* — **Journal of Finance**, 2026-08-21 — _Unclassified_
+### [Equilibrium prices under hidden Markov fundamentals](https://arxiv.org/abs/2609.21684v1)
+*Henri Pagès, Dylan Possamaï, Mateo Rodriguez Polo* — **arxiv**, 2026-09-18 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+We study a representative-agent Epstein-Zin economy with geometric dividends and a hidden finite-state Markov drift. We allow the price-dividend ratio to contain an additional positive, absolutely continuous valuation factor and, within the class $\mathfrak C$ defined below and under the regularity, admissibility, and positivity conditions of our main theorem, equilibrium forces this factor to be constant, yielding belief-Markovian prices. In the two-state case, under the stated positivity condition and strictly positive transition intensities, we prove existence, uniqueness, endpoint smoothne...
+
+---
+
+### [Match forecasts in UEFA club competitions: Elo ratings versus Transfermarkt valuations](https://arxiv.org/abs/2609.21674v1)
+*Gergely Csurilla, László Csató* — **arxiv**, 2026-09-18 — _Unclassified_
+
+The pre-season strengths of European football clubs are usually measured by two proxies in the literature. Football Club Elo Ratings provide strictly performance-based Elo ratings from the early days of the European Cups, while Transfermarkt valuations are crowd-based estimates of squad market values. This paper compares them by evaluating their ability to forecast the results of matches played in the UEFA Champions League and the UEFA Europa League between the seasons 2020/21 and 2024/25. The two indicators yield almost identical out-of-sample accuracy when used separately. Combining the two ...
+
+---
+
+### [The "Rough" HAR Model](https://arxiv.org/abs/2609.21587v1)
+*Mikkel Bennedsen, Kim Christensen, Peter Korsbakke Christensen, Jun Yu et al.* — **arxiv**, 2026-09-18 — _Unclassified_
+
+This paper proposes discrete-time approximations to rough continuous-time models of realized variance (RV). The leading rough models can be viewed as autoregressive processes driven by fractional Gaussian noise. We show that the Wold representation of this noise concentrates its dependence at the first lag when the Hurst parameter is below one half. Augmenting the autoregressive (AR) and heterogeneous autoregressive (HAR) models with a first-order moving-average (MA(1)) component therefore approximates the roughness, and the MA coefficient maps almost linearly into the Hurst parameter. We refe...
+
+---
+
+### [Summary Indices in Treatment Effect Estimation](https://arxiv.org/abs/2609.21393v1)
+*Danil Fedchenko* — **arxiv**, 2026-09-18 — _Unclassified_
+
+This paper studies the practice of combining multiple outcomes into a summary index to estimate a causal effect. For common estimators and index constructions, the estimate equals a weighted sum of the estimated effects on the components, with weights that are implicit and rarely reported. The paper derives the weights and shows that, for inverse-covariance-weighted indices, they can be negative and unrestricted in magnitude, so the index effect can have the opposite sign to every component effect. The paper proposes two procedures for valid inference on the index effect: a variance estimator ...
+
+---
+
+### [Auctions as Experiments](https://arxiv.org/abs/2609.21168v1)
+*Mira Frick, Ryota Iijima, Yuhta Ishii, Nicholas Wu* — **arxiv**, 2026-09-18 — _Unclassified_
+
+Consider an auction with buyers whose values depend on an underlying state (e.g., market fundamentals). How does the auction format shape the information that buyers' bids reveal about the state? We recast auctions as statistical experiments and compare different auction formats in terms of the (Lehmann) informativeness of the induced experiments. Our main finding is that among a large class of auctions (e.g., $k$th-price, all-pay), the first-price auction is the most informative. As a result, this auction guarantees the highest payoffs to a decision-maker who uses the information revealed by ...
+
+---
+
+### [New Approaches to Strategic Thinking in Dynamic Games](https://arxiv.org/abs/2609.21163v1)
+*Mehmet Mars Seven* — **arxiv**, 2026-09-18 — _Unclassified_
+
+We present several models of strategic choice concerning equilibrium reasoning and behaviour, as well as new applications to dynamic games. We propose concepts such as historical equilibrium, simple Nash equilibrium, cautious backward induction, and an approach inspired by how chess players reason in sequential games.
 
 ---
 
@@ -176,52 +197,26 @@ This paper develops inference for a Gaussian-nested hypergeometric family of dis
 
 ---
 
-### [Noise-adjusted turnover in estimated networks](https://arxiv.org/abs/2609.20044v1)
+### [Noise-adjusted turnover in estimated networks](https://arxiv.org/abs/2609.20044v2)
 *Sultan Amed, Sayantan Banerjee* — **arxiv**, 2026-09-17 — _Unclassified_
 
 Economic networks are often estimated separately over two periods, and changes in their edge sets are interpreted as structural rewiring. Since both networks are estimated, observed turnover also reflects graph-selection error. We study the two-snapshot Hamming-turnover functional under a homogeneous edge-misclassification model. With known sensitivity and specificity and conditional independence of the estimated edge indicators across periods, latent turnover admits a closed-form unbiased adjustment based only on observed turnover and the two estimated graph sizes. We then examine the effects...
 
 ---
 
-### [A polyhedral characterization of worker-quasi-stable matchings](https://arxiv.org/abs/2609.20032v1)
-*Nadia Guiñazú, Noelia Juarez, Paola Manasero, Pablo Neme et al.* — **arxiv**, 2026-09-17 — _Unclassified_
+## Urban, Rural & Regional Economics
 
-We provide the first polyhedral characterization of worker-quasi-stable matchings in the classical one-to-one matching model. By modifying the classical stability constraints, we introduce a convex polytope and prove that it is integral. Consequently, its extreme points coincide exactly with the incidence vectors of worker-quasi-stable matchings, demonstrating that worker-quasi-stability preserves the geometric tractability of standard stability.
+### [Bricks or Cash? Externalities of Housing Upgrading in High-density Cities](https://arxiv.org/abs/2609.21478v1)
+*Sumit Agarwal, Ying Deng, Yi Fan, Qi Gao et al.* — **arxiv**, 2026-09-18 — _Urban, Rural & Regional Economics_
 
----
-
-### [Rational Bargaining: Characterization and Implementation](https://arxiv.org/abs/2609.19932v1)
-*Philipp Peitler* — **arxiv**, 2026-09-17 — _Unclassified_
-
-The von Neumann-Morgenstern axioms are uncontroversial desiderata for individual decision-making. We say that a bargaining solution is rational if it can be interpreted as the most preferred alternatives under these axioms. Yet, neither the Nash nor the Kalai-Smorodinsky bargaining solution is rational in this sense. We formalize two consequences of rationality, namely that one can neither be strictly better off nor strictly worse off from randomizing over different actions. These two axioms, together with other standard axioms, characterize the relative utilitarian bargaining solution. We the...
+We estimate housing externalities in a high-density city, exploiting the staggered rollout of Singapore's nationwide Main Upgrading Programme for public housing. Controlling for nonrandom neighborhood exposure, we find that upgrading raises treated buildings' prices by 11.5% upon completion and neighboring buildings' resale prices by about 2% within 500 meters, decaying to zero beyond. A model with distance-decaying externalities shows that in dense settings spillovers justify the distortions of in-kind provision; this advantage diminishes and reverses at lower densities. Administrative data o...
 
 ---
 
-### [Putting Context into Preference Aggregation](https://arxiv.org/abs/2609.19888v1)
-*Philipp Peitler, Karl H. Schlag* — **arxiv**, 2026-09-17 — _Unclassified_
+### [Certifying Priority in Evidence-Based Allocation](https://arxiv.org/abs/2609.21335v1)
+*Charles Po-Cheng Huang, Gunhaeng Lee* — **arxiv**, 2026-09-18 — _Urban, Rural & Regional Economics_
 
-The axioms underlying Arrow's impossibility theorem are very restrictive in terms of what can be used when aggregating preferences. Social preferences may not depend on the menu nor on preferences over alternatives outside the menu. But context matters. So, we weaken these restrictions to allow for context to be included. The context, as we define, describes which alternatives in the menu and which preferences over alternatives outside the menu matter. We obtain unique representations. These are discussed in examples involving markets, the intertemporal well-being of an individual, and bargain...
-
----
-
-### [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)
-*Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller* — **arxiv**, 2026-09-17 — _Unclassified_
-
-LLM-based GUI agents increasingly act on behalf of users in digital environments that were designed with human users in mind. These graphical user interfaces were designed to support, but also deliberately steer, the behaviour and decisions of users. While behavioural biases in the textual outputs of LLMs are well-documented, far less is known about how such influence operates when models act as agents that perceive interfaces and execute decisions---and, in particular, whether the reasoning capabilities increasingly built into these agents make them more robust to it. Drawing on Dual-Process ...
-
----
-
-### [Anonymous Accountability](https://arxiv.org/abs/2609.19771v1)
-*Georgy Lukyanov, Muslim Salakhov* — **arxiv**, 2026-09-17 — _Unclassified_
-
-We ask how an expert panel should disclose auditable conflicts of interest when reports are named and experts care about their reputations for ability. Before sealed binary assessments are filed, an auditor commits to disclosing no orientation information, each named expert's orientation, or only the number of experts oriented in each direction; disclosure occurs after reports are locked. Holding reporting behaviour fixed, composition disclosure and individual attribution are exactly Blackwell-equivalent for learning the state at every finite panel size. Conditional on named reports remaining ...
-
----
-
-### [Axiomatizing Local Asymptotic Minimax Risk](https://arxiv.org/abs/2609.19738v1)
-*Ricky Li* — **arxiv**, 2026-09-17 — _Unclassified_
-
-Local asymptotic minimax (LAM) risk is a foundational efficiency criterion in statistics and econometrics. The literature uses two definitions of LAM risk: one which appears in classical lower bounds and another which appears in arguments establishing attainment of those bounds. Conventional efficiency arguments are consistent with any estimator-dependent weighted average of the two, and consequently do not reveal which of these generalized $α$-LAM risk indices describes researchers' actual preferences. We take a decision-theoretic approach to systematically resolve this ambiguity. We axiomati...
+Many allocation rules give priority to applicants satisfying favored conditions, including disability, homelessness, and veteran status. Because these conditions are not directly observed, a rule ranking applicants by characteristics must first determine what submitted certificates prove. This paper studies allocation with hard but partial evidence: a disability document may prove disability without proving the absence of a disqualifying tenancy record. A claim is certifiable exactly when every intended claimant has a feasible certificate excluding all outsiders. Chain rules---scores, lexicogr...
 
 ---
 
@@ -231,5 +226,14 @@ Local asymptotic minimax (LAM) risk is a foundational efficiency criterion in st
 *Michel Csillag Finger, Vitor Possebom* — **arxiv**, 2026-09-17 — _method:Propensity Score_
 
 We examine semiparametric solutions to contamination bias for nonbinary treatments. Deepening the discussion by Goldsmith-Pinkham et al. (2024), we detail how spline functions approximate conditional expectation and propensity score functions under weak functional-form assumptions. Reanalyzing 18 regressions across 11 studies, we compare standard linear regressions against parametric and semiparametric versions of three contamination-robust estimators. We document large point-estimate discrepancies between parametric and semiparametric approaches and find that adopting flexible semiparametric ...
+
+---
+
+## method:Theory
+
+### [Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction](https://arxiv.org/abs/2609.21539v1)
+*Andrea Loi, Stefano Matta* — **arxiv**, 2026-09-18 — _method:Theory_
+
+Suppose an economy moves continuously along a closed path of fundamentals and returns exactly to its initial state. A regular Walrasian equilibrium price followed continuously along that path need not return to itself. For every number of commodities $L\ge3$, we construct a closed one-parameter family of pure-exchange economies in which all preferences are fixed, only three individual endowments vary, and aggregate resources remain constant. Along the loop, two regular equilibrium-price branches are exchanged while a third returns to itself; at the end, every economic primitive is exactly as i...
 
 ---

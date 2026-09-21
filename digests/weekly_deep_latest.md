@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-20
+# Weekly Deep-Reading Queue — week of 2026-09-21
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -20,7 +20,25 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 3. Using machine learning metrics to provide deeper insights into the performance of choice models
+## 3. Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction
+
+### [Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction](https://arxiv.org/abs/2609.21539v1)
+*Andrea Loi, Stefano Matta* — **arxiv**, 2026-09-18 — _method:Theory_
+
+Suppose an economy moves continuously along a closed path of fundamentals and returns exactly to its initial state. A regular Walrasian equilibrium price followed continuously along that path need not return to itself. For every number of commodities $L\ge3$, we construct a closed one-parameter family of pure-exchange economies in which all preferences are fixed, only three individual endowments vary, and aggregate resources remain constant. Along the loop, two regular equilibrium-price branches are exchanged while a third returns to itself; at the end, every economic primitive is exactly as i...
+
+---
+
+## 4. Testing Conditional Stochastic Dominance via Copula Derivatives
+
+### [Testing Conditional Stochastic Dominance via Copula Derivatives](https://arxiv.org/abs/2609.21622v1)
+*Weiqi Yang, Weiwei Zhuang, Xiaojun Song* — **arxiv**, 2026-09-18 — _Health, Education & Welfare_
+
+Comparing two populations at the same physical covariate value requires more than conditional means or isolated target-point decisions: researchers may need evidence about an entire conditional-distribution ordering over a continuum, even when covariate margins differ. This paper makes that common-value comparison estimable under an explicit structure--flexibility tradeoff and turns the resulting surface into simultaneous evidence for first-order stochastic dominance. Population-specific margins map the common covariate value into each group, while a fitted copula-derivative representation lin...
+
+---
+
+## 5. Using machine learning metrics to provide deeper insights into the performance of choice models
 
 ### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
 *Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
@@ -29,7 +47,7 @@ Machine learning (ML) techniques are increasingly drawing interest in the choice
 
 ---
 
-## 4. Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models
+## 6. Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models
 
 ### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://arxiv.org/abs/2609.20554v1)
 *Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **arxiv**, 2026-09-17 — _Unclassified_
@@ -38,7 +56,7 @@ We examine whether post-origin training information inflates the measured accura
 
 ---
 
-## 5. A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
+## 7. A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents
 
 ### [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)
 *Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller* — **arxiv**, 2026-09-17 — _Unclassified_
@@ -47,29 +65,11 @@ LLM-based GUI agents increasingly act on behalf of users in digital environments
 
 ---
 
-## 6. Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models
+## 8. Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models
 
 ### [Conservation Buys Stability and Factoring Buys Counterfactuals in Physical World Models](https://arxiv.org/abs/2609.19674)
 *Yufeng Wang, Parivesh Priye, Lu Wei, Haibin Ling* — **openalex ssrn**, 2026-09-17 — _Agricultural & Environmental Economics, Public Economics_
 
 A learned simulator can reproduce its training conditions accurately yet fail in two distinct ways once those conditions change. Over long rollouts, small errors accumulate until the trajectory drifts away from physically plausible behavior; under an intervention on a physical parameter, the model may continue to follow the law seen during training rather than the intervened one. We show that these two failures require different structural remedies. Evolving a learned energy with a symplectic integrator preserves the geometry of the conservative dynamics and keeps rollouts bounded and physical...
-
----
-
-## 7. Proposing, never assigning: fair allocation of control-room shifts in experimental particle physics collaborations from ranked wishes under institutional quotas
-
-### [Proposing, never assigning: fair allocation of control-room shifts in experimental particle physics collaborations from ranked wishes under institutional quotas](https://arxiv.org/abs/2609.19658)
-*K. Benslama* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-Experimental particle physics collaborations staff their detectors around the clock with members drawn from dozens of institutions. The established practice is a credit system with self-sign-up: institutions owe a quota of credit, and people take the seats they want when booking opens. This paper describes a method in which seats are instead allocated from ranked wishes under institutional quotas, the result is issued as offers that each person accepts or declines, and an independent checker recomputes every rule before anything is published: the platform proposes, never assigns, and proves th...
-
----
-
-## 8. Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models
-
-### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://arxiv.org/abs/2609.20554)
-*Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **openalex ssrn**, 2026-09-17 — _Unclassified_
-
-We examine whether post-origin training information inflates the measured accuracy and economic value of financial forecasts. We evaluate five sets of financial time-series foundation models, each comprising independently trained annual vintages under U.S., global, and factor-augmented training environments, across 14 equity markets and four forecast horizons. Rolling comparisons vary the annual vintage for a fixed forecast; fixed-vintage comparisons hold the vintage fixed as target windows move across its training cutoff. Each alternative forecast is paired with an origin-aligned point-in-tim...
 
 ---
