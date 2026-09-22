@@ -47,29 +47,29 @@ Organizations invest heavily in internal mechanisms such as incentive systems, g
 
 ---
 
-## 6. Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation
+## 6. When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis
 
-### [Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation](https://doi.org/10.48550/arxiv.2609.21632)
+### [When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis](https://arxiv.org/abs/2609.21756)
+*Miriam Fernandez, Ángel Pavón Pérez, Damiano Giallongo, Davide Ghia et al.* — **openalex ssrn**, 2026-09-18 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics_
+
+Gender inequality remains a persistent structural feature of the labour market, shaping women's lifetime earnings and economic security. As artificial intelligence (AI) transforms organisational practices, there is growing concern that existing disparities may be unintentionally amplified through task automation, unequal access to upskilling opportunities, and differential returns obtained from technological change. In this paper, we examine how exposure to AI-driven innovation varies across male- and female-dominated occupations, with particular attention to differences across the skill and w...
+
+---
+
+## 7. $λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource
+
+### [$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource](https://arxiv.org/abs/2609.22041)
+*Yufeng Wang, Parivesh Priye, Meeshawn Marathe, Ramit Pahwa* — **openalex ssrn**, 2026-09-18 — _Unclassified_
+
+Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy that can be optimized from reward feedback. Training in this setting is unstable in a way specific to multi-step denoising: the policy update changes systematically across denoising steps, with importance ratios drifting below one, becoming increasingly dispersed, clipping at different rates, and leaving fewer usable samples late in training. Prior work treats these effects as se...
+
+---
+
+## 8. Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation
+
+### [Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation](https://arxiv.org/abs/2609.21632)
 *Marcin Marciniak* — **openalex ssrn**, 2026-09-18 — _Agricultural & Environmental Economics, Business Economics & Innovation, Labor & Demographic Economics, Law & Economics_
 
 The rapid development of artificial intelligence is often discussed primarily as a technological breakthrough. Such an approach is insufficient because AI is also transforming the allocation of capital, energy, natural resources, labour, and political power. Investment in generative AI and computing infrastructure is increasing rapidly and is increasingly concentrated among a small number of corporations and countries. At the same time, the expansion of data centres creates new electricity and water demands, potentially producing local infrastructure bottlenecks and distributive conflicts. The...
-
----
-
-## 7. Social Influence and the Allocation of Scientific Attention in AI Populations
-
-### [Social Influence and the Allocation of Scientific Attention in AI Populations](https://arxiv.org/abs/2609.22408v1)
-*Maxim Chupilkin* — **arxiv**, 2026-09-18 — _Unclassified_
-
-AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts of all 114 regular research articles published in the American Economic Review in 2025. The experiment has five independent-choice communities and fi...
-
----
-
-## 8. Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction
-
-### [Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction](https://arxiv.org/abs/2609.21539v1)
-*Andrea Loi, Stefano Matta* — **arxiv**, 2026-09-18 — _method:Theory_
-
-Suppose an economy moves continuously along a closed path of fundamentals and returns exactly to its initial state. A regular Walrasian equilibrium price followed continuously along that path need not return to itself. For every number of commodities $L\ge3$, we construct a closed one-parameter family of pure-exchange economies in which all preferences are fixed, only three individual endowments vary, and aggregate resources remain constant. Along the loop, two regular equilibrium-price branches are exchanged while a third returns to itself; at the end, every economic primitive is exactly as i...
 
 ---
