@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-21
+# Economics Research Digest — 2026-09-22
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -12,28 +12,10 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Tradeable Import Certificates for Strategic Supply Security](https://arxiv.org/abs/2609.20282v1)
-*Sebastian Kranz* — **arxiv**, 2026-09-17 — _Agricultural & Environmental Economics, International Economics_
+### [Firm Valuation When AI Shapes the Business Model: A Milestone-Based Real-Options Framework for the AI Valuation Uncertainty Problem](https://arxiv.org/abs/2609.24181v1)
+*Walter Kurz, Wojtek Stricker, Stefan Marx, Frank Reinhardt et al.* — **arxiv**, 2026-09-21 — _Agricultural & Environmental Economics_
 
-Recent crises have made supply security central to trade policy. We show how tradeable import certificates (TIC) implement targets for domestic production and reliable foreign supply while preserving gains from trade. A single certificate market per country decentralizes the welfare-maximizing allocation under heterogeneous targets, with certificate prices adjusting endogenously as conditions change. TIC robustly protect these targets against a range of deviations from trade agreements. A model of economic coercion microfounds the targets, linking them to shortage salience, supply reliability,...
-
----
-
-## Business Economics & Innovation
-
-### [An Arbitrarily Precise Global Closed Form Approximation for the Neoclassical Growth Model](https://arxiv.org/abs/2609.20405v1)
-*Jordan Roulleau-Pasdeloup* — **arxiv**, 2026-09-17 — _Business Economics & Innovation, Microeconomics_
-
-I consider a neoclassical growth model with a constant absolute risk aversion (CARA) utility function and derive a global closed form approximation that is arbitrarily precise as the discount rate $ρ$ is close to the population growth rate $n$. I use it to show that the consumption function is strictly concave and that countries can have two different paths converging to the steady-state: front-loading and back-loading.
-
----
-
-## Econometrics & Methods
-
-### [Using machine learning metrics to provide deeper insights into the performance of choice models](https://arxiv.org/abs/2609.20655v1)
-*Lorenzo Muñoz, Stephane Hess, Thomas O. Hancock, Georges Sfeir* — **arxiv**, 2026-09-17 — _Econometrics & Methods, International Economics, Public Economics, method:Machine Learning_
-
-Machine learning (ML) techniques are increasingly drawing interest in the choice modelling (CM) field. The focus has primarily been on comparing the performance of these contrasting approaches or on improving behavioural insights for ML techniques, rather than translating ideas from one field into the other. In the present paper, we specifically focus on knowledge transfer from ML into CM in the context of model performance evaluation. In CM, model performance is typically evaluated using log-likelihood and related indicators, which are aggregate fit metrics that focus on overall fit. Converse...
+Standard valuation methods, including discounted cash flow, the income approach standard IDW S 1 of the Institute of Public Auditors in Germany, and market multiples, compress milestone probabilities, continuation options, and risk shifts into opaque aggregate parameters; none provides a structured protocol for decomposing AI integration into auditable option-level assumptions. We propose an industry-agnostic taxonomy separating AI Integrators from AI Providers. AI Integrators are further classified by their Integration Depth Level, ranging from no integration to AI at the core of the product ...
 
 ---
 
@@ -46,19 +28,21 @@ Comparing two populations at the same physical covariate value requires more tha
 
 ---
 
+## International Economics
+
+### [Audit the Auditors: Commitment versus Professional Judgment](https://arxiv.org/abs/2609.24020v1)
+*Pingyang Gao, Jinzhi Lu, Zhenpeng Yang* — **arxiv**, 2026-09-21 — _International Economics, method:Theory_
+
+This paper provides a theoretical framework to evaluate the trade-off between the self-regulated peer review system and independent government inspection (PCAOB) in the auditing profession. We model the peer review system as a Judgment Regime, where a stakeholder utilizes professional expertise, captured as a private signal, to make ex-post decisions on verifying audit failures. In contrast, PCAOB inspection is modeled as a Commitment Regime, where the stakeholder lacks private information but can commit ex-ante to a predetermined level of verification. We find that the Judgment Regime benefit...
+
+---
+
 ## Labor & Demographic Economics
 
 ### [The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining](https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R)
 *David A. GreenBen M. SandIain G. SnoddyJeanne TschoppUniversity of British Columbia and Institute for Fiscal StudiesYork UniversityAnalysis GroupUniversity of Bern* — **Journal of Political Economy**, 2026-08-25 — _Labor & Demographic Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
-
----
-
-### [Cosine metric as a structural economic similarity measure](https://arxiv.org/abs/2609.20424v1)
-*Marina Telezhkina, Dominik Wied* — **arxiv**, 2026-09-17 — _Labor & Demographic Economics, Public Economics_
-
-Structural similarity, the extent to which economic mechanisms respond alike to common shocks, matters for economic forecasting, policy transfer, and other decisions that rely on evidence from comparable settings. For mechanisms approximated by linear models, this idea has a simple geometric representation: The smaller the angle between their coefficient vectors, the more similarly they respond to the same shock. This paper introduces the cosine of this angle as a measure of structural similarity and develops the corresponding inference procedure. Applied to New Jersey's wage mechanism around ...
 
 ---
 
@@ -115,29 +99,40 @@ Journal of Political Economy, Volume 134, Issue 8, Page Inside back cover-Inside
 
 ---
 
-### [Unpriced Internal Externalities and Structural Inefficiency in Organizations](https://arxiv.org/abs/2609.20462v1)
-*Jan van de Poll* — **arxiv**, 2026-09-17 — _Political Economy_
+### [Structural versus Allocative Inefficiency Across Organizational Settings](https://arxiv.org/abs/2609.23744v1)
+*Jan van de Poll* — **arxiv**, 2026-09-20 — _Political Economy_
 
-Organizations often invest substantial effort in improving internal mechanisms such as processes, governance, and technology, yet realize only modest performance gains. This paper proposes a structural explanation for this pattern. We introduce the concept of internal externalities: unpriced cross-effects generated by internal organizational mechanisms that act simultaneously on multiple objectives. When these effects oppose one another, effort cancels internally, limiting attainable performance even without incentive misalignment or informational constraints. We formalize this mechanism by mo...
-
----
-
-### [Stable Allocations, Unstable Payment Paths: The Shapley Value and Voluntary Coalition Formation](https://arxiv.org/abs/2609.20421v1)
-*Tongseok Lim* — **arxiv**, 2026-09-17 — _Political Economy_
-
-The random-order interpretation of the Shapley value specifies both a terminal allocation and a payment path: when a player enters, she receives her marginal contribution at that moment. We ask whether players would voluntarily follow this path. A player may prefer to wait if her marginal contribution is expected to rise as the coalition grows. This creates a tension in convex games. The Shapley allocation belongs to the core, but, except in additive games, the associated marginal-contribution payment path does not support voluntary entry. We separate these two objects by introducing payment f...
+Organizations invest heavily in internal mechanisms such as incentive systems, governance structures, performance measurement, analytics, and repeated reorganizations. Yet realized performance gains are often weak or short-lived, particularly in large and mature organizations. Standard explanations emphasize allocative inefficiency arising from incentive misalignment, information problems, or bounded rationality. While relevant, these explanations struggle to account for environments in which effort is high, optimization capabilities are sophisticated, and aggregate performance remains far bel...
 
 ---
 
 ## Unclassified
 
-### [Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R)
-*JESS BENHABIB, 
-ZHAORUI LI, 
-XUEWEN LIU, 
-PENGFEI WANG* — **Journal of Finance**, 2026-08-22 — _Unclassified_
+### [Uniform Inference for Parameters Identified by Conditional Quantile Restrictions](https://arxiv.org/abs/2609.23303v1)
+*Xuqing Lin, Xiaojun Song* — **arxiv**, 2026-09-20 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Many structural and dynamic economic models imply that key parameters are identified by conditional quantile restrictions. Building on the exponential-weighting approach of Bierens (1990) and recent advances in penalized maximum statistics for conditional moment restrictions (Chen et al., 2025), we develop a unified inference framework for such parameters. We propose an adaptive $\ell_1$-penalized supremum statistic that transforms the conditional restriction into a continuum of unconditional moment conditions and aggregates evidence across quantile indices. The penalty regularizes the maximiz...
+
+---
+
+### [Contracting for Decision-Relevant Beliefs](https://arxiv.org/abs/2609.23285v1)
+*Bo Cowgill* — **arxiv**, 2026-09-20 — _Unclassified_
+
+Forecasts guide decisions, but an expert who privately values the decision may misreport beliefs to influence it. We study contracts that jointly elicit the expert's belief about a verifiable state and her stake in a binary action. When agents with different stakes can hold the same belief, exact belief-only IC forces the action to ignore the report. Joint screening permits responsiveness but may require implementation rent. For thresholds, minimum implementation rent equals the distribution-weighted positive curvature of the belief-dependent cutoff. Optimal threshold design is rent-adjusted c...
+
+---
+
+### [Stealing profits: Spread-based temporal hierarchy forecasting for day-ahead electricity markets](https://arxiv.org/abs/2609.23223v1)
+*Arkadiusz Lipiecki, Nikolaos Kourentzes, Rafal Weron* — **arxiv**, 2026-09-19 — _Unclassified_
+
+Day-ahead electricity price forecasts support trading and storage decisions, but for battery arbitrage predicting intraday price spreads is more relevant than predicting individual hourly prices. Here we show that a temporal hierarchy forecasting (THieF) framework that jointly reconciles forecasts of hourly electricity prices and all intraday price spreads consistently improves performance across two major European electricity markets and three different forecasting architectures. Using five years of out-of-sample data from Germany and Spain, we obtain accuracy improvements of up to 19.7% and ...
+
+---
+
+### [Consistent Order Selection under Non-Identifiability and Dependence](https://arxiv.org/abs/2609.23220v1)
+*Eduardo Fonseca Mendes* — **arxiv**, 2026-09-19 — _Unclassified_
+
+We provide sufficient conditions for the consistency of penalized least squares procedures that select the order (dimension) of a regression model from a sequence of nested classes, allowing for dependent, martingale-difference errors. The main contribution is to relax the classical identifiability requirement: parameters indexing classes larger than the true order need not be identified, provided the additional, excess directions admit a linear approximation to the truth in a neighbourhood of the true parameter. This relaxation lets the number of candidate models grow with the sample size, re...
 
 ---
 
@@ -183,24 +178,10 @@ We present several models of strategic choice concerning equilibrium reasoning a
 
 ---
 
-### [Does Training on Future Data Pay? Look-Ahead Bias in Forecasting with Pretrained Models](https://arxiv.org/abs/2609.20554v1)
-*Haiqiang Chen, Li Chen, Yunlong Chen, Difang Huang et al.* — **arxiv**, 2026-09-17 — _Unclassified_
+### [Pareto-Improving Pricing: Why 3 Is Better Than 2](https://arxiv.org/abs/2609.22652v1)
+*Zi Yang Kang, Piotr Dworczak* — **arxiv**, 2026-09-18 — _Unclassified_
 
-We examine whether post-origin training information inflates the measured accuracy and economic value of financial forecasts. We evaluate five sets of financial time-series foundation models, each comprising independently trained annual vintages under U.S., global, and factor-augmented training environments, across 14 equity markets and four forecast horizons. Rolling comparisons vary the annual vintage for a fixed forecast; fixed-vintage comparisons hold the vintage fixed as target windows move across its training cutoff. Each alternative forecast is paired with an origin-aligned point-in-tim...
-
----
-
-### [Gaussian Boundary Inference in a Hypergeometric Heavy-Tailed Family](https://arxiv.org/abs/2609.20393v1)
-*Steve Lawford* — **arxiv**, 2026-09-17 — _Unclassified_
-
-This paper develops inference for a Gaussian-nested hypergeometric family of distribution functions. The family \[ G_c(z) = \frac12 + z\,\frac{Γ(c-1/2)}{2\sqrt2\,Γ(c)}\,{}_1F_1\!\left(\frac12;c;-\frac{z^2}{2}\right),\quad c\ge\frac32, \] contains the standard normal distribution at the boundary $c=3/2$. Away from the boundary, the density has algebraic tail behaviour $g_c(z)\sim(c-3/2)|z|^{-3}$, so the parameter $c$ indexes a directed heavy-tailed deformation of the Gaussian law. The distribution also admits an equivalent beta-precision normal scale-mixture representation, in which the Gaussia...
-
----
-
-### [Noise-adjusted turnover in estimated networks](https://arxiv.org/abs/2609.20044v2)
-*Sultan Amed, Sayantan Banerjee* — **arxiv**, 2026-09-17 — _Unclassified_
-
-Economic networks are often estimated separately over two periods, and changes in their edge sets are interpreted as structural rewiring. Since both networks are estimated, observed turnover also reflects graph-selection error. We study the two-snapshot Hamming-turnover functional under a homogeneous edge-misclassification model. With known sensitivity and specificity and conditional independence of the estimated edge indicators across periods, latent turnover admits a closed-form unbiased adjustment based only on observed turnover and the two estimated graph sizes. We then examine the effects...
+We study the design of priority pricing systems with heterogeneous agents in environments in which improving quality for some agents reduces the average quality that can be provided. Contrary to the equity-efficiency tradeoff emphasized in public debates, we show that under economically natural conditions priority pricing can Pareto-improve on an equal-allocation benchmark. Three priority tiers suffice for such an improvement, combining higher quality for a fee, lower quality with compensation, and an intermediate tier at the benchmark quality; two tiers are never enough. Our results provide a...
 
 ---
 
@@ -220,12 +201,30 @@ Many allocation rules give priority to applicants satisfying favored conditions,
 
 ---
 
-## method:Propensity Score
+## method:Lab Experiment
 
-### [Beyond Linearity: Semiparametric Solutions to Contamination Bias with Multi-valued Treatments](https://arxiv.org/abs/2609.20473v1)
-*Michel Csillag Finger, Vitor Possebom* — **arxiv**, 2026-09-17 — _method:Propensity Score_
+### [Biased Agents, Extreme Beliefs: Motivated Reasoning Under Competing Models](https://arxiv.org/abs/2609.22446v1)
+*Zhongheng Qiao* — **arxiv**, 2026-09-18 — _method:Lab Experiment_
 
-We examine semiparametric solutions to contamination bias for nonbinary treatments. Deepening the discussion by Goldsmith-Pinkham et al. (2024), we detail how spline functions approximate conditional expectation and propensity score functions under weak functional-form assumptions. Reanalyzing 18 regressions across 11 studies, we compare standard linear regressions against parametric and semiparametric versions of three contamination-robust estimators. We document large point-estimate discrepancies between parametric and semiparametric approaches and find that adopting flexible semiparametric ...
+People often face environments where multiple models compete to explain the same observations. This paper examines how people update beliefs in such settings and how preferences over payoff-relevant states shape model selection and belief updating. This paper first develops a framework where preference-driven bias distorts the perceived model, affecting Bayesian and best-fit updating differently. In a laboratory experiment, most participants are classified as Bayesian updaters, who average across models, while a substantial minority are classified as best-fit updaters, who select the model tha...
+
+---
+
+## method:RCT
+
+### [Causal inference in two-sided randomization designs: factorial regression, two-way clustering, and covariate adjustment](https://arxiv.org/abs/2609.22761v1)
+*Pengfei Tian, Jizhou Liu, Lei Shi, Peng Ding* — **arxiv**, 2026-09-19 — _method:RCT_
+
+We study randomized experiments involving two interacting populations, such as buyers and sellers in a marketplace. In the two-sided experiments we consider, we randomize the two populations separately and independently. For a pair consisting of one member from each population, the two assignments jointly determine one of four exposure conditions. Under a local interference assumption, we consider a broad class of linear estimands, including total, interaction, and buyer- and seller-side spillover effects. Our first main result establishes that researchers can estimate these effects using ordi...
+
+---
+
+## method:Structural
+
+### [A Stochastic Nested Fixed Point Algorithm for Large-Scale BLP Estimation](https://arxiv.org/abs/2609.23998v1)
+*Zhentong Lu, Myung Hwan Seo, Youngki Shin, Qichen Zhang* — **arxiv**, 2026-09-21 — _method:Structural_
+
+We develop a stochastic nested fixed point (SNFP) estimator for random coefficients logit demand models that updates model parameters using stochastic gradients and performs demand inversion one market at a time. Relative to the conventional nested fixed point (NFP) estimator, SNFP substantially reduces memory requirements and computational cost, making estimation feasible in very large datasets. We establish the large-$T$ (number of markets) asymptotic properties of the estimator under regularity conditions. We also characterize the effect of sharing one block of simulation draws across marke...
 
 ---
 
