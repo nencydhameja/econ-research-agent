@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-22
+# Economics Research Digest — 2026-09-23
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -19,19 +19,67 @@ Standard valuation methods, including discounted cash flow, the income approach 
 
 ---
 
-## Health, Education & Welfare
+### [Payoffs and perception mediate environmental feedback in an N-player trust game with Q-learning](https://doi.org/10.48550/arxiv.2609.24493)
+*Ruqiang Guo, Zhaoyi Hu, Fangfang Wang, Linjie Liu* — **openalex ssrn**, 2026-09-21 — _Agricultural & Environmental Economics_
 
-### [Testing Conditional Stochastic Dominance via Copula Derivatives](https://arxiv.org/abs/2609.21622v1)
-*Weiqi Yang, Weiwei Zhuang, Xiaojun Song* — **arxiv**, 2026-09-18 — _Health, Education & Welfare_
+Trust develops through learning, while collective behavior can alter the environment in which later decisions are made. Reinforcement-learning models describe adaptation, and eco-evolutionary models describe behavior-environment feedback, but how an endogenous environment changes trust through material incentives and perceived states remains unclear. We couple a fixed-role, two-population hierarchical trust game populated by heterogeneous tabular $Q$-learning agents to a centered endogenous environment. For the main feedback comparisons, we initialize the fixed-payoff baseline and feedback bra...
 
-Comparing two populations at the same physical covariate value requires more than conditional means or isolated target-point decisions: researchers may need evidence about an entire conditional-distribution ordering over a continuum, even when covariate margins differ. This paper makes that common-value comparison estimable under an explicit structure--flexibility tradeoff and turns the resulting surface into simultaneous evidence for first-order stochastic dominance. Population-specific margins map the common covariate value into each group, while a fitted copula-derivative representation lin...
+---
+
+## Business Economics & Innovation
+
+### [The network advantage: benefits of interregional scientific knowledge spillovers on AI patenting](https://arxiv.org/abs/2609.26604v1)
+*Saverio Barabuffi, Jacopo Cricchio, Alberto Di Minin, Guido Pialli* — **arxiv**, 2026-09-22 — _Business Economics & Innovation_
+
+Knowledge spillovers have largely been studied as unintended externalities diffusing through geographic proximity, while deliberate interregional networks have been examined mostly through co-inventor ties rather than the scientific layer carried by co-authored publications. This study asks whether spillovers from interregional AI-related co-publications increase regional AI patenting, and whether the ownership composition of regional R&D shapes the capacity to capitalize on them. Using a network-econometric approach across 26 Chinese provincial-level regions from 2006 to 2020, we find that co...
+
+---
+
+## Financial Economics
+
+### [InvestorNerd: An Investment and Financial Insights System Based on User Profiles](https://doi.org/10.48550/arxiv.2609.24658)
+*John Castillo, Rishika Gautam, Xinyu Wang, Harsh Kashyap et al.* — **openalex ssrn**, 2026-09-21 — _Financial Economics, Health, Education & Welfare_
+
+InvestorNerd is a web-based platform (investornerd.org) designed to educate and democratize financial understanding by providing accessible, AI-powered investment and personal finance insights tailored to potential user profiles. The system addresses a key challenge in helping everyday individuals, especially those without formal financial education, make sense of investment options and personal financial decisions. The platform offers three interactive tools: Stock Insights - Allows users to input any Stock, Mutual Fund, or Exchange Traded Fund (ETF) ticker to receive a summary of relevant ne...
+
+---
+
+## General Economics & Methodology
+
+### [Scalable Dynamic Pricing of Substitutable Products through Structure-Guided Policy Learning](https://doi.org/10.48550/arxiv.2609.24605)
+*Yue Su, Antoine Désir, Axel Parmentier* — **openalex ssrn**, 2026-09-21 — _General Economics & Methodology_
+
+Problem definition: We study dynamic pricing of substitutable products with finite, product-specific inventories. Customer substitution couples pricing decisions across products, while the inventory state makes exact dynamic programming intractable at realistic scale. Methodology / results: We develop two MNL-guided policy-learning approaches that replace the dynamic program with a statistical mapping from inventory states to pricing decisions. The first learns prices directly, while the second learns inventory opportunity costs and converts them into prices using the optimal MNL pricing rule....
+
+---
+
+## Industrial Organization
+
+### [Seeing Is Not Perceiving: When Synthetic Consumers Can and Cannot Pretest Visual Marketing](https://arxiv.org/abs/2609.25677v1)
+*Yi-Lin Tsai, Yung-Hsiu, Lai* — **arxiv**, 2026-09-22 — _Industrial Organization_
+
+Marketers now deploy generative AI agents as synthetic consumers to pretest visual assets such as logos, packaging, and advertising at a fraction of human-panel cost. However, this procedure assumes that a model seeing a visual cue can also perceive its consumer meaning, which is largely untested. We stress-test the assumption using six canonical visual marketing experiments, varying the two levers managers control: model generation (GPT-4o-mini vs. GPT-5.4-mini) and input format (plain text vs. JSON). Every resulting configuration passed the manipulation checks; however, none of the configura...
 
 ---
 
 ## International Economics
 
+### [The Depth and Reach of Exploitation: Contracting with Endogenously Naive Consumers](https://arxiv.org/abs/2609.25509v1)
+*Benjamin Balzer, Benjamin Young* — **arxiv**, 2026-09-22 — _International Economics_
+
+Consumers can invest resources to understand and avoid their behavioral mistakes, and their incentives to do so depend on the market consequences of remaining naive. We incorporate this feedback between consumers' cognitive states and market outcomes into a general contracting model. Firms face a trade-off between the depth and reach of exploitation: deeper exploitation raises profit from a naive consumer but induces greater cognitive investment, promoting sophistication and shrinking the exploitable consumer base. This trade-off disciplines exploitation and can cause policies that benefit con...
+
+---
+
 ### [Audit the Auditors: Commitment versus Professional Judgment](https://arxiv.org/abs/2609.24020v1)
 *Pingyang Gao, Jinzhi Lu, Zhenpeng Yang* — **arxiv**, 2026-09-21 — _International Economics, method:Theory_
+
+This paper provides a theoretical framework to evaluate the trade-off between the self-regulated peer review system and independent government inspection (PCAOB) in the auditing profession. We model the peer review system as a Judgment Regime, where a stakeholder utilizes professional expertise, captured as a private signal, to make ex-post decisions on verifying audit failures. In contrast, PCAOB inspection is modeled as a Commitment Regime, where the stakeholder lacks private information but can commit ex-ante to a predetermined level of verification. We find that the Judgment Regime benefit...
+
+---
+
+### [Audit the Auditors: Commitment versus Professional Judgment](https://doi.org/10.48550/arxiv.2609.24020)
+*Pingyang Gao, Jinzhi Lu, Zhenpeng Yang* — **openalex ssrn**, 2026-09-21 — _International Economics, method:Theory_
 
 This paper provides a theoretical framework to evaluate the trade-off between the self-regulated peer review system and independent government inspection (PCAOB) in the auditing profession. We model the peer review system as a Judgment Regime, where a stakeholder utilizes professional expertise, captured as a private signal, to make ex-post decisions on verifying audit failures. In contrast, PCAOB inspection is modeled as a Commitment Regime, where the stakeholder lacks private information but can commit ex-ante to a predetermined level of verification. We find that the Judgment Regime benefit...
 
@@ -43,6 +91,22 @@ This paper provides a theoretical framework to evaluate the trade-off between th
 *David A. GreenBen M. SandIain G. SnoddyJeanne TschoppUniversity of British Columbia and Institute for Fiscal StudiesYork UniversityAnalysis GroupUniversity of Bern* — **Journal of Political Economy**, 2026-08-25 — _Labor & Demographic Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
+
+---
+
+## Microeconomics
+
+### [The Uniqueness of Exponential Second-Order Expected Utility](https://arxiv.org/abs/2609.26552v1)
+*Yosuke Hashidate* — **arxiv**, 2026-09-22 — _Microeconomics_
+
+Exponential Second-Order Expected Utility (SOEU) underlies the entropic approach to model uncertainty. This paper explores in what sense that functional form is essential. In the misspecification-robust Smooth Ambiguity criterion, let a single parameter govern both the model-level robustness and the ambiguity-averse aggregation across models Cerreia-Vioglio, Hansen, Maccheroni, and Marinacci (2026). The two-layer criterion then equals Exponential SOEU for every compact set of models and every second-order prior, with the Bayesian predictive measure as the baseline. The main results are convers...
+
+---
+
+### [Strategic Disclosure of Action Space in Principal-Agent Contracts](https://arxiv.org/abs/2609.25410v1)
+*Xiaotie Deng, Ningyuan Li* — **arxiv**, 2026-09-21 — _Microeconomics, method:Theory_
+
+We study strategic disclosure of the action space in principal-agent contracting, where an agent selects a disclosed action set to shape the principal's perception of her capabilities before contract design. Unaware of the strategic disclosure, the principal designs a revenue-optimal contract as if the disclosed action set were complete and accurate. We consider two variants distinguished by cost verifiability. When costs are unverifiable, the agent can extract the entire first-best surplus, leaving the principal with zero revenue. When costs are verifiable, we characterize the agent's optimal...
 
 ---
 
@@ -99,123 +163,61 @@ Journal of Political Economy, Volume 134, Issue 8, Page Inside back cover-Inside
 
 ---
 
-### [Structural versus Allocative Inefficiency Across Organizational Settings](https://arxiv.org/abs/2609.23744v1)
-*Jan van de Poll* — **arxiv**, 2026-09-20 — _Political Economy_
-
-Organizations invest heavily in internal mechanisms such as incentive systems, governance structures, performance measurement, analytics, and repeated reorganizations. Yet realized performance gains are often weak or short-lived, particularly in large and mature organizations. Standard explanations emphasize allocative inefficiency arising from incentive misalignment, information problems, or bounded rationality. While relevant, these explanations struggle to account for environments in which effort is high, optimization capabilities are sophisticated, and aggregate performance remains far bel...
-
----
-
 ## Unclassified
 
-### [Uniform Inference for Parameters Identified by Conditional Quantile Restrictions](https://arxiv.org/abs/2609.23303v1)
-*Xuqing Lin, Xiaojun Song* — **arxiv**, 2026-09-20 — _Unclassified_
+### [Target alignment, dilution and forecast selection when cross-sectional forecasts share a common target](https://arxiv.org/abs/2609.26303v1)
+*Masoud Soleimani* — **arxiv**, 2026-09-22 — _Unclassified_
 
-Many structural and dynamic economic models imply that key parameters are identified by conditional quantile restrictions. Building on the exponential-weighting approach of Bierens (1990) and recent advances in penalized maximum statistics for conditional moment restrictions (Chen et al., 2025), we develop a unified inference framework for such parameters. We propose an adaptive $\ell_1$-penalized supremum statistic that transforms the conditional restriction into a continuum of unconditional moment conditions and aggregates evidence across quantile indices. The penalty regularizes the maximiz...
-
----
-
-### [Contracting for Decision-Relevant Beliefs](https://arxiv.org/abs/2609.23285v1)
-*Bo Cowgill* — **arxiv**, 2026-09-20 — _Unclassified_
-
-Forecasts guide decisions, but an expert who privately values the decision may misreport beliefs to influence it. We study contracts that jointly elicit the expert's belief about a verifiable state and her stake in a binary action. When agents with different stakes can hold the same belief, exact belief-only IC forces the action to ignore the report. Joint screening permits responsiveness but may require implementation rent. For thresholds, minimum implementation rent equals the distribution-weighted positive curvature of the belief-dependent cutoff. Optimal threshold design is rent-adjusted c...
+Forecasters often score the same units per date against one standardized realized outcome. We show that every standardized forecast splits exactly into a component aligned with this common target and a component uncorrelated with it. Three consequences follow: forecast-error correlation largely mirrors forecast correlation and is therefore a poor measure of diversity; an equally weighted combination beats a no-information forecast only when average alignment is large relative to the combination's dispersion; and the gain from adding a forecaster separates into genuine improvement and mere dilu...
 
 ---
 
-### [Stealing profits: Spread-based temporal hierarchy forecasting for day-ahead electricity markets](https://arxiv.org/abs/2609.23223v1)
-*Arkadiusz Lipiecki, Nikolaos Kourentzes, Rafal Weron* — **arxiv**, 2026-09-19 — _Unclassified_
+### [Strategy-proof choice on strictly convex frontiers](https://arxiv.org/abs/2609.26302v1)
+*Siwei Chen, Pengbo Wang* — **arxiv**, 2026-09-22 — _Unclassified_
 
-Day-ahead electricity price forecasts support trading and storage decisions, but for battery arbitrage predicting intraday price spreads is more relevant than predicting individual hourly prices. Here we show that a temporal hierarchy forecasting (THieF) framework that jointly reconciles forecasts of hourly electricity prices and all intraday price spreads consistently improves performance across two major European electricity markets and three different forecasting architectures. Using five years of out-of-sample data from Germany and Spain, we obtain accuracy improvements of up to 19.7% and ...
-
----
-
-### [Consistent Order Selection under Non-Identifiability and Dependence](https://arxiv.org/abs/2609.23220v1)
-*Eduardo Fonseca Mendes* — **arxiv**, 2026-09-19 — _Unclassified_
-
-We provide sufficient conditions for the consistency of penalized least squares procedures that select the order (dimension) of a regression model from a sequence of nested classes, allowing for dependent, martingale-difference errors. The main contribution is to relax the classical identifiability requirement: parameters indexing classes larger than the true order need not be identified, provided the additional, excess directions admit a linear approximation to the truth in a neighbourhood of the true parameter. This relaxation lets the number of candidate models grow with the sample size, re...
+A collective rule must often choose a public outcome on a constrained boundary. We characterize truthful choice with diagonal unanimity on the entire boundary of any compact full-dimensional strictly convex body in finite dimension at least two. On the full domain of linear support preferences, ordinary individual strategy-proofness and diagonal unanimity force the rule to select one fixed participant's preferred point at every profile. The population is any fixed finite nonempty set. No Pareto condition, boundary smoothness, or continuity or measurability of the rule is assumed. If interior o...
 
 ---
 
-### [Equilibrium prices under hidden Markov fundamentals](https://arxiv.org/abs/2609.21684v1)
-*Henri Pagès, Dylan Possamaï, Mateo Rodriguez Polo* — **arxiv**, 2026-09-18 — _Unclassified_
+### [Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference](https://arxiv.org/abs/2609.25924v1)
+*Xinbing Kong, Zeyu Li, Junfan Mao, Bin Wu* — **arxiv**, 2026-09-22 — _Unclassified_
 
-We study a representative-agent Epstein-Zin economy with geometric dividends and a hidden finite-state Markov drift. We allow the price-dividend ratio to contain an additional positive, absolutely continuous valuation factor and, within the class $\mathfrak C$ defined below and under the regularity, admissibility, and positivity conditions of our main theorem, equilibrium forces this factor to be constant, yielding belief-Markovian prices. In the two-state case, under the stated positivity condition and strictly positive transition intensities, we prove existence, uniqueness, endpoint smoothne...
-
----
-
-### [Match forecasts in UEFA club competitions: Elo ratings versus Transfermarkt valuations](https://arxiv.org/abs/2609.21674v1)
-*Gergely Csurilla, László Csató* — **arxiv**, 2026-09-18 — _Unclassified_
-
-The pre-season strengths of European football clubs are usually measured by two proxies in the literature. Football Club Elo Ratings provide strictly performance-based Elo ratings from the early days of the European Cups, while Transfermarkt valuations are crowd-based estimates of squad market values. This paper compares them by evaluating their ability to forecast the results of matches played in the UEFA Champions League and the UEFA Europa League between the seasons 2020/21 and 2024/25. The two indicators yield almost identical out-of-sample accuracy when used separately. Combining the two ...
+Causal inference guides operational and managerial decisions but remains challenging in high-dimensional panel or tensor settings, where decisions may depend on the joint conditional distribution of missing control outcomes. We develop \emph{Counterfactual Tucker Diffusion} (\CFTDiff), which integrates the treatment mask and latent Tucker structure into conditional diffusion to recover this distribution given observed control outcomes through efficient nonlinear score learning in a low-dimensional core. The masked Tucker score preserves dependence across tensor modes while reducing the dimensi...
 
 ---
 
-### [The "Rough" HAR Model](https://arxiv.org/abs/2609.21587v1)
-*Mikkel Bennedsen, Kim Christensen, Peter Korsbakke Christensen, Jun Yu et al.* — **arxiv**, 2026-09-18 — _Unclassified_
+### [Dynamic Disclosure with(out) Timestamps](https://arxiv.org/abs/2609.25485v1)
+*Aaron Kolb, Beixi Zhou* — **arxiv**, 2026-09-21 — _Unclassified_
 
-This paper proposes discrete-time approximations to rough continuous-time models of realized variance (RV). The leading rough models can be viewed as autoregressive processes driven by fractional Gaussian noise. We show that the Wold representation of this noise concentrates its dependence at the first lag when the Hurst parameter is below one half. Augmenting the autoregressive (AR) and heterogeneous autoregressive (HAR) models with a first-order moving-average (MA(1)) component therefore approximates the roughness, and the MA coefficient maps almost linearly into the Hurst parameter. We refe...
-
----
-
-### [Summary Indices in Treatment Effect Estimation](https://arxiv.org/abs/2609.21393v1)
-*Danil Fedchenko* — **arxiv**, 2026-09-18 — _Unclassified_
-
-This paper studies the practice of combining multiple outcomes into a summary index to estimate a causal effect. For common estimators and index constructions, the estimate equals a weighted sum of the estimated effects on the components, with weights that are implicit and rarely reported. The paper derives the weights and shows that, for inverse-covariance-weighted indices, they can be negative and unrestricted in magnitude, so the index effect can have the opposite sign to every component effect. The paper proposes two procedures for valid inference on the index effect: a variance estimator ...
+We study how timestamps affect dynamic disclosure. At a random date, a sender privately obtains hard evidence about an evolving binary state and chooses when to disclose it. With timestamps, the unique equilibrium features immediate good-evidence disclosure and timestamp-dependent bad-evidence delay. Without timestamps, high priors relative to impatience generate a stock of undisclosed good evidence, which is stochastically purged before permanent transparency. High impatience yields immediate good-evidence disclosure, while bad evidence can be arbitrarily delayed and disclosed in bursts. Time...
 
 ---
 
-### [Auctions as Experiments](https://arxiv.org/abs/2609.21168v1)
-*Mira Frick, Ryota Iijima, Yuhta Ishii, Nicholas Wu* — **arxiv**, 2026-09-18 — _Unclassified_
+### [Priority Blockers: Welfare and Incentives in Matching under General Constraints](https://arxiv.org/abs/2609.25481v1)
+*Lars Ehlers, M. Bumin Yenmez* — **arxiv**, 2026-09-21 — _Unclassified_
 
-Consider an auction with buyers whose values depend on an underlying state (e.g., market fundamentals). How does the auction format shape the information that buyers' bids reveal about the state? We recast auctions as statistical experiments and compare different auction formats in terms of the (Lehmann) informativeness of the induced experiments. Our main finding is that among a large class of auctions (e.g., $k$th-price, all-pay), the first-price auction is the most informative. As a result, this auction guarantees the highest payoffs to a decision-maker who uses the information revealed by ...
-
----
-
-### [New Approaches to Strategic Thinking in Dynamic Games](https://arxiv.org/abs/2609.21163v1)
-*Mehmet Mars Seven* — **arxiv**, 2026-09-18 — _Unclassified_
-
-We present several models of strategic choice concerning equilibrium reasoning and behaviour, as well as new applications to dynamic games. We propose concepts such as historical equilibrium, simple Nash equilibrium, cautious backward induction, and an approach inspired by how chess players reason in sequential games.
+Institutions often face constraints richer than a single capacity. Protecting the priority of a student who cannot be accommodated may then block a lower-priority student who fits. We introduce COP-and-Choose, a cumulative offer process followed by a choice step, and show that its greedy version, which skips such blockers, leaves no student worse off than any fair matching or Knapsack Deferred Acceptance (KDA). Greedy is the unique consistent rule preserving this guarantee. With substitutability and size monotonicity at every school, greedy is strategy-proof and Pareto-undominated among strate...
 
 ---
 
-### [Pareto-Improving Pricing: Why 3 Is Better Than 2](https://arxiv.org/abs/2609.22652v1)
-*Zi Yang Kang, Piotr Dworczak* — **arxiv**, 2026-09-18 — _Unclassified_
+### [Misaligned Clinical Risk Classification and Cost Asymmetry in Open-Weight Large Language Models](https://doi.org/10.48550/arxiv.2609.23999)
+*Star S. D. Liu, Xiyu Ding, Robert B. Barrett, Alberto Santamaría-Pang et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
 
-We study the design of priority pricing systems with heterogeneous agents in environments in which improving quality for some agents reduces the average quality that can be provided. Contrary to the equity-efficiency tradeoff emphasized in public debates, we show that under economically natural conditions priority pricing can Pareto-improve on an equal-allocation benchmark. Three priority tiers suffice for such an improvement, combining higher quality for a fee, lower quality with compensation, and an intermediate tier at the benchmark quality; two tiers are never enough. Our results provide a...
-
----
-
-## Urban, Rural & Regional Economics
-
-### [Bricks or Cash? Externalities of Housing Upgrading in High-density Cities](https://arxiv.org/abs/2609.21478v1)
-*Sumit Agarwal, Ying Deng, Yi Fan, Qi Gao et al.* — **arxiv**, 2026-09-18 — _Urban, Rural & Regional Economics_
-
-We estimate housing externalities in a high-density city, exploiting the staggered rollout of Singapore's nationwide Main Upgrading Programme for public housing. Controlling for nonrandom neighborhood exposure, we find that upgrading raises treated buildings' prices by 11.5% upon completion and neighboring buildings' resale prices by about 2% within 500 meters, decaying to zero beyond. A model with distance-decaying externalities shows that in dense settings spillovers justify the distortions of in-kind provision; this advantage diminishes and reverses at lower densities. Administrative data o...
+How large language models (LLMs) integrate patient risk with clinical cost tradeoffs remains poorly understood. We investigated how four open-weight LLMs (Qwen-2.5-7B/32B and Llama-3.1-8B/70B) internally represent cost tradeoffs, how these representations relate to clinical predictions, and whether decisions shift as predicted by the specified cost direction and magnitude. Using a public diabetes dataset, we varied 11 false-negative (FN) to false-positive (FP) cost ratios across three phrasings and examined representations and behavioral outputs. Patient risk was linearly recoverable on par wi...
 
 ---
 
-### [Certifying Priority in Evidence-Based Allocation](https://arxiv.org/abs/2609.21335v1)
-*Charles Po-Cheng Huang, Gunhaeng Lee* — **arxiv**, 2026-09-18 — _Urban, Rural & Regional Economics_
+### [Monopolist nonlinear pricing in a seller's market](https://doi.org/10.48550/arxiv.2609.24011)
+*Lucas D. O'Brien* — **openalex ssrn**, 2026-09-21 — _Unclassified_
 
-Many allocation rules give priority to applicants satisfying favored conditions, including disability, homelessness, and veteran status. Because these conditions are not directly observed, a rule ranking applicants by characteristics must first determine what submitted certificates prove. This paper studies allocation with hard but partial evidence: a disability document may prove disability without proving the absence of a disqualifying tenancy record. A claim is certifiable exactly when every intended claimant has a feasible certificate excluding all outsiders. Chain rules---scores, lexicogr...
-
----
-
-## method:Lab Experiment
-
-### [Biased Agents, Extreme Beliefs: Motivated Reasoning Under Competing Models](https://arxiv.org/abs/2609.22446v1)
-*Zhongheng Qiao* — **arxiv**, 2026-09-18 — _method:Lab Experiment_
-
-People often face environments where multiple models compete to explain the same observations. This paper examines how people update beliefs in such settings and how preferences over payoff-relevant states shape model selection and belief updating. This paper first develops a framework where preference-driven bias distorts the perceived model, affecting Bayesian and best-fit updating differently. In a laboratory experiment, most participants are classified as Bayesian updaters, who average across models, while a substantial minority are classified as best-fit updaters, who select the model tha...
+In this paper, we study the Rochet-Choné model of monopolist pricing in the seller's market limit. We introduce a monotonicity formula which yields an asymptotic description of solutions, and prove that the proportion of consumers priced out of the market vanishes as overall consumer demand increases, providing a counterpoint to Armstrong's desirability of exclusion.
 
 ---
 
-## method:RCT
+### [When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting](https://doi.org/10.48550/arxiv.2609.24862)
+*Yifan Hu, Xilin Dai, Zhiyuan Qu, Yiding Liu et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
 
-### [Causal inference in two-sided randomization designs: factorial regression, two-way clustering, and covariate adjustment](https://arxiv.org/abs/2609.22761v1)
-*Pengfei Tian, Jizhou Liu, Lei Shi, Peng Ding* — **arxiv**, 2026-09-19 — _method:RCT_
-
-We study randomized experiments involving two interacting populations, such as buyers and sellers in a marketplace. In the two-sided experiments we consider, we randomize the two populations separately and independently. For a pair consisting of one member from each population, the two assignments jointly determine one of four exposure conditions. Under a local interference assumption, we consider a broad class of linear estimands, including total, interaction, and buyer- and seller-side spillover effects. Our first main result establishes that researchers can estimate these effects using ordi...
+Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions. Committing all numerical expert forecasts and cand...
 
 ---
 
@@ -230,9 +232,9 @@ We develop a stochastic nested fixed point (SNFP) estimator for random coefficie
 
 ## method:Theory
 
-### [Monodromy of Walrasian Equilibrium Prices: A Fixed-Preference Endowment-Redistribution Construction](https://arxiv.org/abs/2609.21539v1)
-*Andrea Loi, Stefano Matta* — **arxiv**, 2026-09-18 — _method:Theory_
+### [Contracting under Misspecification](https://arxiv.org/abs/2609.25590v1)
+*Florian Mudekereza* — **arxiv**, 2026-09-22 — _method:Theory_
 
-Suppose an economy moves continuously along a closed path of fundamentals and returns exactly to its initial state. A regular Walrasian equilibrium price followed continuously along that path need not return to itself. For every number of commodities $L\ge3$, we construct a closed one-parameter family of pure-exchange economies in which all preferences are fixed, only three individual endowments vary, and aggregate resources remain constant. Along the loop, two regular equilibrium-price branches are exchanged while a third returns to itself; at the end, every economic primitive is exactly as i...
+This paper studies agency problems when both parties worry that the model linking action to output is misspecified. With observable actions, an optimal contract is linear in output, so performance pay arises solely to share misspecification exposure, the slope reflects the parties' relative robustness concerns, and its allocation is Pareto efficient. With hidden actions, this sharing rule survives and incentives add a nonlinear correction. Misspecification concerns can polarize effort by making intermediate actions impossible to implement. Moreover, ambiguity across competing models has asymme...
 
 ---
