@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-23
+# Economics Research Digest — 2026-09-24
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 13 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -9,20 +9,6 @@ Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
           Economic Research* — **Journal of Political Economy**, 2026-09-04 — _Agricultural & Environmental Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
-
----
-
-### [Firm Valuation When AI Shapes the Business Model: A Milestone-Based Real-Options Framework for the AI Valuation Uncertainty Problem](https://arxiv.org/abs/2609.24181v1)
-*Walter Kurz, Wojtek Stricker, Stefan Marx, Frank Reinhardt et al.* — **arxiv**, 2026-09-21 — _Agricultural & Environmental Economics_
-
-Standard valuation methods, including discounted cash flow, the income approach standard IDW S 1 of the Institute of Public Auditors in Germany, and market multiples, compress milestone probabilities, continuation options, and risk shifts into opaque aggregate parameters; none provides a structured protocol for decomposing AI integration into auditable option-level assumptions. We propose an industry-agnostic taxonomy separating AI Integrators from AI Providers. AI Integrators are further classified by their Integration Depth Level, ranging from no integration to AI at the core of the product ...
-
----
-
-### [Payoffs and perception mediate environmental feedback in an N-player trust game with Q-learning](https://doi.org/10.48550/arxiv.2609.24493)
-*Ruqiang Guo, Zhaoyi Hu, Fangfang Wang, Linjie Liu* — **openalex ssrn**, 2026-09-21 — _Agricultural & Environmental Economics_
-
-Trust develops through learning, while collective behavior can alter the environment in which later decisions are made. Reinforcement-learning models describe adaptation, and eco-evolutionary models describe behavior-environment feedback, but how an endogenous environment changes trust through material incentives and perceived states remains unclear. We couple a fixed-role, two-population hierarchical trust game populated by heterogeneous tabular $Q$-learning agents to a centered endogenous environment. For the main feedback comparisons, we initialize the fixed-payoff baseline and feedback bra...
 
 ---
 
@@ -35,21 +21,37 @@ Knowledge spillovers have largely been studied as unintended externalities diffu
 
 ---
 
-## Financial Economics
+## Econometrics & Methods
 
-### [InvestorNerd: An Investment and Financial Insights System Based on User Profiles](https://doi.org/10.48550/arxiv.2609.24658)
-*John Castillo, Rishika Gautam, Xinyu Wang, Harsh Kashyap et al.* — **openalex ssrn**, 2026-09-21 — _Financial Economics, Health, Education & Welfare_
+### [Testing for Heterogeneous Treatment Effects in Regression Discontinuity Designs](https://arxiv.org/abs/2609.27691v1)
+*Xiaojun Song, Haojiao Zhao* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:RDD_
 
-InvestorNerd is a web-based platform (investornerd.org) designed to educate and democratize financial understanding by providing accessible, AI-powered investment and personal finance insights tailored to potential user profiles. The system addresses a key challenge in helping everyday individuals, especially those without formal financial education, make sense of investment options and personal financial decisions. The platform offers three interactive tools: Stock Insights - Allows users to input any Stock, Mutual Fund, or Exchange Traded Fund (ETF) ticker to receive a summary of relevant ne...
+We propose a nonparametric test for unobserved treatment effect heterogeneity in regression discontinuity designs. Under the null of no unobserved heterogeneity, a transformed outcome that imputes treated potential outcomes for untreated units must have a continuous conditional distribution at the cutoff. We convert this implication into an integrated conditional-moment restriction using characteristic functions, thereby allowing the conditional local average treatment effect to be an unrestricted function of covariates. We derive the asymptotic distribution of the test statistics via a $U$-pr...
 
 ---
 
-## General Economics & Methodology
+### [Mining Meaning: Measurement Error in AI-Assisted Literature Reviews](https://arxiv.org/abs/2609.27686v1)
+*Jeffrey D. Michler, Kieran Douglas, Anna Josephson* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:IV_
 
-### [Scalable Dynamic Pricing of Substitutable Products through Structure-Guided Policy Learning](https://doi.org/10.48550/arxiv.2609.24605)
-*Yue Su, Antoine Désir, Axel Parmentier* — **openalex ssrn**, 2026-09-21 — _General Economics & Methodology_
+Researchers increasingly use generative AI, particularly large language models (LLMs), to automate tasks across the research pipeline. We study the reliability of these tools at the reading, classification, and synthesis of large bodies of academic literature. We frame LLM-assisted literature reviews as a measurement problem, treating models as measurement systems and tracing how their errors affect downstream conclusions. As a test case, we use three different implementations of ChatGPT to identify and extract metadata from economics papers that use rainfall as an instrumental variable. We be...
 
-Problem definition: We study dynamic pricing of substitutable products with finite, product-specific inventories. Customer substitution couples pricing decisions across products, while the inventory state makes exact dynamic programming intractable at realistic scale. Methodology / results: We develop two MNL-guided policy-learning approaches that replace the dynamic program with a statistical mapping from inventory states to pricing decisions. The first learns prices directly, while the second learns inventory opportunity costs and converts them into prices using the optimal MNL pricing rule....
+---
+
+## Financial Economics
+
+### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v1)
+*Ehud Shapiro* — **arxiv**, 2026-09-23 — _Financial Economics, Law & Economics, Macroeconomics_
+
+A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards; the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture that overcomes these limitations, based on grassroots currencies. It has three components: (1) Money: sovereign grassroots coins, which are digital debts of one unit of fiat currency issued by the central bank, constituting a direct CBDC; (2) Credit and Liquidity:...
+
+---
+
+## Health, Education & Welfare
+
+### [Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives](https://arxiv.org/abs/2609.27200v1)
+*Peter Reinhard Hansen, Werner Ploberger, Chen Tong* — **arxiv**, 2026-09-23 — _Health, Education & Welfare_
+
+We study identity testing for high-dimensional covariance matrices against dense alternatives of unknown direction, with $p/n \to γ$. Along a globally positive quadratic precision path, mixing Gaussian alternatives over a Gaussian Orthogonal Ensemble direction yields a contiguous experiment whose log likelihood reduces to the corrected Frobenius statistic; its upper-tail test attains the limiting weighted-power envelope at every fixed strength. Fixing the prior's Frobenius radius perturbs the mixture by only $O(p^{-1/2})$ in total variation, and exact whitening carries the experiment, the stat...
 
 ---
 
@@ -71,20 +73,6 @@ Consumers can invest resources to understand and avoid their behavioral mistakes
 
 ---
 
-### [Audit the Auditors: Commitment versus Professional Judgment](https://arxiv.org/abs/2609.24020v1)
-*Pingyang Gao, Jinzhi Lu, Zhenpeng Yang* — **arxiv**, 2026-09-21 — _International Economics, method:Theory_
-
-This paper provides a theoretical framework to evaluate the trade-off between the self-regulated peer review system and independent government inspection (PCAOB) in the auditing profession. We model the peer review system as a Judgment Regime, where a stakeholder utilizes professional expertise, captured as a private signal, to make ex-post decisions on verifying audit failures. In contrast, PCAOB inspection is modeled as a Commitment Regime, where the stakeholder lacks private information but can commit ex-ante to a predetermined level of verification. We find that the Judgment Regime benefit...
-
----
-
-### [Audit the Auditors: Commitment versus Professional Judgment](https://doi.org/10.48550/arxiv.2609.24020)
-*Pingyang Gao, Jinzhi Lu, Zhenpeng Yang* — **openalex ssrn**, 2026-09-21 — _International Economics, method:Theory_
-
-This paper provides a theoretical framework to evaluate the trade-off between the self-regulated peer review system and independent government inspection (PCAOB) in the auditing profession. We model the peer review system as a Judgment Regime, where a stakeholder utilizes professional expertise, captured as a private signal, to make ex-post decisions on verifying audit failures. In contrast, PCAOB inspection is modeled as a Commitment Regime, where the stakeholder lacks private information but can commit ex-ante to a predetermined level of verification. We find that the Judgment Regime benefit...
-
----
-
 ## Labor & Demographic Economics
 
 ### [The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining](https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R)
@@ -100,13 +88,6 @@ Journal of Political Economy, Ahead of Print.
 *Yosuke Hashidate* — **arxiv**, 2026-09-22 — _Microeconomics_
 
 Exponential Second-Order Expected Utility (SOEU) underlies the entropic approach to model uncertainty. This paper explores in what sense that functional form is essential. In the misspecification-robust Smooth Ambiguity criterion, let a single parameter govern both the model-level robustness and the ambiguity-averse aggregation across models Cerreia-Vioglio, Hansen, Maccheroni, and Marinacci (2026). The two-layer criterion then equals Exponential SOEU for every compact set of models and every second-order prior, with the Bayesian predictive measure as the baseline. The main results are convers...
-
----
-
-### [Strategic Disclosure of Action Space in Principal-Agent Contracts](https://arxiv.org/abs/2609.25410v1)
-*Xiaotie Deng, Ningyuan Li* — **arxiv**, 2026-09-21 — _Microeconomics, method:Theory_
-
-We study strategic disclosure of the action space in principal-agent contracting, where an agent selects a disclosed action set to shape the principal's perception of her capabilities before contract design. Unaware of the strategic disclosure, the principal designs a revenue-optimal contract as if the disclosed action set were complete and accurate. We consider two variants distinguished by cost verifiability. When costs are unverifiable, the agent can extract the entire first-best surplus, leaving the principal with zero revenue. When costs are verifiable, we characterize the agent's optimal...
 
 ---
 
@@ -163,7 +144,56 @@ Journal of Political Economy, Volume 134, Issue 8, Page Inside back cover-Inside
 
 ---
 
+### [A Reverse War of Attrition](https://arxiv.org/abs/2609.28178v1)
+*Kazimierz Stańczak, Pawel Struski* — **arxiv**, 2026-09-23 — _Political Economy_
+
+We formulate a complete-information two-player strategic timing game that we refer to as the reverse war of attrition (RWoA). Waiting yields a strictly positive current rent, and the player that outwaits its rival may earn an even higher flow. However, remaining in the waiting state when the rival has moved triggers a discrete late-mover penalty. The distinctive primitive is a player-owned productive buffer which enables the rent-generating activity while waiting, but is degraded by this activity. A rival's move can raise the waiting rent and accelerate depletion. We characterize a unique symm...
+
+---
+
 ## Unclassified
+
+### [Cursed Rationalizability](https://arxiv.org/abs/2609.28392v1)
+*Shani Cohen, Shengwu Li* — **arxiv**, 2026-09-23 — _Unclassified_
+
+Cursed players understand the distribution of opponents' actions and the distribution of the payoff-relevant state, conditional on their own information, but respond as if the two were independent. Cursed equilibrium additionally requires statistically correct beliefs about the distribution of play. We propose a solution concept that separates the bias from equilibrium: cursed rationalizability iteratively deletes every action that is not a cursed response to a conjecture about opponents' surviving play. The cursed-rationalizable set is the interim correlated rationalizable set of a virtual ga...
+
+---
+
+### [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](https://arxiv.org/abs/2609.28372v1)
+*Davood Wadi, Yu Ma* — **arxiv**, 2026-09-23 — _Unclassified_
+
+Consumers increasingly delegate purchasing decisions to Large Language Models (LLMs) acting as surrogate consumers. Using "Tool-Lab," an adaptation of information-board process tracing that places product attributes behind costly tool calls, we examine how marketing pricing cues (i.e., just-below pricing and promotional framing) influence AI shopping agents. Across eight commercially deployed LLMs from three providers, we trace pre-choice information acquisition. Under zero cost, pricing cues rarely mislead. Imposing acquisition costs under a vague goal prompt leads LLMs to omit diagnostic att...
+
+---
+
+### [Cooperating against Catastrophe](https://arxiv.org/abs/2609.28291v1)
+*Drew Fudenberg, Andrew Koh* — **arxiv**, 2026-09-23 — _Unclassified_
+
+We study a continuous-time game in which two firms choose how quickly to advance their capabilities while an exogenous safety threshold advances at a fixed rate. When the capability frontier (max of firms' capabilities) exceeds the safety threshold, all firms are exposed to common disaster that arrives at a hazard rate increasing in the capability-safety difference. We characterize Markov perfect equilibria in terms of the disaster risk, how quickly safety advances, and flow payoffs: when they are low, only racing is an equilibrium; when they are intermediate, racing and pacing coexist; when t...
+
+---
+
+### [When Trust Attracts Fraud: AI and Trust Arbitrage](https://arxiv.org/abs/2609.27404v1)
+*Xieyu Yin, Fenghua Wen* — **arxiv**, 2026-09-23 — _Unclassified_
+
+Trust can attract fraud when it delays verification. We develop a two-market signaling model in which generative AI lowers fabrication, verification, and targeting costs. When fabrication becomes profitable before verification, claim credibility first falls and later recovers. Across markets, higher prior quality can delay verification, creating an interval in which only the lower-quality market checks. If targeting becomes profitable in this interval, deceptive sellers enter the higher-quality but less vigilant market, and their entry can initially reverse its reliability advantage. The inflo...
+
+---
+
+### [Credible AUctions via MPC Gadgets: Bounding Information Leakage Under Abort](https://arxiv.org/abs/2609.27402v1)
+*Matheus Venturyne Xavier Ferreira* — **arxiv**, 2026-09-23 — _Unclassified_
+
+The design of credible auctions---mechanisms where a revenue-maximizing auctioneer has no incentive to deviate from the protocol---faces a fundamental cryptographic barrier when the auctioneer controls shill bidders. While a natural approach is to use Secure Multi-Party Computation (MPC) to remove the trusted auctioneer, the impossibility of fair coin flipping of Cleve (1986) implies that monolithic MPC protocols grant the auctioneer a "free option": they can learn the auction's outcome and unilaterally abort if the revenue is unsatisfactory. Cryptographic commitments with ex-ante penalties mi...
+
+---
+
+### [Singleton-Attainability and Transparent Access in Matching](https://arxiv.org/abs/2609.27293v1)
+*Szilvia Pápai* — **arxiv**, 2026-09-23 — _Unclassified_
+
+Matching mechanisms differ in how much of an agent's preference ranking must be determined and reported to obtain a particular object. A mechanism is singleton-attainable (SA) if every object that an agent can obtain through some report can also be obtained by reporting only that object as acceptable. With an SA mechanism, once an attainable object has been identified, the agent need not rank or report any other object. Singleton-attainability identifies a distinct dimension in matching theory and market design: transparent access to attainable outcomes, separate from incentives, stability, we...
+
+---
 
 ### [Target alignment, dilution and forecast selection when cross-sectional forecasts share a common target](https://arxiv.org/abs/2609.26303v1)
 *Masoud Soleimani* — **arxiv**, 2026-09-22 — _Unclassified_
@@ -186,51 +216,23 @@ Causal inference guides operational and managerial decisions but remains challen
 
 ---
 
-### [Dynamic Disclosure with(out) Timestamps](https://arxiv.org/abs/2609.25485v1)
-*Aaron Kolb, Beixi Zhou* — **arxiv**, 2026-09-21 — _Unclassified_
+## method:DiD
 
-We study how timestamps affect dynamic disclosure. At a random date, a sender privately obtains hard evidence about an evolving binary state and chooses when to disclose it. With timestamps, the unique equilibrium features immediate good-evidence disclosure and timestamp-dependent bad-evidence delay. Without timestamps, high priors relative to impatience generate a stock of undisclosed good evidence, which is stochastically purged before permanent transparency. High impatience yields immediate good-evidence disclosure, while bad evidence can be arbitrarily delayed and disclosed in bursts. Time...
+### [Do Drug Consumption Rooms Reduce Drug-Related Hospitalizations? Evidence from Switzerland](https://arxiv.org/abs/2609.27732v1)
+*Ana Armendariz* — **arxiv**, 2026-09-23 — _method:DiD_
 
----
-
-### [Priority Blockers: Welfare and Incentives in Matching under General Constraints](https://arxiv.org/abs/2609.25481v1)
-*Lars Ehlers, M. Bumin Yenmez* — **arxiv**, 2026-09-21 — _Unclassified_
-
-Institutions often face constraints richer than a single capacity. Protecting the priority of a student who cannot be accommodated may then block a lower-priority student who fits. We introduce COP-and-Choose, a cumulative offer process followed by a choice step, and show that its greedy version, which skips such blockers, leaves no student worse off than any fair matching or Knapsack Deferred Acceptance (KDA). Greedy is the unique consistent rule preserving this guarantee. With substitutability and size monotonicity at every school, greedy is strategy-proof and Pareto-undominated among strate...
-
----
-
-### [Misaligned Clinical Risk Classification and Cost Asymmetry in Open-Weight Large Language Models](https://doi.org/10.48550/arxiv.2609.23999)
-*Star S. D. Liu, Xiyu Ding, Robert B. Barrett, Alberto Santamaría-Pang et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-How large language models (LLMs) integrate patient risk with clinical cost tradeoffs remains poorly understood. We investigated how four open-weight LLMs (Qwen-2.5-7B/32B and Llama-3.1-8B/70B) internally represent cost tradeoffs, how these representations relate to clinical predictions, and whether decisions shift as predicted by the specified cost direction and magnitude. Using a public diabetes dataset, we varied 11 false-negative (FN) to false-positive (FP) cost ratios across three phrasings and examined representations and behavioral outputs. Patient risk was linearly recoverable on par wi...
-
----
-
-### [Monopolist nonlinear pricing in a seller's market](https://doi.org/10.48550/arxiv.2609.24011)
-*Lucas D. O'Brien* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-In this paper, we study the Rochet-Choné model of monopolist pricing in the seller's market limit. We introduce a monotonicity formula which yields an asymptotic description of solutions, and prove that the proportion of consumers priced out of the market vanishes as overall consumer demand increases, providing a counterpoint to Armstrong's desirability of exclusion.
-
----
-
-### [When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting](https://doi.org/10.48550/arxiv.2609.24862)
-*Yifan Hu, Xilin Dai, Zhiyuan Qu, Yiding Liu et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions. Committing all numerical expert forecasts and cand...
-
----
-
-## method:Structural
-
-### [A Stochastic Nested Fixed Point Algorithm for Large-Scale BLP Estimation](https://arxiv.org/abs/2609.23998v1)
-*Zhentong Lu, Myung Hwan Seo, Youngki Shin, Qichen Zhang* — **arxiv**, 2026-09-21 — _method:Structural_
-
-We develop a stochastic nested fixed point (SNFP) estimator for random coefficients logit demand models that updates model parameters using stochastic gradients and performs demand inversion one market at a time. Relative to the conventional nested fixed point (NFP) estimator, SNFP substantially reduces memory requirements and computational cost, making estimation feasible in very large datasets. We establish the large-$T$ (number of markets) asymptotic properties of the estimator under regularity conditions. We also characterize the effect of sharing one block of simulation draws across marke...
+This paper estimates the causal effect of drug consumption room (DCR) openings on drug-related hospitalizations in Switzerland. I exploit the staggered introduction of DCRs across Swiss cities between 1998 and 2022, using individual-level hospital records and a difference-in-differences estimator. DCR openings reduce drug-related hospitalization rates by roughly 35\% within 5 km of a facility. The reduction is most pronounced for fatal outcomes, which fall by 35\% while narcotics poisoning hospitalizations rise by a comparable amount, consistent with DCRs converting potentially fatal overdoses...
 
 ---
 
 ## method:Theory
+
+### [Minimally rational reallocation of objects](https://arxiv.org/abs/2609.28174v1)
+*Özgün Ekici, M. Bumin Yenmez* — **arxiv**, 2026-09-23 — _method:Theory_
+
+Matching theory has largely evolved around two canonical rules: deferred acceptance (DA) in the marriage problem and top trading cycles (TTC) in the object reallocation problem. Although the two rules operate through different procedures, we show that they rest on a common axiomatic foundation. In the marriage problem, stability decomposes into individual rationality and pair rationality, and a classic result characterizes DA by these two axioms together with strategy-proofness for the proposing side. We show that individual rationality, pair rationality, and strategy-proofness likewise charac...
+
+---
 
 ### [Contracting under Misspecification](https://arxiv.org/abs/2609.25590v1)
 *Florian Mudekereza* — **arxiv**, 2026-09-22 — _method:Theory_

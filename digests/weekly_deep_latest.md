@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-23
+# Weekly Deep-Reading Queue — week of 2026-09-24
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -20,56 +20,56 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 3. Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference
+## 3. Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)
+
+### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v1)
+*Ehud Shapiro* — **arxiv**, 2026-09-23 — _Financial Economics, Law & Economics, Macroeconomics_
+
+A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards; the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture that overcomes these limitations, based on grassroots currencies. It has three components: (1) Money: sovereign grassroots coins, which are digital debts of one unit of fiat currency issued by the central bank, constituting a direct CBDC; (2) Credit and Liquidity:...
+
+---
+
+## 4. Mining Meaning: Measurement Error in AI-Assisted Literature Reviews
+
+### [Mining Meaning: Measurement Error in AI-Assisted Literature Reviews](https://arxiv.org/abs/2609.27686v1)
+*Jeffrey D. Michler, Kieran Douglas, Anna Josephson* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:IV_
+
+Researchers increasingly use generative AI, particularly large language models (LLMs), to automate tasks across the research pipeline. We study the reliability of these tools at the reading, classification, and synthesis of large bodies of academic literature. We frame LLM-assisted literature reviews as a measurement problem, treating models as measurement systems and tracing how their errors affect downstream conclusions. As a test case, we use three different implementations of ChatGPT to identify and extract metadata from economics papers that use rainfall as an instrumental variable. We be...
+
+---
+
+## 5. Credible AUctions via MPC Gadgets: Bounding Information Leakage Under Abort
+
+### [Credible AUctions via MPC Gadgets: Bounding Information Leakage Under Abort](https://arxiv.org/abs/2609.27402v1)
+*Matheus Venturyne Xavier Ferreira* — **arxiv**, 2026-09-23 — _Unclassified_
+
+The design of credible auctions---mechanisms where a revenue-maximizing auctioneer has no incentive to deviate from the protocol---faces a fundamental cryptographic barrier when the auctioneer controls shill bidders. While a natural approach is to use Secure Multi-Party Computation (MPC) to remove the trusted auctioneer, the impossibility of fair coin flipping of Cleve (1986) implies that monolithic MPC protocols grant the auctioneer a "free option": they can learn the auction's outcome and unilaterally abort if the revenue is unsatisfactory. Cryptographic commitments with ex-ante penalties mi...
+
+---
+
+## 6. Singleton-Attainability and Transparent Access in Matching
+
+### [Singleton-Attainability and Transparent Access in Matching](https://arxiv.org/abs/2609.27293v1)
+*Szilvia Pápai* — **arxiv**, 2026-09-23 — _Unclassified_
+
+Matching mechanisms differ in how much of an agent's preference ranking must be determined and reported to obtain a particular object. A mechanism is singleton-attainable (SA) if every object that an agent can obtain through some report can also be obtained by reporting only that object as acceptable. With an SA mechanism, once an attainable object has been identified, the agent need not rank or report any other object. Singleton-attainability identifies a distinct dimension in matching theory and market design: transparent access to attainable outcomes, separate from incentives, stability, we...
+
+---
+
+## 7. Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives
+
+### [Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives](https://arxiv.org/abs/2609.27200v1)
+*Peter Reinhard Hansen, Werner Ploberger, Chen Tong* — **arxiv**, 2026-09-23 — _Health, Education & Welfare_
+
+We study identity testing for high-dimensional covariance matrices against dense alternatives of unknown direction, with $p/n \to γ$. Along a globally positive quadratic precision path, mixing Gaussian alternatives over a Gaussian Orthogonal Ensemble direction yields a contiguous experiment whose log likelihood reduces to the corrected Frobenius statistic; its upper-tail test attains the limiting weighted-power envelope at every fixed strength. Fixing the prior's Frobenius radius perturbs the mixture by only $O(p^{-1/2})$ in total variation, and exact whitening carries the experiment, the stat...
+
+---
+
+## 8. Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference
 
 ### [Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference](https://arxiv.org/abs/2609.25924v1)
 *Xinbing Kong, Zeyu Li, Junfan Mao, Bin Wu* — **arxiv**, 2026-09-22 — _Unclassified_
 
 Causal inference guides operational and managerial decisions but remains challenging in high-dimensional panel or tensor settings, where decisions may depend on the joint conditional distribution of missing control outcomes. We develop \emph{Counterfactual Tucker Diffusion} (\CFTDiff), which integrates the treatment mask and latent Tucker structure into conditional diffusion to recover this distribution given observed control outcomes through efficient nonlinear score learning in a low-dimensional core. The masked Tucker score preserves dependence across tensor modes while reducing the dimensi...
-
----
-
-## 4. Strategic Disclosure of Action Space in Principal-Agent Contracts
-
-### [Strategic Disclosure of Action Space in Principal-Agent Contracts](https://arxiv.org/abs/2609.25410v1)
-*Xiaotie Deng, Ningyuan Li* — **arxiv**, 2026-09-21 — _Microeconomics, method:Theory_
-
-We study strategic disclosure of the action space in principal-agent contracting, where an agent selects a disclosed action set to shape the principal's perception of her capabilities before contract design. Unaware of the strategic disclosure, the principal designs a revenue-optimal contract as if the disclosed action set were complete and accurate. We consider two variants distinguished by cost verifiability. When costs are unverifiable, the agent can extract the entire first-best surplus, leaving the principal with zero revenue. When costs are verifiable, we characterize the agent's optimal...
-
----
-
-## 5. When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting
-
-### [When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting](https://doi.org/10.48550/arxiv.2609.24862)
-*Yifan Hu, Xilin Dai, Zhiyuan Qu, Yiding Liu et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions. Committing all numerical expert forecasts and cand...
-
----
-
-## 6. The Same Ledger, Different Verdicts: How Measurement Specification Determines On-Chain Concentration
-
-### [The Same Ledger, Different Verdicts: How Measurement Specification Determines On-Chain Concentration](https://doi.org/10.48550/arxiv.2609.24176)
-*Jintao Liu, 纪智万, Xuzhe Lin* — **openalex ssrn**, 2026-09-21 — _method:Machine Learning_
-
-Whether a public blockchain is "decentralized" is routinely settled by citing a concentration statistic. On two ERC-20 ledgers, Chainlink (LINK) and Uniswap (UNI) over a 90-day window, we show that verdict depends on measurement specification rather than the ledger itself. Four discretionary choices (holder population, address type, temporal aggregation, and entity resolution) move the balance HHI for UNI from 109 to 2,336 (a factor of 21), with every specification defensible. Over the same range, the Gini coefficient moves by less than 0.003 and does not change under entity resolution, demons...
-
----
-
-## 7. Conservation Constraints and Distributed Advective Memory in a Reduced Model of Atlantic Overturning Hysteresis
-
-### [Conservation Constraints and Distributed Advective Memory in a Reduced Model of Atlantic Overturning Hysteresis](https://doi.org/10.48550/arxiv.2609.24000)
-*Sandy Hardian Susanto Herho, Iwan Pramesti Anwar, Mutiara Rachmat Putri, Rusmawan Suwarman et al.* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-Interbasin exchange through the Indo-Pacific gateway supplies salt to the Atlantic and is widely invoked as a control on the stability of the Atlantic overturning circulation. We ask whether that control can act on the equilibrium structure of a conceptual thermohaline model. A closed five-box model with an exact salt invariant is constructed, comprising North Atlantic, upper-limb, Indian, Pacific, and deep reservoirs, with the return flow split between a warm route through the Indian reservoir and a cold route, together with an Indonesian Throughflow branch and an Agulhas retroflection. Addin...
-
----
-
-## 8. Anticipatory Human Oversight of Agentic AI: A Philosophical Account
-
-### [Anticipatory Human Oversight of Agentic AI: A Philosophical Account](https://doi.org/10.48550/arxiv.2609.24242)
-*Kevin Baum, Maximilian Kiener, Markus Langer, Johann Laux* — **openalex ssrn**, 2026-09-21 — _Unclassified_
-
-Human oversight is widely held to mitigate the risks of AI systems. Even for systems that produce discrete outputs at identifiable decision points, the realisation of human oversight as a reactive measure is empirically fragile, yet increasingly well understood. However, for agentic AI -- systems that plan, decompose goals, and execute multi-step actions over extended horizons -- reactive oversight reaches its structural limits: intervention on individual actions defeats the autonomy that motivates the deployment, while intervention on aggregate patterns is too coarse for harms whose cumulativ...
 
 ---
