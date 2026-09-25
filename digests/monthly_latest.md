@@ -51,13 +51,6 @@ We propose a nonparametric test for unobserved treatment effect heterogeneity in
 
 ---
 
-### [Mining Meaning: Measurement Error in AI-Assisted Literature Reviews](https://arxiv.org/abs/2609.27686v1)
-*Jeffrey D. Michler, Kieran Douglas, Anna Josephson* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:IV_
-
-Researchers increasingly use generative AI, particularly large language models (LLMs), to automate tasks across the research pipeline. We study the reliability of these tools at the reading, classification, and synthesis of large bodies of academic literature. We frame LLM-assisted literature reviews as a measurement problem, treating models as measurement systems and tracing how their errors affect downstream conclusions. As a test case, we use three different implementations of ChatGPT to identify and extract metadata from economics papers that use rainfall as an instrumental variable. We be...
-
----
-
 ## Financial Economics
 
 ### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v2)
@@ -77,6 +70,13 @@ We study the computational complexity of peak-oriented rationalizability, a surv
 ---
 
 ## Political Economy
+
+### [Silence to Solidarity: How Communication about a Minority Affects Discrimination](https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R)
+*Duncan WebbNova School of Business and Economics* — **Journal of Political Economy**, 2026-09-22 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
 
 ### [Quota Mechanisms: Finite-Sample Optimality and Robustness](https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R)
 *Ian BallDeniz KattwinkelMassachusetts Institute of TechnologyUniversity College London* — **Journal of Political Economy**, 2026-09-17 — _Political Economy_
