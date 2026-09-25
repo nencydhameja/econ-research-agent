@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-24
+# Economics Research Digest — 2026-09-25
 
-Window: last **30 days** · 30 papers across 13 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -14,14 +14,35 @@ Journal of Political Economy, Ahead of Print.
 
 ## Business Economics & Innovation
 
-### [The network advantage: benefits of interregional scientific knowledge spillovers on AI patenting](https://arxiv.org/abs/2609.26604v1)
-*Saverio Barabuffi, Jacopo Cricchio, Alberto Di Minin, Guido Pialli* — **arxiv**, 2026-09-22 — _Business Economics & Innovation_
+### [First as Tragedy? Second as What? Estimating Dynamic Effects of Recurrent Events](https://arxiv.org/abs/2609.30007v1)
+*Agnes Norris Keiller* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Health, Education & Welfare, method:DiD_
 
-Knowledge spillovers have largely been studied as unintended externalities diffusing through geographic proximity, while deliberate interregional networks have been examined mostly through co-inventor ties rather than the scientific layer carried by co-authored publications. This study asks whether spillovers from interregional AI-related co-publications increase regional AI patenting, and whether the ownership composition of regional R&D shapes the capacity to capitalize on them. Using a network-econometric approach across 26 Chinese provincial-level regions from 2006 to 2020, we find that co...
+I study treatment effect estimation when treatment events have persistent effects and can be experienced more than once. Natural disasters, job loss and health shocks are examples of such treatments. I show that the effect of a total treatment trajectory can be recovered under assumptions similar to those commonly invoked in single-event settings using suitably flexible TWFE models. Decomposing the total trajectory effect into portions attributable to distinct event occurrences, however, requires further assumptions. I propose an assumption similar to conditional parallel trends, imposing it o...
+
+---
+
+### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://arxiv.org/abs/2609.29346v1)
+*Norbert Ankri, Païkan Marcaggi* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Labor & Demographic Economics_
+
+We develop a dynamic three-sector model in which Marx's aggregate equalities (total price equals total value and total profit equals total surplus value) are treated as strict conservation constraints throughout capital reallocation and technical diffusion. Three price-value coefficients are determined by the two aggregate equalities and a closure that sets one sector's price-based profit rate equal to the contemporaneous value-based average (the anchor). Before innovation, capital inflow expands the receiving sector's output and, under both anchors, lowers its unit price and excess profitabil...
+
+---
+
+### [Don't Fake It If You Can't Make It: Driver Misconduct in Last-Mile Delivery](https://arxiv.org/abs/2609.29080v1)
+*Srishti Arora, Vivek Choudhary, Pavel Kireyev* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Econometrics & Methods, method:IV_
+
+In the last two decades, last-mile delivery (LMD) firms have seen immense growth fueled by the success of e-commerce, leading to faster and cheaper deliveries. Operating on thin margins, LMD firms strive for successful first-time deliveries to avoid the financial and reputational costs of reattempts. Delivery Agents (DAs) are integral to LMD efficiency, influencing customer experience, delivery success, and productivity. However, most LMD performance enhancement research focuses on process, technology, and incentives, which presume workers will conform to procedures and monitoring tools will f...
 
 ---
 
 ## Econometrics & Methods
+
+### [Generic Covariate Adjustment for Regression Discontinuity Designs](https://arxiv.org/abs/2609.29249v1)
+*Jun Ma, Yuya Sasaki, Zhengfei Yu* — **arxiv**, 2026-09-24 — _Econometrics & Methods, method:RDD_
+
+It is standard practice to include covariates in regression discontinuity designs (RDDs) and regression kink designs (RKDs), but the theoretical justification for doing so does not generally extend beyond linear estimands. This paper proposes a novel entropy balancing reweighting approach for covariate adjustment within a general framework of RDDs and RKDs. While conventional regression-based covariate adjustment methods generally fail to deliver consistent estimation for nonlinear estimands such as quantile treatment effects, our reweighting approach achieves consistency while improving effic...
+
+---
 
 ### [Testing for Heterogeneous Treatment Effects in Regression Discontinuity Designs](https://arxiv.org/abs/2609.27691v1)
 *Xiaojun Song, Haojiao Zhao* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:RDD_
@@ -39,55 +60,19 @@ Researchers increasingly use generative AI, particularly large language models (
 
 ## Financial Economics
 
-### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v1)
+### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v2)
 *Ehud Shapiro* — **arxiv**, 2026-09-23 — _Financial Economics, Law & Economics, Macroeconomics_
 
-A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards; the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture that overcomes these limitations, based on grassroots currencies. It has three components: (1) Money: sovereign grassroots coins, which are digital debts of one unit of fiat currency issued by the central bank, constituting a direct CBDC; (2) Credit and Liquidity:...
-
----
-
-## Health, Education & Welfare
-
-### [Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives](https://arxiv.org/abs/2609.27200v1)
-*Peter Reinhard Hansen, Werner Ploberger, Chen Tong* — **arxiv**, 2026-09-23 — _Health, Education & Welfare_
-
-We study identity testing for high-dimensional covariance matrices against dense alternatives of unknown direction, with $p/n \to γ$. Along a globally positive quadratic precision path, mixing Gaussian alternatives over a Gaussian Orthogonal Ensemble direction yields a contiguous experiment whose log likelihood reduces to the corrected Frobenius statistic; its upper-tail test attains the limiting weighted-power envelope at every fixed strength. Fixing the prior's Frobenius radius perturbs the mixture by only $O(p^{-1/2})$ in total variation, and exact whitening carries the experiment, the stat...
-
----
-
-## Industrial Organization
-
-### [Seeing Is Not Perceiving: When Synthetic Consumers Can and Cannot Pretest Visual Marketing](https://arxiv.org/abs/2609.25677v1)
-*Yi-Lin Tsai, Yung-Hsiu, Lai* — **arxiv**, 2026-09-22 — _Industrial Organization_
-
-Marketers now deploy generative AI agents as synthetic consumers to pretest visual assets such as logos, packaging, and advertising at a fraction of human-panel cost. However, this procedure assumes that a model seeing a visual cue can also perceive its consumer meaning, which is largely untested. We stress-test the assumption using six canonical visual marketing experiments, varying the two levers managers control: model generation (GPT-4o-mini vs. GPT-5.4-mini) and input format (plain text vs. JSON). Every resulting configuration passed the manipulation checks; however, none of the configura...
-
----
-
-## International Economics
-
-### [The Depth and Reach of Exploitation: Contracting with Endogenously Naive Consumers](https://arxiv.org/abs/2609.25509v1)
-*Benjamin Balzer, Benjamin Young* — **arxiv**, 2026-09-22 — _International Economics_
-
-Consumers can invest resources to understand and avoid their behavioral mistakes, and their incentives to do so depend on the market consequences of remaining naive. We incorporate this feedback between consumers' cognitive states and market outcomes into a general contracting model. Firms face a trade-off between the depth and reach of exploitation: deeper exploitation raises profit from a naive consumer but induces greater cognitive investment, promoting sophistication and shrinking the exploitable consumer base. This trade-off disciplines exploitation and can cause policies that benefit con...
-
----
-
-## Labor & Demographic Economics
-
-### [The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining](https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R)
-*David A. GreenBen M. SandIain G. SnoddyJeanne TschoppUniversity of British Columbia and Institute for Fiscal StudiesYork UniversityAnalysis GroupUniversity of Bern* — **Journal of Political Economy**, 2026-08-25 — _Labor & Demographic Economics, Political Economy_
-
-Journal of Political Economy, Ahead of Print.
+A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards, and the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture based on grassroots currencies that overcomes these limitations. The architecture has three components: (1) Money: sovereign grassroots coins, which are digital debts of one unit of fiat currency issued by the central bank, constituting a direct CBDC; (2) Cred...
 
 ---
 
 ## Microeconomics
 
-### [The Uniqueness of Exponential Second-Order Expected Utility](https://arxiv.org/abs/2609.26552v1)
-*Yosuke Hashidate* — **arxiv**, 2026-09-22 — _Microeconomics_
+### [A Polynomial-Time Test for Peak-Oriented Rationalizability](https://arxiv.org/abs/2609.30042v1)
+*Taotao He, Runfa Hu* — **arxiv**, 2026-09-24 — _Microeconomics_
 
-Exponential Second-Order Expected Utility (SOEU) underlies the entropic approach to model uncertainty. This paper explores in what sense that functional form is essential. In the misspecification-robust Smooth Ambiguity criterion, let a single parameter govern both the model-level robustness and the ambiguity-averse aggregation across models Cerreia-Vioglio, Hansen, Maccheroni, and Marinacci (2026). The two-layer criterion then equals Exponential SOEU for every compact set of models and every second-order prior, with the Bayesian predictive measure as the baseline. The main results are convers...
+We study the computational complexity of peak-oriented rationalizability, a survey based revealed-preference test introduced by Seror (2026). We provide a polynomial-time algorithm for testing rationalizability and recovering a utility function, establishing that peak-oriented preference elicitation is computationally tractable. In contrast, we show that computing the peak-oriented Houtman-Maks index is NP-hard. These results delineate the precise computational boundaries of peak-oriented revealed-preference analysis.
 
 ---
 
@@ -123,6 +108,13 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+### [Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X](https://arxiv.org/abs/2609.28947v1)
+*Pan Li, Shuang Gao* — **arxiv**, 2026-09-24 — _Political Economy_
+
+Misinformation is widely reported to propagate faster on engagement-based platforms, yet prior work largely focused on empirical analysis, without identifying a specific algorithmic mechanism that results in this phenomenon. Thanks to the open-sourcing of X's recommendation algorithms, we conduct what is, to our knowledge, the first component-level study of the recommendation algorithm deployed by a social media platform, which examines how each of its components affects misinformation propagation. Specifically, we identify the engagement fungibility mechanism in the algorithm, where the final...
+
+---
+
 ### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/743795?af=R)
 ** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
 
@@ -153,6 +145,41 @@ We formulate a complete-information two-player strategic timing game that we ref
 
 ## Unclassified
 
+### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
+*Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
+
+AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
+
+---
+
+### [The Complexity of Multiplayer Colonel Blotto Games with Player-Specific Values](https://arxiv.org/abs/2609.30019v1)
+*Martin Bichler, Abheek Ghosh* — **arxiv**, 2026-09-24 — _Unclassified_
+
+We study equilibrium computation in discrete multiplayer Colonel Blotto games with player-specific battlefield values. In the two-player model with common battlefield values, equilibria can be computed in polynomial time. We show that this tractability breaks down in the multiplayer model with player-specific values under the standard uniform tie-breaking rule. In particular, computing a $(c/n)$-approximate Nash equilibrium is PPAD-hard for some constant $c>0$, even when every player has three resources, where $n$ is the number of players. The main technical step is PPAD-hardness for computing...
+
+---
+
+### [Multi-Dimensional Matching](https://arxiv.org/abs/2609.29958v1)
+*Irene Aldridge* — **arxiv**, 2026-09-24 — _Unclassified_
+
+We study a matching mechanism where agents and objects are described by features rather than complete rankings. A single spectral projection reduces the problem to a one-dimensional sort, computable in O(N log N) time. We prove that on descaled features and preferences, our algorithm obtains the exact Nash Social Welfare (NSW) optimum within the projected space, with an unconditional utilitarian-welfare guarantee and a conditional NSW guarantee. The proposed mechanism is stable against exogenous noise but not strategy-proof; we provide an explicit profitable misreport. On an agentic AI shoppin...
+
+---
+
+### [Decision-Relevant Information in Partially Observed Production Networks](https://arxiv.org/abs/2609.29905v1)
+*Shaowen Luo, Kwok Ping Tsang, Zichao Yang* — **arxiv**, 2026-09-24 — _Unclassified_
+
+A production network can remain largely unidentified even when the economic decision it supports is identified. We characterize sufficient measurements for exposure-based decisions and compute sharp maximum regret over networks consistent with released totals. Using earlier and later vintages of Japan's interregional input-output accounts, we select measurements from the 1995 table and evaluate the frozen design against the 2005 benchmark. At roughly half the statistics required for full disclosure, the resulting monitoring set loses only 0.07 percentage points of average exposure relative to ...
+
+---
+
+### [Complementary Information Sources](https://arxiv.org/abs/2609.29066v1)
+*Zichang Wang* — **arxiv**, 2026-09-24 — _Unclassified_
+
+A decision maker may have several information sources available and choose which one to consult only after learning the decision problem she faces. When is one such set of sources uniformly more valuable than another? For unrestricted Bayesian decision problems, we show that the answer can be stated entirely in terms of Blackwell comparisons. Form a tagged mixture by drawing a source independently of the state and revealing both its identity and its signal. One source set is more valuable in every decision problem if and only if each tagged mixture of the second source set is Blackwell dominat...
+
+---
+
 ### [Cursed Rationalizability](https://arxiv.org/abs/2609.28392v1)
 *Shani Cohen, Shengwu Li* — **arxiv**, 2026-09-23 — _Unclassified_
 
@@ -174,54 +201,28 @@ We study a continuous-time game in which two firms choose how quickly to advance
 
 ---
 
-### [When Trust Attracts Fraud: AI and Trust Arbitrage](https://arxiv.org/abs/2609.27404v1)
-*Xieyu Yin, Fenghua Wen* — **arxiv**, 2026-09-23 — _Unclassified_
-
-Trust can attract fraud when it delays verification. We develop a two-market signaling model in which generative AI lowers fabrication, verification, and targeting costs. When fabrication becomes profitable before verification, claim credibility first falls and later recovers. Across markets, higher prior quality can delay verification, creating an interval in which only the lower-quality market checks. If targeting becomes profitable in this interval, deceptive sellers enter the higher-quality but less vigilant market, and their entry can initially reverse its reliability advantage. The inflo...
-
----
-
-### [Credible AUctions via MPC Gadgets: Bounding Information Leakage Under Abort](https://arxiv.org/abs/2609.27402v1)
-*Matheus Venturyne Xavier Ferreira* — **arxiv**, 2026-09-23 — _Unclassified_
-
-The design of credible auctions---mechanisms where a revenue-maximizing auctioneer has no incentive to deviate from the protocol---faces a fundamental cryptographic barrier when the auctioneer controls shill bidders. While a natural approach is to use Secure Multi-Party Computation (MPC) to remove the trusted auctioneer, the impossibility of fair coin flipping of Cleve (1986) implies that monolithic MPC protocols grant the auctioneer a "free option": they can learn the auction's outcome and unilaterally abort if the revenue is unsatisfactory. Cryptographic commitments with ex-ante penalties mi...
-
----
-
-### [Singleton-Attainability and Transparent Access in Matching](https://arxiv.org/abs/2609.27293v1)
-*Szilvia Pápai* — **arxiv**, 2026-09-23 — _Unclassified_
-
-Matching mechanisms differ in how much of an agent's preference ranking must be determined and reported to obtain a particular object. A mechanism is singleton-attainable (SA) if every object that an agent can obtain through some report can also be obtained by reporting only that object as acceptable. With an SA mechanism, once an attainable object has been identified, the agent need not rank or report any other object. Singleton-attainability identifies a distinct dimension in matching theory and market design: transparent access to attainable outcomes, separate from incentives, stability, we...
-
----
-
-### [Target alignment, dilution and forecast selection when cross-sectional forecasts share a common target](https://arxiv.org/abs/2609.26303v1)
-*Masoud Soleimani* — **arxiv**, 2026-09-22 — _Unclassified_
-
-Forecasters often score the same units per date against one standardized realized outcome. We show that every standardized forecast splits exactly into a component aligned with this common target and a component uncorrelated with it. Three consequences follow: forecast-error correlation largely mirrors forecast correlation and is therefore a poor measure of diversity; an equally weighted combination beats a no-information forecast only when average alignment is large relative to the combination's dispersion; and the gain from adding a forecaster separates into genuine improvement and mere dilu...
-
----
-
-### [Strategy-proof choice on strictly convex frontiers](https://arxiv.org/abs/2609.26302v1)
-*Siwei Chen, Pengbo Wang* — **arxiv**, 2026-09-22 — _Unclassified_
-
-A collective rule must often choose a public outcome on a constrained boundary. We characterize truthful choice with diagonal unanimity on the entire boundary of any compact full-dimensional strictly convex body in finite dimension at least two. On the full domain of linear support preferences, ordinary individual strategy-proofness and diagonal unanimity force the rule to select one fixed participant's preferred point at every profile. The population is any fixed finite nonempty set. No Pareto condition, boundary smoothness, or continuity or measurability of the rule is assumed. If interior o...
-
----
-
-### [Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference](https://arxiv.org/abs/2609.25924v1)
-*Xinbing Kong, Zeyu Li, Junfan Mao, Bin Wu* — **arxiv**, 2026-09-22 — _Unclassified_
-
-Causal inference guides operational and managerial decisions but remains challenging in high-dimensional panel or tensor settings, where decisions may depend on the joint conditional distribution of missing control outcomes. We develop \emph{Counterfactual Tucker Diffusion} (\CFTDiff), which integrates the treatment mask and latent Tucker structure into conditional diffusion to recover this distribution given observed control outcomes through efficient nonlinear score learning in a low-dimensional core. The masked Tucker score preserves dependence across tensor modes while reducing the dimensi...
-
----
-
 ## method:DiD
+
+### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
+*Shoki Okubo* — **arxiv**, 2026-09-24 — _method:DiD_
+
+Panel conditioning, the causal effect of prior survey participation on responses, can vary with tenure. Under an additive model of cell means in period, entry cohort, and tenure, we characterize which features of the conditioning path a staggered panel identifies on its observed support, and how the unidentified component affects common panel estimators. The identified set of the path is an affine translate of the tenure projection of the cell design's kernel, and a linear functional of the path is identified exactly when it annihilates that projection. It always contains an affine direction a...
+
+---
 
 ### [Do Drug Consumption Rooms Reduce Drug-Related Hospitalizations? Evidence from Switzerland](https://arxiv.org/abs/2609.27732v1)
 *Ana Armendariz* — **arxiv**, 2026-09-23 — _method:DiD_
 
 This paper estimates the causal effect of drug consumption room (DCR) openings on drug-related hospitalizations in Switzerland. I exploit the staggered introduction of DCRs across Swiss cities between 1998 and 2022, using individual-level hospital records and a difference-in-differences estimator. DCR openings reduce drug-related hospitalization rates by roughly 35\% within 5 km of a facility. The reduction is most pronounced for fatal outcomes, which fall by 35\% while narcotics poisoning hospitalizations rise by a comparable amount, consistent with DCRs converting potentially fatal overdoses...
+
+---
+
+## method:Machine Learning
+
+### [Kernel Balancing in Tree-based Methods](https://arxiv.org/abs/2609.29440v1)
+*Karolina Gliszczyńska-Schroeder* — **arxiv**, 2026-09-24 — _method:Machine Learning, method:Propensity Score_
+
+Studying heterogeneous treatment effects has become essential in experimental and observational studies. A critical assumption for obtaining reliable treatment effect estimates is overlap, which requires that treated and control units have sufficiently similar covariate distributions. Poor overlap may limit the effectiveness of estimators, especially those based on propensity scores, potentially leading to unreliable results. We investigate the effectiveness of kernel balancing (KBal) (Hazlett, 2020) as an alternative to propensity score methods for conditional average treatment effect (CATE) ...
 
 ---
 
@@ -231,12 +232,5 @@ This paper estimates the causal effect of drug consumption room (DCR) openings o
 *Özgün Ekici, M. Bumin Yenmez* — **arxiv**, 2026-09-23 — _method:Theory_
 
 Matching theory has largely evolved around two canonical rules: deferred acceptance (DA) in the marriage problem and top trading cycles (TTC) in the object reallocation problem. Although the two rules operate through different procedures, we show that they rest on a common axiomatic foundation. In the marriage problem, stability decomposes into individual rationality and pair rationality, and a classic result characterizes DA by these two axioms together with strategy-proofness for the proposing side. We show that individual rationality, pair rationality, and strategy-proofness likewise charac...
-
----
-
-### [Contracting under Misspecification](https://arxiv.org/abs/2609.25590v1)
-*Florian Mudekereza* — **arxiv**, 2026-09-22 — _method:Theory_
-
-This paper studies agency problems when both parties worry that the model linking action to output is misspecified. With observable actions, an optimal contract is linear in output, so performance pay arises solely to share misspecification exposure, the slope reflects the parties' relative robustness concerns, and its allocation is Pareto efficient. With hidden actions, this sharing rule survives and incentives add a nonlinear correction. Misspecification concerns can polarize effort by making intermediate actions impossible to implement. Moreover, ambiguity across competing models has asymme...
 
 ---
