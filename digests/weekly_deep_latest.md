@@ -1,8 +1,17 @@
-# Weekly Deep-Reading Queue — week of 2026-09-25
+# Weekly Deep-Reading Queue — week of 2026-09-26
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Silence to Solidarity: How Communication about a Minority Affects Discrimination
+## 1. Why Is Intermediating Houses So Difficult? Evidence from iBuyers
+
+### [Why Is Intermediating Houses So Difficult? Evidence from iBuyers](https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R)
+*Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+## 2. Silence to Solidarity: How Communication about a Minority Affects Discrimination
 
 ### [Silence to Solidarity: How Communication about a Minority Affects Discrimination](https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R)
 *Duncan WebbNova School of Business and Economics* — **Journal of Political Economy**, 2026-09-22 — _Political Economy_
@@ -11,7 +20,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 2. Quota Mechanisms: Finite-Sample Optimality and Robustness
+## 3. Quota Mechanisms: Finite-Sample Optimality and Robustness
 
 ### [Quota Mechanisms: Finite-Sample Optimality and Robustness](https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R)
 *Ian BallDeniz KattwinkelMassachusetts Institute of TechnologyUniversity College London* — **Journal of Political Economy**, 2026-09-17 — _Political Economy_
@@ -20,7 +29,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 3. Regulatory Competition in the US Life Insurance Industry
+## 4. Regulatory Competition in the US Life Insurance Industry
 
 ### [Regulatory Competition in the US Life Insurance Industry](https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R)
 *Johnny TangCornell University* — **Journal of Political Economy**, 2026-09-15 — _Political Economy_
@@ -29,7 +38,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
+## 5. Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
 
 ### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
 *Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
@@ -38,7 +47,7 @@ AI-assisted job-search tools have become increasingly popular by making it easie
 
 ---
 
-## 5. Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X
+## 6. Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X
 
 ### [Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X](https://arxiv.org/abs/2609.28947v1)
 *Pan Li, Shuang Gao* — **arxiv**, 2026-09-24 — _Political Economy_
@@ -47,7 +56,7 @@ Misinformation is widely reported to propagate faster on engagement-based platfo
 
 ---
 
-## 6. Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation
+## 7. Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation
 
 ### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
 *Shoki Okubo* — **arxiv**, 2026-09-24 — _method:DiD_
@@ -56,20 +65,11 @@ Panel conditioning, the causal effect of prior survey participation on responses
 
 ---
 
-## 7. Kernel Balancing in Tree-based Methods
+## 8. A General Framework for Budgeted Threshold Incentives on Request
 
-### [Kernel Balancing in Tree-based Methods](https://arxiv.org/abs/2609.29440v1)
-*Karolina Gliszczyńska-Schroeder* — **arxiv**, 2026-09-24 — _method:Machine Learning, method:Propensity Score_
+### [A General Framework for Budgeted Threshold Incentives on Request](https://doi.org/10.48550/arxiv.2609.29724)
+*Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
-Studying heterogeneous treatment effects has become essential in experimental and observational studies. A critical assumption for obtaining reliable treatment effect estimates is overlap, which requires that treated and control units have sufficiently similar covariate distributions. Poor overlap may limit the effectiveness of estimators, especially those based on propensity scores, potentially leading to unreliable results. We investigate the effectiveness of kernel balancing (KBal) (Hazlett, 2020) as an alternative to propensity score methods for conditional average treatment effect (CATE) ...
-
----
-
-## 8. Don't Fake It If You Can't Make It: Driver Misconduct in Last-Mile Delivery
-
-### [Don't Fake It If You Can't Make It: Driver Misconduct in Last-Mile Delivery](https://arxiv.org/abs/2609.29080v1)
-*Srishti Arora, Vivek Choudhary, Pavel Kireyev* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Econometrics & Methods, method:IV_
-
-In the last two decades, last-mile delivery (LMD) firms have seen immense growth fueled by the success of e-commerce, leading to faster and cheaper deliveries. Operating on thin margins, LMD firms strive for successful first-time deliveries to avoid the financial and reputational costs of reattempts. Delivery Agents (DAs) are integral to LMD efficiency, influencing customer experience, delivery success, and productivity. However, most LMD performance enhancement research focuses on process, technology, and incentives, which presume workers will conform to procedures and monitoring tools will f...
+On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
 
 ---

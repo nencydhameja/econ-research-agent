@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-25
+# Economics Research Digest — 2026-09-26
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -35,28 +35,19 @@ In the last two decades, last-mile delivery (LMD) firms have seen immense growth
 
 ---
 
+### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://doi.org/10.48550/arxiv.2609.29346)
+*Norbert Ankri, Paı̈kan Marcaggi* — **openalex ssrn**, 2026-09-24 — _Business Economics & Innovation, Labor & Demographic Economics_
+
+We develop a dynamic three-sector model in which Marx's aggregate equalities (total price equals total value and total profit equals total surplus value) are treated as strict conservation constraints throughout capital reallocation and technical diffusion. Three price-value coefficients are determined by the two aggregate equalities and a closure that sets one sector's price-based profit rate equal to the contemporaneous value-based average (the anchor). Before innovation, capital inflow expands the receiving sector's output and, under both anchors, lowers its unit price and excess profitabil...
+
+---
+
 ## Econometrics & Methods
 
 ### [Generic Covariate Adjustment for Regression Discontinuity Designs](https://arxiv.org/abs/2609.29249v1)
 *Jun Ma, Yuya Sasaki, Zhengfei Yu* — **arxiv**, 2026-09-24 — _Econometrics & Methods, method:RDD_
 
 It is standard practice to include covariates in regression discontinuity designs (RDDs) and regression kink designs (RKDs), but the theoretical justification for doing so does not generally extend beyond linear estimands. This paper proposes a novel entropy balancing reweighting approach for covariate adjustment within a general framework of RDDs and RKDs. While conventional regression-based covariate adjustment methods generally fail to deliver consistent estimation for nonlinear estimands such as quantile treatment effects, our reweighting approach achieves consistency while improving effic...
-
----
-
-### [Testing for Heterogeneous Treatment Effects in Regression Discontinuity Designs](https://arxiv.org/abs/2609.27691v1)
-*Xiaojun Song, Haojiao Zhao* — **arxiv**, 2026-09-23 — _Econometrics & Methods, method:RDD_
-
-We propose a nonparametric test for unobserved treatment effect heterogeneity in regression discontinuity designs. Under the null of no unobserved heterogeneity, a transformed outcome that imputes treated potential outcomes for untreated units must have a continuous conditional distribution at the cutoff. We convert this implication into an integrated conditional-moment restriction using characteristic functions, thereby allowing the conditional local average treatment effect to be an unrestricted function of covariates. We derive the asymptotic distribution of the test statistics via a $U$-pr...
-
----
-
-## Financial Economics
-
-### [Sovereign Grassroots Currencies: A CBDC Architecture for Credit and Monetary Policy (Full Version)](https://arxiv.org/abs/2609.27727v2)
-*Ehud Shapiro* — **arxiv**, 2026-09-23 — _Financial Economics, Law & Economics, Macroeconomics_
-
-A Central Bank Digital Currency (CBDC) is central-bank money in digital form, held by the public. Leading designs have two limitations: conversion from bank deposits into CBDC can accelerate deposit flight, requiring safeguards, and the CBDC stays outside credit creation and monetary-policy operations. Here we present a CBDC architecture based on grassroots currencies that overcomes these limitations. The architecture has three components: (1) Money: sovereign grassroots coins, which are digital debts of one unit of fiat currency issued by the central bank, constituting a direct CBDC; (2) Cred...
 
 ---
 
@@ -70,6 +61,13 @@ We study the computational complexity of peak-oriented rationalizability, a surv
 ---
 
 ## Political Economy
+
+### [Why Is Intermediating Houses So Difficult? Evidence from iBuyers](https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R)
+*Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
 
 ### [Silence to Solidarity: How Communication about a Minority Affects Discrimination](https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R)
 *Duncan WebbNova School of Business and Economics* — **Journal of Political Economy**, 2026-09-22 — _Political Economy_
@@ -115,34 +113,6 @@ Misinformation is widely reported to propagate faster on engagement-based platfo
 
 ---
 
-### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/743795?af=R)
-** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 8, Page Inside front cover-i, August 2026.
-
----
-
-### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/743444?af=R)
-** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 8, Page 2555-2555, August 2026.
-
----
-
-### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/743796?af=R)
-** — **Journal of Political Economy**, 2026-08-26 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 8, Page Inside back cover-Inside back cover, August 2026.
-
----
-
-### [A Reverse War of Attrition](https://arxiv.org/abs/2609.28178v1)
-*Kazimierz Stańczak, Pawel Struski* — **arxiv**, 2026-09-23 — _Political Economy_
-
-We formulate a complete-information two-player strategic timing game that we refer to as the reverse war of attrition (RWoA). Waiting yields a strictly positive current rent, and the player that outwaits its rival may earn an even higher flow. However, remaining in the waiting state when the rival has moved triggers a discrete late-mover penalty. The distinctive primitive is a player-owned productive buffer which enables the rent-generating activity while waiting, but is degraded by this activity. A rival's move can raise the waiting rent and accelerate depletion. We characterize a unique symm...
-
----
-
 ## Unclassified
 
 ### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
@@ -180,24 +150,59 @@ A decision maker may have several information sources available and choose which
 
 ---
 
-### [Cursed Rationalizability](https://arxiv.org/abs/2609.28392v1)
-*Shani Cohen, Shengwu Li* — **arxiv**, 2026-09-23 — _Unclassified_
+### [Unit commitment constrained Nash equilibrium in power markets](https://doi.org/10.48550/arxiv.2609.29404)
+*Trine Krogh Boomsma, Mel T. Devine, Miguel F. Anjos* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
-Cursed players understand the distribution of opponents' actions and the distribution of the payoff-relevant state, conditional on their own information, but respond as if the two were independent. Cursed equilibrium additionally requires statistically correct beliefs about the distribution of play. We propose a solution concept that separates the bias from equilibrium: cursed rationalizability iteratively deletes every action that is not a cursed response to a conjecture about opponents' surviving play. The cursed-rationalizable set is the interim correlated rationalizable set of a virtual ga...
-
----
-
-### [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](https://arxiv.org/abs/2609.28372v1)
-*Davood Wadi, Yu Ma* — **arxiv**, 2026-09-23 — _Unclassified_
-
-Consumers increasingly delegate purchasing decisions to Large Language Models (LLMs) acting as surrogate consumers. Using "Tool-Lab," an adaptation of information-board process tracing that places product attributes behind costly tool calls, we examine how marketing pricing cues (i.e., just-below pricing and promotional framing) influence AI shopping agents. Across eight commercially deployed LLMs from three providers, we trace pre-choice information acquisition. Under zero cost, pricing cues rarely mislead. Imposing acquisition costs under a vague goal prompt leads LLMs to omit diagnostic att...
+Equilibrium modeling for power markets usually assumes convexity of each players' optimization problem. Although the importance of accounting for fixed generation costs and start-up costs, minimum generation levels and/or minimum up-time and down-time restrictions in production scheduling is widely acknowledged, such modeling does not allow for discrete decisions. This paper considers unit commitment constrained Nash equilibria. First, we derive novel optimality conditions tailored for the mixed-integer convex programming problem of joint unit commitment and economic dispatch of a self-schedul...
 
 ---
 
-### [Cooperating against Catastrophe](https://arxiv.org/abs/2609.28291v1)
-*Drew Fudenberg, Andrew Koh* — **arxiv**, 2026-09-23 — _Unclassified_
+### [A General Framework for Budgeted Threshold Incentives on Request](https://doi.org/10.48550/arxiv.2609.29724)
+*Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
-We study a continuous-time game in which two firms choose how quickly to advance their capabilities while an exogenous safety threshold advances at a fixed rate. When the capability frontier (max of firms' capabilities) exceeds the safety threshold, all firms are exposed to common disaster that arrives at a hazard rate increasing in the capability-safety difference. We characterize Markov perfect equilibria in terms of the disaster risk, how quickly safety advances, and flow payoffs: when they are low, only racing is an equilibrium; when they are intermediate, racing and pacing coexist; when t...
+On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
+
+---
+
+### [Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](https://doi.org/10.48550/arxiv.2609.29095)
+*Jiapeng Li* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+When a tool-using agent's write times out or returns a server error, the action may already have taken effect. Retrying blindly duplicates it -- a second charge, a second announcement, a second deployment -- while giving up skips required work. We ask where exactly-once behaviour should be enforced: in the model, in the agent harness, or in the tool contract. We introduce LIMBO, a deterministic sandbox of six services with realistic contracts (optional idempotency keys, eventually consistent and missing read paths) and twelve fault modes injected at the service boundary, including late commits...
+
+---
+
+### [Improved Revenue Guarantees for Selling Separately and Bundling](https://doi.org/10.48550/arxiv.2609.28873)
+*Yang Cai, Vineet Gupta, Yanchen Jiang, Chris Liaw et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+We study how much revenue a seller can lose by restricting attention to selling separately or grand bundling, in the setting of a single additive buyer with independent item values. Although revenue-optimal mechanisms can require lotteries and infinite menus, Babaioff, Immorlica, Lucier, and Weinberg showed that the better of these two simple formats always achieves a constant fraction of optimal revenue. We prove that $\mathrm{OPT} \le 3.52 \max\{\mathrm{SREV}, \mathrm{BREV}\}$, where $\mathrm{SREV}$ and $\mathrm{BREV}$ are the optimal revenues from selling separately and grand bundling, resp...
+
+---
+
+### [Downside-Controlled Online Forecast Combination under Delayed and Revised Outcomes](https://doi.org/10.48550/arxiv.2609.29096)
+*Minkyoung Kim, Hyunjung Byun, Yohan Lee, Beakcheol Jang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+Post-hoc correction adjusts a forecaster that cannot be retrained, such as a foundation model, but a correction fitted where errors are stable can hurt where they shift. We aim for downside control: not much worse than the starting forecast. We combine the frozen forecaster, a static corrector and an online corrector on the simplex, using only losses that mature after the horizon. Across seven benchmarks and four base models, two of them foundation models, the worst deterioration over 28 pairs at the main horizon is 0.15% and gains reach 11.5%. On day-ahead load for seven European bidding zone...
+
+---
+
+### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://doi.org/10.48550/arxiv.2609.30058)
+*Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
+
+---
+
+### [When Does Action Credit Need Updating?](https://doi.org/10.48550/arxiv.2609.29007)
+*Hongye Yang, Boxiao Huang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+Tool-using agents are continually updated with new interaction data. After each policy update, however, previously estimated action credits may become stale. Recomputing them from scratch can require many additional tool calls and environment interactions, making repeated updates increasingly expensive. We ask a simple question: when does historical action credit actually need to be updated? Our key observation is that a change in action value does not necessarily imply a change in the decision. Historical credit can still be useful as long as policy-induced drift is too small to overturn the ...
+
+---
+
+### [The Conversation Turns First: Crowd Discussion and Price Reversals in Prediction Markets](https://doi.org/10.48550/arxiv.2609.28965)
+*Omneya Sultan, Fred Morstatter* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+
+Prediction markets combine trading with public discussion of the same events. We examine whether comment-derived signals predict subsequent activity, buying direction, and changes in the leading outcome. A correlation sweep across 79 non-political Polymarket markets guides six classification experiments comparing comment features, trading features, and their combinations. On live blocks containing comments, attention nearly matches trading history in predicting heavy trading within 18 hours (PR-AUC 0.786 versus 0.790, against prevalence 0.606), with its relative advantage concentrated in short...
 
 ---
 
@@ -210,13 +215,6 @@ Panel conditioning, the causal effect of prior survey participation on responses
 
 ---
 
-### [Do Drug Consumption Rooms Reduce Drug-Related Hospitalizations? Evidence from Switzerland](https://arxiv.org/abs/2609.27732v1)
-*Ana Armendariz* — **arxiv**, 2026-09-23 — _method:DiD_
-
-This paper estimates the causal effect of drug consumption room (DCR) openings on drug-related hospitalizations in Switzerland. I exploit the staggered introduction of DCRs across Swiss cities between 1998 and 2022, using individual-level hospital records and a difference-in-differences estimator. DCR openings reduce drug-related hospitalization rates by roughly 35\% within 5 km of a facility. The reduction is most pronounced for fatal outcomes, which fall by 35\% while narcotics poisoning hospitalizations rise by a comparable amount, consistent with DCRs converting potentially fatal overdoses...
-
----
-
 ## method:Machine Learning
 
 ### [Kernel Balancing in Tree-based Methods](https://arxiv.org/abs/2609.29440v1)
@@ -226,11 +224,11 @@ Studying heterogeneous treatment effects has become essential in experimental an
 
 ---
 
-## method:Theory
+## method:Natural Experiment
 
-### [Minimally rational reallocation of objects](https://arxiv.org/abs/2609.28174v1)
-*Özgün Ekici, M. Bumin Yenmez* — **arxiv**, 2026-09-23 — _method:Theory_
+### [Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes](https://doi.org/10.48550/arxiv.2609.29952)
+*Rahul Khedar, Mayank Malhotra, Avinash Karn* — **openalex ssrn**, 2026-09-24 — _method:Natural Experiment_
 
-Matching theory has largely evolved around two canonical rules: deferred acceptance (DA) in the marriage problem and top trading cycles (TTC) in the object reallocation problem. Although the two rules operate through different procedures, we show that they rest on a common axiomatic foundation. In the marriage problem, stability decomposes into individual rationality and pair rationality, and a classic result characterizes DA by these two axioms together with strategy-proofness for the proposing side. We show that individual rationality, pair rationality, and strategy-proofness likewise charac...
+Before a product or policy change ships, the question that matters is how people will react to it. Augur rehearses that reaction offline: it builds a typed knowledge graph from the change documents, populates a grounded persona market, simulates the interaction, and returns an auditable decision memo recommending one of five actions. We assemble Gold-50, fifty real product and policy episodes whose real-world outcome is known, adjudicated against the public record, and score the five-way release verdict against it. Our central finding is methodological and negative: most of the measured gap be...
 
 ---
