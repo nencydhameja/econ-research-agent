@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-09-26
+# Economics Research Digest — 2026-09-27
 
 Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
@@ -35,7 +35,7 @@ In the last two decades, last-mile delivery (LMD) firms have seen immense growth
 
 ---
 
-### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://doi.org/10.48550/arxiv.2609.29346)
+### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://arxiv.org/abs/2609.29346)
 *Norbert Ankri, Paı̈kan Marcaggi* — **openalex ssrn**, 2026-09-24 — _Business Economics & Innovation, Labor & Demographic Economics_
 
 We develop a dynamic three-sector model in which Marx's aggregate equalities (total price equals total value and total profit equals total surplus value) are treated as strict conservation constraints throughout capital reallocation and technical diffusion. Three price-value coefficients are determined by the two aggregate equalities and a closure that sets one sector's price-based profit rate equal to the contemporaneous value-based average (the anchor). Before innovation, capital inflow expands the receiving sector's output and, under both anchors, lowers its unit price and excess profitabil...
@@ -150,56 +150,56 @@ A decision maker may have several information sources available and choose which
 
 ---
 
-### [Unit commitment constrained Nash equilibrium in power markets](https://doi.org/10.48550/arxiv.2609.29404)
+### [Unit commitment constrained Nash equilibrium in power markets](https://arxiv.org/abs/2609.29404)
 *Trine Krogh Boomsma, Mel T. Devine, Miguel F. Anjos* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 Equilibrium modeling for power markets usually assumes convexity of each players' optimization problem. Although the importance of accounting for fixed generation costs and start-up costs, minimum generation levels and/or minimum up-time and down-time restrictions in production scheduling is widely acknowledged, such modeling does not allow for discrete decisions. This paper considers unit commitment constrained Nash equilibria. First, we derive novel optimality conditions tailored for the mixed-integer convex programming problem of joint unit commitment and economic dispatch of a self-schedul...
 
 ---
 
-### [A General Framework for Budgeted Threshold Incentives on Request](https://doi.org/10.48550/arxiv.2609.29724)
+### [A General Framework for Budgeted Threshold Incentives on Request](https://arxiv.org/abs/2609.29724)
 *Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
 
 ---
 
-### [Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](https://doi.org/10.48550/arxiv.2609.29095)
+### [Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](https://arxiv.org/abs/2609.29095)
 *Jiapeng Li* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 When a tool-using agent's write times out or returns a server error, the action may already have taken effect. Retrying blindly duplicates it -- a second charge, a second announcement, a second deployment -- while giving up skips required work. We ask where exactly-once behaviour should be enforced: in the model, in the agent harness, or in the tool contract. We introduce LIMBO, a deterministic sandbox of six services with realistic contracts (optional idempotency keys, eventually consistent and missing read paths) and twelve fault modes injected at the service boundary, including late commits...
 
 ---
 
-### [Improved Revenue Guarantees for Selling Separately and Bundling](https://doi.org/10.48550/arxiv.2609.28873)
+### [Improved Revenue Guarantees for Selling Separately and Bundling](https://arxiv.org/abs/2609.28873)
 *Yang Cai, Vineet Gupta, Yanchen Jiang, Chris Liaw et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 We study how much revenue a seller can lose by restricting attention to selling separately or grand bundling, in the setting of a single additive buyer with independent item values. Although revenue-optimal mechanisms can require lotteries and infinite menus, Babaioff, Immorlica, Lucier, and Weinberg showed that the better of these two simple formats always achieves a constant fraction of optimal revenue. We prove that $\mathrm{OPT} \le 3.52 \max\{\mathrm{SREV}, \mathrm{BREV}\}$, where $\mathrm{SREV}$ and $\mathrm{BREV}$ are the optimal revenues from selling separately and grand bundling, resp...
 
 ---
 
-### [Downside-Controlled Online Forecast Combination under Delayed and Revised Outcomes](https://doi.org/10.48550/arxiv.2609.29096)
+### [Downside-Controlled Online Forecast Combination under Delayed and Revised Outcomes](https://arxiv.org/abs/2609.29096)
 *Minkyoung Kim, Hyunjung Byun, Yohan Lee, Beakcheol Jang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 Post-hoc correction adjusts a forecaster that cannot be retrained, such as a foundation model, but a correction fitted where errors are stable can hurt where they shift. We aim for downside control: not much worse than the starting forecast. We combine the frozen forecaster, a static corrector and an online corrector on the simplex, using only losses that mature after the horizon. Across seven benchmarks and four base models, two of them foundation models, the worst deterioration over 28 pairs at the main horizon is 0.15% and gains reach 11.5%. On day-ahead load for seven European bidding zone...
 
 ---
 
-### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://doi.org/10.48550/arxiv.2609.30058)
+### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058)
 *Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
 
 ---
 
-### [When Does Action Credit Need Updating?](https://doi.org/10.48550/arxiv.2609.29007)
+### [When Does Action Credit Need Updating?](https://arxiv.org/abs/2609.29007)
 *Hongye Yang, Boxiao Huang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 Tool-using agents are continually updated with new interaction data. After each policy update, however, previously estimated action credits may become stale. Recomputing them from scratch can require many additional tool calls and environment interactions, making repeated updates increasingly expensive. We ask a simple question: when does historical action credit actually need to be updated? Our key observation is that a change in action value does not necessarily imply a change in the decision. Historical credit can still be useful as long as policy-induced drift is too small to overturn the ...
 
 ---
 
-### [The Conversation Turns First: Crowd Discussion and Price Reversals in Prediction Markets](https://doi.org/10.48550/arxiv.2609.28965)
+### [The Conversation Turns First: Crowd Discussion and Price Reversals in Prediction Markets](https://arxiv.org/abs/2609.28965)
 *Omneya Sultan, Fred Morstatter* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 Prediction markets combine trading with public discussion of the same events. We examine whether comment-derived signals predict subsequent activity, buying direction, and changes in the leading outcome. A correlation sweep across 79 non-political Polymarket markets guides six classification experiments comparing comment features, trading features, and their combinations. On live blocks containing comments, attention nearly matches trading history in predicting heavy trading within 18 hours (PR-AUC 0.786 versus 0.790, against prevalence 0.606), with its relative advantage concentrated in short...
@@ -226,7 +226,7 @@ Studying heterogeneous treatment effects has become essential in experimental an
 
 ## method:Natural Experiment
 
-### [Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes](https://doi.org/10.48550/arxiv.2609.29952)
+### [Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes](https://arxiv.org/abs/2609.29952)
 *Rahul Khedar, Mayank Malhotra, Avinash Karn* — **openalex ssrn**, 2026-09-24 — _method:Natural Experiment_
 
 Before a product or policy change ships, the question that matters is how people will react to it. Augur rehearses that reaction offline: it builds a typed knowledge graph from the change documents, populates a grounded persona market, simulates the interaction, and returns an auditable decision memo recommending one of five actions. We assemble Gold-50, fifty real product and policy episodes whose real-world outcome is known, adjudicated against the public record, and score the five-way release verdict against it. Our central finding is methodological and negative: most of the measured gap be...

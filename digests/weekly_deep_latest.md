@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-26
+# Weekly Deep-Reading Queue — week of 2026-09-27
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -67,7 +67,7 @@ Panel conditioning, the causal effect of prior survey participation on responses
 
 ## 8. A General Framework for Budgeted Threshold Incentives on Request
 
-### [A General Framework for Budgeted Threshold Incentives on Request](https://doi.org/10.48550/arxiv.2609.29724)
+### [A General Framework for Budgeted Threshold Incentives on Request](https://arxiv.org/abs/2609.29724)
 *Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
 
 On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
