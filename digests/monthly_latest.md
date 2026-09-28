@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-09-27
+# Economics Research Digest — 2026-09-28
 
 Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
 
@@ -13,6 +13,20 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ## Business Economics & Innovation
+
+### [Tolerable Inflation, Intolerable Uncertainty](https://arxiv.org/abs/2609.31512v1)
+*Eric Vansteenberghe* — **arxiv**, 2026-09-25 — _Business Economics & Innovation, Macroeconomics_
+
+Numerical inflation targets anchor beliefs. Across euro-area and US professional forecasts, inflation swaps and options, and realized inflation, uncertainty about inflation is compressed at the announced number and kinks exactly there. This paper identifies a cost of the same design that, to our knowledge, has not been shown before, and that appears in second moments only. Within the workhorse New Keynesian model, tolerating part of the inflation a supply shock produces is optimal, yet the optimal tolerated share is not identified: optimal look-through and an unwarranted drift of the effective...
+
+---
+
+### [Catch-Up and Come Home: Economic Convergence and Return Migration](https://arxiv.org/abs/2609.31236v1)
+*Kinga Varga, Bence Kollányi, Johannes Wachs* — **arxiv**, 2026-09-25 — _Business Economics & Innovation_
+
+The return migration of skilled workers provides origin countries many important benefits. The likelihood of return migration is thought to depend on relative economic opportunities, but quantitative evidence of its relative importance remains limited. Here we measure return migration rates using the public profiles of software developers on GitHub, geocoded across ten waves between 2012 and 2026, in a panel containing more than 270,000 international movers. Within five years of departure, 8.8% of movers have returned. Origin-country rates range from under 1\% to 16\%. Hazard models with corri...
+
+---
 
 ### [First as Tragedy? Second as What? Estimating Dynamic Effects of Recurrent Events](https://arxiv.org/abs/2609.30007v1)
 *Agnes Norris Keiller* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Health, Education & Welfare, method:DiD_
@@ -35,19 +49,21 @@ In the last two decades, last-mile delivery (LMD) firms have seen immense growth
 
 ---
 
-### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://arxiv.org/abs/2609.29346)
-*Norbert Ankri, Paı̈kan Marcaggi* — **openalex ssrn**, 2026-09-24 — _Business Economics & Innovation, Labor & Demographic Economics_
-
-We develop a dynamic three-sector model in which Marx's aggregate equalities (total price equals total value and total profit equals total surplus value) are treated as strict conservation constraints throughout capital reallocation and technical diffusion. Three price-value coefficients are determined by the two aggregate equalities and a closure that sets one sector's price-based profit rate equal to the contemporaneous value-based average (the anchor). Before innovation, capital inflow expands the receiving sector's output and, under both anchors, lowers its unit price and excess profitabil...
-
----
-
 ## Econometrics & Methods
 
 ### [Generic Covariate Adjustment for Regression Discontinuity Designs](https://arxiv.org/abs/2609.29249v1)
 *Jun Ma, Yuya Sasaki, Zhengfei Yu* — **arxiv**, 2026-09-24 — _Econometrics & Methods, method:RDD_
 
 It is standard practice to include covariates in regression discontinuity designs (RDDs) and regression kink designs (RKDs), but the theoretical justification for doing so does not generally extend beyond linear estimands. This paper proposes a novel entropy balancing reweighting approach for covariate adjustment within a general framework of RDDs and RKDs. While conventional regression-based covariate adjustment methods generally fail to deliver consistent estimation for nonlinear estimands such as quantile treatment effects, our reweighting approach achieves consistency while improving effic...
+
+---
+
+## International Economics
+
+### [PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents](https://arxiv.org/abs/2609.31468v1)
+*Pavel Kireyev* — **arxiv**, 2026-09-25 — _International Economics_
+
+LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We introduce PriceBench, a diagnostic benchmark that recovers an LLM's price, quality, and brand preferences from its booking choices with a logit choice model, applied to 28 LLMs from 8 providers on 3,600 hotel tasks from 179 real New York City properties. We...
 
 ---
 
@@ -115,6 +131,27 @@ Misinformation is widely reported to propagate faster on engagement-based platfo
 
 ## Unclassified
 
+### [Orthogonal Moments in Likelihood Models](https://arxiv.org/abs/2609.31561v1)
+*Stéphane Bonhomme, Koen Jochmans, Martin Weidner* — **arxiv**, 2026-09-25 — _Unclassified_
+
+Many models, such as fixed-effect models for panel or network data, are hard to estimate because they feature nuisance parameters that are both numerous and estimated imprecisely. This, in general, causes an incidental-parameter problem in the estimator of the parameters of interest. The problem can be alleviated by working with an estimating equation whose expectation is insensitive to the value of the nuisance parameters. We discuss and contrast three notions of insensitivity, also called orthogonality, in the context of likelihood models: Neyman orthogonality, Neyman orthogonality to order ...
+
+---
+
+### [Prior-Free Delegation](https://arxiv.org/abs/2609.31529v1)
+*Terrence McGovern, Jan Benedikt Napp, Wenjun Zheng* — **arxiv**, 2026-09-25 — _Unclassified_
+
+We consider a robust delegation problem in which the principal does not know the distribution from which the underlying state is drawn. The principal can choose a general randomized mechanism and maximizes her worst-case expected payoff over all state distributions. Our main result characterizes the robustly optimal mechanism. The mechanism has up to three regions: (i) accommodation, where the agent's ideal action is taken, (ii) calibrated randomization, where each type receives a distinct lottery, and (iii) pooling, where all types receive the same lottery. We then extend our model to a multi...
+
+---
+
+### [Improved Bootstrap Inference for Dynamic Panel Data models with Interactive Effects](https://arxiv.org/abs/2609.31442v1)
+*Arturas Juodis, Ovidijus Stauskas, Sander Tromp* — **arxiv**, 2026-09-25 — _Unclassified_
+
+We study recursive-design wild bootstrap inference for dynamic panel data models with unobserved common factors estimated by Common Correlated Effects. In the large N,T setting, the bootstrap reproduces the biased limiting distribution in pure autoregressive models, but fails to capture all bias and factor-estimation variance components in models with additional regressors, particularly under weak exogeneity. We trace this failure to holding regressors fixed across bootstrap replications. We propose to combine bootstrap procedure with available bias-correction methods to conduct adjusted infer...
+
+---
+
 ### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
 *Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
 
@@ -178,34 +215,6 @@ We study how much revenue a seller can lose by restricting attention to selling 
 
 ---
 
-### [Downside-Controlled Online Forecast Combination under Delayed and Revised Outcomes](https://arxiv.org/abs/2609.29096)
-*Minkyoung Kim, Hyunjung Byun, Yohan Lee, Beakcheol Jang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-Post-hoc correction adjusts a forecaster that cannot be retrained, such as a foundation model, but a correction fitted where errors are stable can hurt where they shift. We aim for downside control: not much worse than the starting forecast. We combine the frozen forecaster, a static corrector and an online corrector on the simplex, using only losses that mature after the horizon. Across seven benchmarks and four base models, two of them foundation models, the worst deterioration over 28 pairs at the main horizon is 0.15% and gains reach 11.5%. On day-ahead load for seven European bidding zone...
-
----
-
-### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058)
-*Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
-
----
-
-### [When Does Action Credit Need Updating?](https://arxiv.org/abs/2609.29007)
-*Hongye Yang, Boxiao Huang* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-Tool-using agents are continually updated with new interaction data. After each policy update, however, previously estimated action credits may become stale. Recomputing them from scratch can require many additional tool calls and environment interactions, making repeated updates increasingly expensive. We ask a simple question: when does historical action credit actually need to be updated? Our key observation is that a change in action value does not necessarily imply a change in the decision. Historical credit can still be useful as long as policy-induced drift is too small to overturn the ...
-
----
-
-### [The Conversation Turns First: Crowd Discussion and Price Reversals in Prediction Markets](https://arxiv.org/abs/2609.28965)
-*Omneya Sultan, Fred Morstatter* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-Prediction markets combine trading with public discussion of the same events. We examine whether comment-derived signals predict subsequent activity, buying direction, and changes in the leading outcome. A correlation sweep across 79 non-political Polymarket markets guides six classification experiments comparing comment features, trading features, and their combinations. On live blocks containing comments, attention nearly matches trading history in predicting heavy trading within 18 hours (PR-AUC 0.786 versus 0.790, against prevalence 0.606), with its relative advantage concentrated in short...
-
----
-
 ## method:DiD
 
 ### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
@@ -221,14 +230,5 @@ Panel conditioning, the causal effect of prior survey participation on responses
 *Karolina Gliszczyńska-Schroeder* — **arxiv**, 2026-09-24 — _method:Machine Learning, method:Propensity Score_
 
 Studying heterogeneous treatment effects has become essential in experimental and observational studies. A critical assumption for obtaining reliable treatment effect estimates is overlap, which requires that treated and control units have sufficiently similar covariate distributions. Poor overlap may limit the effectiveness of estimators, especially those based on propensity scores, potentially leading to unreliable results. We investigate the effectiveness of kernel balancing (KBal) (Hazlett, 2020) as an alternative to propensity score methods for conditional average treatment effect (CATE) ...
-
----
-
-## method:Natural Experiment
-
-### [Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes](https://arxiv.org/abs/2609.29952)
-*Rahul Khedar, Mayank Malhotra, Avinash Karn* — **openalex ssrn**, 2026-09-24 — _method:Natural Experiment_
-
-Before a product or policy change ships, the question that matters is how people will react to it. Augur rehearses that reaction offline: it builds a typed knowledge graph from the change documents, populates a grounded persona market, simulates the interaction, and returns an auditable decision memo recommending one of five actions. We assemble Gold-50, fifty real product and policy episodes whose real-world outcome is known, adjudicated against the public record, and score the five-way release verdict against it. Our central finding is methodological and negative: most of the measured gap be...
 
 ---

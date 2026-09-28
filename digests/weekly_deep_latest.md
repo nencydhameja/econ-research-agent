@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-27
+# Weekly Deep-Reading Queue — week of 2026-09-28
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -38,7 +38,16 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 5. Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
+## 5. Tolerable Inflation, Intolerable Uncertainty
+
+### [Tolerable Inflation, Intolerable Uncertainty](https://arxiv.org/abs/2609.31512v1)
+*Eric Vansteenberghe* — **arxiv**, 2026-09-25 — _Business Economics & Innovation, Macroeconomics_
+
+Numerical inflation targets anchor beliefs. Across euro-area and US professional forecasts, inflation swaps and options, and realized inflation, uncertainty about inflation is compressed at the announced number and kinks exactly there. This paper identifies a cost of the same design that, to our knowledge, has not been shown before, and that appears in second moments only. Within the workhorse New Keynesian model, tolerating part of the inflation a supply shock produces is optimal, yet the optimal tolerated share is not identified: optimal look-through and an unwarranted drift of the effective...
+
+---
+
+## 6. Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
 
 ### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
 *Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
@@ -47,7 +56,7 @@ AI-assisted job-search tools have become increasingly popular by making it easie
 
 ---
 
-## 6. Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X
+## 7. Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X
 
 ### [Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X](https://arxiv.org/abs/2609.28947v1)
 *Pan Li, Shuang Gao* — **arxiv**, 2026-09-24 — _Political Economy_
@@ -56,20 +65,11 @@ Misinformation is widely reported to propagate faster on engagement-based platfo
 
 ---
 
-## 7. Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation
+## 8. Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation
 
 ### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
 *Shoki Okubo* — **arxiv**, 2026-09-24 — _method:DiD_
 
 Panel conditioning, the causal effect of prior survey participation on responses, can vary with tenure. Under an additive model of cell means in period, entry cohort, and tenure, we characterize which features of the conditioning path a staggered panel identifies on its observed support, and how the unidentified component affects common panel estimators. The identified set of the path is an affine translate of the tenure projection of the cell design's kernel, and a linear functional of the path is identified exactly when it annihilates that projection. It always contains an affine direction a...
-
----
-
-## 8. A General Framework for Budgeted Threshold Incentives on Request
-
-### [A General Framework for Budgeted Threshold Incentives on Request](https://arxiv.org/abs/2609.29724)
-*Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
 
 ---
