@@ -50,7 +50,7 @@ We study information aggregation in the networked learning model introduced by K
 ## 6. Representation Risk in Pretrained Image Encoders
 
 ### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
-*Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
+*Ardyn Nordstrom, Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
 
 Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
 

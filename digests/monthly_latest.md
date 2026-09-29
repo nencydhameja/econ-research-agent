@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-09-29
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 12 fields · drawn from 3 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -25,13 +25,6 @@ This paper develops a theory of accommodation traps in workplace hierarchies. Wo
 *Jie Gong, Jiayi Hou, Jin Li, Fei Pu et al.* — **arxiv**, 2026-09-26 — _Business Economics & Innovation_
 
 We study gaming and adaptive incentive design in AI adoption. A large medical-device company required roughly 5,000 employees to submit at least 200 queries per month to an internal AI assistant. First-time use increased significantly after the mandate, but usage patterns suggested gaming: query counts bunched at the threshold, and 31 percent of queries were repeated or off-task. The firm subsequently revised incentive design and lowered the target to 100. Using staggered implementation across branches, we estimate that the adjustment reduced query volume by 30 percent, with repeated or off-ta...
-
----
-
-### [Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting and Social Automation Funds](https://arxiv.org/abs/2609.32476v1)
-*Toqeer Ali Syed, Ali Akarma, Adeel Ahmad, Muhammad Umair Younus* — **arxiv**, 2026-09-26 — _Business Economics & Innovation, Law & Economics, Public Economics, Urban, Rural & Regional Economics_
-
-Contemporary fiscal architectures rely overwhelmingly on human labor income and payroll withholdings to finance social insurance and public infrastructure. The rapid diffusion of autonomous software agents, generative foundation models, and embodied robotic systems decouples output growth from human work hours, eroding traditional tax bases while exacerbating capital-income concentration. Prevailing policy proposals, ranging from uniform robot levies to unconditional cash transfers, fail to resolve three foundational challenges: attributing economic value across mixed human-machine workflows, ...
 
 ---
 
@@ -150,7 +143,7 @@ We study information aggregation in the networked learning model introduced by K
 ---
 
 ### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
-*Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
+*Ardyn Nordstrom, Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
 
 Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
 
@@ -209,6 +202,15 @@ Market microstructure studies how trading rules turn orders into prices and allo
 *Samiha Tariq* — **arxiv**, 2026-09-26 — _Unclassified_
 
 A small share of online creators earn fortunes while most earn almost nothing. What separates them: skill, luck, or copying what works? This paper measures what YouTube vloggers actually produce: 3,728 thumbnails, 385 hours of speech (2.9 million words), and video titles and tags, linked to complete view histories of 56,419 videos. Its central sample follows channels from their first upload, including the many that never took off, which most creator statistics miss. The data show that what goes into a video does not predict its success: 36 measures of images, speech and text explain at most 1....
+
+---
+
+## method:DiD
+
+### [Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference](https://arxiv.org/abs/2602.07046)
+*Murad Farzulla* — **openalex ssrn**, 2026-09-28 — _method:DiD_
+
+Version 5.0.0 — replication package for the Digital Finance version. This version contains the code, data and stored numerical outputs of the final production version (revision 8, 3 September 2026) of the article Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference, forthcoming in Digital Finance (Springer). It is the source of record for every number in that article; earlier versions of this record carry preprint-stage results and should not be used to reproduce it. Contents. crypto-event-study-v5.0.0.zip is...
 
 ---
 
