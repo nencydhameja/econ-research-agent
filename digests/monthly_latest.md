@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-28
+# Economics Research Digest — 2026-09-29
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -14,65 +14,83 @@ Journal of Political Economy, Ahead of Print.
 
 ## Business Economics & Innovation
 
-### [Tolerable Inflation, Intolerable Uncertainty](https://arxiv.org/abs/2609.31512v1)
-*Eric Vansteenberghe* — **arxiv**, 2026-09-25 — _Business Economics & Innovation, Macroeconomics_
+### [The Accommodation Trap: Survival Dependence, Communication, and the Allocation of Invisible Work](https://arxiv.org/abs/2609.33064v1)
+*Samiha Tariq* — **arxiv**, 2026-09-27 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics_
 
-Numerical inflation targets anchor beliefs. Across euro-area and US professional forecasts, inflation swaps and options, and realized inflation, uncertainty about inflation is compressed at the announced number and kinks exactly there. This paper identifies a cost of the same design that, to our knowledge, has not been shown before, and that appears in second moments only. Within the workhorse New Keynesian model, tolerating part of the inflation a supply shock produces is optimal, yet the optimal tolerated share is not identified: optimal look-through and an unwarranted drift of the effective...
-
----
-
-### [Catch-Up and Come Home: Economic Convergence and Return Migration](https://arxiv.org/abs/2609.31236v1)
-*Kinga Varga, Bence Kollányi, Johannes Wachs* — **arxiv**, 2026-09-25 — _Business Economics & Innovation_
-
-The return migration of skilled workers provides origin countries many important benefits. The likelihood of return migration is thought to depend on relative economic opportunities, but quantitative evidence of its relative importance remains limited. Here we measure return migration rates using the public profiles of software developers on GitHub, geocoded across ten waves between 2012 and 2026, in a panel containing more than 270,000 international movers. Within five years of departure, 8.8% of movers have returned. Origin-country rates range from under 1\% to 16\%. Hazard models with corri...
+This paper develops a theory of accommodation traps in workplace hierarchies. Workers with weak outside options face a higher relational cost of appearing unavailable, resistant, or difficult, and so adopt accommodative communication (extra deference, softened boundaries, visible flexibility) to preserve the employment relationship. This short-run strategy is also an informative signal: a friction-minimizing supervisor rationally infers that an accommodating worker is less likely to resist, and assigns that worker the invisible, low-promotability work. The signal harms the worker who sends it....
 
 ---
 
-### [First as Tragedy? Second as What? Estimating Dynamic Effects of Recurrent Events](https://arxiv.org/abs/2609.30007v1)
-*Agnes Norris Keiller* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Health, Education & Welfare, method:DiD_
+### [When Less Is More: Managing AI Adoption with Adaptive Incentive Design](https://arxiv.org/abs/2609.32859v1)
+*Jie Gong, Jiayi Hou, Jin Li, Fei Pu et al.* — **arxiv**, 2026-09-26 — _Business Economics & Innovation_
 
-I study treatment effect estimation when treatment events have persistent effects and can be experienced more than once. Natural disasters, job loss and health shocks are examples of such treatments. I show that the effect of a total treatment trajectory can be recovered under assumptions similar to those commonly invoked in single-event settings using suitably flexible TWFE models. Decomposing the total trajectory effect into portions attributable to distinct event occurrences, however, requires further assumptions. I propose an assumption similar to conditional parallel trends, imposing it o...
-
----
-
-### [On dynamic price formation in the course of capital reallocation driven by differential rates of profit: strict conservation of value supports Karl Marx's theory](https://arxiv.org/abs/2609.29346v1)
-*Norbert Ankri, Païkan Marcaggi* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Labor & Demographic Economics_
-
-We develop a dynamic three-sector model in which Marx's aggregate equalities (total price equals total value and total profit equals total surplus value) are treated as strict conservation constraints throughout capital reallocation and technical diffusion. Three price-value coefficients are determined by the two aggregate equalities and a closure that sets one sector's price-based profit rate equal to the contemporaneous value-based average (the anchor). Before innovation, capital inflow expands the receiving sector's output and, under both anchors, lowers its unit price and excess profitabil...
+We study gaming and adaptive incentive design in AI adoption. A large medical-device company required roughly 5,000 employees to submit at least 200 queries per month to an internal AI assistant. First-time use increased significantly after the mandate, but usage patterns suggested gaming: query counts bunched at the threshold, and 31 percent of queries were repeated or off-task. The firm subsequently revised incentive design and lowered the target to 100. Using staggered implementation across branches, we estimate that the adjustment reduced query volume by 30 percent, with repeated or off-ta...
 
 ---
 
-### [Don't Fake It If You Can't Make It: Driver Misconduct in Last-Mile Delivery](https://arxiv.org/abs/2609.29080v1)
-*Srishti Arora, Vivek Choudhary, Pavel Kireyev* — **arxiv**, 2026-09-24 — _Business Economics & Innovation, Econometrics & Methods, method:IV_
+### [Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting and Social Automation Funds](https://arxiv.org/abs/2609.32476v1)
+*Toqeer Ali Syed, Ali Akarma, Adeel Ahmad, Muhammad Umair Younus* — **arxiv**, 2026-09-26 — _Business Economics & Innovation, Law & Economics, Public Economics, Urban, Rural & Regional Economics_
 
-In the last two decades, last-mile delivery (LMD) firms have seen immense growth fueled by the success of e-commerce, leading to faster and cheaper deliveries. Operating on thin margins, LMD firms strive for successful first-time deliveries to avoid the financial and reputational costs of reattempts. Delivery Agents (DAs) are integral to LMD efficiency, influencing customer experience, delivery success, and productivity. However, most LMD performance enhancement research focuses on process, technology, and incentives, which presume workers will conform to procedures and monitoring tools will f...
+Contemporary fiscal architectures rely overwhelmingly on human labor income and payroll withholdings to finance social insurance and public infrastructure. The rapid diffusion of autonomous software agents, generative foundation models, and embodied robotic systems decouples output growth from human work hours, eroding traditional tax bases while exacerbating capital-income concentration. Prevailing policy proposals, ranging from uniform robot levies to unconditional cash transfers, fail to resolve three foundational challenges: attributing economic value across mixed human-machine workflows, ...
 
 ---
 
 ## Econometrics & Methods
 
-### [Generic Covariate Adjustment for Regression Discontinuity Designs](https://arxiv.org/abs/2609.29249v1)
-*Jun Ma, Yuya Sasaki, Zhengfei Yu* — **arxiv**, 2026-09-24 — _Econometrics & Methods, method:RDD_
+### [AI-based matching improves refugee employment in a double-blind randomized trial](https://arxiv.org/abs/2609.35448v1)
+*Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda et al.* — **arxiv**, 2026-09-28 — _Econometrics & Methods, Labor & Demographic Economics, method:Machine Learning, method:RCT_
 
-It is standard practice to include covariates in regression discontinuity designs (RDDs) and regression kink designs (RKDs), but the theoretical justification for doing so does not generally extend beyond linear estimands. This paper proposes a novel entropy balancing reweighting approach for covariate adjustment within a general framework of RDDs and RKDs. While conventional regression-based covariate adjustment methods generally fail to deliver consistent estimation for nonlinear estimands such as quantile treatment effects, our reweighting approach achieves consistency while improving effic...
+Refugee integration is a central policy challenge for host countries, and where governments initially place refugees shapes their integration trajectories. Yet placement officers often have limited information about where each case is most likely to succeed. Algorithmic refugee matching uses administrative data, machine learning, and constrained optimization to recommend employment-optimized placements in real time as cases arrive, with human placement officers retaining final authority. Between January 2020 and June 2023, the Swiss State Secretariat for Migration randomly assigned about 2,000...
+
+---
+
+### [Minimax Choice of Projection Geometry under Linear Inequality Constraints](https://arxiv.org/abs/2609.32725v1)
+*Joachim Freyberger, Julius Kappenberg* — **arxiv**, 2026-09-26 — _Econometrics & Methods, Health, Education & Welfare, method:IV_
+
+Economic theory frequently implies linear inequality restrictions on parameters or functions of interest. A common way to impose such restrictions is to project an unrestricted estimator onto the feasible set. Projection estimators arise naturally from constrained least squares, instrumental variables, generalized method of moments, maximum likelihood, and related extremum procedures. When the sampling covariance, loss function, and projection criterion induce different geometries, the choice of projection geometry can substantially affect risk. We study this choice in a fixed-dimensional loca...
 
 ---
 
 ## International Economics
 
-### [PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents](https://arxiv.org/abs/2609.31468v1)
-*Pavel Kireyev* — **arxiv**, 2026-09-25 — _International Economics_
+### [The missing price feedback: Why studies overstate local peaks from synchronized home batteries under dynamic pricing](https://arxiv.org/abs/2609.35111v1)
+*Lion Hirth* — **arxiv**, 2026-09-28 — _International Economics_
 
-LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We introduce PriceBench, a diagnostic benchmark that recovers an LLM's price, quality, and brand preferences from its booking choices with a logit choice model, applied to 28 LLMs from 8 providers on 3,600 hotel tasks from 179 real New York City properties. We...
+Existing studies consistently find that home batteries and electric vehicles optimized against real-time electricity prices create new load peaks in local distribution grids, because all assets respond to the same price signal in sync. However, all but one of the 18 studies reviewed here treat wholesale prices as exogenous. This paper argues that treating prices as non-responsive biases the result: in reality, charging in low-price hours raises the wholesale price, which dampens the incentive to charge. I test this by simulating households with rooftop solar and home batteries under a spot-bas...
+
+---
+
+### [Disagreeing About What the Buyer Might Learn](https://arxiv.org/abs/2609.33057v1)
+*Jonathan Libgober* — **arxiv**, 2026-09-27 — _International Economics_
+
+I introduce a robustness criterion for settings where players may disagree about the distribution over signals induced by endogenously chosen information. In the spirit of Hansen and Sargent (2008), an information choice is evaluated by its worst-case payoff over beliefs within an $η$-entropy ball around the signal distribution it induces. I apply this formulation to buyer-optimal learning in bilateral trade (Roesler and Szentes, 2017). If trade is always efficient, disagreement raises the price and twists the buyer's demand curve while preserving full trade. When trade may be inefficient, the...
+
+---
+
+## Labor & Demographic Economics
+
+### [The Potential of Nighttime Light Imagery for Detailed Local Economic Analysis](https://arxiv.org/abs/2609.33859v1)
+*Shoichi Otomo* — **arxiv**, 2026-09-27 — _Labor & Demographic Economics_
+
+This manuscript is an English translation and extended version of a paper originally published in Japanese (2022). Driven by remarkable advances in remote sensing and big data processing, spatial technologies are increasingly leveraged in economic research. While satellite nighttime light intensity is widely recognized for tracking macroeconomic parameters - such as regional GDP, employment, and population - less attention has been paid to fine-grained spatial processing methodologies for local tourism economies. This study first details a raster processing technique applied to nightlight imag...
+
+---
+
+## Macroeconomics
+
+### [Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory](https://arxiv.org/abs/2609.35011v1)
+*Sami Diaf* — **arxiv**, 2026-09-28 — _Macroeconomics_
+
+Price stability remains a pillar in monetary policy practices and carries a special importance within monetary unions. Mainstream economics tried to leverage price stability using price indices and several metrics to shed light on specific dynamics and optimal macroeconomic levels. The wide availability of data led researchers to consider the study of systems using Random Matrix Theory, based on inner correlation patterns. This aims to enhance the multivariate analysis by removing noisy patterns from the signal and improve data quality for further inferences. This work considers the collection...
 
 ---
 
 ## Microeconomics
 
-### [A Polynomial-Time Test for Peak-Oriented Rationalizability](https://arxiv.org/abs/2609.30042v1)
-*Taotao He, Runfa Hu* — **arxiv**, 2026-09-24 — _Microeconomics_
+### [Does AI Help or Harm? Endogenous Information Acquisition with AI Advice](https://arxiv.org/abs/2609.35137v1)
+*Kexin Chen, Tao Lin, Jianwei Huang* — **arxiv**, 2026-09-28 — _Microeconomics_
 
-We study the computational complexity of peak-oriented rationalizability, a survey based revealed-preference test introduced by Seror (2026). We provide a polynomial-time algorithm for testing rationalizability and recovering a utility function, establishing that peak-oriented preference elicitation is computationally tractable. In contrast, we show that computing the peak-oriented Houtman-Maks index is NP-hard. These results delineate the precise computational boundaries of peak-oriented revealed-preference analysis.
+AI advice increasingly enters human decision workflows before costly information acquisition and final action. This paper studies how such advice affects decision quality, measured by the gross utility of the final action. Advice shifts beliefs before the decision maker chooses an acquisition experiment with uniformly posterior-separable (UPS) costs. The analysis characterizes gross effects through the continuation gross value generated by net-optimal acquisition. Convexity of this value function is necessary and sufficient for every AI signal to weakly improve gross utility at every prior, wh...
 
 ---
 
@@ -122,113 +140,99 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X](https://arxiv.org/abs/2609.28947v1)
-*Pan Li, Shuang Gao* — **arxiv**, 2026-09-24 — _Political Economy_
-
-Misinformation is widely reported to propagate faster on engagement-based platforms, yet prior work largely focused on empirical analysis, without identifying a specific algorithmic mechanism that results in this phenomenon. Thanks to the open-sourcing of X's recommendation algorithms, we conduct what is, to our knowledge, the first component-level study of the recommendation algorithm deployed by a social media platform, which examines how each of its components affects misinformation propagation. Specifically, we identify the engagement fungibility mechanism in the algorithm, where the final...
-
----
-
 ## Unclassified
 
-### [Orthogonal Moments in Likelihood Models](https://arxiv.org/abs/2609.31561v1)
-*Stéphane Bonhomme, Koen Jochmans, Martin Weidner* — **arxiv**, 2026-09-25 — _Unclassified_
+### [Optimal Networks for Agentic Information Aggregation](https://arxiv.org/abs/2609.35537v1)
+*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-28 — _Unclassified_
 
-Many models, such as fixed-effect models for panel or network data, are hard to estimate because they feature nuisance parameters that are both numerous and estimated imprecisely. This, in general, causes an incidental-parameter problem in the estimator of the parameters of interest. The problem can be alleviated by working with an estimating equation whose expectation is insensitive to the value of the nuisance parameters. We discuss and contrast three notions of insensitivity, also called orthogonality, in the context of likelihood models: Neyman orthogonality, Neyman orthogonality to order ...
-
----
-
-### [Prior-Free Delegation](https://arxiv.org/abs/2609.31529v1)
-*Terrence McGovern, Jan Benedikt Napp, Wenjun Zheng* — **arxiv**, 2026-09-25 — _Unclassified_
-
-We consider a robust delegation problem in which the principal does not know the distribution from which the underlying state is drawn. The principal can choose a general randomized mechanism and maximizes her worst-case expected payoff over all state distributions. Our main result characterizes the robustly optimal mechanism. The mechanism has up to three regions: (i) accommodation, where the agent's ideal action is taken, (ii) calibrated randomization, where each type receives a distinct lottery, and (iii) pooling, where all types receive the same lottery. We then extend our model to a multi...
+We study information aggregation in the networked learning model introduced by Kearns, Roth, and Ryu (SODA 2026). There is a fixed distribution over $d$ features and a common label. Agents learn in topological order on a directed acyclic graph. Each observes a subset of the features and its parents' predictions, fits a linear predictor to minimize mean squared error, and passes only its prediction forward. The global predictor is the best linear predictor using all features. Kearns, Roth, and Ryu show that the output agent's error approaches the global predictor's error along sufficiently deep...
 
 ---
 
-### [Improved Bootstrap Inference for Dynamic Panel Data models with Interactive Effects](https://arxiv.org/abs/2609.31442v1)
-*Arturas Juodis, Ovidijus Stauskas, Sander Tromp* — **arxiv**, 2026-09-25 — _Unclassified_
+### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
+*Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
 
-We study recursive-design wild bootstrap inference for dynamic panel data models with unobserved common factors estimated by Common Correlated Effects. In the large N,T setting, the bootstrap reproduces the biased limiting distribution in pure autoregressive models, but fails to capture all bias and factor-estimation variance components in models with additional regressors, particularly under weak exogeneity. We trace this failure to holding regressors fixed across bootstrap replications. We propose to combine bootstrap procedure with available bias-correction methods to conduct adjusted infer...
-
----
-
-### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
-*Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
-
-AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
+Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
 
 ---
 
-### [The Complexity of Multiplayer Colonel Blotto Games with Player-Specific Values](https://arxiv.org/abs/2609.30019v1)
-*Martin Bichler, Abheek Ghosh* — **arxiv**, 2026-09-24 — _Unclassified_
+### [Horizontal or Vertical? Managerial Attention and Organizational Structure](https://arxiv.org/abs/2609.35244v1)
+*Ashley Perry* — **arxiv**, 2026-09-28 — _Unclassified_
 
-We study equilibrium computation in discrete multiplayer Colonel Blotto games with player-specific battlefield values. In the two-player model with common battlefield values, equilibria can be computed in polynomial time. We show that this tractability breaks down in the multiplayer model with player-specific values under the standard uniform tie-breaking rule. In particular, computing a $(c/n)$-approximate Nash equilibrium is PPAD-hard for some constant $c>0$, even when every player has three resources, where $n$ is the number of players. The main technical step is PPAD-hardness for computing...
-
----
-
-### [Multi-Dimensional Matching](https://arxiv.org/abs/2609.29958v1)
-*Irene Aldridge* — **arxiv**, 2026-09-24 — _Unclassified_
-
-We study a matching mechanism where agents and objects are described by features rather than complete rankings. A single spectral projection reduces the problem to a one-dimensional sort, computable in O(N log N) time. We prove that on descaled features and preferences, our algorithm obtains the exact Nash Social Welfare (NSW) optimum within the projected space, with an unconditional utilitarian-welfare guarantee and a conditional NSW guarantee. The proposed mechanism is stable against exogenous noise but not strategy-proof; we provide an explicit profitable misreport. On an agentic AI shoppin...
+This paper analyzes the relative efficiency of horizontal and vertical organizational structures modeled as communication networks under limited managerial attention. In this framework, workers receive noisy signals about the state of the world and communicate reports to a decision-maker whose meeting time relatively more constrained. The clarity of each report depends endogenously on meeting lengths and the workers' heterogeneous communication and processing abilities. When workers possess identical communication abilities, the horizontal structure is always optimal because it allows the deci...
 
 ---
 
-### [Decision-Relevant Information in Partially Observed Production Networks](https://arxiv.org/abs/2609.29905v1)
-*Shaowen Luo, Kwok Ping Tsang, Zichao Yang* — **arxiv**, 2026-09-24 — _Unclassified_
+### [Delegation without Priors](https://arxiv.org/abs/2609.35156v1)
+*Wei He, Fei Li, Jiangtao Li, Hanqing Ye* — **arxiv**, 2026-09-28 — _Unclassified_
 
-A production network can remain largely unidentified even when the economic decision it supports is identified. We characterize sufficient measurements for exposure-based decisions and compute sharp maximum regret over networks consistent with released totals. Using earlier and later vintages of Japan's interregional input-output accounts, we select measurements from the 1995 table and evaluate the frozen design against the 2005 benchmark. At roughly half the statistics required for full disclosure, the resulting monitoring set loses only 0.07 percentage points of average exposure relative to ...
-
----
-
-### [Complementary Information Sources](https://arxiv.org/abs/2609.29066v1)
-*Zichang Wang* — **arxiv**, 2026-09-24 — _Unclassified_
-
-A decision maker may have several information sources available and choose which one to consult only after learning the decision problem she faces. When is one such set of sources uniformly more valuable than another? For unrestricted Bayesian decision problems, we show that the answer can be stated entirely in terms of Blackwell comparisons. Form a tagged mixture by drawing a source independently of the state and revealing both its identity and its signal. One source set is more valuable in every decision problem if and only if each tagged mixture of the second source set is Blackwell dominat...
+A principal relies on information held by a biased agent in decision-making. Without a prior over the circumstances that may arise, she designs a delegation rule to minimize the worst-case regret. Optimal delegation combines a default action, a fixed gap above it, and a higher discretionary interval with random boundaries. This structure separates two margins: whether the decision departs from the default and how much discretion the agent receives conditional on doing so. The default and gap limit excessive adjustment when little adaptation is warranted, while the higher interval preserves fle...
 
 ---
 
-### [Unit commitment constrained Nash equilibrium in power markets](https://arxiv.org/abs/2609.29404)
-*Trine Krogh Boomsma, Mel T. Devine, Miguel F. Anjos* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+### [Blackwell Boundaries](https://arxiv.org/abs/2609.35062v1)
+*Shuo Li Liu* — **arxiv**, 2026-09-28 — _Unclassified_
 
-Equilibrium modeling for power markets usually assumes convexity of each players' optimization problem. Although the importance of accounting for fixed generation costs and start-up costs, minimum generation levels and/or minimum up-time and down-time restrictions in production scheduling is widely acknowledged, such modeling does not allow for discrete decisions. This paper considers unit commitment constrained Nash equilibria. First, we derive novel optimality conditions tailored for the mixed-integer convex programming problem of joint unit commitment and economic dispatch of a self-schedul...
-
----
-
-### [A General Framework for Budgeted Threshold Incentives on Request](https://arxiv.org/abs/2609.29724)
-*Zhuolin Wu, Chengrui Zhu, Wenhua Nie, Kenny Ye Liang et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-On-demand delivery platforms pay riders through incentive activities whose tiers are set from recent completions of riders with a similar history. Operators request such plans for changing periods, rider populations, payment rules and budgets, often for holidays or bad weather, where randomized trials are scarce and take months to collect. We present a request-driven framework that composes four stages (conditional prediction, population reduction, trajectory integration and budget allocation) through seven replaceable modules that exchange conditional trajectory laws, whose award probabilitie...
+We give a finite simplex theorem. When the number of states equals the number of source signals and the source posterior likelihood-ratio vectors form a simplex, Blackwell dominance is characterized by a universal barycentric-coordinate condition. We also give an explicit countable-state, countable-signal diagnostic-monitor theorem with a closed-form universal criterion and a closed-form garbling; tensorization yields dominance at every sample size. Finally, we provide a three-state, two-signal counterexample to the sufficiency conjectured by Mu, Pomatto, Strack, and Tamuz for their many-state...
 
 ---
 
-### [Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](https://arxiv.org/abs/2609.29095)
-*Jiapeng Li* — **openalex ssrn**, 2026-09-24 — _Unclassified_
+### [A One-Saddle 1/5 Approximation Algorithm for Common-Kernel Bimatrix Games: Recognition, Exact Segment Optimization, Sharp Selector Bounds, and Certified Robustness](https://arxiv.org/abs/2609.33471v1)
+*Davit Gondauri* — **arxiv**, 2026-09-27 — _Unclassified_
 
-When a tool-using agent's write times out or returns a server error, the action may already have taken effect. Retrying blindly duplicates it -- a second charge, a second announcement, a second deployment -- while giving up skips required work. We ask where exactly-once behaviour should be enforced: in the model, in the agent harness, or in the tool contract. We introduce LIMBO, a deterministic sandbox of six services with realistic contracts (optional idempotency keys, eventually consistent and missing read paths) and twelve fault modes injected at the service boundary, including late commits...
-
----
-
-### [Improved Revenue Guarantees for Selling Separately and Bundling](https://arxiv.org/abs/2609.28873)
-*Yang Cai, Vineet Gupta, Yanchen Jiang, Chris Liaw et al.* — **openalex ssrn**, 2026-09-24 — _Unclassified_
-
-We study how much revenue a seller can lose by restricting attention to selling separately or grand bundling, in the setting of a single additive buyer with independent item values. Although revenue-optimal mechanisms can require lotteries and infinite menus, Babaioff, Immorlica, Lucier, and Weinberg showed that the better of these two simple formats always achieves a constant fraction of optimal revenue. We prove that $\mathrm{OPT} \le 3.52 \max\{\mathrm{SREV}, \mathrm{BREV}\}$, where $\mathrm{SREV}$ and $\mathrm{BREV}$ are the optimal revenues from selling separately and grand bundling, resp...
+We study a fixed-normalization class of symmetric bimatrix games generated by a common kernel and show that it admits efficient approximation despite exact symmetric-equilibrium computation remaining PPAD-hard. For every rational game in the class, a single auxiliary zero-sum saddle computation yields a rational symmetric \(1/5\)-approximate Nash equilibrium in polynomial time. We also give exact recognition and unique kernel recovery, and an exact polynomial-time post-processing algorithm that minimizes regret along the segment joining the selected saddle strategies. For arbitrary rational sq...
 
 ---
 
-## method:DiD
+### [An adaptive $L_2$-type test for high-dimensional white noise](https://arxiv.org/abs/2609.33418v1)
+*Jinyuan Chang, Jing He, Weiming Li, Chen Lin* — **arxiv**, 2026-09-27 — _Unclassified_
 
-### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
-*Shoki Okubo* — **arxiv**, 2026-09-24 — _method:DiD_
-
-Panel conditioning, the causal effect of prior survey participation on responses, can vary with tenure. Under an additive model of cell means in period, entry cohort, and tenure, we characterize which features of the conditioning path a staggered panel identifies on its observed support, and how the unidentified component affects common panel estimators. The identified set of the path is an affine translate of the tenure projection of the cell design's kernel, and a linear functional of the path is identified exactly when it annihilates that projection. It always contains an affine direction a...
+We propose a new $L_2$-type test for white noise which allows the dimension $p$ of the time series to either (i) be a fixed constant, or (ii) diverge with the sample size $n$. The proposed test statistic exhibits an interesting phase transition, following two different regimes of behavior: $p$ is fixed, and $p\rightarrow\infty$. Because identification of the operable regime is difficult, if not impossible in practice, we devise a novel adaptive bootstrap method to construct unified testing procedure across different phases. Numerical experiments confirm the good finite sample performance of th...
 
 ---
 
-## method:Machine Learning
+### [Learning from a Mixture of Information Sources](https://arxiv.org/abs/2609.33214v1)
+*Nicole Immorlica, Brendan Lucier, Yaroslav Mukhin, Clayton Thomas et al.* — **arxiv**, 2026-09-27 — _Unclassified_
 
-### [Kernel Balancing in Tree-based Methods](https://arxiv.org/abs/2609.29440v1)
-*Karolina Gliszczyńska-Schroeder* — **arxiv**, 2026-09-24 — _method:Machine Learning, method:Propensity Score_
+We often learn from multiple sources that convey information in different ways. How informative is it to know the source of a signal, and how is this informativeness shaped by the distribution of sources? We extend the standard (binary-state, binary-signal) Blackwell experiment model by introducing a commonly known distribution over signaling schemes, representing the distribution of information sources. We compare learning under two information models: source-aware, where decision makers observe a signaling scheme and its realization (e.g., raw reviews, search results), and source-blind, wher...
 
-Studying heterogeneous treatment effects has become essential in experimental and observational studies. A critical assumption for obtaining reliable treatment effect estimates is overlap, which requires that treated and control units have sufficiently similar covariate distributions. Poor overlap may limit the effectiveness of estimators, especially those based on propensity scores, potentially leading to unreliable results. We investigate the effectiveness of kernel balancing (KBal) (Hazlett, 2020) as an alternative to propensity score methods for conditional average treatment effect (CATE) ...
+---
+
+### [Evolution of Market Microstructure in the Age of AI](https://arxiv.org/abs/2609.33058v1)
+*Irene Aldridge* — **arxiv**, 2026-09-27 — _Unclassified_
+
+Market microstructure studies how trading rules turn orders into prices and allocations. Those rules have been rebuilt repeatedly: for floor traders, electronic limit order books and high-frequency trading, batch auctions and dark pools, blockchains run by automated market makers and block builders, and now AI agents that discover, pay for, and compete over resources. This survey traces that evolution through one question: can a market allocate scarce goods efficiently and fairly without participants revealing everything they know and want? Each technological shift moved the binding constraint...
+
+---
+
+### [Skill, Luck, or Imitation? What Actually Pays in Creator Markets](https://arxiv.org/abs/2609.32925v1)
+*Samiha Tariq* — **arxiv**, 2026-09-26 — _Unclassified_
+
+A small share of online creators earn fortunes while most earn almost nothing. What separates them: skill, luck, or copying what works? This paper measures what YouTube vloggers actually produce: 3,728 thumbnails, 385 hours of speech (2.9 million words), and video titles and tags, linked to complete view histories of 56,419 videos. Its central sample follows channels from their first upload, including the many that never took off, which most creator statistics miss. The data show that what goes into a video does not predict its success: 36 measures of images, speech and text explain at most 1....
+
+---
+
+## method:Field Experiment
+
+### [The Influence of the Vocal Few: Evidence from Social Media Comments](https://arxiv.org/abs/2609.32880v1)
+*Dante Donati, Lena Song* — **arxiv**, 2026-09-26 — _method:Field Experiment, method:Survey Experiment_
+
+Online comment sections let a small number of vocal individuals reach far beyond their own networks. We conduct a large-scale field experiment on Facebook that randomizes the presence and stance of comments beneath posts for a racial justice organization, reaching around one million U.S. users. Opposing comments increase reactions, comments, and link clicks by 15-43 percent relative to no comments, whereas supportive comments have little effect. A complementary survey experiment shows that similar opposing comments make attitudes less progressive and reduce donations to the organization. Throu...
+
+---
+
+## method:Theory
+
+### [Optimal Project Management](https://arxiv.org/abs/2609.35238v1)
+*Alessandro Bonatti, Doruk Cetemen, Juuso Toikka* — **arxiv**, 2026-09-28 — _method:Theory_
+
+We study optimal dynamic contracts for long-term projects where a risk-averse agent exerts hidden effort to increase the drift of a Brownian process toward a com- pletion threshold. Relative to the first best, the optimal contract slows progress, makes success less likely, induces earlier termination, and narrows project scope. Allowing for costly project resets generates further distortions: resets may be excessive or insufficient depending on the residual effort required afterwards. With endogenous risk taking, optimal incentives introduce penalties for failure and reduce rewards for effort ...
+
+---
+
+### [The Double-Edged Sword of Information: Revealed versus Hidden Lotteries in School Choice](https://arxiv.org/abs/2609.34074v1)
+*Parinaz Naghizadeh, Jingyan Wang* — **arxiv**, 2026-09-28 — _method:Theory_
+
+In school choice, a lottery number is often used by the matching mechanism to break ties when there are more students who prefer the same school than the number of seats available. There has been growing theoretical and empirical interest in understanding the impact of revealing the lottery number to students. In practice, in recent years, the NYC Public Schools started revealing the lottery number to students to improve transparency. Theoretical findings from prior literature also suggest that revealing the lottery number strictly improves the number of matches under the deferred acceptance a...
 
 ---

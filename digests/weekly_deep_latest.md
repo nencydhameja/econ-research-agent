@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-28
+# Weekly Deep-Reading Queue — week of 2026-09-29
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -38,38 +38,38 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 5. Tolerable Inflation, Intolerable Uncertainty
+## 5. Optimal Networks for Agentic Information Aggregation
 
-### [Tolerable Inflation, Intolerable Uncertainty](https://arxiv.org/abs/2609.31512v1)
-*Eric Vansteenberghe* — **arxiv**, 2026-09-25 — _Business Economics & Innovation, Macroeconomics_
+### [Optimal Networks for Agentic Information Aggregation](https://arxiv.org/abs/2609.35537v1)
+*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-28 — _Unclassified_
 
-Numerical inflation targets anchor beliefs. Across euro-area and US professional forecasts, inflation swaps and options, and realized inflation, uncertainty about inflation is compressed at the announced number and kinks exactly there. This paper identifies a cost of the same design that, to our knowledge, has not been shown before, and that appears in second moments only. Within the workhorse New Keynesian model, tolerating part of the inflation a supply shock produces is optimal, yet the optimal tolerated share is not identified: optimal look-through and an unwarranted drift of the effective...
-
----
-
-## 6. Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
-
-### [Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring](https://arxiv.org/abs/2609.30058v1)
-*Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy* — **arxiv**, 2026-09-24 — _Unclassified_
-
-AI-assisted job-search tools have become increasingly popular by making it easier to find and apply to jobs. But by making it easier for applicants to generate and tailor application materials, they can also reduce how informative those materials are about applicant fit. We study this tradeoff in a hiring market where applicants differ in experience and latent match quality and firms use noisy application materials to decide whom to screen. We ask how AI affects downstream screening and hiring, and which applicants are most adversely affected. As application materials become less informative, ...
+We study information aggregation in the networked learning model introduced by Kearns, Roth, and Ryu (SODA 2026). There is a fixed distribution over $d$ features and a common label. Agents learn in topological order on a directed acyclic graph. Each observes a subset of the features and its parents' predictions, fits a linear predictor to minimize mean squared error, and passes only its prediction forward. The global predictor is the best linear predictor using all features. Kearns, Roth, and Ryu show that the output agent's error approaches the global predictor's error along sufficiently deep...
 
 ---
 
-## 7. Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X
+## 6. Representation Risk in Pretrained Image Encoders
 
-### [Why Does Misinformation Propagate Faster? An Algorithmic Perspective on X](https://arxiv.org/abs/2609.28947v1)
-*Pan Li, Shuang Gao* — **arxiv**, 2026-09-24 — _Political Economy_
+### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
+*Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
 
-Misinformation is widely reported to propagate faster on engagement-based platforms, yet prior work largely focused on empirical analysis, without identifying a specific algorithmic mechanism that results in this phenomenon. Thanks to the open-sourcing of X's recommendation algorithms, we conduct what is, to our knowledge, the first component-level study of the recommendation algorithm deployed by a social media platform, which examines how each of its components affects misinformation propagation. Specifically, we identify the engagement fungibility mechanism in the algorithm, where the final...
+Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
 
 ---
 
-## 8. Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation
+## 7. AI-based matching improves refugee employment in a double-blind randomized trial
 
-### [Panel Conditioning in Fixed-Effects Models: Identification and Bias Propagation](https://arxiv.org/abs/2609.28871v1)
-*Shoki Okubo* — **arxiv**, 2026-09-24 — _method:DiD_
+### [AI-based matching improves refugee employment in a double-blind randomized trial](https://arxiv.org/abs/2609.35448v1)
+*Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda et al.* — **arxiv**, 2026-09-28 — _Econometrics & Methods, Labor & Demographic Economics, method:Machine Learning, method:RCT_
 
-Panel conditioning, the causal effect of prior survey participation on responses, can vary with tenure. Under an additive model of cell means in period, entry cohort, and tenure, we characterize which features of the conditioning path a staggered panel identifies on its observed support, and how the unidentified component affects common panel estimators. The identified set of the path is an affine translate of the tenure projection of the cell design's kernel, and a linear functional of the path is identified exactly when it annihilates that projection. It always contains an affine direction a...
+Refugee integration is a central policy challenge for host countries, and where governments initially place refugees shapes their integration trajectories. Yet placement officers often have limited information about where each case is most likely to succeed. Algorithmic refugee matching uses administrative data, machine learning, and constrained optimization to recommend employment-optimized placements in real time as cases arrive, with human placement officers retaining final authority. Between January 2020 and June 2023, the Swiss State Secretariat for Migration randomly assigned about 2,000...
+
+---
+
+## 8. Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory
+
+### [Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory](https://arxiv.org/abs/2609.35011v1)
+*Sami Diaf* — **arxiv**, 2026-09-28 — _Macroeconomics_
+
+Price stability remains a pillar in monetary policy practices and carries a special importance within monetary unions. Mainstream economics tried to leverage price stability using price indices and several metrics to shed light on specific dynamics and optimal macroeconomic levels. The wide availability of data led researchers to consider the study of systems using Random Matrix Theory, based on inner correlation patterns. This aims to enhance the multivariate analysis by removing noisy patterns from the signal and improve data quality for further inferences. This work considers the collection...
 
 ---
