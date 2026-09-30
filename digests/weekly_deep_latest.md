@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-29
+# Weekly Deep-Reading Queue — week of 2026-09-30
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -29,47 +29,47 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Regulatory Competition in the US Life Insurance Industry
+## 4. Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data
 
-### [Regulatory Competition in the US Life Insurance Industry](https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R)
-*Johnny TangCornell University* — **Journal of Political Economy**, 2026-09-15 — _Political Economy_
+### [Multiscale Reconstruction of Weighted Networks from Coarse-Grained Data](https://arxiv.org/abs/2609.37957v1)
+*Mattia Marzi, Frank P. Pijpers, Diego Garlaschelli* — **arxiv**, 2026-09-29 — _International Economics_
 
-Journal of Political Economy, Ahead of Print.
+Network reconstruction from partial information is usually performed at the same resolution level at which constraints are observable. This becomes problematic when only coarse-grained information is available, while the relevant process occurs at a finer scale. Here we employ the multiscale model of weighted networks introduced in a companion paper and turn it into a probabilistic framework for reconstructing weighted networks across arbitrary aggregation levels. The model is built to preserve its functional form under coarse-graining, so that global parameters calibrated on an observable agg...
 
 ---
 
-## 5. Optimal Networks for Agentic Information Aggregation
+## 5. Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach
+
+### [Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach](https://arxiv.org/abs/2609.36824v1)
+*Hiroyuki Kasahara, Hirokazu Matsuyama, Katsumi Shimotsu, Shota Takeishi* — **arxiv**, 2026-09-29 — _Unclassified_
+
+Ignoring unobserved heterogeneity in duration models biases parameter estimates and invalidates inference, but testing for it is non-regular: the null hypothesis lies on the boundary of the parameter space and some parameters are unidentified under the null. These features render standard asymptotic theory inapplicable. This paper develops an EM test for unobserved heterogeneity in censored Weibull duration models, building on the EM approach of Li, Chen, and Marriott (2009). The test statistic has an asymptotic null distribution equal to the square of max{0, N(0,1)}, hence critical values req...
+
+---
+
+## 6. When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion
+
+### [When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion](https://arxiv.org/abs/2609.36667v1)
+*Tingyi Lin, Shawn Yu, Ruoran Lai, Huanxi Zhang* — **arxiv**, 2026-09-29 — _Political Economy_
+
+A coalition that deviates once can profit many times when what it sells keeps working. In a threshold-encrypted mempool, a leading defense against maximal extractable value (MEV), a quorum of the decryption committee that sells its decryption capability to a front-runner exposes every later block that the capability still decrypts. We ask how large a penalty, such as slashable stake, deters this kind of collusion. In our repeated game, a single leak by any coalition in a monotone family of authorized coalitions (for example, any $k$ of the $n$ committee members) unlocks a set of future rounds,...
+
+---
+
+## 7. Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval
+
+### [Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval](https://arxiv.org/abs/2609.37343v1)
+*Kerstin Hötte, Nicolò Barbieri, Su Jung Jee* — **arxiv**, 2026-09-29 — _Business Economics & Innovation_
+
+Classification systems shape how searchers find relevant objects. We study how revisions to classification architecture affect retrieval by changing the routes through which objects enter consideration. We theorize that creating a cross-cutting category can reduce classificatory distance and translation costs, whereas adding routes to an established system can increase route-selection and updating costs; category cleanup can restore contrast. Empirically, we exploit the 2013 creation and 2020 revision of Y02/Y04 green-technology codes in the Cooperative Patent Classification. We match treated ...
+
+---
+
+## 8. Optimal Networks for Agentic Information Aggregation
 
 ### [Optimal Networks for Agentic Information Aggregation](https://arxiv.org/abs/2609.35537v1)
 *MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-28 — _Unclassified_
 
 We study information aggregation in the networked learning model introduced by Kearns, Roth, and Ryu (SODA 2026). There is a fixed distribution over $d$ features and a common label. Agents learn in topological order on a directed acyclic graph. Each observes a subset of the features and its parents' predictions, fits a linear predictor to minimize mean squared error, and passes only its prediction forward. The global predictor is the best linear predictor using all features. Kearns, Roth, and Ryu show that the output agent's error approaches the global predictor's error along sufficiently deep...
-
----
-
-## 6. Representation Risk in Pretrained Image Encoders
-
-### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
-*Ardyn Nordstrom, Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
-
-Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
-
----
-
-## 7. AI-based matching improves refugee employment in a double-blind randomized trial
-
-### [AI-based matching improves refugee employment in a double-blind randomized trial](https://arxiv.org/abs/2609.35448v1)
-*Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda et al.* — **arxiv**, 2026-09-28 — _Econometrics & Methods, Labor & Demographic Economics, method:Machine Learning, method:RCT_
-
-Refugee integration is a central policy challenge for host countries, and where governments initially place refugees shapes their integration trajectories. Yet placement officers often have limited information about where each case is most likely to succeed. Algorithmic refugee matching uses administrative data, machine learning, and constrained optimization to recommend employment-optimized placements in real time as cases arrive, with human placement officers retaining final authority. Between January 2020 and June 2023, the Swiss State Secretariat for Migration randomly assigned about 2,000...
-
----
-
-## 8. Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory
-
-### [Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory](https://arxiv.org/abs/2609.35011v1)
-*Sami Diaf* — **arxiv**, 2026-09-28 — _Macroeconomics_
-
-Price stability remains a pillar in monetary policy practices and carries a special importance within monetary unions. Mainstream economics tried to leverage price stability using price indices and several metrics to shed light on specific dynamics and optimal macroeconomic levels. The wide availability of data led researchers to consider the study of systems using Random Matrix Theory, based on inner correlation patterns. This aims to enhance the multivariate analysis by removing noisy patterns from the signal and improve data quality for further inferences. This work considers the collection...
 
 ---
