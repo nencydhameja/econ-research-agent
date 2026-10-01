@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-09-30
+# Economics Research Digest — 2026-10-01
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 3 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -13,6 +13,13 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ## Business Economics & Innovation
+
+### [Imputation is all you need: double robustness, semiparametric efficiency, and automatic covariate balance for estimating the average treatment effect](https://arxiv.org/abs/2609.38692v1)
+*Fang Han, Peng Ding* — **arxiv**, 2026-09-30 — _Business Economics & Innovation, method:Propensity Score_
+
+Imputation-based causal estimation is typically viewed as relying exclusively on an outcome model, in contrast to augmented inverse-probability weighting, whose consistency is protected by fitting two nuisance models. This paper argues that this view can be misleading by highlighting a hidden dual weighting structure in least-squares sieve regression imputation. Although only outcome regressions are explicitly fitted, the resulting imputation estimator admits an exact weighting representation whose induced weights balance every function in the sieve space and the corresponding population weigh...
+
+---
 
 ### [Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval](https://arxiv.org/abs/2609.37343v1)
 *Kerstin Hötte, Nicolò Barbieri, Su Jung Jee* — **arxiv**, 2026-09-29 — _Business Economics & Innovation_
@@ -30,6 +37,20 @@ This paper investigates spatial productivity convergence across Chinese province
 
 ## Econometrics & Methods
 
+### [Partial identification with entropy regularized optimal transport](https://arxiv.org/abs/2609.40156v1)
+*Bruno N. Costa, Florian F. Gunsilius* — **arxiv**, 2026-09-30 — _Econometrics & Methods, method:IV, method:Structural_
+
+In many statistical settings, the available data and maintained assumptions do not suffice to uniquely identify the model parameters of interest. In such cases, one can only identify sets which are guaranteed to contain the true parameters. These are often characterized through linear programs that optimize over models compatible with the observed data. These programs can be infinite-dimensional in the optimizer and the number of constraints. We provide a unified way to characterize and solve such optimization problems by phrasing them as optimal transport problems on path spaces. This allows ...
+
+---
+
+### [Optimal Allocation and Volume under Surface](https://arxiv.org/abs/2609.38875v1)
+*Kai Feng, Han Hong, Jessie Li, Wenshi Wei* — **arxiv**, 2026-09-30 — _Econometrics & Methods, Health, Education & Welfare, method:Machine Learning_
+
+This paper develops a framework for estimation and inference on the volumes of sets that are projections of critical function sets, focusing particularly on the convex body beneath the optimal receiver operating characteristic (ROC) surface. Specifically, we propose a volume calculation method that first uses an Aumann expectation representation and then applies Minkowski mixed volumes. Using this framework, we show that the population volume under the ROC surface (VUS) is proportional to the expectation of a symmetric U-statistic kernel. We then propose a double/debiased machine learning esti...
+
+---
+
 ### [Debiased Inference for Bounding Wage Inequality with Many Controls](https://arxiv.org/abs/2609.37412v1)
 *Yaroslav Korobka, Vira Semenova* — **arxiv**, 2026-09-29 — _Econometrics & Methods, Health, Education & Welfare, Labor & Demographic Economics, method:Machine Learning, method:Structural_
 
@@ -41,13 +62,6 @@ We study estimation and inference for a partially identified parameter whose ide
 *Marcelo J. Moreira, Whitney K. Newey, Mahrad Sharifvaghefi* — **arxiv**, 2026-09-29 — _Econometrics & Methods, method:IV_
 
 This paper characterizes the global minimum of the continuously updating generalized method of moments (CU-GMM) objective in linear instrumental variables models. We allow optimal weighting matrices under heteroskedasticity, autocorrelation, or clustering. We show that the objective is a ratio of polynomials. For one endogenous regressor, stationary points of CU-GMM objective function are real eigenvalues of a companion matrix. Comparing their objective values with the value at infinity gives the global minimum, extending the classical eigenvector approach to limited information maximum likeli...
-
----
-
-### [AI-based matching improves refugee employment in a double-blind randomized trial](https://arxiv.org/abs/2609.35448v1)
-*Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda et al.* — **arxiv**, 2026-09-28 — _Econometrics & Methods, Labor & Demographic Economics, method:Machine Learning, method:RCT_
-
-Refugee integration is a central policy challenge for host countries, and where governments initially place refugees shapes their integration trajectories. Yet placement officers often have limited information about where each case is most likely to succeed. Algorithmic refugee matching uses administrative data, machine learning, and constrained optimization to recommend employment-optimized placements in real time as cases arrive, with human placement officers retaining final authority. Between January 2020 and June 2023, the Swiss State Secretariat for Migration randomly assigned about 2,000...
 
 ---
 
@@ -69,10 +83,12 @@ Network reconstruction from partial information is usually performed at the same
 
 ---
 
-### [The missing price feedback: Why studies overstate local peaks from synchronized home batteries under dynamic pricing](https://arxiv.org/abs/2609.35111v1)
-*Lion Hirth* — **arxiv**, 2026-09-28 — _International Economics_
+## Labor & Demographic Economics
 
-Existing studies consistently find that home batteries and electric vehicles optimized against real-time electricity prices create new load peaks in local distribution grids, because all assets respond to the same price signal in sync. However, all but one of the 18 studies reviewed here treat wholesale prices as exogenous. This paper argues that treating prices as non-responsive biases the result: in reality, charging in low-price hours raises the wholesale price, which dampens the incentive to charge. I test this by simulating households with rooftop solar and home batteries under a spot-bas...
+### [Inherited Wage Dispersion and Optimal Discretion in a Dual-Rigidity TANK Model](https://arxiv.org/abs/2609.39070v1)
+*Kenji Miyazaki* — **arxiv**, 2026-09-30 — _Labor & Demographic Economics, Macroeconomics_
+
+How does an inherited cross-type wage gap enter Markov-perfect discretionary monetary policy when transfers are passive? In a two-agent New Keynesian model with sticky prices and type-specific own-lag wage adjustment, the gap changes implementable allocations and the second-order welfare loss. A positive lower bound establishes its value relevance; explicit rank conditions characterize when current price inflation, wage inflation, and the output gap fail to determine the implementing nominal rate. An illustrative parameterization satisfies these conditions, although the additional state explai...
 
 ---
 
@@ -82,22 +98,6 @@ Existing studies consistently find that home batteries and electric vehicles opt
 *Michael Pfarrhofer, Anna Stelzer* — **arxiv**, 2026-09-29 — _Macroeconomics_
 
 We answer the question posed in the title with a nonlinear mixed-frequency vector autoregression, estimated with Bayesian additive regression trees. The model combines monthly macro-financial variables with quarterly bank lending survey data, and identifies the dynamic responses from high-frequency policy surprises. Sign asymmetry dominates; a tightening produces monetary policy transmission mostly in line with the theoretical predictions, whereas easing of any size produces mostly insignificant responses. Peak effects vary with initial conditions, while several common, predefined regime split...
-
----
-
-### [Price Stability in the European Union: A Systemic Approach Using Random Matrix Theory](https://arxiv.org/abs/2609.35011v1)
-*Sami Diaf* — **arxiv**, 2026-09-28 — _Macroeconomics_
-
-Price stability remains a pillar in monetary policy practices and carries a special importance within monetary unions. Mainstream economics tried to leverage price stability using price indices and several metrics to shed light on specific dynamics and optimal macroeconomic levels. The wide availability of data led researchers to consider the study of systems using Random Matrix Theory, based on inner correlation patterns. This aims to enhance the multivariate analysis by removing noisy patterns from the signal and improve data quality for further inferences. This work considers the collection...
-
----
-
-## Microeconomics
-
-### [Does AI Help or Harm? Endogenous Information Acquisition with AI Advice](https://arxiv.org/abs/2609.35137v1)
-*Kexin Chen, Tao Lin, Jianwei Huang* — **arxiv**, 2026-09-28 — _Microeconomics_
-
-AI advice increasingly enters human decision workflows before costly information acquisition and final action. This paper studies how such advice affects decision quality, measured by the gross utility of the final action. Advice shifts beliefs before the decision maker chooses an acquisition experiment with uniformly posterior-separable (UPS) costs. The analysis characterizes gross effects through the continuation gross value generated by net-optimal acquisition. Convexity of this value function is necessary and sufficient for every AI signal to weakly improve gross utility at every prior, wh...
 
 ---
 
@@ -163,6 +163,27 @@ A coalition that deviates once can profit many times when what it sells keeps wo
 
 ## Unclassified
 
+### [Food Insecurity Among Military Veterans](https://arxiv.org/abs/2609.39932v1)
+*Senan Hogan-Hennessy, Seungmin Lee, Christopher B. Barrett, John Hoddinott et al.* — **arxiv**, 2026-09-30 — _Unclassified_
+
+Veterans face multiple hardships after they leave the military. Is food insecurity one of these hardships? This paper examines the long-term effects of military service on food insecurity using new data from the PSID. Military veteran-headed households experienced lower food insecurity than non-veteran-headed households, and participated less in federal nutrition assistance programs. We use the Vietnam-era lottery draft to identify causal effects, and find no evidence that military service adversely affects food insecurity. Our results suggest policies that assist currently enlisted service me...
+
+---
+
+### [The Limits of Rank-Dependent Priorities in School Choice](https://arxiv.org/abs/2609.39425v1)
+*Masato Eguchi* — **arxiv**, 2026-09-30 — _Unclassified_
+
+Many school choice mechanisms give students higher priority at schools they rank highly and aim to reward students' eagerness. This paper studies whether a centralized mechanism can incorporate such rank-dependent priorities while preserving truthful reporting. I consider a mechanism that jointly specifies how reported preferences modify schools' original priorities and how assignments are determined based on the modified priorities. I require the modification rule to satisfy rank monotonicity and the resulting matching to be stable with respect to the modified priorities. These two requiremen...
+
+---
+
+### [The Capacity Cost of Informational Screening](https://arxiv.org/abs/2609.39077v1)
+*Keita Kuwahara* — **arxiv**, 2026-09-30 — _Unclassified_
+
+An advisor knows who would benefit from using a resource but cannot assign its use. Individuals have private assessments and may ignore advice. We study how their choices can respect a fixed usage limit. In our model, whenever coordination is possible, eliciting private assessments makes some harmful use unavoidable. Policies that maximize welfare, or even minimize harm, also forgo beneficial uses that direct assignment would permit. In those environments, observing assessments instead allows advice to achieve as much beneficial use as direct assignment, without harmful use. The loss therefore...
+
+---
+
 ### [Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space](https://arxiv.org/abs/2609.37820v1)
 *Marcus Gawronsky, Chun-Sung Huang* — **arxiv**, 2026-09-29 — _Unclassified_
 
@@ -177,62 +198,39 @@ Ignoring unobserved heterogeneity in duration models biases parameter estimates 
 
 ---
 
-### [Optimal Networks for Agentic Information Aggregation](https://arxiv.org/abs/2609.35537v1)
-*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-28 — _Unclassified_
+### [A rainbow partition theorem for trees and connected maximin share allocations of chores](https://arxiv.org/abs/2609.38628v1)
+*Marcin Anholcer, Maciej Bartkowiak, Bartłomiej Bosek, Jarosław Grytczuk et al.* — **arxiv**, 2026-09-29 — _Unclassified_
 
-We study information aggregation in the networked learning model introduced by Kearns, Roth, and Ryu (SODA 2026). There is a fixed distribution over $d$ features and a common label. Agents learn in topological order on a directed acyclic graph. Each observes a subset of the features and its parents' predictions, fits a linear predictor to minimize mean squared error, and passes only its prediction forward. The global predictor is the best linear predictor using all features. Kearns, Roth, and Ryu show that the output agent's error approaches the global predictor's error along sufficiently deep...
-
----
-
-### [Representation Risk in Pretrained Image Encoders](https://arxiv.org/abs/2609.35470v1)
-*Ardyn Nordstrom, Morgan Nordstrom, Vamuyan Sesay, Matthew D. Webb* — **arxiv**, 2026-09-28 — _Unclassified_
-
-Applied researchers increasingly convert images into features with pretrained encoders, then use those features in a downstream prediction model. The encoder is often treated as an implementation detail. We show that it can instead be a consequential source of model uncertainty. We call this uncertainty representation risk: plausible pretrained encoders map the same images into different feature spaces and can yield sharply different out-of-sample conclusions from predictive performance. We compare ten modern and legacy frozen encoders across applications involving house prices, racehorse perf...
+Xiao, Qiu, and Huang (AAMAS 2023) and independently Lonc (personal communication) asked whether indivisible chores located at the vertices of a tree can always be allocated to $n$ agents in connected bundles so that the cost of every agent is at most its connected maximin share; for goods, this is a theorem of Bouveret, Cechlárová, Elkind, Igarashi, and Peters. We answer the question affirmatively, even for monotone costs. The answer follows from a combinatorial theorem: if $\mathcal P_1,\ldots,\mathcal P_k$ are partitions of the vertex set of a finite tree, each into at most $k$ connected par...
 
 ---
 
-### [Horizontal or Vertical? Managerial Attention and Organizational Structure](https://arxiv.org/abs/2609.35244v1)
-*Ashley Perry* — **arxiv**, 2026-09-28 — _Unclassified_
+### [Network Origins of the Money-Output Relation](https://arxiv.org/abs/2609.38503v1)
+*Vipin P Veetil* — **arxiv**, 2026-09-29 — _Unclassified_
 
-This paper analyzes the relative efficiency of horizontal and vertical organizational structures modeled as communication networks under limited managerial attention. In this framework, workers receive noisy signals about the state of the world and communicate reports to a decision-maker whose meeting time relatively more constrained. The clarity of each report depends endogenously on meeting lengths and the workers' heterogeneous communication and processing abilities. When workers possess identical communication abilities, the horizontal structure is always optimal because it allows the deci...
-
----
-
-### [Delegation without Priors](https://arxiv.org/abs/2609.35156v1)
-*Wei He, Fei Li, Jiangtao Li, Hanqing Ye* — **arxiv**, 2026-09-28 — _Unclassified_
-
-A principal relies on information held by a biased agent in decision-making. Without a prior over the circumstances that may arise, she designs a delegation rule to minimize the worst-case regret. Optimal delegation combines a default action, a fixed gap above it, and a higher discretionary interval with random boundaries. This structure separates two margins: whether the decision departs from the default and how much discretion the agent receives conditional on doing so. The default and gap limit excessive adjustment when little adaptation is warranted, while the higher interval preserves fle...
+This paper develops a dynamic production-network model in which monetary non-neutrality emerges under fully flexible prices. Firms finance intermediate-input purchases from current nominal balances, and intermediate goods arrive with heterogeneous lead times across suppliers. A monetary shock then has two distinct effects. The first is miscoordination: because production uses dated input bundles assembled under past nominal conditions, the shock disturbs the composition of usable inputs (within and across firms) and thereby generates a deadweight loss. The second is reallocation: because the i...
 
 ---
 
-### [Blackwell Boundaries](https://arxiv.org/abs/2609.35062v1)
-*Shuo Li Liu* — **arxiv**, 2026-09-28 — _Unclassified_
+### [Maintaining Human Verification Capacity under Automation](https://arxiv.org/abs/2609.38459v1)
+*Li Gan, Eric Gan* — **arxiv**, 2026-09-29 — _Unclassified_
 
-We give a finite simplex theorem. When the number of states equals the number of source signals and the source posterior likelihood-ratio vectors form a simplex, Blackwell dominance is characterized by a universal barycentric-coordinate condition. We also give an explicit countable-state, countable-signal diagnostic-monitor theorem with a closed-form universal criterion and a closed-form garbling; tensorization yields dominance at every sample size. Finally, we provide a three-state, two-signal counterexample to the sufficiency conjectured by Mu, Pomatto, Strack, and Tamuz for their many-state...
+Human verification depends on expertise that must be maintained before it is needed. This paper links reliance on automated checks, investment in human checking ability, and performance during an interruption. Better checking lowers the error reduction gained from an extra unit of human skill while the checker works. It can therefore reduce the incentive to preserve independent expertise, even when it lowers the best achievable expected cost of maintenance and errors. In an illustration, a more informative checker raises detection while it works from \hoPowWorkA{} to \hoPowWorkC{} percent, but...
 
 ---
 
-## method:DiD
+### [When Does Randomized Oversight Align AI Agents That Can Conceal?](https://arxiv.org/abs/2609.38262v1)
+*Joshua S. Gans, Richard Holden* — **arxiv**, 2026-09-29 — _Unclassified_
 
-### [Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference](https://arxiv.org/abs/2602.07046)
-*Murad Farzulla* — **openalex ssrn**, 2026-09-28 — _method:DiD_
-
-Version 5.0.0 — replication package for the Digital Finance version. This version contains the code, data and stored numerical outputs of the final production version (revision 8, 3 September 2026) of the article Do Cryptocurrency Markets Differentiate Infrastructure from Regulatory Shocks? A Multi-Moment Event Study with Dependence-Robust Inference, forthcoming in Digital Finance (Springer). It is the source of record for every number in that article; earlier versions of this record carry preprint-stage results and should not be used to reproduce it. Contents. crypto-event-study-v5.0.0.zip is...
+Oversight changes the evidence it relies on. We ask when randomized audits and scoring align AI agents that can conceal misconduct and alter records. Stronger auditing makes undeterred violations better hidden. Because the provider writes the agent's objective, sanctions need not stop at forfeiture, and rare audits deter every type of agent if evidence survives concealment and audit draws cannot be learned in advance. When evidence can be erased, deterrence must come from lower gains from violation, such as credit for stopping, or from costlier or fewer ways to conceal. These conditions identi...
 
 ---
 
 ## method:Theory
 
-### [Optimal Project Management](https://arxiv.org/abs/2609.35238v1)
-*Alessandro Bonatti, Doruk Cetemen, Juuso Toikka* — **arxiv**, 2026-09-28 — _method:Theory_
+### [Pair rationality and top trading cycles on single-peaked and single-dipped domains](https://arxiv.org/abs/2609.39163v1)
+*Özgün Ekici, M. Bumin Yenmez* — **arxiv**, 2026-09-30 — _method:Theory_
 
-We study optimal dynamic contracts for long-term projects where a risk-averse agent exerts hidden effort to increase the drift of a Brownian process toward a com- pletion threshold. Relative to the first best, the optimal contract slows progress, makes success less likely, induces earlier termination, and narrows project scope. Allowing for costly project resets generates further distortions: resets may be excessive or insufficient depending on the residual effort required afterwards. With endogenous risk taking, optimal incentives introduce penalties for failure and reduce rewards for effort ...
-
----
-
-### [The Double-Edged Sword of Information: Revealed versus Hidden Lotteries in School Choice](https://arxiv.org/abs/2609.34074v1)
-*Parinaz Naghizadeh, Jingyan Wang* — **arxiv**, 2026-09-28 — _method:Theory_
-
-In school choice, a lottery number is often used by the matching mechanism to break ties when there are more students who prefer the same school than the number of seats available. There has been growing theoretical and empirical interest in understanding the impact of revealing the lottery number to students. In practice, in recent years, the NYC Public Schools started revealing the lottery number to students to improve transparency. Theoretical findings from prior literature also suggest that revealing the lottery number strictly improves the number of matches under the deferred acceptance a...
+In a recent study, Ekici and Yenmez (2026) characterize top trading cycles (TTC) on the unrestricted domain by strategy-proofness, individual rationality, and pair rationality, uncovering a correspondence between the axiomatic foundations of TTC and deferred acceptance, matching theory's two canonical rules. We show that their characterization fails on the single-peaked domain, but it holds on the single-dipped domain even without strategy-proofness. They also show that pair rationality can be replaced in their characterization by two weaker conditions concerning agents' first and second choic...
 
 ---

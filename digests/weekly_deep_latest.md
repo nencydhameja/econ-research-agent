@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-09-30
+# Weekly Deep-Reading Queue — week of 2026-10-01
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -38,38 +38,38 @@ Network reconstruction from partial information is usually performed at the same
 
 ---
 
-## 5. Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach
+## 5. FinRegQA-EU: Corruption-Based Preference Data for Grounded EU Financial Regulatory Question Answering
 
-### [Testing for Unobserved Heterogeneity in Censored Duration Models: EM Approach](https://arxiv.org/abs/2609.36824v1)
-*Hiroyuki Kasahara, Hirokazu Matsuyama, Katsumi Shimotsu, Shota Takeishi* — **arxiv**, 2026-09-29 — _Unclassified_
+### [FinRegQA-EU: Corruption-Based Preference Data for Grounded EU Financial Regulatory Question Answering](https://doi.org/10.48550/arxiv.2609.36856)
+*Aulia Kharis Rakhmasari, Fan Yu, Alexander Hoyle, Elliot Ash* — **openalex ssrn**, 2026-09-29 — _Financial Economics, International Economics, Law & Economics_
 
-Ignoring unobserved heterogeneity in duration models biases parameter estimates and invalidates inference, but testing for it is non-regular: the null hypothesis lies on the boundary of the parameter space and some parameters are unidentified under the null. These features render standard asymptotic theory inapplicable. This paper develops an EM test for unobserved heterogeneity in censored Weibull duration models, building on the EM approach of Li, Chen, and Marriott (2009). The test statistic has an asymptotic null distribution equal to the square of max{0, N(0,1)}, hence critical values req...
-
----
-
-## 6. When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion
-
-### [When One Leak Pays Forever: Context Binding and the Price of Deterring Collusion](https://arxiv.org/abs/2609.36667v1)
-*Tingyi Lin, Shawn Yu, Ruoran Lai, Huanxi Zhang* — **arxiv**, 2026-09-29 — _Political Economy_
-
-A coalition that deviates once can profit many times when what it sells keeps working. In a threshold-encrypted mempool, a leading defense against maximal extractable value (MEV), a quorum of the decryption committee that sells its decryption capability to a front-runner exposes every later block that the capability still decrypts. We ask how large a penalty, such as slashable stake, deters this kind of collusion. In our repeated game, a single leak by any coalition in a monotone family of authorized coalitions (for example, any $k$ of the $n$ committee members) unlocks a set of future rounds,...
+Large Language Models (LLMs) struggle with region-specific factual knowledge, particularly in financial regulation. While benchmarks such as CFinBench, provide broad coverage of financial knowledge in other regions, no comparable resource exists for European financial regulation. We close this gap by proposing an end-to-end pipeline for evaluating and improving LLMs on European financial regulatory question answering. Our dataset is grounded in the official Q&A corpora of the European Banking Authority (EBA) and the European Securities and Markets Authority (ESMA). We evaluate candidate answer...
 
 ---
 
-## 7. Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval
+## 6. Not All LPs Are Equal: The Active-Passive Gap in Automated Market Maker Liquidity Provision
 
-### [Classification as Search Infrastructure: How Category Creation, Addition and Cleanup Shape Knowledge Retrieval](https://arxiv.org/abs/2609.37343v1)
-*Kerstin Hötte, Nicolò Barbieri, Su Jung Jee* — **arxiv**, 2026-09-29 — _Business Economics & Innovation_
+### [Not All LPs Are Equal: The Active-Passive Gap in Automated Market Maker Liquidity Provision](https://doi.org/10.48550/arxiv.2609.37963)
+*Agathe Sadeghi, Dingyue Liu, Ciamac Moallemi, Xin Wan et al.* — **openalex ssrn**, 2026-09-29 — _Unclassified_
 
-Classification systems shape how searchers find relevant objects. We study how revisions to classification architecture affect retrieval by changing the routes through which objects enter consideration. We theorize that creating a cross-cutting category can reduce classificatory distance and translation costs, whereas adding routes to an established system can increase route-selection and updating costs; category cleanup can restore contrast. Empirically, we exploit the 2013 creation and 2020 revision of Y02/Y04 green-technology codes in the Cooperative Patent Classification. We match treated ...
+Liquidity provision in automated market makers is typically analyzed at the pool level, implicitly assuming LP homogeneity. This aggregate view can hide how liquidity provision outcomes differ between LP strategies, particularly as concentrated liquidity AMM designs operating on high-performance blockchains allow liquidity to be actively repositioned around trades. We develop a markout-based framework to decompose Uniswap LP profitability into active and passive components using two complementary methods: a LIFO subtraction method that matches short-lived mint-burn positions and attributes swa...
 
 ---
 
-## 8. Optimal Networks for Agentic Information Aggregation
+## 7. Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change
 
-### [Optimal Networks for Agentic Information Aggregation](https://arxiv.org/abs/2609.35537v1)
-*MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz et al.* — **arxiv**, 2026-09-28 — _Unclassified_
+### [Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](https://doi.org/10.48550/arxiv.2609.36739)
+*Bravish Ghosh* — **openalex ssrn**, 2026-09-29 — _Unclassified_
 
-We study information aggregation in the networked learning model introduced by Kearns, Roth, and Ryu (SODA 2026). There is a fixed distribution over $d$ features and a common label. Agents learn in topological order on a directed acyclic graph. Each observes a subset of the features and its parents' predictions, fits a linear predictor to minimize mean squared error, and passes only its prediction forward. The global predictor is the best linear predictor using all features. Kearns, Roth, and Ryu show that the output agent's error approaches the global predictor's error along sufficiently deep...
+Multi-agent LLM systems are increasingly structured like organizations, with roles, critics and shared memory, yet they are evaluated on tasks that last minutes. We ask how such an organization behaves when the ground it stands on keeps moving. Frontier Autolab is a long-horizon testbed in which one simulated firm, voiced by sixteen role personas and a dedicated Red Team, must re-found itself in nine technology eras from 1990 to 2040. Each era is temporally gated: the firm decides from a dated briefing, a historian-judge then reveals what happened and scores the decision on a five-dimension ru...
+
+---
+
+## 8. Non-Linear Pricing Restores Tractability for a Data Seller
+
+### [Non-Linear Pricing Restores Tractability for a Data Seller](https://doi.org/10.48550/arxiv.2609.36589)
+*Bhaskar Ray Chaudhury, Jugal Garg, Eklavya Sharma, Jiaxin Song* — **openalex ssrn**, 2026-09-29 — _International Economics_
+
+We consider a data seller who designs pricing mechanisms over multiple datasets to maximize revenue from budget-constrained buyers. The seller offers multiple datasets and assigns each a pricing function that maps the quantity purchased to a total payment. The goal is to design these pricing functions to maximize revenue, anticipating that buyers---who trade off accuracy gains against cost---choose bundles optimally subject to their budget constraints. Prior work [Chaudhury et al., 2026] studies such optimal pricing under the restriction that each dataset is assigned a linear price, and shows ...
 
 ---
