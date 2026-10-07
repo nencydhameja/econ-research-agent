@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-10-06
+# Economics Research Digest — 2026-10-07
 
 Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
 
@@ -85,7 +85,7 @@ Journal of Political Economy, Ahead of Print.
 ### [The Politicization of Social Responsibility](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R)
 *TODD A. GORMLEY, 
 MANISH JHA, 
-MENG WANG* — **Journal of Finance**, 2026-10-01 — _Unclassified_
+MENG WANG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 

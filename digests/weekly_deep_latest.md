@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-06
+# Weekly Deep-Reading Queue — week of 2026-10-07
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,35 +47,37 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 6. Locally Robust Semiparametrically Efficient Bayesian Inference
+## 6. The Politicization of Social Responsibility
 
-### [Locally Robust Semiparametrically Efficient Bayesian Inference](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23242?af=R)
-*Ulrich Müller, 
-Andriy Norets* — **Econometrica**, 2026-09-22 — _Unclassified_
+### [The Politicization of Social Responsibility](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R)
+*TODD A. GORMLEY, 
+MANISH JHA, 
+MENG WANG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
 
-Econometrica, Volume 94, Issue 5, Page 1761-1777, September 2026.
-
----
-
-## 7. Promoting Women to Managerial Roles in the Bangladeshi Garment Sector
-
-### [Promoting Women to Managerial Roles in the Bangladeshi Garment Sector](https://onlinelibrary.wiley.com/doi/10.3982/ECTA18759?af=R)
-*Rocco Macchiavello, 
-Andreas Menzel, 
-Atonu Rabbani, 
-Christopher Woodruff* — **Econometrica**, 2026-09-22 — _Unclassified_
-
-Econometrica, Volume 94, Issue 5, Page 1685-1716, September 2026.
+The Journal of Finance, EarlyView.
 
 ---
 
-## 8. The Role of Trade in Premature Deindustrialization and Industry Polarization
+## 7. The Real Channel for Nominal Bond‐Stock Puzzles
 
-### [The Role of Trade in Premature Deindustrialization and Industry Polarization](https://onlinelibrary.wiley.com/doi/10.3982/ECTA20428?af=R)
-*Michael Sposi, 
-Kei‐Mu Yi, 
-Jing Zhang* — **Econometrica**, 2026-09-22 — _International Economics_
+### [The Real Channel for Nominal Bond‐Stock Puzzles](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092?af=R)
+*MIKHAIL CHERNOV, 
+LARS A. LOCHSTOER, 
+DONGHO SONG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
 
-Econometrica, Volume 94, Issue 5, Page 1779-1815, September 2026.
+The Journal of Finance, EarlyView.
+
+---
+
+## 8. Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers
+
+### [Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R)
+*CARLO ALTAVILLA, 
+MIGUEL BOUCINHA, 
+MARTINA JASOVA, 
+JOSÉ‐LUIS PEYDRÓ, 
+FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
+
+The Journal of Finance, EarlyView.
 
 ---
