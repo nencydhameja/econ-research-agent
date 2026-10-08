@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-07
+# Weekly Deep-Reading Queue — week of 2026-10-08
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,36 +47,31 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 6. The Politicization of Social Responsibility
+## 6. The Financial Premium
 
-### [The Politicization of Social Responsibility](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R)
-*TODD A. GORMLEY, 
-MANISH JHA, 
-MENG WANG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 7. The Real Channel for Nominal Bond‐Stock Puzzles
-
-### [The Real Channel for Nominal Bond‐Stock Puzzles](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092?af=R)
-*MIKHAIL CHERNOV, 
-LARS A. LOCHSTOER, 
-DONGHO SONG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
+### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
+*JENS DICK‐NIELSEN, 
+PETER FELDHÜTTER, 
+DAVID LANDO* — **Journal of Finance**, 2026-10-08 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers
+## 7. Flow‐Driven ESG Returns
 
-### [Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R)
-*CARLO ALTAVILLA, 
-MIGUEL BOUCINHA, 
-MARTINA JASOVA, 
-JOSÉ‐LUIS PEYDRÓ, 
-FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
+### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
+*PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 8. When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective
+
+### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
+*VIRAL V. ACHARYA, 
+TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 

@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-10-07
+# Economics Research Digest — 2026-10-08
 
 Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
 
@@ -73,14 +73,38 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Silence to Solidarity: How Communication about a Minority Affects Discrimination](https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R)
-*Duncan WebbNova School of Business and Economics* — **Journal of Political Economy**, 2026-09-22 — _Political Economy_
+## Unclassified
 
-Journal of Political Economy, Ahead of Print.
+### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
+*JENS DICK‐NIELSEN, 
+PETER FELDHÜTTER, 
+DAVID LANDO* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
 
 ---
 
-## Unclassified
+### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
+*PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
+*VIRAL V. ACHARYA, 
+TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Targeted Philanthropy: Evidence from M&As](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090?af=R)
+*CARA VANSTEENKISTE* — **Journal of Finance**, 2026-10-07 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [The Politicization of Social Responsibility](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R)
 *TODD A. GORMLEY, 
@@ -230,27 +254,5 @@ BENJAMIN IVERSON,
 XIANG ZHENG* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 2493-2542, October 2026.
-
----
-
-### [Backmatter of Econometrica Vol. 94 Iss. 5](https://onlinelibrary.wiley.com/doi/10.3982/ECTA945BM?af=R)
-** — **Econometrica**, 2026-09-22 — _Unclassified_
-
-Econometrica, Volume 94, Issue 5, Page iii-v, September 2026.
-
----
-
-### [Frontmatter of Econometrica 94 Iss. 5](https://onlinelibrary.wiley.com/doi/10.3982/ECTA945FM?af=R)
-** — **Econometrica**, 2026-09-22 — _Unclassified_
-
-Econometrica, Volume 94, Issue 5, Page i-ii, September 2026.
-
----
-
-### [Locally Robust Semiparametrically Efficient Bayesian Inference](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23242?af=R)
-*Ulrich Müller, 
-Andriy Norets* — **Econometrica**, 2026-09-22 — _Unclassified_
-
-Econometrica, Volume 94, Issue 5, Page 1761-1777, September 2026.
 
 ---
