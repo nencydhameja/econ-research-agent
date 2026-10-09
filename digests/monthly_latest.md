@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-10-08
+# Economics Research Digest — 2026-10-09
 
 Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
 
@@ -75,6 +75,16 @@ Journal of Political Economy, Ahead of Print.
 
 ## Unclassified
 
+### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
+*ANDREA L. EISFELDT, 
+GREGOR SCHUBERT, 
+MIAO BEN ZHANG, 
+BLEDI TASKA* — **Journal of Finance**, 2026-10-09 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
 *JENS DICK‐NIELSEN, 
 PETER FELDHÜTTER, 
@@ -86,6 +96,16 @@ The Journal of Finance, EarlyView.
 
 ### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
 *PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+### [Feedback and Contagion through Distressed Competition](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R)
+*HUI CHEN, 
+WINSTON WEI DOU, 
+HONGYE GUO, 
+YAN JI* — **Journal of Finance**, 2026-10-08 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
@@ -236,23 +256,5 @@ The Journal of Finance, Volume 81, Issue 5, Page 3035-3086, October 2026.
 *KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 2649-2686, October 2026.
-
----
-
-### [Marginal Q](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R)
-*VITO D. GALA, 
-JOAO F. GOMES, 
-TONG LIU* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2853-2886, October 2026.
-
----
-
-### [Can Small Businesses Survive Chapter 11?](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R)
-*EDITH HOTCHKISS, 
-BENJAMIN IVERSON, 
-XIANG ZHENG* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2493-2542, October 2026.
 
 ---

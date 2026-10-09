@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-08
+# Weekly Deep-Reading Queue — week of 2026-10-09
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,7 +47,19 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 6. The Financial Premium
+## 6. Generative AI and Firm Values
+
+### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
+*ANDREA L. EISFELDT, 
+GREGOR SCHUBERT, 
+MIAO BEN ZHANG, 
+BLEDI TASKA* — **Journal of Finance**, 2026-10-09 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 7. The Financial Premium
 
 ### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
 *JENS DICK‐NIELSEN, 
@@ -58,20 +70,10 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Flow‐Driven ESG Returns
+## 8. Flow‐Driven ESG Returns
 
 ### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
 *PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective
-
-### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
-*VIRAL V. ACHARYA, 
-TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
