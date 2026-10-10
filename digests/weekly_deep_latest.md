@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-09
+# Weekly Deep-Reading Queue — week of 2026-10-10
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -38,16 +38,7 @@ Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 202
 
 ---
 
-## 5. Why Is Intermediating Houses So Difficult? Evidence from iBuyers
-
-### [Why Is Intermediating Houses So Difficult? Evidence from iBuyers](https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R)
-*Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
-## 6. Generative AI and Firm Values
+## 5. Generative AI and Firm Values
 
 ### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
 *ANDREA L. EISFELDT, 
@@ -59,7 +50,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. The Financial Premium
+## 6. The Financial Premium
 
 ### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
 *JENS DICK‐NIELSEN, 
@@ -70,10 +61,22 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Flow‐Driven ESG Returns
+## 7. Flow‐Driven ESG Returns
 
 ### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
 *PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 8. Feedback and Contagion through Distressed Competition
+
+### [Feedback and Contagion through Distressed Competition](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R)
+*HUI CHEN, 
+WINSTON WEI DOU, 
+HONGYE GUO, 
+YAN JI* — **Journal of Finance**, 2026-10-08 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
