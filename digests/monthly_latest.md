@@ -38,6 +38,13 @@ The Journal of Finance, EarlyView.
 
 ## Political Economy
 
+### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
+*Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
 ### [Online Business Models, Digital Ads, and User Welfare](https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R)
 *Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth* — **Journal of Political Economy**, 2026-09-30 — _Political Economy_
 
@@ -249,12 +256,5 @@ SÉBASTIEN PLANTE,
 PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 3035-3086, October 2026.
-
----
-
-### [Personal Costs of Executive Turnovers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R)
-*KASPER MEISNER NIELSEN* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2649-2686, October 2026.
 
 ---
