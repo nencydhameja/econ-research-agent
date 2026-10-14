@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-13
+# Weekly Deep-Reading Queue — week of 2026-10-14
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -20,7 +20,19 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 3. Generative AI and Firm Values
+## 3. Risk, Specialization, and Covered‐Interest Parity
+
+### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
+*TOBIAS J. MOSKOWITZ, 
+CHASE P. ROSS, 
+SHARON Y. ROSS, 
+KAUSHIK VASUDEVAN* — **Journal of Finance**, 2026-10-13 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 4. Generative AI and Firm Values
 
 ### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
 *ANDREA L. EISFELDT, 
@@ -32,7 +44,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 4. The Financial Premium
+## 5. The Financial Premium
 
 ### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
 *JENS DICK‐NIELSEN, 
@@ -43,7 +55,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. Flow‐Driven ESG Returns
+## 6. Flow‐Driven ESG Returns
 
 ### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
 *PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
@@ -52,7 +64,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Feedback and Contagion through Distressed Competition
+## 7. Feedback and Contagion through Distressed Competition
 
 ### [Feedback and Contagion through Distressed Competition](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R)
 *HUI CHEN, 
@@ -64,20 +76,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 7. When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective
+## 8. When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective
 
 ### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
 *VIRAL V. ACHARYA, 
 TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. Targeted Philanthropy: Evidence from M&As
-
-### [Targeted Philanthropy: Evidence from M&As](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090?af=R)
-*CARA VANSTEENKISTE* — **Journal of Finance**, 2026-10-07 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 

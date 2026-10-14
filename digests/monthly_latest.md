@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-10-13
+# Economics Research Digest — 2026-10-14
 
 Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
 
@@ -81,6 +81,16 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ## Unclassified
+
+### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
+*TOBIAS J. MOSKOWITZ, 
+CHASE P. ROSS, 
+SHARON Y. ROSS, 
+KAUSHIK VASUDEVAN* — **Journal of Finance**, 2026-10-13 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
 *ANDREA L. EISFELDT, 
@@ -246,15 +256,5 @@ The Journal of Finance, Volume 81, Issue 5, Page 3087-3126, October 2026.
 NADYA MALENKO* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 2543-2594, October 2026.
-
----
-
-### [Sequential Search for Corporate Bonds](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R)
-*MAHYAR KARGAR, 
-BENJAMIN LESTER, 
-SÉBASTIEN PLANTE, 
-PIERRE‐OLIVIER WEILL* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 3035-3086, October 2026.
 
 ---
