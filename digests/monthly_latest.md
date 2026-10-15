@@ -1,4 +1,4 @@
-# Economics Research Digest — 2026-10-14
+# Economics Research Digest — 2026-10-15
 
 Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
 
@@ -81,6 +81,15 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ## Unclassified
+
+### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
+*MICHELE BISCEGLIA, 
+ALESSIO PICCOLO, 
+JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
 *TOBIAS J. MOSKOWITZ, 
@@ -248,13 +257,5 @@ The Journal of Finance, Volume 81, Issue 5, Page 2595-2648, October 2026.
 FERNANDO MENDO* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 3087-3126, October 2026.
-
----
-
-### [Board Dynamics over the Startup Life Cycle](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R)
-*MICHAEL EWENS, 
-NADYA MALENKO* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2543-2594, October 2026.
 
 ---

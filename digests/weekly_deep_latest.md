@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-14
+# Weekly Deep-Reading Queue — week of 2026-10-15
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -11,12 +11,14 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 2. Online Business Models, Digital Ads, and User Welfare
+## 2. Externalities of Responsible Investments
 
-### [Online Business Models, Digital Ads, and User Welfare](https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R)
-*Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth* — **Journal of Political Economy**, 2026-09-30 — _Political Economy_
+### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
+*MICHELE BISCEGLIA, 
+ALESSIO PICCOLO, 
+JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
 
-Journal of Political Economy, Ahead of Print.
+The Journal of Finance, EarlyView.
 
 ---
 
