@@ -13,16 +13,6 @@ The Journal of Finance, Volume 81, Issue 5, Page 2985-3034, October 2026.
 
 ---
 
-### [The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066?af=R)
-*RICARDO CORREA, 
-AI HE, 
-CHRISTOPH HERPFER, 
-UGUR LEL* — **Journal of Finance**, 2026-09-22 — _Agricultural & Environmental Economics_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2933-2984, October 2026.
-
----
-
 ## Financial Economics
 
 ### [Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R)
@@ -38,6 +28,27 @@ The Journal of Finance, EarlyView.
 
 ## Political Economy
 
+### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/744594?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page Inside front cover-i, October 2026.
+
+---
+
+### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/744299?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026.
+
+---
+
+### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/744595?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page Inside back cover-Inside back cover, October 2026.
+
+---
+
 ### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
 *Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
 
@@ -48,7 +59,7 @@ Journal of Political Economy, Ahead of Print.
 ### [Online Business Models, Digital Ads, and User Welfare](https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R)
 *Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth* — **Journal of Political Economy**, 2026-09-30 — _Political Economy_
 
-Journal of Political Economy, Ahead of Print.
+Journal of Political Economy, Volume 134, Issue 10, Page 3252-3305, October 2026.
 
 ---
 
@@ -76,7 +87,7 @@ Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 202
 ### [Why Is Intermediating Houses So Difficult? Evidence from iBuyers](https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R)
 *Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
 
-Journal of Political Economy, Ahead of Print.
+Journal of Political Economy, Volume 134, Issue 10, Page 3193-3251, October 2026.
 
 ---
 
@@ -242,20 +253,5 @@ FRANCISCO GOMES,
 PAOLO SODINI* — **Journal of Finance**, 2026-09-22 — _Unclassified_
 
 The Journal of Finance, Volume 81, Issue 5, Page 2773-2808, October 2026.
-
----
-
-### [M&As, Employee Costs, and Labor Reallocation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R)
-*SPYRIDON LAGARAS* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2595-2648, October 2026.
-
----
-
-### [Dynamic Self‐Fulfilling Fire Sales](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R)
-*PAYMON KHORRAMI, 
-FERNANDO MENDO* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 3087-3126, October 2026.
 
 ---

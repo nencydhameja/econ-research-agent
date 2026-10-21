@@ -2,7 +2,34 @@
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. The Demand for Mobility: Evidence from an Experiment with Uber Riders
+## 1. Recent Referees
+
+### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/744595?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page Inside back cover-Inside back cover, October 2026.
+
+---
+
+## 2. Front Matter
+
+### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/744594?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page Inside front cover-i, October 2026.
+
+---
+
+## 3. JPE Turnaround Times
+
+### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/744299?af=R)
+** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
+
+Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026.
+
+---
+
+## 4. The Demand for Mobility: Evidence from an Experiment with Uber Riders
 
 ### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
 *Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
@@ -11,7 +38,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 2. Externalities of Responsible Investments
+## 5. Externalities of Responsible Investments
 
 ### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
 *MICHELE BISCEGLIA, 
@@ -22,7 +49,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 3. Risk, Specialization, and Covered‐Interest Parity
+## 6. Risk, Specialization, and Covered‐Interest Parity
 
 ### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
 *TOBIAS J. MOSKOWITZ, 
@@ -34,7 +61,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 4. Generative AI and Firm Values
+## 7. Generative AI and Firm Values
 
 ### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
 *ANDREA L. EISFELDT, 
@@ -46,43 +73,12 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 5. The Financial Premium
+## 8. The Financial Premium
 
 ### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
 *JENS DICK‐NIELSEN, 
 PETER FELDHÜTTER, 
 DAVID LANDO* — **Journal of Finance**, 2026-10-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 6. Flow‐Driven ESG Returns
-
-### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
-*PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 7. Feedback and Contagion through Distressed Competition
-
-### [Feedback and Contagion through Distressed Competition](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R)
-*HUI CHEN, 
-WINSTON WEI DOU, 
-HONGYE GUO, 
-YAN JI* — **Journal of Finance**, 2026-10-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective
-
-### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
-*VIRAL V. ACHARYA, 
-TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
