@@ -1,15 +1,13 @@
-# Economics Research Digest — 2026-10-21
+# Economics Research Digest — 2026-10-22
 
-Window: last **30 days** · 30 papers across 4 fields · drawn from 1 sources.
+Window: last **30 days** · 30 papers across 5 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R)
-*CHEN LIN, 
-THOMAS SCHMID, 
-MICHAEL S. WEISBACH* — **Journal of Finance**, 2026-09-22 — _Agricultural & Environmental Economics_
+### [Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential](https://arxiv.org/abs/2610.29344v1)
+*Yuchen Liu, Stefan Pfenninger-Lee, Tosiyuki Nakaegawa, Takuro Kobashi* — **arxiv**, 2026-10-21 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics_
 
-The Journal of Finance, Volume 81, Issue 5, Page 2985-3034, October 2026.
+Rooftop photovoltaics (PV) can support rapid urban decarbonization, but their contribution is constrained by the imbalance between PV generation and demand, both shaped by local climate. Growing urban electric-vehicle (EV) deployment creates distributed storage near rooftop PV, shifting PV electricity across time. Here we simulate rooftop PV integrated with EVs as batteries across 5,000 grid cells globally, using hourly meteorology and climate-induced demand. We find that PV-EV systems can supply up to 84% of annual building and mobility electricity demand. Self-sufficiency is highest where da...
 
 ---
 
@@ -23,6 +21,15 @@ JOSÉ‐LUIS PEYDRÓ,
 FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
 
 The Journal of Finance, EarlyView.
+
+---
+
+## Microeconomics
+
+### [Demand Estimation for Rationally Inattentive Consumers](https://arxiv.org/abs/2610.29600v1)
+*Ruolei Zhu* — **arxiv**, 2026-10-21 — _Microeconomics, method:IV, method:Structural_
+
+We develop a rational-inattention BLP (RI-BLP) model for demand estimation from aggregate market shares, allowing for endogenous prices and unobserved preference heterogeneity. We establish conditions for uniqueness of market-share inversion and construct a simulated RI-BLP GMM estimator with instrumental-variable moments and market-share constraints. Under regularity and simulation-accuracy conditions, the estimator is consistent and asymptotically normal as the number of markets grows, with the number of products fixed. Monte Carlo experiments show accurate recovery of mean utility coefficie...
 
 ---
 
@@ -91,7 +98,22 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3193-3251, October 2026
 
 ---
 
+### [Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation](https://arxiv.org/abs/2610.29199v1)
+*Parisa Omidmand, Saeed Nosratabadi* — **arxiv**, 2026-10-21 — _Political Economy_
+
+Research on why people contribute to open source software (OSS) and related open collaboration platforms spans more than two decades, but its findings conflict, and studies often treat the work people contribute and their intention to keep contributing as interchangeable. Drawing on self-determination theory and motivation crowding theory, we meta-analyze 41 studies. The main analysis pools 178 correlations of eight antecedents with contribution effort and continuance intention from 29 independent samples (N = 9,632). Seven antecedents relate positively to effort, all eight relate positively t...
+
+---
+
 ## Unclassified
+
+### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
+*NED AUGENBLICK, 
+EBEN LAZARUS* — **Journal of Finance**, 2026-10-22 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
 *MICHELE BISCEGLIA, 
@@ -205,53 +227,23 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Twin Defaults and Bank Capital Requirements](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R)
-*CATERINA MENDICINO, 
-KALIN NIKOLOV, 
-JUAN RUBIO‐RAMIREZ, 
-JAVIER SUAREZ, 
-DOMINIK SUPERA* — **Journal of Finance**, 2026-09-22 — _Unclassified_
+### [Memory Manipulation](https://arxiv.org/abs/2610.29847v1)
+*Benson Tsz Kin Leung* — **arxiv**, 2026-10-21 — _Unclassified_
 
-The Journal of Finance, Volume 81, Issue 5, Page 2887-2932, October 2026.
+We study persuasion that works through memory: a manipulator alters the probabilities with which a Bayesian decision-maker recalls the signals he has received. The decision-maker corrects for the elevated or reduced probabilities of recalling different signals, and this correction disciplines what manipulation can achieve. Manipulation cannot move the average posterior. It backfires on decision-makers with few memories, whose sparse recall is evidence against the favored state, yet it is effective on those with many, who can be led to arbitrarily confident beliefs in the wrong state. It thicke...
 
 ---
 
-### [Learning to Navigate a New Financial Technology](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062?af=R)
-*EMILY BREZA, 
-MARTIN KANZ, 
-LEORA KLAPPER* — **Journal of Finance**, 2026-09-22 — _Unclassified_
+### [Policy Learning with Network-Shaping Assignments](https://arxiv.org/abs/2610.29221v1)
+*Zhenxiao Chen, Zhiheng You* — **arxiv**, 2026-10-21 — _Unclassified_
 
-The Journal of Finance, Volume 81, Issue 5, Page 2687-2728, October 2026.
+Many policies determine social arrangements whose effects depend on the relationships formed afterwards. We study how to learn such policies when a constrained joint action changes network formation and outcomes depend on exposures to the resulting network. Policy value integrates an outcome response over the distribution of post-assignment networks. The large number of feasible arrangements makes it difficult to evaluate policies directly from historical data. We therefore adopt a model-based approach that pools information across assignments to evaluate alternative arrangements. We character...
 
 ---
 
-### [Jay R. Ritter](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R)
-** — **Journal of Finance**, 2026-09-22 — _Unclassified_
+### [Revenue Guarantee Equivalence between Dominant-Strategy and Bayesian Mechanisms](https://arxiv.org/abs/2610.29208v1)
+*Nir Bachrach, Yi-Chun Chen, Inbal Talgam-Cohen, Xiangqian Yang et al.* — **arxiv**, 2026-10-21 — _Unclassified_
 
-The Journal of Finance, Volume 81, Issue 5, Page 2489-2492, October 2026.
-
----
-
-### [The Equilibrium Effects of Eviction Policies](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70046?af=R)
-*BOAZ ABRAMSON* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2809-2852, October 2026.
-
----
-
-### [Learning in the Limit: Income Inference from Credit Extensions](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70040?af=R)
-*XIAO YIN* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2729-2772, October 2026.
-
----
-
-### [The Cross‐Section of Household Preferences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R)
-*LAURENT E. CALVET, 
-JOHN Y. CAMPBELL, 
-FRANCISCO GOMES, 
-PAOLO SODINI* — **Journal of Finance**, 2026-09-22 — _Unclassified_
-
-The Journal of Finance, Volume 81, Issue 5, Page 2773-2808, October 2026.
+In auction design with limited information about bidders' value distributions, we provide an optimality foundation for dominant-strategy mechanisms. We show that simple dominant-strategy incentive compatible (DIC) mechanisms--either a second-price auction with a random reserve or the standard second-price auction without a reserve--achieve a revenue guarantee equal to the worst-case optimal revenue attainable by Bayesian incentive compatible (BIC) mechanisms, thereby establishing a robust form of DIC-BIC equivalence.
 
 ---
