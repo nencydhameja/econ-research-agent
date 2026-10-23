@@ -1,13 +1,22 @@
-# Economics Research Digest — 2026-10-22
+# Economics Research Digest — 2026-10-23
 
-Window: last **30 days** · 30 papers across 5 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
 
-## Agricultural & Environmental Economics
+## Business Economics & Innovation
 
-### [Climate-Driven Supply-Demand Matching Reshapes Global SolarEV Decarbonization Potential](https://arxiv.org/abs/2610.29344v1)
-*Yuchen Liu, Stefan Pfenninger-Lee, Tosiyuki Nakaegawa, Takuro Kobashi* — **arxiv**, 2026-10-21 — _Agricultural & Environmental Economics, Urban, Rural & Regional Economics_
+### [Beyond city pairs: Higher-order information in urban growth across borders](https://arxiv.org/abs/2610.31159v1)
+*Cillian Hourican, Debraj Roy* — **arxiv**, 2026-10-22 — _Business Economics & Innovation, Urban, Rural & Regional Economics_
 
-Rooftop photovoltaics (PV) can support rapid urban decarbonization, but their contribution is constrained by the imbalance between PV generation and demand, both shaped by local climate. Growing urban electric-vehicle (EV) deployment creates distributed storage near rooftop PV, shifting PV electricity across time. Here we simulate rooftop PV integrated with EVs as batteries across 5,000 grid cells globally, using hourly meteorology and climate-induced demand. We find that PV-EV systems can supply up to 84% of annual building and mobility electricity demand. Self-sufficiency is highest where da...
+We apply higher-order information measures to urban growth across borders and spatial units. We analyse 8,808 functional urban areas using gridded GDP estimates allocated from national accounts. Negative estimated O-information occurs in 29.93% of cross-border triplets and 2.00% of domestic triplets. This fifteen-fold contrast falls to fourfold at comparable dependence strength and persists under data-quality restrictions. Target-specific decompositions show how information overlaps or combines across cities. Administrative subdivisions have mean O-information within matched random-map ranges ...
+
+---
+
+## Econometrics & Methods
+
+### [Causal inference in staggered adoption panels: The correct comparison set depends on your intervention](https://arxiv.org/abs/2610.31537v1)
+*Ian Lundberg, Yaling Xu* — **arxiv**, 2026-10-22 — _Econometrics & Methods, method:DiD, method:Synthetic Control_
+
+A powerful data structure for causal inference is staggered adoption: many units are observed over many time periods, during which some units adopt an irreversible treatment at various time points while others remain untreated. Popular methods that apply in this setting include difference in difference, fixed effects, matching, and synthetic control. All of these methods compare the future outcomes of treatment adopters and non-adopters to answer the question: for units who adopt treatment, what outcomes would have been realized if they had remained untreated? We show that this question actual...
 
 ---
 
@@ -21,15 +30,6 @@ JOSÉ‐LUIS PEYDRÓ,
 FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
 
 The Journal of Finance, EarlyView.
-
----
-
-## Microeconomics
-
-### [Demand Estimation for Rationally Inattentive Consumers](https://arxiv.org/abs/2610.29600v1)
-*Ruolei Zhu* — **arxiv**, 2026-10-21 — _Microeconomics, method:IV, method:Structural_
-
-We develop a rational-inattention BLP (RI-BLP) model for demand estimation from aggregate market shares, allowing for endogenous prices and unobserved preference heterogeneity. We establish conditions for uniqueness of market-share inversion and construct a simulated RI-BLP GMM estimator with instrumental-variable moments and market-share constraints. Under regularity and simulation-accuracy conditions, the estimator is consistent and asymptotically normal as the number of markets grows, with the number of products fixed. Monte Carlo experiments show accurate recovery of mean utility coefficie...
 
 ---
 
@@ -95,13 +95,6 @@ Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 202
 *Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
 
 Journal of Political Economy, Volume 134, Issue 10, Page 3193-3251, October 2026.
-
----
-
-### [Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation](https://arxiv.org/abs/2610.29199v1)
-*Parisa Omidmand, Saeed Nosratabadi* — **arxiv**, 2026-10-21 — _Political Economy_
-
-Research on why people contribute to open source software (OSS) and related open collaboration platforms spans more than two decades, but its findings conflict, and studies often treat the work people contribute and their intention to keep contributing as interchangeable. Drawing on self-determination theory and motivation crowding theory, we meta-analyze 41 studies. The main analysis pools 178 correlations of eight antecedents with contribution effort and continuance intention from 29 independent samples (N = 9,632). Seven antecedents relate positively to effort, all eight relate positively t...
 
 ---
 
@@ -227,23 +220,32 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Memory Manipulation](https://arxiv.org/abs/2610.29847v1)
-*Benson Tsz Kin Leung* — **arxiv**, 2026-10-21 — _Unclassified_
+### [A Resource Allocation Tournament](https://arxiv.org/abs/2610.31418v1)
+*Adam Nathaniel, Refael Hassin* — **arxiv**, 2026-10-22 — _Unclassified_
 
-We study persuasion that works through memory: a manipulator alters the probabilities with which a Bayesian decision-maker recalls the signals he has received. The decision-maker corrects for the elevated or reduced probabilities of recalling different signals, and this correction disciplines what manipulation can achieve. Manipulation cannot move the average posterior. It backfires on decision-makers with few memories, whose sparse recall is evidence against the favored state, yet it is effective on those with many, who can be led to arbitrarily confident beliefs in the wrong state. It thicke...
-
----
-
-### [Policy Learning with Network-Shaping Assignments](https://arxiv.org/abs/2610.29221v1)
-*Zhenxiao Chen, Zhiheng You* — **arxiv**, 2026-10-21 — _Unclassified_
-
-Many policies determine social arrangements whose effects depend on the relationships formed afterwards. We study how to learn such policies when a constrained joint action changes network formation and outcomes depend on exposures to the resulting network. Policy value integrates an outcome response over the distribution of post-assignment networks. The large number of feasible arrangements makes it difficult to evaluate policies directly from historical data. We therefore adopt a model-based approach that pools information across assignments to evaluate alternative arrangements. We character...
+We introduce and analyze a round-robin simultaneous resource allocation contest, motivated by sports leagues and other competitive environments where agents must distribute limited resources across multiple encounters. Players allocate resources in advance to matches against all opponents, and match outcomes are determined by relative allocations. We study two payoff schemes: total points, where players accumulate rewards for each win, and winner-takes-all, where only the tournament winner is rewarded. For three players, we provide complete equilibrium characterizations under both schemes. For...
 
 ---
 
-### [Revenue Guarantee Equivalence between Dominant-Strategy and Bayesian Mechanisms](https://arxiv.org/abs/2610.29208v1)
-*Nir Bachrach, Yi-Chun Chen, Inbal Talgam-Cohen, Xiangqian Yang et al.* — **arxiv**, 2026-10-21 — _Unclassified_
+### [Testing for peer effects in short panels without identifying the network structure](https://arxiv.org/abs/2610.31106v1)
+*Tom Boot, Artūras Juodis* — **arxiv**, 2026-10-22 — _Unclassified_
 
-In auction design with limited information about bidders' value distributions, we provide an optimality foundation for dominant-strategy mechanisms. We show that simple dominant-strategy incentive compatible (DIC) mechanisms--either a second-price auction with a random reserve or the standard second-price auction without a reserve--achieve a revenue guarantee equal to the worst-case optimal revenue attainable by Bayesian incentive compatible (BIC) mechanisms, thereby establishing a robust form of DIC-BIC equivalence.
+We propose an instrument-based test for peer effects in short-T panels when the underlying network is unknown. The test avoids estimating the network by aggregating pairwise comparisons between covariate-projected outcomes of potential peers and residualized own outcomes. The statistic is designed for fixed-T, large-N settings with individual fixed effects, heterogeneous slopes, heteroskedasticity, and serial dependence within units. We also develop a weighted extension that accounts for additive common time effects. The limiting distribution is standard Gaussian when the norm of the projected...
+
+---
+
+### [The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis](https://arxiv.org/abs/2610.30886v1)
+*Marco Taboga* — **arxiv**, 2026-10-22 — _Unclassified_
+
+This paper compares financial-market reactions to the releases of DeepSeek R1 in January 2025 and Kimi K3 in July 2026. Both AI models were presented as credible Chinese competitors near the capability frontier, but their releases conveyed different economic information. DeepSeek R1 combined open weights with unusually low reported training and inference costs, prompting investors to reassess expected demand for computing infrastructure and producing large stock-price decreases among semiconductor and data-centre-related firms. Kimi K3 instead entered at broadly frontier prices and generated a...
+
+---
+
+## method:Theory
+
+### [Risk Sensitivity and Stationary Equilibrium in Incomplete Markets](https://arxiv.org/abs/2610.30956v1)
+*Qingyin Ma, John Stachurski, Bin Wu* — **arxiv**, 2026-10-22 — _method:Theory_
+
+We study stationary equilibrium and comparative statics in an incomplete market economy with risk-sensitive preferences. We prove that a stationary equilibrium exists for every nonnegative degree of risk sensitivity. With independent income, greater risk sensitivity weakly raises aggregate saving at fixed prices and weakly lowers the smallest and the largest equilibrium interest rates. With stochastically monotone Markov income, these comparisons hold when the lower risk-sensitivity parameter is sufficiently small or the upper parameter sufficiently large. For pairs of intermediate values, how...
 
 ---
