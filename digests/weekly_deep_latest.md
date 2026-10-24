@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-23
+# Weekly Deep-Reading Queue — week of 2026-10-24
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -71,14 +71,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Generative AI and Firm Values
+## 8. Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?
 
-### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
-*ANDREA L. EISFELDT, 
-GREGOR SCHUBERT, 
-MIAO BEN ZHANG, 
-BLEDI TASKA* — **Journal of Finance**, 2026-10-09 — _Unclassified_
+### [Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?](https://arxiv.org/abs/2610.30858v1)
+*Amirreza Zeinali, Jon Saad-Falcon, Avanika Narayan, Mersad Abbasi et al.* — **arxiv**, 2026-10-22 — _Agricultural & Environmental Economics_
 
-The Journal of Finance, EarlyView.
+An AI system can produce more economically valuable work while delivering less value for the energy it consumes. We therefore ask: How much economic value does an AI system create per unit of energy consumed? We formalize economic value in two ways: (1) net dollar value, the output's dollar value minus AI-system execution cost, and (2) time saving, the expert's completion time minus the AI system's completion time. Dividing each by measured end-to-end energy yields Net Value per Joule (NVJ) and Time Saving per Joule (TSJ), reported in USD/MJ and hours/MJ. We study 220 public GDPval tasks acros...
 
 ---
