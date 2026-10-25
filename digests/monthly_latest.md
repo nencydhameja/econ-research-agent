@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-10-24
+# Economics Research Digest — 2026-10-25
 
-Window: last **30 days** · 30 papers across 6 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Business Economics & Innovation
 
@@ -30,6 +30,24 @@ JOSÉ‐LUIS PEYDRÓ,
 FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
 
 The Journal of Finance, EarlyView.
+
+---
+
+## Health, Education & Welfare
+
+### [Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?](https://www.journals.uchicago.edu/doi/abs/10.1086/743389?af=R)
+*David CardEric ChynLaura GiulianoUniversity of California, Berkeley, and National Bureau of Economic ResearchUniversity of Texas at Austin and National Bureau of Economic ResearchUniversity of California, Santa Cruz, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-22 — _Health, Education & Welfare, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+## International Economics
+
+### [From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions](https://www.journals.uchicago.edu/doi/abs/10.1086/743331?af=R)
+*Rodrigo AdãoCostas ArkolakisSharat GanapatiUniversity of Chicago Booth School of Business and National Bureau of Economic ResearchYale University and National Bureau of Economic ResearchGeorgetown University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-23 — _International Economics, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
 
 ---
 
@@ -231,21 +249,5 @@ We introduce and analyze a round-robin simultaneous resource allocation contest,
 *Tom Boot, Artūras Juodis* — **arxiv**, 2026-10-22 — _Unclassified_
 
 We propose an instrument-based test for peer effects in short-T panels when the underlying network is unknown. The test avoids estimating the network by aggregating pairwise comparisons between covariate-projected outcomes of potential peers and residualized own outcomes. The statistic is designed for fixed-T, large-N settings with individual fixed effects, heterogeneous slopes, heteroskedasticity, and serial dependence within units. We also develop a weighted extension that accounts for additive common time effects. The limiting distribution is standard Gaussian when the norm of the projected...
-
----
-
-### [The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis](https://arxiv.org/abs/2610.30886v1)
-*Marco Taboga* — **arxiv**, 2026-10-22 — _Unclassified_
-
-This paper compares financial-market reactions to the releases of DeepSeek R1 in January 2025 and Kimi K3 in July 2026. Both AI models were presented as credible Chinese competitors near the capability frontier, but their releases conveyed different economic information. DeepSeek R1 combined open weights with unusually low reported training and inference costs, prompting investors to reassess expected demand for computing infrastructure and producing large stock-price decreases among semiconductor and data-centre-related firms. Kimi K3 instead entered at broadly frontier prices and generated a...
-
----
-
-## method:Theory
-
-### [Risk Sensitivity and Stationary Equilibrium in Incomplete Markets](https://arxiv.org/abs/2610.30956v1)
-*Qingyin Ma, John Stachurski, Bin Wu* — **arxiv**, 2026-10-22 — _method:Theory_
-
-We study stationary equilibrium and comparative statics in an incomplete market economy with risk-sensitive preferences. We prove that a stationary equilibrium exists for every nonnegative degree of risk sensitivity. With independent income, greater risk sensitivity weakly raises aggregate saving at fixed prices and weakly lowers the smallest and the largest equilibrium interest rates. With stochastically monotone Markov income, these comparisons hold when the lower risk-sensitivity parameter is sufficiently small or the upper parameter sufficiently large. For pairs of intermediate values, how...
 
 ---

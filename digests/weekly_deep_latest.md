@@ -1,8 +1,26 @@
-# Weekly Deep-Reading Queue — week of 2026-10-24
+# Weekly Deep-Reading Queue — week of 2026-10-25
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
-## 1. Recent Referees
+## 1. From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions
+
+### [From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions](https://www.journals.uchicago.edu/doi/abs/10.1086/743331?af=R)
+*Rodrigo AdãoCostas ArkolakisSharat GanapatiUniversity of Chicago Booth School of Business and National Bureau of Economic ResearchYale University and National Bureau of Economic ResearchGeorgetown University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-23 — _International Economics, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+## 2. Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?
+
+### [Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?](https://www.journals.uchicago.edu/doi/abs/10.1086/743389?af=R)
+*David CardEric ChynLaura GiulianoUniversity of California, Berkeley, and National Bureau of Economic ResearchUniversity of Texas at Austin and National Bureau of Economic ResearchUniversity of California, Santa Cruz, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-22 — _Health, Education & Welfare, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+## 3. Recent Referees
 
 ### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/744595?af=R)
 ** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
@@ -11,7 +29,7 @@ Journal of Political Economy, Volume 134, Issue 10, Page Inside back cover-Insid
 
 ---
 
-## 2. Front Matter
+## 4. Front Matter
 
 ### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/744594?af=R)
 ** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
@@ -20,7 +38,7 @@ Journal of Political Economy, Volume 134, Issue 10, Page Inside front cover-i, O
 
 ---
 
-## 3. JPE Turnaround Times
+## 5. JPE Turnaround Times
 
 ### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/744299?af=R)
 ** — **Journal of Political Economy**, 2026-10-21 — _Political Economy_
@@ -29,7 +47,7 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026
 
 ---
 
-## 4. The Demand for Mobility: Evidence from an Experiment with Uber Riders
+## 6. The Demand for Mobility: Evidence from an Experiment with Uber Riders
 
 ### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
 *Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
@@ -38,7 +56,7 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 5. Excess Movement in Option‐Implied Beliefs
+## 7. Excess Movement in Option‐Implied Beliefs
 
 ### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
 *NED AUGENBLICK, 
@@ -48,7 +66,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 6. Externalities of Responsible Investments
+## 8. Externalities of Responsible Investments
 
 ### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
 *MICHELE BISCEGLIA, 
@@ -56,26 +74,5 @@ ALESSIO PICCOLO,
 JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
 
 The Journal of Finance, EarlyView.
-
----
-
-## 7. Risk, Specialization, and Covered‐Interest Parity
-
-### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
-*TOBIAS J. MOSKOWITZ, 
-CHASE P. ROSS, 
-SHARON Y. ROSS, 
-KAUSHIK VASUDEVAN* — **Journal of Finance**, 2026-10-13 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-## 8. Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?
-
-### [Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?](https://arxiv.org/abs/2610.30858v1)
-*Amirreza Zeinali, Jon Saad-Falcon, Avanika Narayan, Mersad Abbasi et al.* — **arxiv**, 2026-10-22 — _Agricultural & Environmental Economics_
-
-An AI system can produce more economically valuable work while delivering less value for the energy it consumes. We therefore ask: How much economic value does an AI system create per unit of energy consumed? We formalize economic value in two ways: (1) net dollar value, the output's dollar value minus AI-system execution cost, and (2) time saving, the expert's completion time minus the AI system's completion time. Dividing each by measured end-to-end energy yields Net Value per Joule (NVJ) and Time Saving per Joule (TSJ), reported in USD/MJ and hours/MJ. We study 220 public GDPval tasks acros...
 
 ---
