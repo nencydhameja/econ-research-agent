@@ -1,24 +1,6 @@
-# Economics Research Digest — 2026-10-25
+# Economics Research Digest — 2026-10-26
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
-
-## Business Economics & Innovation
-
-### [Beyond city pairs: Higher-order information in urban growth across borders](https://arxiv.org/abs/2610.31159v1)
-*Cillian Hourican, Debraj Roy* — **arxiv**, 2026-10-22 — _Business Economics & Innovation, Urban, Rural & Regional Economics_
-
-We apply higher-order information measures to urban growth across borders and spatial units. We analyse 8,808 functional urban areas using gridded GDP estimates allocated from national accounts. Negative estimated O-information occurs in 29.93% of cross-border triplets and 2.00% of domestic triplets. This fifteen-fold contrast falls to fourfold at comparable dependence strength and persists under data-quality restrictions. Target-specific decompositions show how information overlaps or combines across cities. Administrative subdivisions have mean O-information within matched random-map ranges ...
-
----
-
-## Econometrics & Methods
-
-### [Causal inference in staggered adoption panels: The correct comparison set depends on your intervention](https://arxiv.org/abs/2610.31537v1)
-*Ian Lundberg, Yaling Xu* — **arxiv**, 2026-10-22 — _Econometrics & Methods, method:DiD, method:Synthetic Control_
-
-A powerful data structure for causal inference is staggered adoption: many units are observed over many time periods, during which some units adopt an irreversible treatment at various time points while others remain untreated. Popular methods that apply in this setting include difference in difference, fixed effects, matching, and synthetic control. All of these methods compare the future outcomes of treatment adopters and non-adopters to answer the question: for units who adopt treatment, what outcomes would have been realized if they had remained untreated? We show that this question actual...
-
----
+Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 
 ## Financial Economics
 
@@ -42,12 +24,30 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+## Industrial Organization
+
+### [Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms](https://arxiv.org/abs/2610.32945v1)
+*Yuhang Ji, Fasheng Xu, Tianjun Feng* — **arxiv**, 2026-10-23 — _Industrial Organization, Microeconomics_
+
+Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises advertising returns. Three findings follow. First, when partly ad-supported and ad-free plans coexist, advertising can finance useful service for consumers who receive none under pure subscription. Lower effective quality in middle plans weakens the al...
+
+---
+
 ## International Economics
 
 ### [From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions](https://www.journals.uchicago.edu/doi/abs/10.1086/743331?af=R)
 *Rodrigo AdãoCostas ArkolakisSharat GanapatiUniversity of Chicago Booth School of Business and National Bureau of Economic ResearchYale University and National Bureau of Economic ResearchGeorgetown University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-23 — _International Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
+
+---
+
+## Macroeconomics
+
+### [Fiscal Dominance and Global Determinacy](https://arxiv.org/abs/2610.32963v1)
+*Alessandro Piergallini* — **arxiv**, 2026-10-23 — _Macroeconomics, Public Economics_
+
+The existing literature on monetary-fiscal policy interactions emphasizes that an active monetary/passive fiscal policy regime causes global indeterminacy of equilibrium, supporting liquidity traps and self-fulfilling hyperinflations as possible equilibrium outcomes. In a nonlinear New Keynesian model with costly price adjustment, I show that an analogous critique, with different global macroeconomic dynamics, extends to a passive monetary/active fiscal policy regime whenever the fiscal response to government liabilities is below the steady-state real interest rate but positive. In this case, ...
 
 ---
 
@@ -106,13 +106,6 @@ Journal of Political Economy, Volume 134, Issue 9, Page Inside back cover-Inside
 ** — **Journal of Political Economy**, 2026-09-28 — _Political Economy_
 
 Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 2026.
-
----
-
-### [Why Is Intermediating Houses So Difficult? Evidence from iBuyers](https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R)
-*Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-09-25 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 10, Page 3193-3251, October 2026.
 
 ---
 
@@ -238,16 +231,25 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [A Resource Allocation Tournament](https://arxiv.org/abs/2610.31418v1)
-*Adam Nathaniel, Refael Hassin* — **arxiv**, 2026-10-22 — _Unclassified_
+### [A metric on solutions of the bargaining problem](https://arxiv.org/abs/2610.32877v1)
+*Stefan Steinerberger* — **arxiv**, 2026-10-23 — _Unclassified_
 
-We introduce and analyze a round-robin simultaneous resource allocation contest, motivated by sports leagues and other competitive environments where agents must distribute limited resources across multiple encounters. Players allocate resources in advance to matches against all opponents, and match outcomes are determined by relative allocations. We study two payoff schemes: total points, where players accumulate rewards for each win, and winner-takes-all, where only the tournament winner is rewarded. For three players, we provide complete equilibrium characterizations under both schemes. For...
+We consider the classic bargaining problem: two players have to agree on a `fair' division $(x,y) \in Ω\subset \mathbb{R}_{\geq 0}^2$ which results in Player 1 receiving $x$ and Player 2 receiving $y$. The usual approach to this problem has been to impose a number of desirable axioms that a fair division should have and then conclude that the solution is uniquely defined by the axioms. We take an orthogonal view, avoid the discussion of axioms, and ask whether different and contradicting axioms may give rise to similar solutions. To this end, we define a natural metric on the space of solution...
 
 ---
 
-### [Testing for peer effects in short panels without identifying the network structure](https://arxiv.org/abs/2610.31106v1)
-*Tom Boot, Artūras Juodis* — **arxiv**, 2026-10-22 — _Unclassified_
+### [Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models](https://arxiv.org/abs/2610.32846v1)
+*Yelong Chen, Hua Jin, Yuxuan Ren* — **arxiv**, 2026-10-23 — _Unclassified_
 
-We propose an instrument-based test for peer effects in short-T panels when the underlying network is unknown. The test avoids estimating the network by aggregating pairwise comparisons between covariate-projected outcomes of potential peers and residualized own outcomes. The statistic is designed for fixed-T, large-N settings with individual fixed effects, heterogeneous slopes, heteroskedasticity, and serial dependence within units. We also develop a weighted extension that accounts for additive common time effects. The limiting distribution is standard Gaussian when the norm of the projected...
+We study estimation of the average partial effect (APE) in an irregular correlated random coefficients panel data model in which the time dimension equals the number of random coefficients, $T=p$, and the density function is degenerate. We extend Graham and Powell (2012) in two directions. First, we allow the density of $d_i=\det(X_i)$ to vanish or diverge at the origin at the polynomial rate $|d|^{a}$ with $a>-1$, and show that the aggregate time effects and the APE remain identified for every such $a$, extending earlier work studying the case $a = 0$. Second, we propose a three-step estimato...
+
+---
+
+## method:Theory
+
+### [Information Requirements for Resolving Implementation Impossibilities](https://arxiv.org/abs/2610.32958v1)
+*Yuta Nakamura* — **arxiv**, 2026-10-23 — _method:Theory_
+
+We develop a framework for assessing implementation impossibilities through the information required to resolve them. Domain covers describe information used to select a mechanism without restricting admissible preferences. Coarsening a cover weakens the required information. In quasi-linear public decision problems with a status quo, we study two impossibilities of dominant-strategy implementation: combining efficiency and individual rationality with either budget feasibility or budget balancedness. Under an interval cover based on bounds on maximal social surplus, we characterize the social ...
 
 ---
