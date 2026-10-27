@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-10-26
+# Economics Research Digest — 2026-10-27
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
 
 ## Financial Economics
 
@@ -24,12 +24,10 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## Industrial Organization
+### [Adequacy radii for stepped-wedge trials with time-varying effects](https://arxiv.org/abs/2610.35853v1)
+*Stanisław M. S. Halkiewicz, Sergey Alexeev* — **arxiv**, 2026-10-26 — _Health, Education & Welfare_
 
-### [Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms](https://arxiv.org/abs/2610.32945v1)
-*Yuhang Ji, Fasheng Xu, Tianjun Feng* — **arxiv**, 2026-10-23 — _Industrial Organization, Microeconomics_
-
-Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises advertising returns. Three findings follow. First, when partly ad-supported and ad-free plans coexist, advertising can finance useful service for consumers who receive none under pure subscription. Lower effective quality in middle plans weakens the al...
+Complete stepped-wedge designs guarantee eventual intervention delivery, but their final periods contain no concurrent controls. Under exposure-time heterogeneity this creates a design-analysis tension: a constant-effect analysis can be precise while targeting a design-dependent contrast, whereas an exposure-time indicator (ETI) analysis targets a prespecified time-averaged effect but may be much less precise. We develop an adequacy radius that quantifies the size of exposure-time heterogeneity compatible with a prespecified tolerance for estimand mismatch, and combine it with precision calcul...
 
 ---
 
@@ -42,12 +40,12 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## Macroeconomics
+## Microeconomics
 
-### [Fiscal Dominance and Global Determinacy](https://arxiv.org/abs/2610.32963v1)
-*Alessandro Piergallini* — **arxiv**, 2026-10-23 — _Macroeconomics, Public Economics_
+### [Self-Confirming Equilibrium under Model Misspecification](https://arxiv.org/abs/2610.35692v1)
+*Riccardo Formenti* — **arxiv**, 2026-10-26 — _Microeconomics_
 
-The existing literature on monetary-fiscal policy interactions emphasizes that an active monetary/passive fiscal policy regime causes global indeterminacy of equilibrium, supporting liquidity traps and self-fulfilling hyperinflations as possible equilibrium outcomes. In a nonlinear New Keynesian model with costly price adjustment, I show that an analogous critique, with different global macroeconomic dynamics, extends to a passive monetary/active fiscal policy regime whenever the fiscal response to government liabilities is below the steady-state real interest rate but positive. In this case, ...
+We study the steady states of games played recurrently within large anonymous populations of players who receive partial ex-post feedback about the play of their opponents. Departing from the classical Bayesian account, players do not trust their conjectures as a correct description of the strategic environment but consider them as approximations of a reality that is only partially modeled and partially observed. We introduce games with feedback and uncertainty attitudes, in which the normal-form structure is enriched with a profile of feedback functions and, for each player, a preference func...
 
 ---
 
@@ -231,25 +229,25 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [A metric on solutions of the bargaining problem](https://arxiv.org/abs/2610.32877v1)
-*Stefan Steinerberger* — **arxiv**, 2026-10-23 — _Unclassified_
+### [Model Selection for Off-Policy Evaluation via Pairwise Bellman Validation](https://arxiv.org/abs/2610.35748v1)
+*Lars van der Laan, Vasilis Syrgkanis, Nathan Kallus* — **arxiv**, 2026-10-26 — _Unclassified_
 
-We consider the classic bargaining problem: two players have to agree on a `fair' division $(x,y) \in Ω\subset \mathbb{R}_{\geq 0}^2$ which results in Player 1 receiving $x$ and Player 2 receiving $y$. The usual approach to this problem has been to impose a number of desirable axioms that a fair division should have and then conclude that the solution is uniquely defined by the axioms. We take an orthogonal view, avoid the discussion of axioms, and ask whether different and contradicting axioms may give rise to similar solutions. To this end, we define a natural metric on the space of solution...
-
----
-
-### [Local Polynomial Estimation in Irregular Correlated Random Coefficient Panel Data Models](https://arxiv.org/abs/2610.32846v1)
-*Yelong Chen, Hua Jin, Yuxuan Ren* — **arxiv**, 2026-10-23 — _Unclassified_
-
-We study estimation of the average partial effect (APE) in an irregular correlated random coefficients panel data model in which the time dimension equals the number of random coefficients, $T=p$, and the density function is degenerate. We extend Graham and Powell (2012) in two directions. First, we allow the density of $d_i=\det(X_i)$ to vanish or diverge at the origin at the polynomial rate $|d|^{a}$ with $a>-1$, and show that the aggregate time effects and the APE remain identified for every such $a$, extending earlier work studying the case $a = 0$. Second, we propose a three-step estimato...
+Model selection and hyperparameter tuning pose a central challenge in off-policy evaluation (OPE) because errors of fitted Q-functions and occupancy-ratio estimates cannot be directly evaluated from held-out transitions. Bellman-residual and minimax validation methods often require auxiliary regressions or optimization over separate critic classes, adding computational and tuning costs. We introduce pairwise Bellman validation (PBV), a tuning-free minimax procedure for selecting among finite classes of fitted Q-functions and occupancy-ratio estimators using held-out transitions. PBV constructs...
 
 ---
 
-## method:Theory
+### [Fuji: The Shape, Composition, and Spread of Demand Bursts on Robinhood Chain](https://arxiv.org/abs/2610.35738v1)
+*Pranay Anchuri* — **arxiv**, 2026-10-26 — _Unclassified_
 
-### [Information Requirements for Resolving Implementation Impossibilities](https://arxiv.org/abs/2610.32958v1)
-*Yuta Nakamura* — **arxiv**, 2026-10-23 — _method:Theory_
+Demand on blockchain-based marketplaces arrives in bursts and at a high rate. On these platforms the data are completely visible, which makes it feasible to compare the bursty demand against the usual load. The congestion manifests as an increased demand for gas, the primary resource a blockchain sells. Existing studies consider how to price the gas. The demand itself, and what it is made of during bursts, has not been measured. We measure it on Robinhood Chain, a layer-2 blockchain that quickly became a venue for trading tokenized equities and memecoins. We collected the data from every block...
 
-We develop a framework for assessing implementation impossibilities through the information required to resolve them. Domain covers describe information used to select a mechanism without restricting admissible preferences. Coarsening a cover weakens the required information. In quasi-linear public decision problems with a status quo, we study two impossibilities of dominant-strategy implementation: combining efficiency and individual rationality with either budget feasibility or budget balancedness. Under an interval cover based on bounds on maximal social surplus, we characterize the social ...
+---
+
+## method:IV
+
+### [AI in Econometric Theory: An Example](https://arxiv.org/abs/2610.35831v1)
+*Isaiah Andrews, Anna Mikusheva* — **arxiv**, 2026-10-26 — _method:IV_
+
+This note contains a story and a paper. The paper is about the admissibility of two-stage least squares with weak instruments, a topic we have worked on together since 2019. The story is about how we (or, rather, our LLMs) wrote the paper, and some thoughts on what this may mean for our field.
 
 ---
