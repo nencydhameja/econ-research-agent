@@ -1,6 +1,47 @@
-# Economics Research Digest — 2026-10-27
+# Economics Research Digest — 2026-10-28
 
-Window: last **30 days** · 30 papers across 7 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+
+## Agricultural & Environmental Economics
+
+### [Climate change, sea level rise, and the agricultural revolution](https://arxiv.org/abs/2610.37306v1)
+*Ridhika Mishra, Richard S. J. Tol* — **arxiv**, 2026-10-27 — _Agricultural & Environmental Economics_
+
+We test various hypotheses for the invention and spread of agriculture: higher temperatures, increased seasonality, carbon dioxide fertilization, sea level rise, and technological progress on the extensive margin. We successfully replicate Matranga (QJE 2024). His seasonality hypothesis survives alternative data, estimators, and competing hypotheses. Population density played a role in the invention of agriculture, while spatial diffusion was important for its spread. Sea level rise and climate change had a minor effect on the population density of the areas that first adopted agriculture. Ext...
+
+---
+
+### [Personal preference or system role? Battery swapping among UK electric vehicle users](https://arxiv.org/abs/2610.37269v1)
+*Janak Parmar, Huseyin Ayan, Dilum Dissanayake, Margaret Bell* — **arxiv**, 2026-10-27 — _Agricultural & Environmental Economics_
+
+Battery swapping replaces a depleted EV battery with a charged one, reducing waiting time and enabling off-peak charging. Evidence on acceptance, however, remains concentrated in Asian markets, and most studies examine individual adoption intentions. This study asks whether current UK EV users judge swapping differently as a purchase option and as a technology for the transport system. Using Behavioural Reasoning Theory, an integrated choice and latent variable model, and latent class analysis, we analyse perceived usefulness, energy-system concerns, practical barriers, and satisfaction with c...
+
+---
+
+## Business Economics & Innovation
+
+### [Time-Varying Quantile VAR Models: Estimation and Inference](https://arxiv.org/abs/2610.36634v1)
+*Jiti Gao, Fei Liu, Bin Peng* — **arxiv**, 2026-10-27 — _Business Economics & Innovation_
+
+We study time-varying quantile VAR models in which the conditional quantile does not propagate linearly through the recursion, and develop a toolkit for impulse response analysis, which to the best of our knowledge has not been established elsewhere. For example, we establish Bahadur representation for quantile VAR regression, infer model parameters via smoothed check function, and define and investigate the best linear projection of the time-varying tau-quantile impulse response via local projections. An application to U.S. industrial production growth and credit spreads from 1919-2025 uncove...
+
+---
+
+## Econometrics & Methods
+
+### [Identifying and disentangling direct and spillover effects using multiple pre-treatment periods](https://arxiv.org/abs/2610.37049v1)
+*Martin Huber* — **arxiv**, 2026-10-27 — _Econometrics & Methods, method:Machine Learning_
+
+Under interference, the treatment of some units affects the outcomes of others, so that the effect on a treated unit consists of a direct and a spillover component. A non-treated comparison group then generally identifies neither component, but the difference between the total effect on the treated and the spillover effect on the comparison units. We show that both components are identified separately when multiple pre-treatment periods are available, without an uncontaminated comparison group. Under no anticipation, pre-treatment outcomes are free of both components for every unit. Extrapolat...
+
+---
+
+### [Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation](https://arxiv.org/abs/2610.36941v1)
+*Abdelghani Belgaid* — **arxiv**, 2026-10-27 — _Econometrics & Methods, method:Machine Learning_
+
+Machine learning recommendations are often evaluated one model at a time, despite deployment across interconnected decision makers. For continuous NPK fertilizer prescriptions, correlated errors can aggregate across farms and generate systemic costs. A model of shared and farm-specific recommendation errors links expected social loss to model adoption shares; the Herfindahl-Hirschman Index characterizes concentration effects when common model errors are independent and predictive risks are equal. A covariance-generalized formulation captures the dependence between model families. A two-model t...
+
+---
 
 ## Financial Economics
 
@@ -15,19 +56,19 @@ The Journal of Finance, EarlyView.
 
 ---
 
+### [Contemporaneous Transmission Networks and Systemic Risk in European Banking](https://arxiv.org/abs/2610.37487v1)
+*Minh Duc Duong, Alessio Moneta, Fabrizio Lillo, Caterina Giannetti et al.* — **arxiv**, 2026-10-27 — _Financial Economics_
+
+We study how contemporaneous equity-return transmission shapes systemic exposure among 51 listed European banks. Using a recursive non-Gaussian network model on volatility-standardized returns, we construct two market-capitalization-weighted measures based on direct and indirect transmission effects: the Systemic Impact Score (SIS), capturing a bank's potential influence on other institutions, and the Systemic Vulnerability Score (SVS), capturing its exposure to disturbances originating elsewhere. The fitted network reveals distinct transmitting and receiving roles, highlighting differences be...
+
+---
+
 ## Health, Education & Welfare
 
 ### [Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?](https://www.journals.uchicago.edu/doi/abs/10.1086/743389?af=R)
 *David CardEric ChynLaura GiulianoUniversity of California, Berkeley, and National Bureau of Economic ResearchUniversity of Texas at Austin and National Bureau of Economic ResearchUniversity of California, Santa Cruz, and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-22 — _Health, Education & Welfare, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
-
----
-
-### [Adequacy radii for stepped-wedge trials with time-varying effects](https://arxiv.org/abs/2610.35853v1)
-*Stanisław M. S. Halkiewicz, Sergey Alexeev* — **arxiv**, 2026-10-26 — _Health, Education & Welfare_
-
-Complete stepped-wedge designs guarantee eventual intervention delivery, but their final periods contain no concurrent controls. Under exposure-time heterogeneity this creates a design-analysis tension: a constant-effect analysis can be precise while targeting a design-dependent contrast, whereas an exposure-time indicator (ETI) analysis targets a prespecified time-averaged effect but may be much less precise. We develop an adequacy radius that quantifies the size of exposure-time heterogeneity compatible with a prespecified tolerance for estimand mismatch, and combine it with precision calcul...
 
 ---
 
@@ -40,12 +81,12 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## Microeconomics
+## Labor & Demographic Economics
 
-### [Self-Confirming Equilibrium under Model Misspecification](https://arxiv.org/abs/2610.35692v1)
-*Riccardo Formenti* — **arxiv**, 2026-10-26 — _Microeconomics_
+### [Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet](https://arxiv.org/abs/2610.37445v1)
+*Zoltan Bartha* — **arxiv**, 2026-10-27 — _Labor & Demographic Economics_
 
-We study the steady states of games played recurrently within large anonymous populations of players who receive partial ex-post feedback about the play of their opponents. Departing from the classical Bayesian account, players do not trust their conjectures as a correct description of the strategic environment but consider them as approximations of a reality that is only partially modeled and partially observed. We introduce games with feedback and uncertainty attitudes, in which the normal-form structure is enriched with a profile of feedback functions and, for each player, a preference func...
+How should a dependent economy respond when a polycrisis turns economic integration from a source of efficiency into a surface of vulnerability? This paper develops the exposure-capability framework, which maps a country's strategic options along two dimensions - the concentration of its external dependence and the depth of its productive capability - and yields four ideal strategies. It applies the framework to Hungary's large-scale bet on electric-vehicle battery manufacturing, asking what the concentrated exposure purchased: movement toward a higher position in the battery value chain, as a...
 
 ---
 
@@ -83,27 +124,6 @@ Journal of Political Economy, Ahead of Print.
 *Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth* — **Journal of Political Economy**, 2026-09-30 — _Political Economy_
 
 Journal of Political Economy, Volume 134, Issue 10, Page 3252-3305, October 2026.
-
----
-
-### [Front Matter](https://www.journals.uchicago.edu/doi/abs/10.1086/744158?af=R)
-** — **Journal of Political Economy**, 2026-09-28 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 9, Page Inside front cover-i, September 2026.
-
----
-
-### [Recent Referees](https://www.journals.uchicago.edu/doi/abs/10.1086/744159?af=R)
-** — **Journal of Political Economy**, 2026-09-28 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 9, Page Inside back cover-Inside back cover, September 2026.
-
----
-
-### [JPE Turnaround Times](https://www.journals.uchicago.edu/doi/abs/10.1086/743929?af=R)
-** — **Journal of Political Economy**, 2026-09-28 — _Political Economy_
-
-Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 2026.
 
 ---
 
@@ -222,32 +242,16 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70088?af=R)
-*CHRISTOPHER J. PALMER* — **Journal of Finance**, 2026-09-28 — _Unclassified_
+### [A Semiparametric Real-Time GARCH Model with Nonstationary Variance](https://arxiv.org/abs/2610.36739v1)
+*Muyi Li, Yajia Chen, Yuqing Xu, Feiyu Jiang* — **arxiv**, 2026-10-27 — _Unclassified_
 
-The Journal of Finance, EarlyView.
-
----
-
-### [Model Selection for Off-Policy Evaluation via Pairwise Bellman Validation](https://arxiv.org/abs/2610.35748v1)
-*Lars van der Laan, Vasilis Syrgkanis, Nathan Kallus* — **arxiv**, 2026-10-26 — _Unclassified_
-
-Model selection and hyperparameter tuning pose a central challenge in off-policy evaluation (OPE) because errors of fitted Q-functions and occupancy-ratio estimates cannot be directly evaluated from held-out transitions. Bellman-residual and minimax validation methods often require auxiliary regressions or optimization over separate critic classes, adding computational and tuning costs. We introduce pairwise Bellman validation (PBV), a tuning-free minimax procedure for selecting among finite classes of fitted Q-functions and occupancy-ratio estimators using held-out transitions. PBV constructs...
+We propose a semiparametric real-time GARCH (SRT-GARCH) model that combines a smooth deterministic long-run volatility component with a stationary short-run process driven by contemporaneous return innovations. The model accommodates gradual changes in unconditional variance while allowing short-run volatility to respond directly to current information rather than relying solely on lagged observations. We derive the variance normalization, conditional moments, and closed-form conditional density of the model. For estimation, we develop a two-step procedure that combines kernel smoothing with c...
 
 ---
 
-### [Fuji: The Shape, Composition, and Spread of Demand Bursts on Robinhood Chain](https://arxiv.org/abs/2610.35738v1)
-*Pranay Anchuri* — **arxiv**, 2026-10-26 — _Unclassified_
+### [Characterizing Maximum Nash Welfare: Envy-Freeness and Proportionality](https://arxiv.org/abs/2610.36712v1)
+*Karen Frilya Celine, Warut Suksompong, Nicholas Teh* — **arxiv**, 2026-10-27 — _Unclassified_
 
-Demand on blockchain-based marketplaces arrives in bursts and at a high rate. On these platforms the data are completely visible, which makes it feasible to compare the bursty demand against the usual load. The congestion manifests as an increased demand for gas, the primary resource a blockchain sells. Existing studies consider how to price the gas. The demand itself, and what it is made of during bursts, has not been measured. We measure it on Robinhood Chain, a layer-2 blockchain that quickly became a venue for trading tokenized equities and memecoins. We collected the data from every block...
-
----
-
-## method:IV
-
-### [AI in Econometric Theory: An Example](https://arxiv.org/abs/2610.35831v1)
-*Isaiah Andrews, Anna Mikusheva* — **arxiv**, 2026-10-26 — _method:IV_
-
-This note contains a story and a paper. The paper is about the admissibility of two-stage least squares with weak instruments, a topic we have worked on together since 2019. The story is about how we (or, rather, our LLMs) wrote the paper, and some thoughts on what this may mean for our field.
+When allocating indivisible goods, the maximum Nash welfare rule is known to be the unique welfarist rule satisfying envy-freeness up to one good. We strengthen this characterization by showing that envy-freeness up to one good can be replaced by substantially weaker fairness requirements: envy-freeness up to $k$ goods or proportionality up to $k$ goods, for any fixed $k$. Our characterization holds even for profiles with identical goods.
 
 ---

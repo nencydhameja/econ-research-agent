@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-27
+# Weekly Deep-Reading Queue — week of 2026-10-28
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,16 +47,7 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026
 
 ---
 
-## 6. The Demand for Mobility: Evidence from an Experiment with Uber Riders
-
-### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
-*Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
-## 7. Excess Movement in Option‐Implied Beliefs
+## 6. Excess Movement in Option‐Implied Beliefs
 
 ### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
 *NED AUGENBLICK, 
@@ -66,7 +57,7 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Externalities of Responsible Investments
+## 7. Externalities of Responsible Investments
 
 ### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
 *MICHELE BISCEGLIA, 
@@ -74,5 +65,14 @@ ALESSIO PICCOLO,
 JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+## 8. Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet
+
+### [Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet](https://arxiv.org/abs/2610.37445v1)
+*Zoltan Bartha* — **arxiv**, 2026-10-27 — _Labor & Demographic Economics_
+
+How should a dependent economy respond when a polycrisis turns economic integration from a source of efficiency into a surface of vulnerability? This paper develops the exposure-capability framework, which maps a country's strategic options along two dimensions - the concentration of its external dependence and the depth of its productive capability - and yields four ideal strategies. It applies the framework to Hungary's large-scale bet on electric-vehicle battery manufacturing, asking what the concentrated exposure purchased: movement toward a higher position in the battery value chain, as a...
 
 ---
