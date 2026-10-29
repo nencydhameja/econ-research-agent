@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-10-28
+# Economics Research Digest — 2026-10-29
 
-Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -15,15 +15,6 @@ We test various hypotheses for the invention and spread of agriculture: higher t
 *Janak Parmar, Huseyin Ayan, Dilum Dissanayake, Margaret Bell* — **arxiv**, 2026-10-27 — _Agricultural & Environmental Economics_
 
 Battery swapping replaces a depleted EV battery with a charged one, reducing waiting time and enabling off-peak charging. Evidence on acceptance, however, remains concentrated in Asian markets, and most studies examine individual adoption intentions. This study asks whether current UK EV users judge swapping differently as a purchase option and as a technology for the transport system. Using Behavioural Reasoning Theory, an integrated choice and latent variable model, and latent class analysis, we analyse perceived usefulness, energy-system concerns, practical barriers, and satisfaction with c...
-
----
-
-## Business Economics & Innovation
-
-### [Time-Varying Quantile VAR Models: Estimation and Inference](https://arxiv.org/abs/2610.36634v1)
-*Jiti Gao, Fei Liu, Bin Peng* — **arxiv**, 2026-10-27 — _Business Economics & Innovation_
-
-We study time-varying quantile VAR models in which the conditional quantile does not propagate linearly through the recursion, and develop a toolkit for impulse response analysis, which to the best of our knowledge has not been established elsewhere. For example, we establish Bahadur representation for quantile VAR regression, infer model parameters via smoothed check function, and define and investigate the best linear projection of the time-varying tau-quantile impulse response via local projections. An application to U.S. industrial production growth and credit spreads from 1919-2025 uncove...
 
 ---
 
@@ -128,6 +119,19 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3252-3305, October 2026
 ---
 
 ## Unclassified
+
+### [Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70100?af=R)
+*CHRISTOPH HUBER, 
+FELIX HOLZMEISTER, 
+MAGNUS JOHANNESSON, 
+CHRISTIAN KÖNIG‐KERSTING, 
+ANNA DREBER, 
+JÜRGEN HUBER, 
+MICHAEL KIRCHLER* — **Journal of Finance**, 2026-10-29 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
 *NED AUGENBLICK, 

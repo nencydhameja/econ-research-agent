@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-28
+# Weekly Deep-Reading Queue — week of 2026-10-29
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,22 +47,26 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026
 
 ---
 
-## 6. Excess Movement in Option‐Implied Beliefs
+## 6. Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results
 
-### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
-*NED AUGENBLICK, 
-EBEN LAZARUS* — **Journal of Finance**, 2026-10-22 — _Unclassified_
+### [Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70100?af=R)
+*CHRISTOPH HUBER, 
+FELIX HOLZMEISTER, 
+MAGNUS JOHANNESSON, 
+CHRISTIAN KÖNIG‐KERSTING, 
+ANNA DREBER, 
+JÜRGEN HUBER, 
+MICHAEL KIRCHLER* — **Journal of Finance**, 2026-10-29 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
 ---
 
-## 7. Externalities of Responsible Investments
+## 7. Excess Movement in Option‐Implied Beliefs
 
-### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
-*MICHELE BISCEGLIA, 
-ALESSIO PICCOLO, 
-JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
+### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
+*NED AUGENBLICK, 
+EBEN LAZARUS* — **Journal of Finance**, 2026-10-22 — _Unclassified_
 
 The Journal of Finance, EarlyView.
 
