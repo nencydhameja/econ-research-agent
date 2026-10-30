@@ -1,56 +1,29 @@
-# Economics Research Digest — 2026-10-29
+# Economics Research Digest — 2026-10-30
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Climate change, sea level rise, and the agricultural revolution](https://arxiv.org/abs/2610.37306v1)
-*Ridhika Mishra, Richard S. J. Tol* — **arxiv**, 2026-10-27 — _Agricultural & Environmental Economics_
+### [When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering](https://arxiv.org/abs/2610.40650v1)
+*Nathan Engelman Lado, Ahmed Alahmed, Audun Botterud, Saurabh Amin* — **arxiv**, 2026-10-29 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
 
-We test various hypotheses for the invention and spread of agriculture: higher temperatures, increased seasonality, carbon dioxide fertilization, sea level rise, and technological progress on the extensive margin. We successfully replicate Matranga (QJE 2024). His seasonality hypothesis survives alternative data, estimators, and competing hypotheses. Population density played a role in the invention of agriculture, while spatial diffusion was important for its spread. Sea level rise and climate change had a minor effect on the population density of the areas that first adopted agriculture. Ext...
-
----
-
-### [Personal preference or system role? Battery swapping among UK electric vehicle users](https://arxiv.org/abs/2610.37269v1)
-*Janak Parmar, Huseyin Ayan, Dilum Dissanayake, Margaret Bell* — **arxiv**, 2026-10-27 — _Agricultural & Environmental Economics_
-
-Battery swapping replaces a depleted EV battery with a charged one, reducing waiting time and enabling off-peak charging. Evidence on acceptance, however, remains concentrated in Asian markets, and most studies examine individual adoption intentions. This study asks whether current UK EV users judge swapping differently as a purchase option and as a technology for the transport system. Using Behavioural Reasoning Theory, an integrated choice and latent variable model, and latent class analysis, we analyse perceived usefulness, energy-system concerns, practical barriers, and satisfaction with c...
+We examine the joint PV and storage operational and investment decisions of a prosumer under net energy metering (NEM) and peak/off-peak tariffs. Legacy NEM compensates net exports at the retail rate over a netting period, typically under time-invariant pricing. To better reflect system costs, tariff features are being reconsidered, with many U.S. states adopting time-varying prices and export compensation below the retail price. We formulate the prosumer decision problem as a cost minimization problem with charge/discharge, PV investment, and storage investment decisions. We analytically deri...
 
 ---
 
-## Econometrics & Methods
+### [Did the energy crisis turn borrowers green? Zonal power prices and green bond choice on Oslo Børs](https://arxiv.org/abs/2610.39843v1)
+*My Thi Diem Phan, Tuyen Trung Truong, Hoai Phuong Ha, Dat Thanh Nguyen* — **arxiv**, 2026-10-29 — _Agricultural & Environmental Economics, Business Economics & Innovation_
 
-### [Identifying and disentangling direct and spillover effects using multiple pre-treatment periods](https://arxiv.org/abs/2610.37049v1)
-*Martin Huber* — **arxiv**, 2026-10-27 — _Econometrics & Methods, method:Machine Learning_
-
-Under interference, the treatment of some units affects the outcomes of others, so that the effect on a treated unit consists of a direct and a spillover component. A non-treated comparison group then generally identifies neither component, but the difference between the total effect on the treated and the spillover effect on the comparison units. We show that both components are identified separately when multiple pre-treatment periods are available, without an uncontaminated comparison group. Under no anticipation, pre-treatment outcomes are free of both components for every unit. Extrapolat...
+The energy crisis of 2021 to 2023 caused a sharp increase in Nordic electricity prices, with substantial differences across bidding zones. We use this variation to examine whether issuers exposed to higher local electricity prices were more likely to choose green bonds over conventional bonds. We construct a dataset of bonds listed on Oslo Børs between 2019 and 2025 by combining ESMA FIRDS reference data, including matured bonds, with Euronext green bond classifications and issuer registry information. We then match issuers to their electricity bidding zones and examine the relationship betwee...
 
 ---
 
-### [Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation](https://arxiv.org/abs/2610.36941v1)
-*Abdelghani Belgaid* — **arxiv**, 2026-10-27 — _Econometrics & Methods, method:Machine Learning_
+## Business Economics & Innovation
 
-Machine learning recommendations are often evaluated one model at a time, despite deployment across interconnected decision makers. For continuous NPK fertilizer prescriptions, correlated errors can aggregate across farms and generate systemic costs. A model of shared and farm-specific recommendation errors links expected social loss to model adoption shares; the Herfindahl-Hirschman Index characterizes concentration effects when common model errors are independent and predictive risks are equal. A covariance-generalized formulation captures the dependence between model families. A two-model t...
+### [Threshold Regression with a Nearly Integrated Threshold Variable](https://arxiv.org/abs/2610.39871v1)
+*Chaoyi Chen, Thanasis Stengos* — **arxiv**, 2026-10-29 — _Business Economics & Innovation_
 
----
-
-## Financial Economics
-
-### [Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R)
-*CARLO ALTAVILLA, 
-MIGUEL BOUCINHA, 
-MARTINA JASOVA, 
-JOSÉ‐LUIS PEYDRÓ, 
-FRANK SMETS* — **Journal of Finance**, 2026-09-30 — _Financial Economics_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [Contemporaneous Transmission Networks and Systemic Risk in European Banking](https://arxiv.org/abs/2610.37487v1)
-*Minh Duc Duong, Alessio Moneta, Fabrizio Lillo, Caterina Giannetti et al.* — **arxiv**, 2026-10-27 — _Financial Economics_
-
-We study how contemporaneous equity-return transmission shapes systemic exposure among 51 listed European banks. Using a recursive non-Gaussian network model on volatility-standardized returns, we construct two market-capitalization-weighted measures based on direct and indirect transmission effects: the Systemic Impact Score (SIS), capturing a bank's potential influence on other institutions, and the Systemic Vulnerability Score (SVS), capturing its exposure to disturbances originating elsewhere. The fitted network reveals distinct transmitting and receiving roles, highlighting differences be...
+This paper considers threshold regression with an integrated or local-to-unity threshold variable and a threshold fixed in levels. We study the least squares threshold estimator and establish its asymptotic theory under both fixed and diminishing threshold effects. Under a fixed effect, the threshold estimator has a compound Cox argmin limit, whereas under a diminishing effect, its limiting distribution is characterized by a two-sided Brownian argmax with a random scale. We also develop likelihood ratio inference, which is asymptotically pivotal under a diminishing effect and conservative unde...
 
 ---
 
@@ -74,10 +47,19 @@ Journal of Political Economy, Ahead of Print.
 
 ## Labor & Demographic Economics
 
-### [Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet](https://arxiv.org/abs/2610.37445v1)
-*Zoltan Bartha* — **arxiv**, 2026-10-27 — _Labor & Demographic Economics_
+### [What is Work For? Labor, Politics, and Meaning in the Age of AI](https://arxiv.org/abs/2610.39375v1)
+*Julian Jacobs* — **arxiv**, 2026-10-29 — _Labor & Demographic Economics_
 
-How should a dependent economy respond when a polycrisis turns economic integration from a source of efficiency into a surface of vulnerability? This paper develops the exposure-capability framework, which maps a country's strategic options along two dimensions - the concentration of its external dependence and the depth of its productive capability - and yields four ideal strategies. It applies the framework to Hungary's large-scale bet on electric-vehicle battery manufacturing, asking what the concentrated exposure purchased: movement toward a higher position in the battery value chain, as a...
+This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% of respondents report being satisfied with their job, and a majority across all four countries are strongly motivated by the non-monetary components of their employment. Using an original "Work Values" Index, I show that one third of working respo...
+
+---
+
+## Microeconomics
+
+### [A Proof for Generalized Egalitarianism](https://arxiv.org/abs/2610.40312v1)
+*Wei ShuAng* — **arxiv**, 2026-10-29 — _Microeconomics, method:Theory_
+
+This paper proves a rigidity theorem characterizing the Gini-type Lorenz-area ordering under general decision-theoretic constraints together with weak Lorenz dominance, thereby resolving the characterization problem pursued in this line of research on egalitarianism. This does not, of course, bring the broader inquiry to an end. In a certain sense, it may instead mark a step beyond the infancy of our attempt to connect social choice theory, welfare economics, and formal moral philosophy through a common mathematical language. The main proof strategy was originally obtained by the author's own ...
 
 ---
 
@@ -111,10 +93,12 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Online Business Models, Digital Ads, and User Welfare](https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R)
-*Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth* — **Journal of Political Economy**, 2026-09-30 — _Political Economy_
+## Public Economics
 
-Journal of Political Economy, Volume 134, Issue 10, Page 3252-3305, October 2026.
+### [Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies](https://arxiv.org/abs/2610.40626v1)
+*Taihei Oki, Ryosuke Sato* — **arxiv**, 2026-10-29 — _Public Economics_
+
+We study equilibrium computation in multi-unit trading networks with valuations satisfying generalized full substitutes and agent- and transaction-specific piecewise-linear transfer functions. These transfers model platform fees, taxes, subsidies, and membership discounts in online marketplaces. Our ascending procedure raises prices at different rates and reaches the minimum equilibrium price vector in finitely many iterations, each implementable in strongly polynomial time under our oracle and arithmetic models. An equilibrium allocation can then be recovered efficiently. The method extends p...
 
 ---
 
@@ -211,51 +195,62 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [The Politicization of Social Responsibility](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R)
-*TODD A. GORMLEY, 
-MANISH JHA, 
-MENG WANG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
+### [Optimal Policy With Noisy Sufficient Statistics](https://arxiv.org/abs/2610.40582v1)
+*José Luis Montiel Olea, Mikkel Plagborg-Møller, Christian K. Wolf* — **arxiv**, 2026-10-29 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+We study how policy-makers should set $k$ policy instruments so as to best hit $m$ (perhaps dynamic) targets, in a linear-quadratic model where there is statistical uncertainty about the causal effects of the policies. Plugging the estimated effects into "sufficient statistics" optimal policy formulas, as commonly done in the literature, can result in infinite risk. In fact, maintaining the status quo regardless of the data is uniquely minimax-optimal when $m>1$, and uniquely minimax-regret-optimal when $m,k>1$. Nevertheless, we recommend that policy-makers adopt a simple, dampened version of ...
 
 ---
 
-### [The Real Channel for Nominal Bond‐Stock Puzzles](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092?af=R)
-*MIKHAIL CHERNOV, 
-LARS A. LOCHSTOER, 
-DONGHO SONG* — **Journal of Finance**, 2026-09-30 — _Unclassified_
+### [Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals](https://arxiv.org/abs/2610.40324v1)
+*Zihan Chen, Lei Nico Zheng, Di Zhu* — **arxiv**, 2026-10-29 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+People increasingly share personal goals online and invite others to forecast them. Research on the planning fallacy finds that observers predict a person's behavior less optimistically than the person does, and prediction markets aggregate such judgments, harnessing the wisdom of crowds. We study 6,150 prediction markets on Manifold in which 1,660 users asked about their own futures ("Will I ...?"), reconstruct every order and execution, and compare these self-markets with markets about external events. Self-markets resolved YES 4.4 percentage points less often than their final prices implied...
 
 ---
 
-### [Mind the App: Mobile Access to Financial Information and Consumer Behavior](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70087?af=R)
-*YARON LEVI, 
-SHLOMO BENARTZI* — **Journal of Finance**, 2026-09-30 — _Unclassified_
+### [Recognizing Dominance through Local Improvement](https://arxiv.org/abs/2610.40243v1)
+*Linchen Zhang* — **arxiv**, 2026-10-29 — _Unclassified_
 
-The Journal of Finance, EarlyView.
-
----
-
-### [Money to Burn: Crowdfunding Wildfire Recovery](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70094?af=R)
-*J. ANTHONY COOKSON, 
-EMILY A. GALLAGHER, 
-PHILIP MULDER* — **Journal of Finance**, 2026-09-30 — _Unclassified_
-
-The Journal of Finance, EarlyView.
+Strategy-proofness is the traditional standard for predictable behavior, yet participants often fail to play dominant strategies. Most existing simplicity concepts attribute these failures to the cost of contingent reasoning, which they lower by comparing the worst case of the dominant strategy with the best case of an alternative. I argue that there is another approach, one that makes more use of the structure of the strategy set, which I formalize as a neighbor relation. Comparing neighboring strategies can reduce the need for contingent reasoning, and, even with a single contingency, it can...
 
 ---
 
-### [A Semiparametric Real-Time GARCH Model with Nonstationary Variance](https://arxiv.org/abs/2610.36739v1)
-*Muyi Li, Yajia Chen, Yuqing Xu, Feiyu Jiang* — **arxiv**, 2026-10-27 — _Unclassified_
+### [Who Says What: Strategic Communication in Networks](https://arxiv.org/abs/2610.40230v1)
+*Anuj Bhowmik, Saptarshi P. Ghosh, Iman Kundu, Sandipan Saha* — **arxiv**, 2026-10-29 — _Unclassified_
 
-We propose a semiparametric real-time GARCH (SRT-GARCH) model that combines a smooth deterministic long-run volatility component with a stationary short-run process driven by contemporaneous return innovations. The model accommodates gradual changes in unconditional variance while allowing short-run volatility to respond directly to current information rather than relying solely on lagged observations. We derive the variance normalization, conditional moments, and closed-form conditional density of the model. For estimation, we develop a two-step procedure that combines kernel smoothing with c...
+We study a multiplayer communication coordination game in which privately informed agents communicate through a social network and choose their optimal actions while balancing them against their own bliss points and those of their neighbours. We show that equilibrium actions are convex combinations of the expected bliss points of all players, with weights determined by a degree-discounted Bonacich centrality measure. We also characterize when players report truthfully, over-report, or under-report their private information, and show that the incentive to misreport depends critically on the rec...
 
 ---
 
-### [Characterizing Maximum Nash Welfare: Envy-Freeness and Proportionality](https://arxiv.org/abs/2610.36712v1)
-*Karen Frilya Celine, Warut Suksompong, Nicholas Teh* — **arxiv**, 2026-10-27 — _Unclassified_
+### [Smooth Threshold GARCH: Quasi Maximum Likelihood Estimation and Empirical Evidence](https://arxiv.org/abs/2610.40047v1)
+*Jonas Fiedler Frederiksen, Frederik Vilandt* — **arxiv**, 2026-10-29 — _Unclassified_
 
-When allocating indivisible goods, the maximum Nash welfare rule is known to be the unique welfarist rule satisfying envy-freeness up to one good. We strengthen this characterization by showing that envy-freeness up to one good can be replaced by substantially weaker fairness requirements: envy-freeness up to $k$ goods or proportionality up to $k$ goods, for any fixed $k$. Our characterization holds even for profiles with identical goods.
+It is well established that the volatility of daily stock returns responds asymmetrically to news, as described by the news impact curve (NIC), which relates volatility to the previous return. Empirical studies suggest that (i) volatility reacts more strongly to negative returns than to positive returns of the same magnitude, (ii) the point of asymmetry, where the NIC attains its minimum, is positive, and (iii) returns above this point often do not increase volatility at all. The popular GJR and A-GARCH models each rule out one of these features. We study the Smooth Threshold GARCH (STGARCH) m...
+
+---
+
+### [When are complements and substitutes dual?](https://arxiv.org/abs/2610.39844v1)
+*Philip R. Neary* — **arxiv**, 2026-10-29 — _Unclassified_
+
+For binary-action games on bipartite networks, strategic complements and strategic substitutes are one and the same: each can be transformed into the other by relabelling the actions of every player on exactly one side. In this note, I show that bipartiteness is necessary and sufficient for such a relabelling; as a consequence, bipartite networks are precisely those on which every binary-action game with strategic substitutes must have a pure-strategy Nash equilibrium.
+
+---
+
+## method:DiD
+
+### [How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis](https://arxiv.org/abs/2610.39995v1)
+*Peter Hull* — **arxiv**, 2026-10-29 — _method:DiD_
+
+I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8-14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91-98% correlation between estimands and a 0.6-2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign ...
+
+---
+
+## method:Theory
+
+### [Persistence of Bounded Rationality in Financial Markets: An Evolutionary Game-Theoretic Model](https://arxiv.org/abs/2610.39198v1)
+*Cheng Zhang* — **arxiv**, 2026-10-29 — _method:Theory_
+
+Classical theory predicts that irrational traders lose money to rational traders and are eventually driven out of the market. Yet noise trading, herding, and heuristic trading persist even in highly developed markets. We model a financial market as an ecology of two trading-behavior types, relatively rational (R) and boundedly rational (N), whose composition evolves under replicator dynamics according to relative performance. Each type's fitness depends on the share of the other type and on frictions. When the interaction is complementary, that is, rational traders profit from the mispricing c...
 
 ---

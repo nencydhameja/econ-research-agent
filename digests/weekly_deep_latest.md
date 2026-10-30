@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-10-29
+# Weekly Deep-Reading Queue — week of 2026-10-30
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -72,11 +72,11 @@ The Journal of Finance, EarlyView.
 
 ---
 
-## 8. Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet
+## 8. Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals
 
-### [Hosting is not capturing: an exposure-capability framework and Hungary's electric-vehicle battery bet](https://arxiv.org/abs/2610.37445v1)
-*Zoltan Bartha* — **arxiv**, 2026-10-27 — _Labor & Demographic Economics_
+### [Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals](https://arxiv.org/abs/2610.40324v1)
+*Zihan Chen, Lei Nico Zheng, Di Zhu* — **arxiv**, 2026-10-29 — _Unclassified_
 
-How should a dependent economy respond when a polycrisis turns economic integration from a source of efficiency into a surface of vulnerability? This paper develops the exposure-capability framework, which maps a country's strategic options along two dimensions - the concentration of its external dependence and the depth of its productive capability - and yields four ideal strategies. It applies the framework to Hungary's large-scale bet on electric-vehicle battery manufacturing, asking what the concentrated exposure purchased: movement toward a higher position in the battery value chain, as a...
+People increasingly share personal goals online and invite others to forecast them. Research on the planning fallacy finds that observers predict a person's behavior less optimistically than the person does, and prediction markets aggregate such judgments, harnessing the wisdom of crowds. We study 6,150 prediction markets on Manifold in which 1,660 users asked about their own futures ("Will I ...?"), reconstruct every order and execution, and compare these self-markets with markets about external events. Self-markets resolved YES 4.4 percentage points less often than their final prices implied...
 
 ---
