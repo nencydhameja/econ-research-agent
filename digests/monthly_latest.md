@@ -1,6 +1,6 @@
-# Economics Research Digest — 2026-10-30
+# Economics Research Digest — 2026-10-31
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -103,6 +103,15 @@ We study equilibrium computation in multi-unit trading networks with valuations 
 ---
 
 ## Unclassified
+
+### [The Evolution of the Market for Corporate Control](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70099?af=R)
+*MIKE BURKART, 
+SAMUEL LEE, 
+PAUL VOSS* — **Journal of Finance**, 2026-10-30 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
 
 ### [Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70100?af=R)
 *CHRISTOPH HUBER, 
@@ -243,14 +252,5 @@ For binary-action games on bipartite networks, strategic complements and strateg
 *Peter Hull* — **arxiv**, 2026-10-29 — _method:DiD_
 
 I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8-14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91-98% correlation between estimands and a 0.6-2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign ...
-
----
-
-## method:Theory
-
-### [Persistence of Bounded Rationality in Financial Markets: An Evolutionary Game-Theoretic Model](https://arxiv.org/abs/2610.39198v1)
-*Cheng Zhang* — **arxiv**, 2026-10-29 — _method:Theory_
-
-Classical theory predicts that irrational traders lose money to rational traders and are eventually driven out of the market. Yet noise trading, herding, and heuristic trading persist even in highly developed markets. We model a financial market as an ecology of two trading-behavior types, relatively rational (R) and boundedly rational (N), whose composition evolves under replicator dynamics according to relative performance. Each type's fitness depends on the share of the other type and on frictions. When the interaction is complementary, that is, rational traders profit from the mispricing c...
 
 ---
