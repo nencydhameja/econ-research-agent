@@ -1,8 +1,15 @@
-# Economics Research Digest — 2026-11-01
+# Economics Research Digest — 2026-11-02
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
+
+### [Optimal climate policy in incomplete electricity markets](https://arxiv.org/abs/2610.41103v1)
+*Emil Dimanchev, Steven A. Gabriel, Stein-Erik Fleten, Filippo Pecci et al.* — **arxiv**, 2026-10-30 — _Agricultural & Environmental Economics, method:Theory_
+
+Incomplete long-term contracting in electricity markets can expose investors and consumers to inefficient levels of risk. This paper investigates how incompleteness impacts the optimal choice of climate policy. We develop a game-theoretic model of optimal policy-making in anticipation of how electricity market agents react to a given policy when gas prices and demand are uncertain and contracting is incomplete. In illustrative experiments, we observe that renewable subsidies and carbon prices induce an insurance co-benefit when markets are incomplete. This is because, relative to a complete ma...
+
+---
 
 ### [When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering](https://arxiv.org/abs/2610.40650v1)
 *Nathan Engelman Lado, Ahmed Alahmed, Audun Botterud, Saurabh Amin* — **arxiv**, 2026-10-29 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
@@ -11,19 +18,19 @@ We examine the joint PV and storage operational and investment decisions of a pr
 
 ---
 
-### [Did the energy crisis turn borrowers green? Zonal power prices and green bond choice on Oslo Børs](https://arxiv.org/abs/2610.39843v1)
-*My Thi Diem Phan, Tuyen Trung Truong, Hoai Phuong Ha, Dat Thanh Nguyen* — **arxiv**, 2026-10-29 — _Agricultural & Environmental Economics, Business Economics & Innovation_
+## Econometrics & Methods
 
-The energy crisis of 2021 to 2023 caused a sharp increase in Nordic electricity prices, with substantial differences across bidding zones. We use this variation to examine whether issuers exposed to higher local electricity prices were more likely to choose green bonds over conventional bonds. We construct a dataset of bonds listed on Oslo Børs between 2019 and 2025 by combining ESMA FIRDS reference data, including matured bonds, with Euronext green bond classifications and issuer registry information. We then match issuers to their electricity bidding zones and examine the relationship betwee...
+### [Valid GMM Inference with Non-parametrically Generated Discrete Type](https://arxiv.org/abs/2610.42052v1)
+*Taegyu Yang* — **arxiv**, 2026-10-30 — _Econometrics & Methods, Health, Education & Welfare, method:IV, method:Machine Learning_
+
+The recent progress in machine learning and classification methods has enabled researchers to predict economic discrete attributes that are not observed in standard datasets. These range from missing demographics, such as ethnicity and poverty status, to economic categories, such as innovative firms, metropolitan areas, occupational groups, binary treatment status, and counterfactual status. Although the plug-in procedure is widely used in empirical applications, nonparametric first-stage estimation recovering the labels can introduce regularization bias because of its slow convergence rate. E...
 
 ---
 
-## Business Economics & Innovation
+### [Evaluating Maternity Leave Reforms When RD Fails](https://arxiv.org/abs/2610.41881v1)
+*Clara von Bismarck-Osten, Andrei Zeleneev* — **arxiv**, 2026-10-30 — _Econometrics & Methods, Labor & Demographic Economics, method:RDD_
 
-### [Threshold Regression with a Nearly Integrated Threshold Variable](https://arxiv.org/abs/2610.39871v1)
-*Chaoyi Chen, Thanasis Stengos* — **arxiv**, 2026-10-29 — _Business Economics & Innovation_
-
-This paper considers threshold regression with an integrated or local-to-unity threshold variable and a threshold fixed in levels. We study the least squares threshold estimator and establish its asymptotic theory under both fixed and diminishing threshold effects. Under a fixed effect, the threshold estimator has a compound Cox argmin limit, whereas under a diminishing effect, its limiting distribution is characterized by a two-sided Brownian argmax with a random scale. We also develop likelihood ratio inference, which is asymptotically pivotal under a diminishing effect and conservative unde...
+This paper documents that expansions of UK maternity pay in the 2000s improved children's test scores while reducing maternal employment. Extending job protection alone generated similar employment effects but no detectable impact on children. None of these effects are recoverable with a conventional regression discontinuity (RD) design because eligibility is only imperfectly captured by the available data. We explain why existing corrections for measurement error in RD are not well suited and propose a simple imputation-based solution. The approach preserves RD's main advantages, nonparametri...
 
 ---
 
@@ -36,30 +43,21 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+## Industrial Organization
+
+### [The Double Diagonal Estimator: Reducing Bias in Two-Sided Marketplace Experiments](https://arxiv.org/abs/2610.41294v1)
+*Saanvi Chawla, Vasilis Syrgkanis* — **arxiv**, 2026-10-30 — _Industrial Organization_
+
+Interference between participants in two-sided marketplace experiments can severely bias conventional A/B tests. While two-sided randomization (TSR), which randomizes both supply and demand, enables estimators that mitigate this bias, existing analyses offer limited guidance on which estimator to prefer for the balanced market conditions common in practice, as they largely focus on extreme supply- or demand-constrained regimes. We introduce the Double Diagonal (DD) estimator, a novel method for interference-robust treatment effect estimation. The DD estimator contrasts the outcomes of treated-...
+
+---
+
 ## International Economics
 
 ### [From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions](https://www.journals.uchicago.edu/doi/abs/10.1086/743331?af=R)
 *Rodrigo AdãoCostas ArkolakisSharat GanapatiUniversity of Chicago Booth School of Business and National Bureau of Economic ResearchYale University and National Bureau of Economic ResearchGeorgetown University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-23 — _International Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
-
----
-
-## Labor & Demographic Economics
-
-### [What is Work For? Labor, Politics, and Meaning in the Age of AI](https://arxiv.org/abs/2610.39375v1)
-*Julian Jacobs* — **arxiv**, 2026-10-29 — _Labor & Demographic Economics_
-
-This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% of respondents report being satisfied with their job, and a majority across all four countries are strongly motivated by the non-monetary components of their employment. Using an original "Work Values" Index, I show that one third of working respo...
-
----
-
-## Microeconomics
-
-### [A Proof for Generalized Egalitarianism](https://arxiv.org/abs/2610.40312v1)
-*Wei ShuAng* — **arxiv**, 2026-10-29 — _Microeconomics, method:Theory_
-
-This paper proves a rigidity theorem characterizing the Gini-type Lorenz-area ordering under general decision-theoretic constraints together with weak Lorenz dominance, thereby resolving the characterization problem pursued in this line of research on egalitarianism. This does not, of course, bring the broader inquiry to an end. In a certain sense, it may instead mark a step beyond the infancy of our attempt to connect social choice theory, welfare economics, and formal moral philosophy through a common mathematical language. The main proof strategy was originally obtained by the author's own ...
 
 ---
 
@@ -204,53 +202,51 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Optimal Policy With Noisy Sufficient Statistics](https://arxiv.org/abs/2610.40582v1)
-*José Luis Montiel Olea, Mikkel Plagborg-Møller, Christian K. Wolf* — **arxiv**, 2026-10-29 — _Unclassified_
+### [Zero Crossings on the Accuracy-Smoothness Frontier: Maximal Monotone and Minimal Inflection Non Stationary Predictors](https://arxiv.org/abs/2610.41963v1)
+*Marc Wildi* — **arxiv**, 2026-10-30 — _Unclassified_
 
-We study how policy-makers should set $k$ policy instruments so as to best hit $m$ (perhaps dynamic) targets, in a linear-quadratic model where there is statistical uncertainty about the causal effects of the policies. Plugging the estimated effects into "sufficient statistics" optimal policy formulas, as commonly done in the literature, can result in infinite risk. In fact, maintaining the status quo regardless of the data is uniquely minimax-optimal when $m>1$, and uniquely minimax-regret-optimal when $m,k>1$. Nevertheless, we recommend that policy-makers adopt a simple, dampened version of ...
-
----
-
-### [Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals](https://arxiv.org/abs/2610.40324v1)
-*Zihan Chen, Lei Nico Zheng, Di Zhu* — **arxiv**, 2026-10-29 — _Unclassified_
-
-People increasingly share personal goals online and invite others to forecast them. Research on the planning fallacy finds that observers predict a person's behavior less optimistically than the person does, and prediction markets aggregate such judgments, harnessing the wisdom of crowds. We study 6,150 prediction markets on Manifold in which 1,660 users asked about their own futures ("Will I ...?"), reconstruct every order and execution, and compare these self-markets with markets about external events. Self-markets resolved YES 4.4 percentage points less often than their final prices implied...
+The Smooth Sign Accuracy (SSA) framework resolves the smoothness--accuracy dilemma for stationary predictors by balancing mean squared error (MSE) against the frequency of sign changes. We generalize it to non-stationary integrated processes (I-SSA), deriving MSE-optimal predictors constrained by the expected duration between turning points (I(1)) or inflection points (I(2)). The resulting maximal-monotone and minimal-inflection predictors, filters, and smoothers customize classic benchmarks along a new efficient Accuracy--Smoothness (AS) frontier. Tracking the identity (the original data) alo...
 
 ---
 
-### [Recognizing Dominance through Local Improvement](https://arxiv.org/abs/2610.40243v1)
-*Linchen Zhang* — **arxiv**, 2026-10-29 — _Unclassified_
+### [Covariance Identification from Regression Residuals](https://arxiv.org/abs/2610.41722v1)
+*Yanping Chen* — **arxiv**, 2026-10-30 — _Unclassified_
 
-Strategy-proofness is the traditional standard for predictable behavior, yet participants often fail to play dominant strategies. Most existing simplicity concepts attribute these failures to the cost of contingent reasoning, which they lower by comparing the worst case of the dominant strategy with the best case of an alternative. I argue that there is another approach, one that makes more use of the structure of the strategy set, which I formalize as a neighbor relation. Comparing neighboring strategies can reduce the need for contingent reasoning, and, even with a single contingency, it can...
-
----
-
-### [Who Says What: Strategic Communication in Networks](https://arxiv.org/abs/2610.40230v1)
-*Anuj Bhowmik, Saptarshi P. Ghosh, Iman Kundu, Sandipan Saha* — **arxiv**, 2026-10-29 — _Unclassified_
-
-We study a multiplayer communication coordination game in which privately informed agents communicate through a social network and choose their optimal actions while balancing them against their own bliss points and those of their neighbours. We show that equilibrium actions are convex combinations of the expected bliss points of all players, with weights determined by a degree-discounted Bonacich centrality measure. We also characterize when players report truthfully, over-report, or under-report their private information, and show that the incentive to misreport depends critically on the rec...
+Regression residuals are projections of the errors, not observations of them. This paper characterizes what residuals identify about the error covariance. Residualization acts on the covariance through a known linear map, and under an unrestricted covariance model the directions it destroys are exactly those generated by the column space of the regressors. A linear covariance functional is identified if and only if it does not load on these lost directions, and restricting the covariance model, for instance to diagonal or clustered form, shrinks them. The central result separates projection lo...
 
 ---
 
-### [Smooth Threshold GARCH: Quasi Maximum Likelihood Estimation and Empirical Evidence](https://arxiv.org/abs/2610.40047v1)
-*Jonas Fiedler Frederiksen, Frederik Vilandt* — **arxiv**, 2026-10-29 — _Unclassified_
+### [Why delivered costs understate prices in an integrated global hydrogen market](https://arxiv.org/abs/2610.41447v1)
+*Bastian Weißenburger, Martin Wietschel, Patrick Plötz, Russell McKenna* — **arxiv**, 2026-10-30 — _Unclassified_
 
-It is well established that the volatility of daily stock returns responds asymmetrically to news, as described by the news impact curve (NIC), which relates volatility to the previous return. Empirical studies suggest that (i) volatility reacts more strongly to negative returns than to positive returns of the same magnitude, (ii) the point of asymmetry, where the NIC attains its minimum, is positive, and (iii) returns above this point often do not increase volatility at all. The popular GJR and A-GARCH models each rule out one of these features. We study the Smooth Threshold GARCH (STGARCH) m...
-
----
-
-### [When are complements and substitutes dual?](https://arxiv.org/abs/2610.39844v1)
-*Philip R. Neary* — **arxiv**, 2026-10-29 — _Unclassified_
-
-For binary-action games on bipartite networks, strategic complements and strategic substitutes are one and the same: each can be transformed into the other by relabelling the actions of every player on exactly one side. In this note, I show that bipartiteness is necessary and sufficient for such a relabelling; as a consequence, bipartite networks are precisely those on which every binary-action game with strategic substitutes must have a pure-strategy Nash equilibrium.
+Delivered-cost estimates are often used as proxies for hydrogen import prices. Yet they measure average supply-chain costs, whereas marginal prices measure the system value of an additional unit. Market interactions can make the two diverge, potentially biasing long-term price assumptions. We quantify this gap using an 81-region global hydrogen-market model, comparing each region's costs and prices when only its demand is active and when all regions' demands are active. The 2045 price-cost gap is positive in 78 regions and averages 63 EUR/MWh (52% of the single-buyer cost) on a demand-weighted...
 
 ---
 
-## method:DiD
+### [xtlp: A new Stata command for panel local projection](https://arxiv.org/abs/2610.41428v1)
+*Shu Shen, Ziwei Mei, Liugang Sheng, Zhentao Shi* — **arxiv**, 2026-10-30 — _Unclassified_
 
-### [How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis](https://arxiv.org/abs/2610.39995v1)
-*Peter Hull* — **arxiv**, 2026-10-29 — _method:DiD_
+Panel local projection (LP) estimated with fixed effects (FEs) is widely used to evaluate the dynamic effects of economic shocks across countries or regions. However, FE estimation of panel LP models is subject to Nickell bias arising from the predictive structure of LP specifications, even when lagged dependent variables are not included in the regressors. This bias invalidates standard inference based on conventional t-statistics. We introduce xtlp, a new Stata command that implements panel LP with split-panel jackknife (SPJ) bias correction. It removes the Nickell bias and restores the vali...
 
-I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8-14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91-98% correlation between estimands and a 0.6-2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign ...
+---
+
+### [Identification through Heteroskedasticity in One Lemma: Partial Identification, an Eigenvalue Construction, and a Caution on Rank Tests](https://arxiv.org/abs/2610.41361v1)
+*George Milunovich* — **arxiv**, 2026-10-30 — _Unclassified_
+
+This teaching note unifies known results on identification through heteroskedasticity, under volatility regimes, GARCH, stochastic volatility and covariate-driven variances, in one lemma with a short linear-algebra proof. A shock is identified up to sign and labelling if and only if no other shock shares its variance path, and shocks that share a path are identified up to a rotation. The rows of the structural coefficient matrix solve one generalised eigenvalue problem that nests Rigobon's (2003) two-regime solution. Rank tests on second moments of the errors count at most linearly independent...
+
+---
+
+### [Deterministic Implementation of Mean-Preserving Contractions](https://arxiv.org/abs/2610.41284v1)
+*Junze Sun* — **arxiv**, 2026-10-30 — _Unclassified_
+
+We study whether randomization is needed to generate a prescribed distribution of posterior means for a one-dimensional state. Drawing on backward Monge martingale transport, we show that every mean-preserving contraction of an atomless prior with finite first moment admits a deterministic implementation. Consequently, restricting attention to deterministic signals leaves the designer's value unchanged whenever objectives and constraints depend only on the posterior-mean distribution. We decompose implementation into independent problems on non-separating intervals and describe a constructive ...
+
+---
+
+### [Convolution Skew-$t$ Distributions](https://arxiv.org/abs/2610.41171v1)
+*Xinxian Chen, Peter Reinhard Hansen, Chen Tong* — **arxiv**, 2026-10-30 — _Unclassified_
+
+We introduce the convolution skew-$t$ (CST) distribution, which combines independent standardized skew-$t$ subvectors through a general loading matrix to accommodate heterogeneous tails, directional asymmetry, and non-elliptical dependence. We establish identification and develop likelihood inference using analytical scores and a one-dimensional reduction of Fisher information. For the finite-variance model, we prove consistency and asymptotic normality of maximum likelihood and characterize the consequences of imposing false symmetry. A raw representation extends the family to all positive ta...
 
 ---
