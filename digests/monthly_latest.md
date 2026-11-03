@@ -167,6 +167,16 @@ We study taxation in matching environments in which both equilibrium sorting and
 
 ## Unclassified
 
+### [Unintended Consequences of Holding Dollar Assets](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70097?af=R)
+*ROBERT CZECH, 
+SHIYANG HUANG, 
+DONG LOU, 
+TIANYU WANG* — **Journal of Finance**, 2026-11-02 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [The Evolution of the Market for Corporate Control](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70099?af=R)
 *MIKE BURKART, 
 SAMUEL LEE, 
@@ -222,13 +232,6 @@ We present a new no-arbitrage relation which we denote as fixed/floating interes
 *Peter Arcidiacono, Cory Dowd, Matthew Lilley* — **NBER WP**, 2026-11-03 — _Unclassified_
 
 There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is not simply about being conservative: it is students with the most moderate views who self-censor the most. This pattern is associated with confidence and salience — students who are more confident in their views or who see an issue as especially important tend to hold more extreme views and to self-censor less. At the same time, conservatives self-censor at higher rates than lib...
-
----
-
-### [Green Tastes, Beliefs, and Portfolios: Evidence from Synthetic Investors](https://www.nber.org/papers/w35982#fromrss)
-*Xindi He, Lubos Pastor* — **NBER WP**, 2026-11-03 — _Unclassified_
-
-We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A greener tilt therefore need not indicate a stronger taste for greenness. Retail tastes depend mostly on political affiliation, institutional tastes on type and geography. Beliefs differ across the three ESG dimensions, with high-governance portfolios expected to outperform. We reconstruct survey res...
 
 ---
 
