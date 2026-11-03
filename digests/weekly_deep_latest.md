@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-11-02
+# Weekly Deep-Reading Queue — week of 2026-11-03
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,38 +47,29 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026
 
 ---
 
-## 6. The Evolution of the Market for Corporate Control
+## 6. Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India
 
-### [The Evolution of the Market for Corporate Control](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70099?af=R)
-*MIKE BURKART, 
-SAMUEL LEE, 
-PAUL VOSS* — **Journal of Finance**, 2026-10-30 — _Unclassified_
+### [Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India](https://www.nber.org/papers/w35963#fromrss)
+*Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka, Gagandeep S. Sachdeva* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare_
 
-The Journal of Finance, EarlyView.
+Affirmative action programs are often criticized because of concerns that they result in lower worker productivity and efficiency losses. We study the relative productivity of workers benefiting from an aggressive affirmative action policy in a setting where hiring constraints are mandated upon employers and are typically likely to bind. In India, colleges are required to reserve approximately 50 percent of faculty hires for individuals from disadvantaged caste and social class groups. We collect and analyze data from a nationally representative sample of 50 engineering and technology colleges...
 
 ---
 
-## 7. Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results
+## 7. Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios
 
-### [Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70100?af=R)
-*CHRISTOPH HUBER, 
-FELIX HOLZMEISTER, 
-MAGNUS JOHANNESSON, 
-CHRISTIAN KÖNIG‐KERSTING, 
-ANNA DREBER, 
-JÜRGEN HUBER, 
-MICHAEL KIRCHLER* — **Journal of Finance**, 2026-10-29 — _Unclassified_
+### [Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios](https://www.nber.org/papers/w35962#fromrss)
+*Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova, Marjorie Santos* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, International Economics_
 
-The Journal of Finance, EarlyView.
+This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies. We decompose these NIIP changes into their proximate drivers for a sample of 28 economies and find that financial factors (including valuation changes and investment income flows) are the primary drivers of global imbalances at both short and long hor...
 
 ---
 
-## 8. Excess Movement in Option‐Implied Beliefs
+## 8. Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India
 
-### [Excess Movement in Option‐Implied Beliefs](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70086?af=R)
-*NED AUGENBLICK, 
-EBEN LAZARUS* — **Journal of Finance**, 2026-10-22 — _Unclassified_
+### [Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India](https://www.nber.org/papers/w35972#fromrss)
+*Andrew D. Foster, Mark R. Rosenzweig* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics, Political Economy, Public Economics_
 
-The Journal of Finance, EarlyView.
+We develop a quantifiable general-equilibrium model of village governance, motivated by India’s democratization, to study how political institutions shape public goods provision and economic development. The model features two groups, landowners and landless workers, with different preferences over public goods such as irrigation, schools, and employment programs. Households from both groups can enter nonfarm entrepreneurship, but face credit-dependent entry costs. We compare oligarchy, where landowners control public goods decisions, with democracy, where electoral competition determines poli...
 
 ---

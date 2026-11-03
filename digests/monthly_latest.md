@@ -1,36 +1,71 @@
-# Economics Research Digest — 2026-11-02
+# Economics Research Digest — 2026-11-03
 
-Window: last **30 days** · 30 papers across 8 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Optimal climate policy in incomplete electricity markets](https://arxiv.org/abs/2610.41103v1)
-*Emil Dimanchev, Steven A. Gabriel, Stein-Erik Fleten, Filippo Pecci et al.* — **arxiv**, 2026-10-30 — _Agricultural & Environmental Economics, method:Theory_
+### [Pollution Monitoring and the Pricing of Environmental Risk in Firms](https://www.nber.org/papers/w35969#fromrss)
+*Namrata Kala, Jalal Sani, Nemit Shroff, Pengdong Zhang* — **NBER WP**, 2026-11-03 — _Agricultural & Environmental Economics_
 
-Incomplete long-term contracting in electricity markets can expose investors and consumers to inefficient levels of risk. This paper investigates how incompleteness impacts the optimal choice of climate policy. We develop a game-theoretic model of optimal policy-making in anticipation of how electricity market agents react to a given policy when gas prices and demand are uncertain and contracting is incomplete. In illustrative experiments, we observe that renewable subsidies and carbon prices induce an insurance co-benefit when markets are incomplete. This is because, relative to a complete ma...
-
----
-
-### [When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering](https://arxiv.org/abs/2610.40650v1)
-*Nathan Engelman Lado, Ahmed Alahmed, Audun Botterud, Saurabh Amin* — **arxiv**, 2026-10-29 — _Agricultural & Environmental Economics, International Economics, Microeconomics_
-
-We examine the joint PV and storage operational and investment decisions of a prosumer under net energy metering (NEM) and peak/off-peak tariffs. Legacy NEM compensates net exports at the retail rate over a netting period, typically under time-invariant pricing. To better reflect system costs, tariff features are being reconsidered, with many U.S. states adopting time-varying prices and export compensation below the retail price. We formulate the prosumer decision problem as a cost minimization problem with charge/discharge, PV investment, and storage investment decisions. We analytically deri...
+Pricing firms’ environmental risk is central to ensuring that capital is efficiently allocated. We examine whether an increase in the salience of pollution information affects the beliefs and perceived valuations of financially sophisticated agents—financial analysts—regarding the environmental risks faced by the firms they cover. Exploiting the staggered rollout of China's ambient air quality monitoring program, we show that when monitoring is introduced in a city, analysts based there become substantially more likely to discuss air pollution. These changes in attention are reflected in stock...
 
 ---
 
-## Econometrics & Methods
+### [Coase Meets Negishi: Property Rights, Welfare Weights, and Distributional Consequences in Climate Economics](https://www.nber.org/papers/w35971#fromrss)
+*Simon F. Lang, Matthew D. Gordon, Matthew J. Kotchen* — **NBER WP**, 2026-11-03 — _Agricultural & Environmental Economics, Law & Economics, Public Economics_
 
-### [Valid GMM Inference with Non-parametrically Generated Discrete Type](https://arxiv.org/abs/2610.42052v1)
-*Taegyu Yang* — **arxiv**, 2026-10-30 — _Econometrics & Methods, Health, Education & Welfare, method:IV, method:Machine Learning_
-
-The recent progress in machine learning and classification methods has enabled researchers to predict economic discrete attributes that are not observed in standard datasets. These range from missing demographics, such as ethnicity and poverty status, to economic categories, such as innovative firms, metropolitan areas, occupational groups, binary treatment status, and counterfactual status. Although the plug-in procedure is widely used in empirical applications, nonparametric first-stage estimation recovering the labels can introduce regularization bias because of its slow convergence rate. E...
+We develop a property-rights based approach for defining welfare weights in economic models of climate change. Whether there is a "right to pollute" or a "right to no pollution" is increasingly contested in legislatures, courts, and international climate negotiations. We show how these notions of property rights can provide the basis for "Coasean welfare weights" that are applicable in multilateral public goods settings. Distributional questions are addressed through positive analysis, conditional on property rights, rather than normative views about redistribution. The implied transfers are c...
 
 ---
 
-### [Evaluating Maternity Leave Reforms When RD Fails](https://arxiv.org/abs/2610.41881v1)
-*Clara von Bismarck-Osten, Andrei Zeleneev* — **arxiv**, 2026-10-30 — _Econometrics & Methods, Labor & Demographic Economics, method:RDD_
+## Business Economics & Innovation
 
-This paper documents that expansions of UK maternity pay in the 2000s improved children's test scores while reducing maternal employment. Extending job protection alone generated similar employment effects but no detectable impact on children. None of these effects are recoverable with a conventional regression discontinuity (RD) design because eligibility is only imperfectly captured by the available data. We explain why existing corrections for measurement error in RD are not well suited and propose a simple imputation-based solution. The approach preserves RD's main advantages, nonparametri...
+### [Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios](https://www.nber.org/papers/w35962#fromrss)
+*Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova, Marjorie Santos* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, International Economics_
+
+This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies. We decompose these NIIP changes into their proximate drivers for a sample of 28 economies and find that financial factors (including valuation changes and investment income flows) are the primary drivers of global imbalances at both short and long hor...
+
+---
+
+### [Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India](https://www.nber.org/papers/w35963#fromrss)
+*Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka, Gagandeep S. Sachdeva* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare_
+
+Affirmative action programs are often criticized because of concerns that they result in lower worker productivity and efficiency losses. We study the relative productivity of workers benefiting from an aggressive affirmative action policy in a setting where hiring constraints are mandated upon employers and are typically likely to bind. In India, colleges are required to reserve approximately 50 percent of faculty hires for individuals from disadvantaged caste and social class groups. We collect and analyze data from a nationally representative sample of 50 engineering and technology colleges...
+
+---
+
+### [Saving for the Machines](https://www.nber.org/papers/w35964#fromrss)
+*Jesús Fernández-Villaverde* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation_
+
+When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the growth boom associated with automation, while the task structure sets the duration of this growth boom and the evolution of wages. I document how the same technology path that generates 11.7% annual growth when households choose their saving rate optimally delivers only 2.2% when the saving rate is fixe...
+
+---
+
+### [Public R&D and the Automation of Manufacturing: Evidence from the Space Race](https://www.nber.org/papers/w35966#fromrss)
+*Apoorva Babbar, Shawn Kantor, Alexander Whalley, Jingyuan Zeng* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Political Economy_
+
+This paper examines how public research and development shaped the direction of technological change during the Cold War–era Space Race and its consequences for US manufacturing. While prior research has documented the effects of public R&amp;D on innovation and economic growth, less is known about whether mission-oriented public investment directed innovation toward automation and how this affected labor markets. We exploit variation in exposure to NASA's Space Race investments across industries and locations to estimate the effects of public R&amp;D on innovation and manufacturing outcomes f...
+
+---
+
+### [Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India](https://www.nber.org/papers/w35972#fromrss)
+*Andrew D. Foster, Mark R. Rosenzweig* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics, Political Economy, Public Economics_
+
+We develop a quantifiable general-equilibrium model of village governance, motivated by India’s democratization, to study how political institutions shape public goods provision and economic development. The model features two groups, landowners and landless workers, with different preferences over public goods such as irrigation, schools, and employment programs. Households from both groups can enter nonfarm entrepreneurship, but face credit-dependent entry costs. We compare oligarchy, where landowners control public goods decisions, with democracy, where electoral competition determines poli...
+
+---
+
+### [The Global Office: How Globalisation’s Frontier is Shifting from Factories to Offices](https://www.nber.org/papers/w35975#fromrss)
+*Richard Baldwin* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, International Economics_
+
+This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing much faster. A heatmap of trade in intermediates shows that the Factory is bloc-shaped and dominated by China, whereas the Office is star-shaped and dominated by America. Gravity estimates show that distance matters less for Office exports, but time zones matter more: each hour of time-zone separation reduces Office exports by roughly 4%, while having no effect on Factory export...
+
+---
+
+### [Coordinated R&D Programs and the Creation of New Industries](https://www.nber.org/papers/w35978#fromrss)
+*Daniel P. Gross, Maria P. Roche* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Political Economy_
+
+Large, mission-oriented R&amp;D efforts sometimes generate substantial technological advances, but their commercial impacts vary. This paper uses one such effort—the U.S. World War II radar program—to explore how the outputs of such programs may contribute to later commercial development. Using archival records together with data on firm entry, patenting, and technical labor flows, we reconstruct the organization and outputs of wartime radar R&amp;D, document the rapid postwar growth of a civilian industry, and evaluate which outputs were used in subsequent commercial activity. Codified knowle...
 
 ---
 
@@ -43,12 +78,10 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## Industrial Organization
+### [Income Inequality and Intergenerational Mobility in Russia: Trends, Sources, and Measurement](https://www.nber.org/papers/w35965#fromrss)
+*Kristina Butaeva, Steven N. Durlauf, Dmitry Rudenko* — **NBER WP**, 2026-11-03 — _Health, Education & Welfare, Urban, Rural & Regional Economics_
 
-### [The Double Diagonal Estimator: Reducing Bias in Two-Sided Marketplace Experiments](https://arxiv.org/abs/2610.41294v1)
-*Saanvi Chawla, Vasilis Syrgkanis* — **arxiv**, 2026-10-30 — _Industrial Organization_
-
-Interference between participants in two-sided marketplace experiments can severely bias conventional A/B tests. While two-sided randomization (TSR), which randomizes both supply and demand, enables estimators that mitigate this bias, existing analyses offer limited guidance on which estimator to prefer for the balanced market conditions common in practice, as they largely focus on extreme supply- or demand-constrained regimes. We introduce the Double Diagonal (DD) estimator, a novel method for interference-robust treatment effect estimation. The DD estimator contrasts the outcomes of treated-...
+This chapter documents trends in income and inequality in Russia from the collapse of the Soviet Union through 2025, drawing on official statistics, the existing literature, and household survey microdata. It also reviews evidence on intergenerational mobility. While there is a consensus that inequality dramatically increased during the 1990s, its post-2000 trajectory is contested. Initial household survey studies usually found a decline, whereas official statistics reported a comparatively stable Gini coefficient. Our analysis of Russia's major household surveys, harmonized using common measu...
 
 ---
 
@@ -58,6 +91,45 @@ Interference between participants in two-sided marketplace experiments can sever
 *Rodrigo AdãoCostas ArkolakisSharat GanapatiUniversity of Chicago Booth School of Business and National Bureau of Economic ResearchYale University and National Bureau of Economic ResearchGeorgetown University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-23 — _International Economics, Political Economy_
 
 Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Manufacturing Renaissance Meets Time-Inconsistent Tariffs](https://www.nber.org/papers/w35976#fromrss)
+*Christoph Boehm, Andrei A. Levchenko, Wei Xiang* — **NBER WP**, 2026-11-03 — _International Economics_
+
+We analyze optimal tariffs in a dynamic version of the Venables (1987) framework with a time-to-build lag in firm creation. In this environment, trade protection is driven by the desire to increase firm creation at home at the expense of the foreign trade partner. When firm creation takes time, the benefits of protection accrue in the future, whereas the costs in the form of higher consumer prices occur immediately. Under certain parameterizations, a policymaker that can commit to a full time path of tariffs leaves trade unrestricted at date 0, and announces high tariffs coming on at a pre-spe...
+
+---
+
+## Labor & Demographic Economics
+
+### [The Effects of Monetary Policy on Macroeconomic Expectations: High-Frequency Evidence from Prediction Markets](https://www.nber.org/papers/w35968#fromrss)
+*Eric T. Swanson, Wang Renxuan, Yanbin Wu* — **NBER WP**, 2026-11-03 — _Labor & Demographic Economics, Macroeconomics_
+
+When the Federal Reserve raises interest rates, standard macroeconomic models and VARs predict that output, employment, and inflation should fall over the next several quarters. However, monthly-frequency professional macroeconomic forecast revisions are sometimes positively correlated with Fed interest rate changes, leading to a debate about what could explain these puzzling correlations. We bring to bear new high-frequency data on this question from macroeconomic event contracts traded on Kalshi, a CFTC-licensed, U.S.-based event trading exchange and prediction market. These high-frequency e...
+
+---
+
+## Macroeconomics
+
+### [Aggregate-Surplus Maximizing Monetary Policy](https://www.nber.org/papers/w35967#fromrss)
+*David Baqaee, Ariel Burstein, Joao Guerreiro* — **NBER WP**, 2026-11-03 — _Macroeconomics_
+
+We study optimal monetary policy in a general heterogeneous-agent New Keynesian (HANK) economy. Instead of maximizing a social welfare function, the policymaker maximizes the joint surplus of all households, without taking a stance on how that surplus should be distributed. This is the policy that maximizes resources left over if winners from reform were to compensate losers. We derive the approximate optimal policy using linear-quadratic methods. The quadratic objective function nests the standard New Keynesian loss function and adds losses from incomplete markets and heterogeneous labor wedg...
+
+---
+
+### [Demand-Driven Inflation](https://www.nber.org/papers/w35980#fromrss)
+*Domenico Giannone, Giorgio Primiceri* — **NBER WP**, 2026-11-03 — _Macroeconomics, Public Economics_
+
+Post-covid inflation was predominantly driven by unexpectedly strong demand forces---both in the United States and in the Euro Area. We establish this result using a sequence of structural VARs with progressively richer specifications, interpret it through the lens of standard AD-AS analysis and an estimated DSGE model, and provide independent support for this conclusion using survey forecasts and real-time data. These demand forces reflected a combination of surprisingly robust pent-up demand following the pandemic restrictions, stronger-than-expected expansionary fiscal policies, and an unus...
+
+---
+
+### [Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance](https://www.nber.org/papers/w35981#fromrss)
+*Christian Conrad, Julius Theodor Schoelkopf, Michael Weber, Frank Brueckbauer* — **NBER WP**, 2026-11-03 — _Macroeconomics_
+
+Professional forecasters' heterogeneous narratives about how inflation affects stock markets in 2023 rationalize their high disagreement regarding quantitative expectations for 12-month-ahead inflation and stock returns in December 2022. Professional forecasters causally update their return expectations in heterogeneous directions in response to information about the inflation outlook, depending on the narrative they entertain. Moreover, the narratives also affect their asset allocation in a hypothetical portfolio-choice experiment. Providing common signals does not necessarily lead to converg...
 
 ---
 
@@ -84,19 +156,12 @@ Journal of Political Economy, Volume 134, Issue 10, Page Inside back cover-Insid
 
 ---
 
-### [The Demand for Mobility: Evidence from an Experiment with Uber Riders](https://www.journals.uchicago.edu/doi/abs/10.1086/743387?af=R)
-*Peter ChristensenGustavo NinoAdam OsmanUniversity of California, Santa CruzUniversidad de los AndesUniversity of Illinois Urbana-Champaign* — **Journal of Political Economy**, 2026-10-13 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
 ## Public Economics
 
-### [Finding Competitive Equilibria in Online Marketplaces with Platform Fees, Taxes, and Subsidies](https://arxiv.org/abs/2610.40626v1)
-*Taihei Oki, Ryosuke Sato* — **arxiv**, 2026-10-29 — _Public Economics_
+### [A Beckerian Theory of Taxation](https://www.nber.org/papers/w35970#fromrss)
+*Margaret Chen, Mikhail Golosov, Ilia Krasikov* — **NBER WP**, 2026-11-03 — _Public Economics_
 
-We study equilibrium computation in multi-unit trading networks with valuations satisfying generalized full substitutes and agent- and transaction-specific piecewise-linear transfer functions. These transfers model platform fees, taxes, subsidies, and membership discounts in online marketplaces. Our ascending procedure raises prices at different rates and reaches the minimum equilibrium price vector in finitely many iterations, each implementable in strongly polynomial time under our oracle and arithmetic models. An equilibrium allocation can then be recovered efficiently. The method extends p...
+We study taxation in matching environments in which both equilibrium sorting and the sharing of match surplus are endogenous. Tax reforms lead to complex adjustments in sorting and surplus sharing patterns across the whole economy. We develop a general approach for characterizing these equilibrium adjustments using matching elasticities, which are primitive objects that describe how agents' matching choices are affected by pecuniary payoffs in partial equilibrium. Applying this approach to a workhorse model of family formation, we first show that the sorting and surplus sharing responses are c...
 
 ---
 
@@ -132,121 +197,46 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [Externalities of Responsible Investments](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70082?af=R)
-*MICHELE BISCEGLIA, 
-ALESSIO PICCOLO, 
-JAN SCHNEEMEIER* — **Journal of Finance**, 2026-10-14 — _Unclassified_
+### [Can Home Visits Re-Engage Chronically Absent Students? Evidence from the LEAP Program](https://www.nber.org/papers/w35961#fromrss)
+*Eric Brunner, Shangyue Jiang, Stephen Ross* — **NBER WP**, 2026-11-03 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Beginning in the summer of 2021, the state of Connecticut launched the Learner Engagement and Attendance Program (LEAP) where home visits by school personnel were conducted with students identified as chronically absent from Connecticut’s 15 most disadvantaged school districts. Home visits were designed to connect students and their families directly with teachers to foster strong connections. We use student-level data from 2021–22 through 2023-24 to estimate event studies of the effect of LEAP on student attendance, chronic absenteeism, disciplinary incidents, and student achievement. Utilizi...
 
 ---
 
-### [Risk, Specialization, and Covered‐Interest Parity](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70095?af=R)
-*TOBIAS J. MOSKOWITZ, 
-CHASE P. ROSS, 
-SHARON Y. ROSS, 
-KAUSHIK VASUDEVAN* — **Journal of Finance**, 2026-10-13 — _Unclassified_
+### [Risk and Return in Government Bonds](https://www.nber.org/papers/w35973#fromrss)
+*Matteo Leombroni, Carolin Pflueger, Adi Sunderam* — **NBER WP**, 2026-11-03 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+Does the compensation investors require for holding government bonds vary with their risk? We measure expected excess returns using market yields and professional forecasts of future yields, showing that they are tightly linked to a standard measure of risk: bonds’ betas with respect to the stock market. In a month-by-maturity panel of U. S. Treasuries from 1988 to 2024, the correlation between expected excess returns and bond–stock betas is 67%. The correlation is driven by variation in market yields rather than forecasters’ expectations. The relationship between realized excess returns and b...
 
 ---
 
-### [Generative AI and Firm Values](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R)
-*ANDREA L. EISFELDT, 
-GREGOR SCHUBERT, 
-MIAO BEN ZHANG, 
-BLEDI TASKA* — **Journal of Finance**, 2026-10-09 — _Unclassified_
+### [Fixed/Floating Interest Rate Parity](https://www.nber.org/papers/w35977#fromrss)
+*Matthias Fleckenstein, Sven Klingler, Francis A. Longstaff* — **NBER WP**, 2026-11-03 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+We present a new no-arbitrage relation which we denote as fixed/floating interest rate parity. This relation can be viewed as a domestic version of covered interest rate parity. We test this relation using fixed-rate bonds and floating-rate notes in the multi-trillion U.S. agency debt market and document significant violations. These violations are largely unrelated to other arbitrage spreads and measures of intermediary constraints. Instead, they are closely tied to the behavior of money market funds which hold the vast majority of agency floating-rate notes. Our results identify clientele ef...
 
 ---
 
-### [The Financial Premium](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R)
-*JENS DICK‐NIELSEN, 
-PETER FELDHÜTTER, 
-DAVID LANDO* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+### [What Drives Censorship on College Campuses?](https://www.nber.org/papers/w35979#fromrss)
+*Peter Arcidiacono, Cory Dowd, Matthew Lilley* — **NBER WP**, 2026-11-03 — _Unclassified_
 
-The Journal of Finance, EarlyView.
+There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is not simply about being conservative: it is students with the most moderate views who self-censor the most. This pattern is associated with confidence and salience — students who are more confident in their views or who see an issue as especially important tend to hold more extreme views and to self-censor less. At the same time, conservatives self-censor at higher rates than lib...
 
 ---
 
-### [Flow‐Driven ESG Returns](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R)
-*PHILIPPE VAN DER BECK* — **Journal of Finance**, 2026-10-08 — _Unclassified_
+### [Green Tastes, Beliefs, and Portfolios: Evidence from Synthetic Investors](https://www.nber.org/papers/w35982#fromrss)
+*Xindi He, Lubos Pastor* — **NBER WP**, 2026-11-03 — _Unclassified_
 
-The Journal of Finance, EarlyView.
-
----
-
-### [Feedback and Contagion through Distressed Competition](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R)
-*HUI CHEN, 
-WINSTON WEI DOU, 
-HONGYE GUO, 
-YAN JI* — **Journal of Finance**, 2026-10-08 — _Unclassified_
-
-The Journal of Finance, EarlyView.
+We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A greener tilt therefore need not indicate a stronger taste for greenness. Retail tastes depend mostly on political affiliation, institutional tastes on type and geography. Beliefs differ across the three ESG dimensions, with high-governance portfolios expected to outperform. We reconstruct survey res...
 
 ---
 
-### [When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R)
-*VIRAL V. ACHARYA, 
-TOOMAS LAARITS* — **Journal of Finance**, 2026-10-07 — _Unclassified_
+## method:DiD
 
-The Journal of Finance, EarlyView.
+### [How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis](https://www.nber.org/papers/w35974#fromrss)
+*Peter Hull* — **NBER WP**, 2026-11-03 — _method:DiD_
 
----
-
-### [Targeted Philanthropy: Evidence from M&As](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090?af=R)
-*CARA VANSTEENKISTE* — **Journal of Finance**, 2026-10-07 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [Zero Crossings on the Accuracy-Smoothness Frontier: Maximal Monotone and Minimal Inflection Non Stationary Predictors](https://arxiv.org/abs/2610.41963v1)
-*Marc Wildi* — **arxiv**, 2026-10-30 — _Unclassified_
-
-The Smooth Sign Accuracy (SSA) framework resolves the smoothness--accuracy dilemma for stationary predictors by balancing mean squared error (MSE) against the frequency of sign changes. We generalize it to non-stationary integrated processes (I-SSA), deriving MSE-optimal predictors constrained by the expected duration between turning points (I(1)) or inflection points (I(2)). The resulting maximal-monotone and minimal-inflection predictors, filters, and smoothers customize classic benchmarks along a new efficient Accuracy--Smoothness (AS) frontier. Tracking the identity (the original data) alo...
-
----
-
-### [Covariance Identification from Regression Residuals](https://arxiv.org/abs/2610.41722v1)
-*Yanping Chen* — **arxiv**, 2026-10-30 — _Unclassified_
-
-Regression residuals are projections of the errors, not observations of them. This paper characterizes what residuals identify about the error covariance. Residualization acts on the covariance through a known linear map, and under an unrestricted covariance model the directions it destroys are exactly those generated by the column space of the regressors. A linear covariance functional is identified if and only if it does not load on these lost directions, and restricting the covariance model, for instance to diagonal or clustered form, shrinks them. The central result separates projection lo...
-
----
-
-### [Why delivered costs understate prices in an integrated global hydrogen market](https://arxiv.org/abs/2610.41447v1)
-*Bastian Weißenburger, Martin Wietschel, Patrick Plötz, Russell McKenna* — **arxiv**, 2026-10-30 — _Unclassified_
-
-Delivered-cost estimates are often used as proxies for hydrogen import prices. Yet they measure average supply-chain costs, whereas marginal prices measure the system value of an additional unit. Market interactions can make the two diverge, potentially biasing long-term price assumptions. We quantify this gap using an 81-region global hydrogen-market model, comparing each region's costs and prices when only its demand is active and when all regions' demands are active. The 2045 price-cost gap is positive in 78 regions and averages 63 EUR/MWh (52% of the single-buyer cost) on a demand-weighted...
-
----
-
-### [xtlp: A new Stata command for panel local projection](https://arxiv.org/abs/2610.41428v1)
-*Shu Shen, Ziwei Mei, Liugang Sheng, Zhentao Shi* — **arxiv**, 2026-10-30 — _Unclassified_
-
-Panel local projection (LP) estimated with fixed effects (FEs) is widely used to evaluate the dynamic effects of economic shocks across countries or regions. However, FE estimation of panel LP models is subject to Nickell bias arising from the predictive structure of LP specifications, even when lagged dependent variables are not included in the regressors. This bias invalidates standard inference based on conventional t-statistics. We introduce xtlp, a new Stata command that implements panel LP with split-panel jackknife (SPJ) bias correction. It removes the Nickell bias and restores the vali...
-
----
-
-### [Identification through Heteroskedasticity in One Lemma: Partial Identification, an Eigenvalue Construction, and a Caution on Rank Tests](https://arxiv.org/abs/2610.41361v1)
-*George Milunovich* — **arxiv**, 2026-10-30 — _Unclassified_
-
-This teaching note unifies known results on identification through heteroskedasticity, under volatility regimes, GARCH, stochastic volatility and covariate-driven variances, in one lemma with a short linear-algebra proof. A shock is identified up to sign and labelling if and only if no other shock shares its variance path, and shocks that share a path are identified up to a rotation. The rows of the structural coefficient matrix solve one generalised eigenvalue problem that nests Rigobon's (2003) two-regime solution. Rank tests on second moments of the errors count at most linearly independent...
-
----
-
-### [Deterministic Implementation of Mean-Preserving Contractions](https://arxiv.org/abs/2610.41284v1)
-*Junze Sun* — **arxiv**, 2026-10-30 — _Unclassified_
-
-We study whether randomization is needed to generate a prescribed distribution of posterior means for a one-dimensional state. Drawing on backward Monge martingale transport, we show that every mean-preserving contraction of an atomless prior with finite first moment admits a deterministic implementation. Consequently, restricting attention to deterministic signals leaves the designer's value unchanged whenever objectives and constraints depend only on the posterior-mean distribution. We decompose implementation into independent problems on non-separating intervals and describe a constructive ...
-
----
-
-### [Convolution Skew-$t$ Distributions](https://arxiv.org/abs/2610.41171v1)
-*Xinxian Chen, Peter Reinhard Hansen, Chen Tong* — **arxiv**, 2026-10-30 — _Unclassified_
-
-We introduce the convolution skew-$t$ (CST) distribution, which combines independent standardized skew-$t$ subvectors through a general loading matrix to accommodate heterogeneous tails, directional asymmetry, and non-elliptical dependence. We establish identification and develop likelihood inference using analytical scores and a one-dimensional reduction of Fisher information. For the finite-variance model, we prove consistency and asymptotic normality of maximum likelihood and characterize the consequences of imposing false symmetry. A raw representation extends the family to all positive ta...
+I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8–14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91–98% correlation between estimands and a 0.6–2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign ...
 
 ---
