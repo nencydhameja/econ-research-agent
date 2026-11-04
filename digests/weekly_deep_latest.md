@@ -1,4 +1,4 @@
-# Weekly Deep-Reading Queue — week of 2026-11-03
+# Weekly Deep-Reading Queue — week of 2026-11-04
 
 8 papers selected from the last 14 days. Read these carefully and decide which deserve a structured extraction.
 
@@ -47,29 +47,31 @@ Journal of Political Economy, Volume 134, Issue 10, Page 3348-3348, October 2026
 
 ---
 
-## 6. Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India
+## 6. Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation
+
+### [Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70098?af=R)
+*FERHAT AKBAS, 
+MINJIE HUANG, 
+FELIX MESCHKE* — **Journal of Finance**, 2026-11-04 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 7. Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India
 
 ### [Affirmative Action, Faculty Productivity and Caste Interactions: Evidence from Engineering Colleges in India](https://www.nber.org/papers/w35963#fromrss)
-*Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka, Gagandeep S. Sachdeva* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare_
+*Robert W. Fairlie, Saurabh Khanna, Prashant Loyalka, Gagandeep S. Sachdeva* — **NBER WP**, 2026-11-04 — _Business Economics & Innovation, Health, Education & Welfare_
 
 Affirmative action programs are often criticized because of concerns that they result in lower worker productivity and efficiency losses. We study the relative productivity of workers benefiting from an aggressive affirmative action policy in a setting where hiring constraints are mandated upon employers and are typically likely to bind. In India, colleges are required to reserve approximately 50 percent of faculty hires for individuals from disadvantaged caste and social class groups. We collect and analyze data from a nationally representative sample of 50 engineering and technology colleges...
 
 ---
 
-## 7. Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios
+## 8. Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios
 
 ### [Unraveling the Cobweb of Global Imbalances: Drivers, Vulnerabilities and Adjustment Scenarios](https://www.nber.org/papers/w35962#fromrss)
-*Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova, Marjorie Santos* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, International Economics_
+*Stefan Avdjiev, Kristin Forbes, Tsvetelina Nenova, Marjorie Santos* — **NBER WP**, 2026-11-04 — _Business Economics & Innovation, International Economics_
 
 This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies. We decompose these NIIP changes into their proximate drivers for a sample of 28 economies and find that financial factors (including valuation changes and investment income flows) are the primary drivers of global imbalances at both short and long hor...
-
----
-
-## 8. Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India
-
-### [Governance Regimes, Economic Mobility, and the Composition of Public Investment: Evidence from the Democratization of Villages in India](https://www.nber.org/papers/w35972#fromrss)
-*Andrew D. Foster, Mark R. Rosenzweig* — **NBER WP**, 2026-11-03 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics, Political Economy, Public Economics_
-
-We develop a quantifiable general-equilibrium model of village governance, motivated by India’s democratization, to study how political institutions shape public goods provision and economic development. The model features two groups, landowners and landless workers, with different preferences over public goods such as irrigation, schools, and employment programs. Households from both groups can enter nonfarm entrepreneurship, but face credit-dependent entry costs. We compare oligarchy, where landowners control public goods decisions, with democracy, where electoral competition determines poli...
 
 ---
