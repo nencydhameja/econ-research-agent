@@ -29,7 +29,16 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## 4. Debiasing Law Enforcement Officers: Evidence from an Expressive Arts Intervention in India
+## 4. Presidential Address: Human Finance: Incorporating Insights from the Life Sciences
+
+### [Presidential Address: Human Finance: Incorporating Insights from the Life Sciences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70096?af=R)
+*ULRIKE MALMENDIER* — **Journal of Finance**, 2026-11-10 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
+## 5. Debiasing Law Enforcement Officers: Evidence from an Expressive Arts Intervention in India
 
 ### [Debiasing Law Enforcement Officers: Evidence from an Expressive Arts Intervention in India](https://www.nber.org/papers/w35986#fromrss)
 *Sofia Amaral, Girija Borker, Nishith Prakash, María Micaela Sviatschi* — **NBER WP**, 2026-11-10 — _Law & Economics, method:RCT_
@@ -38,7 +47,7 @@ Frontline state agents exercise substantial discretion over citizens’ access t
 
 ---
 
-## 5. TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale
+## 6. TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale
 
 ### [TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale](https://www.nber.org/papers/w35987#fromrss)
 *Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis et al.* — **NBER WP**, 2026-11-10 — _Health, Education & Welfare_
@@ -47,7 +56,7 @@ Understanding how AI is reshaping work requires an accurate account of the tasks
 
 ---
 
-## 6. Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs
+## 7. Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs
 
 ### [Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs](https://www.nber.org/papers/w35991#fromrss)
 *Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand* — **NBER WP**, 2026-11-10 — _Health, Education & Welfare, Public Economics_
@@ -56,20 +65,11 @@ Multifaceted poverty Graduation programs that aim to increase income generating 
 
 ---
 
-## 7. AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains
+## 8. AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains
 
 ### [AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains](https://www.nber.org/papers/w36003#fromrss)
 *Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu et al.* — **NBER WP**, 2026-11-10 — _Business Economics & Innovation, method:DiD_
 
 Generative AI improves performance on individual tasks, but whether those gains translate into firm growth, and for which firms, remains an open question. We study a leading Chinese e-commerce platform that in 2024 embedded a generative AI system in the operating software firms use to run their businesses, drawing on centrally developed models and platform-wide data to deliver ready-to-use applications to every firm. Complete records of each firm’s AI use, linked to its monthly operations and sales, let us trace adoption through changes in business capabilities, such as reaching customers and ...
-
----
-
-## 8. Policy Evaluation Beyond Significance Testing: Evidence from Chicago's ShotSpotter Contract
-
-### [Policy Evaluation Beyond Significance Testing: Evidence from Chicago's ShotSpotter Contract](https://www.nber.org/papers/w36005#fromrss)
-*Terence Chau, Philip J. Cook, Javier Lopez, Jens Ludwig et al.* — **NBER WP**, 2026-11-10 — _method:RDD_
-
-Program impact estimates that are not statistically significant are often treated as providing little guidance for policy choice, even when economically important effects remain plausible. In such cases, the decision-relevant task is not simply to test whether the effect differs from zero, but to estimate the probability distribution of programmatic effects. The importance of going beyond hypothesis testing is especially clear when evaluations are underpowered relative to the effect needed for benefits to exceed costs. We illustrate this point using Chicago’s contract for ShotSpotter, an acous...
 
 ---

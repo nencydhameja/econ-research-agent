@@ -139,6 +139,13 @@ Journal of Political Economy, Ahead of Print.
 
 ## Unclassified
 
+### [Presidential Address: Human Finance: Incorporating Insights from the Life Sciences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70096?af=R)
+*ULRIKE MALMENDIER* — **Journal of Finance**, 2026-11-10 — _Unclassified_
+
+The Journal of Finance, EarlyView.
+
+---
+
 ### [Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70098?af=R)
 *FERHAT AKBAS, 
 MINJIE HUANG, 
@@ -212,13 +219,6 @@ Advised retirees keep about two-thirds of their portfolios in equities well into
 *Karam Kang, Mo Xiao* — **NBER WP**, 2026-11-10 — _Unclassified_
 
 Can firms influence policy through investment? Using 2010--2019 U.S. broadband deployment and state policy data, we find that large internet service providers expand capacity more in electorally competitive counties. Greater large-provider capacity in swing counties is associated with fewer subsequent entry- and investment-facilitating policies, especially rights-of-way accommodations that reduce deployment barriers faced by smaller providers. To interpret these patterns, we develop a model in which a large firm's capacity can reduce the policymaker's gain from intervention. In the model, poli...
-
----
-
-### [Can Home Visits Re-Engage Chronically Absent Students? Evidence from the LEAP Program](https://www.nber.org/papers/w35961#fromrss)
-*Eric Brunner, Shangyue Jiang, Stephen Ross* — **NBER WP**, 2026-11-08 — _Unclassified_
-
-Beginning in the summer of 2021, the state of Connecticut launched the Learner Engagement and Attendance Program (LEAP) where home visits by school personnel were conducted with students identified as chronically absent from Connecticut’s 15 most disadvantaged school districts. Home visits were designed to connect students and their families directly with teachers to foster strong connections. We use student-level data from 2021–22 through 2023-24 to estimate event studies of the effect of LEAP on student attendance, chronic absenteeism, disciplinary incidents, and student achievement. Utilizi...
 
 ---
 
