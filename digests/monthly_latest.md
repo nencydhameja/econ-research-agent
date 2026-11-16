@@ -1,116 +1,156 @@
-# Economics Research Digest — 2026-11-15
+# Economics Research Digest — 2026-11-16
 
-Window: last **30 days** · 30 papers across 12 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [The Impact of Climate Change on Fisheries](https://www.nber.org/papers/w35994#fromrss)
-*Fabio Cevenini, Christopher Costello, Carlo Fezzi* — **NBER WP**, 2026-11-15 — _Agricultural & Environmental Economics, Econometrics & Methods, method:Theory_
+### [Investment and Governance: Through The Lens of Sustainability](https://www.nber.org/papers/w36011#fromrss)
+*Jitendra Aswani, Roberto Rigobon* — **NBER WP**, 2026-11-16 — _Agricultural & Environmental Economics, Econometrics & Methods_
 
-This paper provides the first causal estimate of the effect of ocean temperature variations on fishing revenue. We develop a simple theoretical model underpinning an empirical specification estimated on 2.5 million spatially explicit observations of fishing revenue from all European vessels for 2013–2022. The identification strategy leverages a novel metric, Marine Degree Days, which quantifies species-specific temperature exposure relative to biologically established thermal tolerance intervals. Within this framework we address key identification challenges, including spatial selection and ec...
+Using 3,944 sustainable bond issuances by public firms from 2013 to 2022, we examine the causal effect of sustainable investment on governance adoption. A heteroskedasticity-based identification strategy reveals that a 1% increase in sustainable debt (by total debt) raises the likelihood of sustainable governance adoption by 9.2%. Such adoption improves environmental performance by 16% (structural estimates). These effects are confined to non-financial firms; for financial firms, governance adoption alone is in-sufficient, as sustainable loan borrowers environmental performance does not improv...
+
+---
+
+### [Federal Eminent Domain and Interstate Energy Infrastructure: Evidence from History](https://www.nber.org/papers/w36027#fromrss)
+*Zachary Liscow, Joseph S. Shapiro, Heidi L. Williams* — **NBER WP**, 2026-11-16 — _Agricultural & Environmental Economics, Business Economics & Innovation, International Economics_
+
+We analyze a historical episode to generate evidence on how federal eminent domain authority affected construction of energy transportation infrastructure. The 1947 amendment to the Natural Gas Act gave federally approved interstate natural gas pipelines the power to acquire rights of way by eminent domain when negotiations with landowners failed. We compare construction of interstate gas pipelines with construction of oil pipelines and of within-state gas pipelines, neither of which was directly affected by the reform, using newly digitized historical government records and trade press listin...
 
 ---
 
 ## Business Economics & Innovation
 
-### [AI as Shared Business Infrastructure: Firm Growth and the Distribution of Gains](https://www.nber.org/papers/w36003#fromrss)
-*Panle Jia Barwick, Lu Fang, Jinhan Liu, Huilan Xu et al.* — **NBER WP**, 2026-11-15 — _Business Economics & Innovation, method:DiD_
+### [Measuring the Impact of Impact Measurement](https://www.nber.org/papers/w36009#fromrss)
+*Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth* — **NBER WP**, 2026-11-16 — _Business Economics & Innovation, method:RCT_
 
-Generative AI improves performance on individual tasks, but whether those gains translate into firm growth, and for which firms, remains an open question. We study a leading Chinese e-commerce platform that in 2024 embedded a generative AI system in the operating software firms use to run their businesses, drawing on centrally developed models and platform-wide data to deliver ready-to-use applications to every firm. Complete records of each firm’s AI use, linked to its monthly operations and sales, let us trace adoption through changes in business capabilities, such as reaching customers and ...
+Impact measurement is central to impact investing and social entrepreneurship, yet little is known about whether firms benefit privately from measuring impact. We conduct the first randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms exhibit nearly twice as much revenue growth and raise nearly twice as much capital as control firms. In a companion experiment with early-stage investors, we find that investors respond strongly to quantified impact metrics but not to generic qualitative impact statements. Together, our resu...
+
+---
+
+### [The Labor Market Impact of Temporary High-Skill Immigration Programs](https://www.nber.org/papers/w36014#fromrss)
+*George J. Borjas* — **NBER WP**, 2026-11-16 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics_
+
+In 2019, about 1.2 million foreign workers were employed through temporary high-skill programs, including H-1B and OPT. This paper identifies likely temporary workers in the American Community Survey and measures their supply by education and field of degree. Natives in the most exposed skill groups experienced slower earnings growth and a relative decline in full-time year-round work. Many temporary workers stay after their status ends, but surveys cannot identify these stayers. A model of temporary inflows and stayers shows that, under specified conditions, the coefficient from an IV regress...
+
+---
+
+### [Aging and Structural Change: Cost Disease in the Care Sector](https://www.nber.org/papers/w36024#fromrss)
+*Nick Pretnar, Finn Kydland, Tonya Y. Kydland* — **NBER WP**, 2026-11-16 — _Business Economics & Innovation_
+
+For most of the service sector, market productivity growth has pulled production out of the home. We show that formal nursing care is an exception because its productivity growth has been negative. A two-sector general equilibrium overlapping generations model with informal care attributes the rise in formal care's relative price to this decline, not demography. Care/non-care complementarity dominates formal/informal complementarity. As formal prices rise, elders substitute non-care consumption for formal care, shifting care onto informal caregivers. Population aging need not slow growth if no...
+
+---
+
+### [Childhood Learning and Adult Earnings in Four LMIC Cohorts](https://www.nber.org/papers/w36029#fromrss)
+*Jishnu Das, Yash Dhuldhoya, Marta Favara, Amory Gethin et al.* — **NBER WP**, 2026-11-16 — _Business Economics & Innovation, Health, Education & Welfare_
+
+Researchers and policymakers in low- and middle-income countries (LMICs) have customarily relied on indirect evidence to justify investments in learning, either by linking test scores to economic growth or by connecting adult cognitive assessments to earnings. This reliance on indirect evidence largely stems from the scarcity of longitudinal data linking school-age learning to adult earnings. We address this gap by using data from Ethiopia, India, Pakistan, and Peru to estimate associations between foundational learning (FL), measured by test scores around age 12, and human capital and earning...
+
+---
+
+## Econometrics & Methods
+
+### [Decoding Success: Phonics-based Instruction and Student Achievement](https://www.nber.org/papers/w36018#fromrss)
+*Alex Hollingsworth, Alberto Ortega, Nikolaos Zirogiannis* — **NBER WP**, 2026-11-16 — _Econometrics & Methods, method:DiD, method:IV_
+
+Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches have surged in popularity, even though the largest attempt to put similar methods into classrooms was previously abandoned out of concerns that the program was ineffective. This paper studies Reading First, a nearly $1 billion per year federal program established under No Child Left Behind that promoted phonics-based instruction in K-3 classrooms. E...
 
 ---
 
 ## Health, Education & Welfare
 
-### [Target What? The Foundations of Poverty Targeting](https://www.nber.org/papers/w35984#fromrss)
-*Rema Hanna, Emily Breza, Benjamin A. Olken, Abhijit Banerjee et al.* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, Public Economics, method:RCT_
+### [How Will the 340B Rebate Model Pilot Affect Covered Entity Finances?](https://www.nber.org/papers/w36006#fromrss)
+*Charles J. Courtemanche* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare_
 
-Most government transfer programs aim to target the poor. Doing so implicitly assumes that the lowest-consumption households have the highest marginal social valuation, i.e., have the highest social welfare gain from an additional dollar. But this need not be the case. In 600 Indonesian villages, we ask over 5,500 villagers to rank other villagers on how well off they are and how much a modest cash transfer would help them, and compare these rankings to consumption and self-assessed welfare. Targeting consumption misses 77% of households with the highest marginal social valuation. Targeting se...
-
----
-
-### [TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale](https://www.nber.org/papers/w35987#fromrss)
-*Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil Lewis et al.* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare_
-
-Understanding how AI is reshaping work requires an accurate account of the tasks workers perform. Workers are often the first to see how their jobs are changing, as new responsibilities and tools often appear in everyday work before these changes reach formal descriptions. Interviews with workers can help capture these emerging changes in job tasks. Yet existing methods support standardized ratings across workers, while open-ended conversations with workers remain costly to collect and synthesize at scale. We introduce the Stanford Task Network (TaskNet), an occupational taxonomy grounded dire...
+The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the ...
 
 ---
 
-### [Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs](https://www.nber.org/papers/w35991#fromrss)
-*Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, Public Economics_
+### [Last-Mile Delivery and the Future of Aid](https://www.nber.org/papers/w36012#fromrss)
+*Erika Deserranno, Andrea Guariso, Nancy Qian* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare_
 
-Multifaceted poverty Graduation programs that aim to increase income generating activities for low-income households are being rapidly adopted and scaled by nonprofit organizations and governments. This paper conducts a Bayesian hierarchical meta-analysis of 49 studies (encompassing 81 treatment variations) on poverty Graduation programs, defined as containing at least three of five components: consumption support, savings facilitation, skills training, coaching, and a lumpsum transfer. The analysis finds large gains across economic and psychosocial outcomes: monthly consumption rises by 38 US...
-
----
-
-### [When Food Stamps Became Free: Impacts and Implications of Removing the Purchase Requirement](https://www.nber.org/papers/w35996#fromrss)
-*Amy Finkelstein, Matthew J. Notowidigdo, Charlie Rafkin* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, Public Economics_
-
-We analyze the food stamp program both as a potential investment in children’s health capital and as a redistributive tool by studying the 1979 reform that made food stamps free. We leverage geographic variation in exposure to the reform, which raised the program’s food subsidy from 65% to 100%. This raised enrollment by 1.85 percentage points (standard error = 0.15), or about 25%, with new enrollees substantially poorer than existing participants. From an investment perspective, we do not find evidence of improvement in infant health, and 95% confidence intervals rule out gains in birth weigh...
+Foreign aid seeks to provide basic services, such as health care and education, to poor and vulnerable populations. Its effectiveness depends on last-mile delivery: whether those services reach the people who need them. This article reviews evidence on two key aspects of last-mile delivery. The first concerns the growing role of non-state providers, especially NGOs, and its implication for state’s capacity to deliver services and coordinate across providers. The second concerns the selection, motivation, and management of frontline workers who provide the services directly to beneficiaries. We...
 
 ---
 
-### [Beyond Overdose Prevention: Naloxone Coprescription Laws and the Path to Treatment](https://www.nber.org/papers/w35997#fromrss)
-*Shin-Yi Chou, Jiarun Li, Bingjin Xue* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, method:DiD_
+### [Education and Gender Voting Polarization: The Effect of Compulsory Schooling on Sex-Based Preferences for the Democratic and Republican Parties](https://www.nber.org/papers/w36015#fromrss)
+*Philip DeCicca, Harry Krashinsky, Erik T. Nesson* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare, Political Economy_
 
-Over one-third of U.S. states have enacted naloxone coprescription laws, requiring physicians to prescribe or offer naloxone alongside high-risk opioids. Using Medicare Part D data, the Treatment Episode Data Set, and a difference-in-differences design, we study how these laws affect naloxone access, broader prescription behavior, and treatment engagement. Coprescription laws increased naloxone prescribing by 275%, with effects twice as large in states requiring prescriptions as in those requiring only offers. We find no evidence of increased opioid or benzodiazepine prescribing, countering mo...
-
----
-
-### [When More Prenatal Care Looks Like Less: Selection, Information and Maternal and Infant Health](https://www.nber.org/papers/w36000#fromrss)
-*Chien-Tzu Cheng, Shin-Yi Chou, Hsien-Ming Lien* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, method:Natural Experiment_
-
-We use Taiwan's 2003 SARS epidemic as a natural experiment, instrumenting prenatal care with gestational exposure to SARS-induced fear that reduced visits by over 20 percent. Adequate prenatal care reduces preventable maternal complications by 3.4 percentage points (26 percent), with no effect on infant outcomes. OLS estimates are perversely signed for maternal complications but overstate benefits for infant outcomes, consistent with competing patient- and provider-driven selection. Mechanism evidence points to prenatal care as a longitudinal information system: repeated contact facilitates de...
+One of the most notable developments in U.S. electoral politics over the last 40 years is the increasing divide between men and women voters. While men and women had roughly equivalent levels of support for both the Democratic and Republican parties in 1980, more recent surveys have revealed a roughly 10 to 15-percentage-point gap in preference for the Democratic party among women relative to men. We explain this result by using a variety of econometric strategies to establish a novel connection between compulsory schooling laws (CSLs), educational attainment, and diverging political preferenc...
 
 ---
 
-### [Knowledge Without Taxation? Experimental Evidence from a Tax Education Program](https://www.nber.org/papers/w36002#fromrss)
-*Anders Jensen, Nikhil Kumar, Konstantin Poensgen* — **NBER WP**, 2026-11-15 — _Health, Education & Welfare, Law & Economics, Public Economics_
+### [Economics of Mental Health](https://www.nber.org/papers/w36019#fromrss)
+*Janet Currie, N. Meltem Daysal* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare_
 
-A property tax experiment in Ghana randomly provides tax education to property owners and frontline officials. The intervention raises tax knowledge, which spreads through social networks to untreated neighbors, but does not increase tax payments. Educated taxpayers and officials become more engaged in their interactions without developing more collaborative relationships. Taxpayers revise downward their beliefs about enforcement capacity and become more aware of legal ways to reduce their tax burden. Knowledge is a double-edged sword: it can stimulate citizens to engage with the tax system wh...
+This chapter provides an overview of the rapidly evolving economics literature on mental health, focusing on research published since 2015. This literature has grown substantially, reflecting the increased recognition of the prevalence and economic costs of mental illness, declining stigma, and the growing availability of data on mental health. In addition to the economic costs of mental illness, the review focuses on four broad classes of determinants of mental health: endowments, economic resources, education, and trauma. We also examine the determinants and effects of mental health treatmen...
+
+---
+
+### [The Effects of Years of Health Insurance on the Health of Older Adults](https://www.nber.org/papers/w36020#fromrss)
+*Yu Liu, Kevin Callison, Robert Kaestner* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare, Labor & Demographic Economics_
+
+Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one addi...
+
+---
+
+### [Impacts of AI in Higher Education: A Panel Survey of Undergraduates](https://www.nber.org/papers/w36021#fromrss)
+*Bruce Sacerdote, Mason Parris-Bacon* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare_
+
+We report findings from the first wave of a survey of undergraduates including separate samples of Dartmouth students, graduating high school seniors, and U.S. college students more broadly. Students report extensive use of AI both for tasks which are likely harmful to learning and tasks which are likely helpful to learning. Students report much higher peer misuse of AI relative to reports of own misuse. Ninety-two percent of students agree or strongly agree that use of AI is harmful to writing. Use of graded out-of-class assignments has become increasingly unfair due to cheating with AI. But ...
+
+---
+
+### [The Role of Parental Beliefs and Public Policies in Financing Higher Education: An Experimental Study](https://www.nber.org/papers/w36023#fromrss)
+*Francesco Agostinelli, Guglielmo Briscese, Giovanni M. Topa* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare, method:Survey Experiment_
+
+Parents who want to financially support their child’s pursuit of higher education must save against assumptions about what college will cost and how it will be funded. This study examines how parental beliefs and future borrowing costs shape college saving decisions. Through a survey experiment with an embedded financial planning tool, we elicit parental beliefs about the future costs of college and their expectations of different funding sources, including financial aid and student loans. We find that nearly all parents want to cover some of the future costs of college, but many may fall shor...
+
+---
+
+### [The Health Effects of Eating Red Meat: A Natural Experiment in Alpha-Gal Syndrome](https://www.nber.org/papers/w36025#fromrss)
+*Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Anupam Jena* — **NBER WP**, 2026-11-16 — _Health, Education & Welfare, method:Natural Experiment_
+
+Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt and involuntary cessation of red meat consumption. Using national electronic health records, we compared changes in weight and cardiometabolic health over two years before and after newly detected alpha-gal syndrome with those in patients with other tick-borne diseases, who were also bitten and sought care but whose diagnoses carry no dietary restriction. Relative to this comparison ...
 
 ---
 
 ## Labor & Demographic Economics
 
-### [Peer Influence in College Applications](https://www.nber.org/papers/w35993#fromrss)
-*Ana M. Gazmuri, Elena Prager* — **NBER WP**, 2026-11-15 — _Labor & Demographic Economics, Urban, Rural & Regional Economics_
+### [Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences](https://www.nber.org/papers/w36007#fromrss)
+*Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat* — **NBER WP**, 2026-11-16 — _Labor & Demographic Economics, Public Economics_
 
-This paper studies how exposure to peers affects college application behavior. We use neighbors who attend different high schools to mitigate concerns about common shocks. Using granular classroom-level data, we find that exposure to peers who have applied to a program increases application rates. Consistent with an information mechanism, there is no additional effect of peers who are admitted. In counterfactuals, the effect is large enough to close urban-rural gaps and gender gaps in applications to selective college programs. We make the (generally NP-hard) application portfolio choice probl...
+Taxes are harder to enforce on the self-employed than on wage earners, creating horizontal inequities among taxpayers with similar incomes. Using tax microsimulation and household survey data from 29 developing countries, we show that horizontal inequities in actual tax systems are comparable in magnitude to vertical equity and are exacerbated by progressive reforms that fall disproportionately on wage earners. We then conduct surveys and randomized information experiments in Pakistan to study public perceptions of these inequities. Although providing information raises fairness concerns, it d...
 
 ---
 
-## Law & Economics
+### [Gambling for Goals](https://www.nber.org/papers/w36010#fromrss)
+*Costas Arkolakis, Spencer Y. Kwon, Dominic Russel, Claire Shi et al.* — **NBER WP**, 2026-11-16 — _Labor & Demographic Economics, Urban, Rural & Regional Economics_
 
-### [Debiasing Law Enforcement Officers: Evidence from an Expressive Arts Intervention in India](https://www.nber.org/papers/w35986#fromrss)
-*Sofia Amaral, Girija Borker, Nishith Prakash, María Micaela Sviatschi* — **NBER WP**, 2026-11-15 — _Law & Economics, method:RCT_
+Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory using an original survey combined with millions of linked records from Korea’s leading credit bureau, telecom provider, and credit card issuer. Consistent with the theory, individuals who place greater importance on hard-to-rea...
 
-Frontline state agents exercise substantial discretion over citizens’ access to public services, yet little is known about whether the attitudes and beliefs shaping this discretion can be changed among incumbent bureaucrats. Partnering with the Bihar Police - one of India’s largest states that operates under comparatively severe policing capacity constraints, we conduct a cluster randomized controlled trial across 417 police stations and roughly 2,500 active duty senior field police officers to evaluate a three-day expressive arts intervention, grounded in the Theatre of the Oppressed, designe...
+---
+
+### [Crime on ICE: Local Police Behavior and Immigration Enforcement in the United States](https://www.nber.org/papers/w36026#fromrss)
+*John J. Donohue, Tai Markman, Eric A. Baldwin* — **NBER WP**, 2026-11-16 — _Labor & Demographic Economics, Law & Economics, method:DiD_
+
+A growing number of local police departments now hold authority to enforce federal immigration law, a role traditionally reserved for federal officers. Despite claims that this authority enhances public safety, empirical evidence remains limited. Using FBI Uniform Crime Report data from 2000–2024, we exploit staggered adoption across U.S. jurisdictions to estimate causal effects on policing. We find that this enforcement authority increases arrests for low-level, discretionary offenses by approximately 7%, with no corresponding decreases in offense rates or serious crime. These results suggest...
 
 ---
 
 ## Macroeconomics
 
-### [Unconventional Monetary Policy and Deposit Retention](https://www.nber.org/papers/w35985#fromrss)
-*Philip Strahan, Tuo Yang* — **NBER WP**, 2026-11-15 — _Macroeconomics_
+### [Monetary policy in a Phelps–Winter Economy](https://www.nber.org/papers/w36008#fromrss)
+*Bruce C. Greenwald, Joseph E. Stiglitz* — **NBER WP**, 2026-11-16 — _Macroeconomics_
 
-The two dimensions of unconventional monetary policy — holding the short rate at the zero-lower bound (ZLB) and quantitative easing (QE) — shifted deposit composition toward more interest-sensitive customers. The ZLB drew these customers by creating rate compression, which limited the benefit of searching for high-yielding liquidity sources. QE also drew rate-sensitive, large depositors from the Federal Reserve’s purchases of bonds from non-banks. Once policy normalized, flow sensitivity and the deposit beta both increased with exposure to QE and the ZLB. We conclude that unconventional moneta...
-
----
-
-### [The Main Monetary Policy Shock](https://www.nber.org/papers/w36004#fromrss)
-*Christoph Boehm, Husang Kim, T. Niklas Kroner* — **NBER WP**, 2026-11-15 — _Macroeconomics_
-
-We propose a novel procedure to identify a main monetary policy (MMP) shock as the linear combination of monetary policy surprises that best explains macroeconomic fluctuations. Implemented with two standard high-frequency yield-curve surprises and the Boehm and Kroner (2024) non-yield shock, the MMP shock explains nontrivial business-cycle variation over the last 30 years, in contrast with prior findings. Moreover, the MMP shock differs markedly from a textbook monetary policy shock: a contractionary shock leaves interest rates mostly unchanged but persistently lowers headline prices and appr...
+We use the Phelps-Winter customer market—providing a better theory of price determination for large parts of the economy than the standard model—to show that raising interest rates induces higher prices, as firms value current profits more, and are more willing to lose customers for short-term gains. These inflationary effects can be significant in relevant ranges of interest rates; they exist in the short run even when interest rate hikes succeed in cutting aggregate demand; and that they are amplified by policy uncertainty and the uncertainty about the effects of interest rate changes, both ...
 
 ---
 
-## Microeconomics
+### [An Odd Approximation of Inflation for State Dependent Pricing Models](https://www.nber.org/papers/w36016#fromrss)
+*Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens et al.* — **NBER WP**, 2026-11-16 — _Macroeconomics_
 
-### [Vigilance, Risk Vulnerability, and the Precautionary Augment](https://www.nber.org/papers/w36001#fromrss)
-*Miles S. Kimball, Vincent A. Mastantuno* — **NBER WP**, 2026-11-15 — _Microeconomics_
-
-Risk raises the expected marginal utility of a prudent agent. We define this proportional change as the precautionary augment, which measures risk-induced changes in the marginal value of saving, the Lucas Tree risk-free rate, and asset prices in a derivative-saturated market where market-state securities provide incomplete coverage against idiosyncratic risk. One agent is more vigilant than another if their precautionary augment is larger for all unfair risks. We derive and compare conditions for greater vigilance, showing how to implement the Diffidence Theorem geometrically. Because risk vu...
+We derive an aggregate state-space representation of state-dependent pricing models with random menu costs and strategic complementarities. The representation, derived from first principles, replaces the cross-sectional distribution of price gaps with a finite set of its moments (the first three), while preserving the key economic forces of state-dependent pricing--movements in the frequency of price adjustment and selection. Along the impulse response, inflation is an odd (cubic) polynomial in the average price gap. Embedded in a general equilibrium setting, the model can be solved by perturb...
 
 ---
 
@@ -125,13 +165,6 @@ Journal of Political Economy, Ahead of Print.
 
 ### [Connecting Common Ratio and Common Consequence Preferences](https://www.journals.uchicago.edu/doi/abs/10.1086/743896?af=R)
 *Christina McGranaghanKirby NielsenTed O’DonoghueJason SomervilleCharles D. SprengerUniversity of DelawareCalifornia Institute of TechnologyCornell UniversityUniversity of California, Santa Barbara* — **Journal of Political Economy**, 2026-11-10 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
-
----
-
-### [A Theory of Redistribution and Public Good Provision under Nondemocracy](https://www.journals.uchicago.edu/doi/abs/10.1086/743332?af=R)
-*Nicola PersicoNorthwestern University and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-10-30 — _Political Economy_
 
 Journal of Political Economy, Ahead of Print.
 
@@ -172,79 +205,34 @@ The Journal of Finance, EarlyView.
 
 ---
 
-### [The Hidden Sharpe Ratio](https://www.nber.org/papers/w35988#fromrss)
-*Mikhail Chernov, Bryan T. Kelly, Semyon Malamud, Johannes Schwab* — **NBER WP**, 2026-11-15 — _Unclassified_
+### [fereg: Fast High-Dimensional Fixed-Effects Regressions in Stata](https://www.nber.org/papers/w36017#fromrss)
+*Johannes F. Schmieder* — **NBER WP**, 2026-11-16 — _Unclassified_
 
-We estimate the maximal Sharpe ratio in large cross-sections of assets directly, without constructing the efficient portfolio. Covariance estimation in this setting requires regularization, which suppresses the contribution of small-eigenvalue directions. Our estimator progressively recovers this contribution, yielding tight upper and lower bounds with asymptotic confidence intervals. We further show that ridge-regularized Markowitz portfolios, the construction underlying many existing high-Sharpe benchmarks, deliver out-of-sample Sharpe ratios that fall short of the true maximum by an explici...
-
----
-
-### [Clearing the Fog: Price Transparency, Market Churn, and Consumer Welfare in Short-Term Rentals](https://www.nber.org/papers/w35989#fromrss)
-*Ginger Zhe Jin, Liad Wagman, Jingyi Xing* — **NBER WP**, 2026-11-15 — _Unclassified_
-
-We study California's short-term lodging price transparency law (AB 537), which from July 1, 2024 required Airbnb and other providers to advertise fee-inclusive prices. Using Coarsened Exact Matching to compare Airbnb listings in San Diego and San Francisco with those in Seattle and Chicago, we find that all-in pricing made guests more price-sensitive relative to control cities; yet, contrary to the standard prediction that transparency lowers prices, average daily rates rose by 4.8 percent. We also observe significant market churn: relative to control cities, treated cities saw more exits and...
+Regressions with many fixed effects are central to applied research, but fitting them to large datasets can be slow. In this article, I present the commands fereg and feppml, which fit linear and Poisson pseudo-maximum-likelihood regressions with high-dimensional fixed effects. Both commands use familiar Stata syntax and pass the computation to a compiled plugin. The plugin chooses among projection, Krylov, and multigrid solvers according to the structure of the fixed effects, checks every result before posting it, and runs on several processor cores. The commands support multiple and interact...
 
 ---
 
-### [Financial Advisors and Retirees' Risk-taking](https://www.nber.org/papers/w35990#fromrss)
-*Allison T. Cole, Maarten Meeuwis, Alessandro Previtero, Noah Stoffman* — **NBER WP**, 2026-11-15 — _Unclassified_
+### [The Last Arbitrage? Capital Flows, Development, and Infrastructure as an Asset Class](https://www.nber.org/papers/w36022#fromrss)
+*Anusha Chari, Monroe Gamble, Peter Blair Henry* — **NBER WP**, 2026-11-16 — _Unclassified_
 
-Advised retirees keep about two-thirds of their portfolios in equities well into old age—30 to 40 percentage points more than non-advised retirees, target-date funds, or common rules of thumb. These allocations reflect active choices rather than inertia, and they adjust gradually toward a new advisor’s investment style following advisor switches. Equity shares rise with relationship tenure, and advisor influence is strongest among clients with low financial knowledge or risk tolerance, consistent with trust facilitating risk-taking. Given retirees’ modest financial wealth relative to their saf...
-
----
-
-### [Policy Deterrence: Strategic Investment in U.S. Broadband](https://www.nber.org/papers/w35992#fromrss)
-*Karam Kang, Mo Xiao* — **NBER WP**, 2026-11-15 — _Unclassified_
-
-Can firms influence policy through investment? Using 2010--2019 U.S. broadband deployment and state policy data, we find that large internet service providers expand capacity more in electorally competitive counties. Greater large-provider capacity in swing counties is associated with fewer subsequent entry- and investment-facilitating policies, especially rights-of-way accommodations that reduce deployment barriers faced by smaller providers. To interpret these patterns, we develop a model in which a large firm's capacity can reduce the policymaker's gain from intervention. In the model, poli...
-
----
-
-### [The Evolution of the Market for Corporate Control](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70099?af=R)
-*MIKE BURKART, 
-SAMUEL LEE, 
-PAUL VOSS* — **Journal of Finance**, 2026-10-30 — _Unclassified_
-
-The Journal of Finance, EarlyView.
-
----
-
-### [Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70100?af=R)
-*CHRISTOPH HUBER, 
-FELIX HOLZMEISTER, 
-MAGNUS JOHANNESSON, 
-CHRISTIAN KÖNIG‐KERSTING, 
-ANNA DREBER, 
-JÜRGEN HUBER, 
-MICHAEL KIRCHLER* — **Journal of Finance**, 2026-10-29 — _Unclassified_
-
-The Journal of Finance, EarlyView.
+Lucas (1990) asked why capital does not flow from rich to poor countries. When poor countries opened their stock markets to foreign investors in the late 1980s, it did: rich-country capital arbitraged away the excess return on emerging-market equity and created a new asset class. Infrastructure may offer the last such arbitrage. The median social return on paved roads in poor countries was 3.7 times the return on U.S. capital at the time of liberalization, but investors capture only the share of social returns that contracts, user fees, and political risk allow, a constraint we call the privat...
 
 ---
 
 ## method:Field Experiment
 
-### [Sorting by Participation: A Field Experiment in a Stem-cell Registry](https://www.nber.org/papers/w35998#fromrss)
-*Michael Haylock, Patrick Kampkötter, Mario Macis, Susanne Seitz et al.* — **NBER WP**, 2026-11-15 — _method:Field Experiment_
+### [Irregular Demand: The Anti-Compromise Effect in the Field](https://www.nber.org/papers/w36013#fromrss)
+*Nicola Gennaioli, John A. List, Matthias Rodemeier, Gregory K. Sun* — **NBER WP**, 2026-11-16 — _method:Field Experiment_
 
-Unavailability of stem-cell donors at the confirmatory typing (CT) stage, an operational milestone in the stem-cell donation process, reduces the effective supply of life-saving transplants for blood cancer patients worldwide. Although (potential) donors register voluntarily, requests may come much later, when circumstances and commitment have changed; keeping registered donors engaged and identifying who will follow through are therefore central managerial questions for registries. In a field experiment with a leading stem-cell registry, we randomize the framing of routine invitations to an e...
-
----
-
-## method:RCT
-
-### [(In)Credible Development RCTs: False Discoveries, Low Power, and a Solution](https://www.nber.org/papers/w35999#fromrss)
-*Qingyuan Chai, Kevin Lang, Liang Zhong* — **NBER WP**, 2026-11-15 — _method:RCT_
-
-We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values associated with p-hacking. This suggests many RCTs are underpowered. Estimating an empirical Bayes mixture model that accounts for selective publication, we find that approximately 30 percent of published rejections are fa...
+Neoclassical demand obeys regularity: adding a good can only draw demand away from existing goods. In a natural field experiment with Lyft covering 7.2 million riders and 47 million choices, we randomize the presence and price of a premium ride. Contrary to regularity, the premium ride raises demand for the cheapest incumbent and for not buying. The effect grows with the premium price and with repeated exposure, and persists in sessions where the premium ride is not displayed. Rational inference and inattention cannot account for these facts. A model in which a surprisingly high price, cued on...
 
 ---
 
-## method:RDD
+## method:Natural Experiment
 
-### [Policy Evaluation Beyond Significance Testing: Evidence from Chicago's ShotSpotter Contract](https://www.nber.org/papers/w36005#fromrss)
-*Terence Chau, Philip J. Cook, Javier Lopez, Jens Ludwig et al.* — **NBER WP**, 2026-11-15 — _method:RDD_
+### [Crash Injuries and Fatalities in the United States Following Standardization of Automatic Emergency Braking](https://www.nber.org/papers/w36028#fromrss)
+*Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Thomas Tsai et al.* — **NBER WP**, 2026-11-16 — _method:Natural Experiment_
 
-Program impact estimates that are not statistically significant are often treated as providing little guidance for policy choice, even when economically important effects remain plausible. In such cases, the decision-relevant task is not simply to test whether the effect differs from zero, but to estimate the probability distribution of programmatic effects. The importance of going beyond hypothesis testing is especially clear when evaluations are underpowered relative to the effect needed for benefits to exceed costs. We illustrate this point using Chicago’s contract for ShotSpotter, an acous...
+Whether vehicle safety technologies reduce crash injuries and fatalities is relevant to consumers and regulators, but rigorous real world evidence is limited because drivers who choose optional features differ from those who do not. As a natural experiment, we leveraged the staggered implementation of automatic emergency braking as standard rather than optional equipment on 39 vehicle models between 2017 and 2022. Across the United States, the percentage of crash injuries from rear-end collisions caused by the vehicle fell from 13.9% to 8.0% at the first standard model year, and the percentage...
 
 ---
