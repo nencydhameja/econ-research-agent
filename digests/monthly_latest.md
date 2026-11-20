@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-11-20
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -19,6 +19,13 @@ We analyze a historical episode to generate evidence on how federal eminent doma
 ---
 
 ## Business Economics & Innovation
+
+### [The Long-Run Economic Effects of Medical Innovation and the Role of Opportunities](https://www.journals.uchicago.edu/doi/abs/10.1086/743898?af=R)
+*Sonia BhalotraDamian ClarkeAtheendar VenkataramaniUniversity of Warwick, Centre for Competitive Advantage in the Global Economy, Institute for Fiscal Studies, Centre for Economic Policy Research, ROCKWOOL Foundation Berlin, Institute of Labor Economics, and CESifoUniversidad de Chile, University of Exeter, and Institute of Labor EconomicsUniversity of Pennsylvania and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-11-18 — _Business Economics & Innovation, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
 
 ### [Measuring the Impact of Impact Measurement](https://www.nber.org/papers/w36009#fromrss)
 *Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth* — **NBER WP**, 2026-11-20 — _Business Economics & Innovation, method:RCT_
@@ -45,13 +52,6 @@ For most of the service sector, market productivity growth has pulled production
 *Jishnu Das, Yash Dhuldhoya, Marta Favara, Amory Gethin et al.* — **NBER WP**, 2026-11-20 — _Business Economics & Innovation, Health, Education & Welfare_
 
 Researchers and policymakers in low- and middle-income countries (LMICs) have customarily relied on indirect evidence to justify investments in learning, either by linking test scores to economic growth or by connecting adult cognitive assessments to earnings. This reliance on indirect evidence largely stems from the scarcity of longitudinal data linking school-age learning to adult earnings. We address this gap by using data from Ethiopia, India, Pakistan, and Peru to estimate associations between foundational learning (FL), measured by test scores around age 12, and human capital and earning...
-
----
-
-### [Clouds of Credit: Mapping the Financial Web Behind AI Compute](https://www.nber.org/papers/w36032#fromrss)
-*Stijn Van Nieuwerburgh, Zijin Su* — **NBER WP**, 2026-11-20 — _Business Economics & Innovation_
-
-We map the financial network supporting the AI buildout. Substantial equity cushions protect creditors against large obligations outstanding in mid-2026, but concentrated exposures and interconnected claims create weak links. Our calibrated model supports a large compute expansion in the coming years. The equilibrium investment exceeds the social optimum because firms do not internalize their effects on competitors' revenues. Debt finances nearly 60% of the expansion, increasing leverage, while non-recourse borrowing leaves project lenders exposed despite equity buffers. In the low-productivit...
 
 ---
 
@@ -122,10 +122,12 @@ Observational associations between red meat consumption and cardiometabolic dise
 
 ---
 
-### [A Blessing in Disguise: The Long-Term Effects of Childhood Exposure to the Boll Weevil on Old-Age Male Longevity](https://www.nber.org/papers/w36031#fromrss)
-*Hamid Noghanibehambari, Jason Fletcher* — **NBER WP**, 2026-11-20 — _Health, Education & Welfare, Urban, Rural & Regional Economics, method:RCT_
+## Industrial Organization
 
-The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-...
+### [How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis](https://www.journals.uchicago.edu/doi/abs/10.1086/743329?af=R)
+*Thomas G. WollmannBoston University Questrom School of Business* — **Journal of Political Economy**, 2026-11-19 — _Industrial Organization, Political Economy_
+
+Journal of Political Economy, Ahead of Print.
 
 ---
 
