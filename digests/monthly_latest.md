@@ -1,6 +1,6 @@
 # Economics Research Digest — 2026-11-21
 
-Window: last **30 days** · 30 papers across 11 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
@@ -11,14 +11,19 @@ Using 3,944 sustainable bond issuances by public firms from 2013 to 2022, we exa
 
 ---
 
-### [Federal Eminent Domain and Interstate Energy Infrastructure: Evidence from History](https://www.nber.org/papers/w36027#fromrss)
-*Zachary Liscow, Joseph S. Shapiro, Heidi L. Williams* — **NBER WP**, 2026-11-21 — _Agricultural & Environmental Economics, Business Economics & Innovation, International Economics_
+## Business Economics & Innovation
 
-We analyze a historical episode to generate evidence on how federal eminent domain authority affected construction of energy transportation infrastructure. The 1947 amendment to the Natural Gas Act gave federally approved interstate natural gas pipelines the power to acquire rights of way by eminent domain when negotiations with landowners failed. We compare construction of interstate gas pipelines with construction of oil pipelines and of within-state gas pipelines, neither of which was directly affected by the reform, using newly digitized historical government records and trade press listin...
+### [Comment on ‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21760?af=R)
+*Emilia Tjernström, 
+Dalia Ghanem, 
+Aleksandr Michuda, 
+Oscar Barriga‐Cabanillas, 
+Travis J. Lybbert, 
+Jeffrey D. Michler* — **Econometrica**, 2026-11-21 — _Business Economics & Innovation_
+
+Econometrica, Volume 94, Issue 6, Page 2319-2331, November 2026.
 
 ---
-
-## Business Economics & Innovation
 
 ### [The Long-Run Economic Effects of Medical Innovation and the Role of Opportunities](https://www.journals.uchicago.edu/doi/abs/10.1086/743898?af=R)
 *Sonia BhalotraDamian ClarkeAtheendar VenkataramaniUniversity of Warwick, Centre for Competitive Advantage in the Global Economy, Institute for Fiscal Studies, Centre for Economic Policy Research, ROCKWOOL Foundation Berlin, Institute of Labor Economics, and CESifoUniversidad de Chile, University of Exeter, and Institute of Labor EconomicsUniversity of Pennsylvania and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-11-18 — _Business Economics & Innovation, Political Economy_
@@ -34,37 +39,17 @@ Impact measurement is central to impact investing and social entrepreneurship, y
 
 ---
 
-### [The Labor Market Impact of Temporary High-Skill Immigration Programs](https://www.nber.org/papers/w36014#fromrss)
-*George J. Borjas* — **NBER WP**, 2026-11-21 — _Business Economics & Innovation, Health, Education & Welfare, Labor & Demographic Economics_
-
-In 2019, about 1.2 million foreign workers were employed through temporary high-skill programs, including H-1B and OPT. This paper identifies likely temporary workers in the American Community Survey and measures their supply by education and field of degree. Natives in the most exposed skill groups experienced slower earnings growth and a relative decline in full-time year-round work. Many temporary workers stay after their status ends, but surveys cannot identify these stayers. A model of temporary inflows and stayers shows that, under specified conditions, the coefficient from an IV regress...
-
----
-
-### [Aging and Structural Change: Cost Disease in the Care Sector](https://www.nber.org/papers/w36024#fromrss)
-*Nick Pretnar, Finn Kydland, Tonya Y. Kydland* — **NBER WP**, 2026-11-21 — _Business Economics & Innovation_
-
-For most of the service sector, market productivity growth has pulled production out of the home. We show that formal nursing care is an exception because its productivity growth has been negative. A two-sector general equilibrium overlapping generations model with informal care attributes the rise in formal care's relative price to this decline, not demography. Care/non-care complementarity dominates formal/informal complementarity. As formal prices rise, elders substitute non-care consumption for formal care, shifting care onto informal caregivers. Population aging need not slow growth if no...
-
----
-
-### [Childhood Learning and Adult Earnings in Four LMIC Cohorts](https://www.nber.org/papers/w36029#fromrss)
-*Jishnu Das, Yash Dhuldhoya, Marta Favara, Amory Gethin et al.* — **NBER WP**, 2026-11-21 — _Business Economics & Innovation, Health, Education & Welfare_
-
-Researchers and policymakers in low- and middle-income countries (LMICs) have customarily relied on indirect evidence to justify investments in learning, either by linking test scores to economic growth or by connecting adult cognitive assessments to earnings. This reliance on indirect evidence largely stems from the scarcity of longitudinal data linking school-age learning to adult earnings. We address this gap by using data from Ethiopia, India, Pakistan, and Peru to estimate associations between foundational learning (FL), measured by test scores around age 12, and human capital and earning...
-
----
-
-## Econometrics & Methods
-
-### [Decoding Success: Phonics-based Instruction and Student Achievement](https://www.nber.org/papers/w36018#fromrss)
-*Alex Hollingsworth, Alberto Ortega, Nikolaos Zirogiannis* — **NBER WP**, 2026-11-21 — _Econometrics & Methods, method:DiD, method:IV_
-
-Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches have surged in popularity, even though the largest attempt to put similar methods into classrooms was previously abandoned out of concerns that the program was ineffective. This paper studies Reading First, a nearly $1 billion per year federal program established under No Child Left Behind that promoted phonics-based instruction in K-3 classrooms. E...
-
----
-
 ## Health, Education & Welfare
+
+### [Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23194?af=R)
+*Joachim Hubmer, 
+Elin Halvorsen, 
+Sergio Salgado, 
+Serdar Ozkan* — **Econometrica**, 2026-11-21 — _Health, Education & Welfare_
+
+Econometrica, Volume 94, Issue 6, Page 2117-2148, November 2026.
+
+---
 
 ### [How Will the 340B Rebate Model Pilot Affect Covered Entity Finances?](https://www.nber.org/papers/w36006#fromrss)
 *Charles J. Courtemanche* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare_
@@ -77,48 +62,6 @@ The Health Resources and Services Administration (HRSA) plans to implement a pil
 *Erika Deserranno, Andrea Guariso, Nancy Qian* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare_
 
 Foreign aid seeks to provide basic services, such as health care and education, to poor and vulnerable populations. Its effectiveness depends on last-mile delivery: whether those services reach the people who need them. This article reviews evidence on two key aspects of last-mile delivery. The first concerns the growing role of non-state providers, especially NGOs, and its implication for state’s capacity to deliver services and coordinate across providers. The second concerns the selection, motivation, and management of frontline workers who provide the services directly to beneficiaries. We...
-
----
-
-### [Education and Gender Voting Polarization: The Effect of Compulsory Schooling on Sex-Based Preferences for the Democratic and Republican Parties](https://www.nber.org/papers/w36015#fromrss)
-*Philip DeCicca, Harry Krashinsky, Erik T. Nesson* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare, Political Economy_
-
-One of the most notable developments in U.S. electoral politics over the last 40 years is the increasing divide between men and women voters. While men and women had roughly equivalent levels of support for both the Democratic and Republican parties in 1980, more recent surveys have revealed a roughly 10 to 15-percentage-point gap in preference for the Democratic party among women relative to men. We explain this result by using a variety of econometric strategies to establish a novel connection between compulsory schooling laws (CSLs), educational attainment, and diverging political preferenc...
-
----
-
-### [Economics of Mental Health](https://www.nber.org/papers/w36019#fromrss)
-*Janet Currie, N. Meltem Daysal* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare_
-
-This chapter provides an overview of the rapidly evolving economics literature on mental health, focusing on research published since 2015. This literature has grown substantially, reflecting the increased recognition of the prevalence and economic costs of mental illness, declining stigma, and the growing availability of data on mental health. In addition to the economic costs of mental illness, the review focuses on four broad classes of determinants of mental health: endowments, economic resources, education, and trauma. We also examine the determinants and effects of mental health treatmen...
-
----
-
-### [The Effects of Years of Health Insurance on the Health of Older Adults](https://www.nber.org/papers/w36020#fromrss)
-*Yu Liu, Kevin Callison, Robert Kaestner* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare, Labor & Demographic Economics_
-
-Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one addi...
-
----
-
-### [Impacts of AI in Higher Education: A Panel Survey of Undergraduates](https://www.nber.org/papers/w36021#fromrss)
-*Bruce Sacerdote, Mason Parris-Bacon* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare_
-
-We report findings from the first wave of a survey of undergraduates including separate samples of Dartmouth students, graduating high school seniors, and U.S. college students more broadly. Students report extensive use of AI both for tasks which are likely harmful to learning and tasks which are likely helpful to learning. Students report much higher peer misuse of AI relative to reports of own misuse. Ninety-two percent of students agree or strongly agree that use of AI is harmful to writing. Use of graded out-of-class assignments has become increasingly unfair due to cheating with AI. But ...
-
----
-
-### [The Role of Parental Beliefs and Public Policies in Financing Higher Education: An Experimental Study](https://www.nber.org/papers/w36023#fromrss)
-*Francesco Agostinelli, Guglielmo Briscese, Giovanni M. Topa* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare, method:Survey Experiment_
-
-Parents who want to financially support their child’s pursuit of higher education must save against assumptions about what college will cost and how it will be funded. This study examines how parental beliefs and future borrowing costs shape college saving decisions. Through a survey experiment with an embedded financial planning tool, we elicit parental beliefs about the future costs of college and their expectations of different funding sources, including financial aid and student loans. We find that nearly all parents want to cover some of the future costs of college, but many may fall shor...
-
----
-
-### [The Health Effects of Eating Red Meat: A Natural Experiment in Alpha-Gal Syndrome](https://www.nber.org/papers/w36025#fromrss)
-*Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Anupam Jena* — **NBER WP**, 2026-11-21 — _Health, Education & Welfare, method:Natural Experiment_
-
-Observational associations between red meat consumption and cardiometabolic disease are confounded by diet and other health behaviors. Alpha-gal syndrome, a tick-borne allergy to mammalian meat, leads to an abrupt and involuntary cessation of red meat consumption. Using national electronic health records, we compared changes in weight and cardiometabolic health over two years before and after newly detected alpha-gal syndrome with those in patients with other tick-borne diseases, who were also bitten and sought care but whose diagnoses carry no dietary restriction. Relative to this comparison ...
 
 ---
 
@@ -147,26 +90,12 @@ Young adults in advanced economies have grown more pessimistic about their econo
 
 ---
 
-### [Crime on ICE: Local Police Behavior and Immigration Enforcement in the United States](https://www.nber.org/papers/w36026#fromrss)
-*John J. Donohue, Tai Markman, Eric A. Baldwin* — **NBER WP**, 2026-11-21 — _Labor & Demographic Economics, Law & Economics, method:DiD_
-
-A growing number of local police departments now hold authority to enforce federal immigration law, a role traditionally reserved for federal officers. Despite claims that this authority enhances public safety, empirical evidence remains limited. Using FBI Uniform Crime Report data from 2000–2024, we exploit staggered adoption across U.S. jurisdictions to estimate causal effects on policing. We find that this enforcement authority increases arrests for low-level, discretionary offenses by approximately 7%, with no corresponding decreases in offense rates or serious crime. These results suggest...
-
----
-
 ## Macroeconomics
 
 ### [Monetary policy in a Phelps–Winter Economy](https://www.nber.org/papers/w36008#fromrss)
 *Bruce C. Greenwald, Joseph E. Stiglitz* — **NBER WP**, 2026-11-21 — _Macroeconomics_
 
 We use the Phelps-Winter customer market—providing a better theory of price determination for large parts of the economy than the standard model—to show that raising interest rates induces higher prices, as firms value current profits more, and are more willing to lose customers for short-term gains. These inflationary effects can be significant in relevant ranges of interest rates; they exist in the short run even when interest rate hikes succeed in cutting aggregate demand; and that they are amplified by policy uncertainty and the uncertainty about the effects of interest rate changes, both ...
-
----
-
-### [An Odd Approximation of Inflation for State Dependent Pricing Models](https://www.nber.org/papers/w36016#fromrss)
-*Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens et al.* — **NBER WP**, 2026-11-21 — _Macroeconomics_
-
-We derive an aggregate state-space representation of state-dependent pricing models with random menu costs and strategic complementarities. The representation, derived from first principles, replaces the cross-sectional distribution of price gaps with a finite set of its moments (the first three), while preserving the key economic forces of state-dependent pricing--movements in the frequency of price adjustment and selection. Along the impulse response, inflation is an odd (cubic) polynomial in the average price gap. Embedded in a general equilibrium setting, the model can be solved by perturb...
 
 ---
 
@@ -186,33 +115,134 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
+## Public Economics
+
+### [Putting the ‘Finance’ Into ‘Public Finance’: A Theory of Capital Gains Taxation](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24013?af=R)
+*Mark Aguiar, 
+Benjamin Moll, 
+Florian Scheuer* — **Econometrica**, 2026-11-21 — _Public Economics_
+
+Econometrica, Volume 94, Issue 6, Page 1907-1949, November 2026.
+
+---
+
 ## Unclassified
+
+### [Backmatter of Econometrica Vol. 94 Iss. 6](https://onlinelibrary.wiley.com/doi/10.3982/ECTA946BM?af=R)
+** — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page iii-v, November 2026.
+
+---
+
+### [Frontmatter of Econometrica 94 Iss. 6](https://onlinelibrary.wiley.com/doi/10.3982/ECTA946FM?af=R)
+** — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page i-ii, November 2026.
+
+---
+
+### [Correction to ‘Dynamic Spatial General Equilibrium’ by Benny Kleinman, Ernest Liu, and Stephen Redding](https://onlinelibrary.wiley.com/doi/10.3982/ECTA25748?af=R)
+*Benny Kleinman, 
+Ernest Liu, 
+Stephen J. Redding, 
+Tomohiro Uchiyama* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 17-18, November 2026.
+
+---
+
+### [Correction to ‘General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya’ by Dennis Egger, Johannes Haushofer, Edward Miguel, Paul Niehaus, and Michael Walker](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22886?af=R)
+*Dennis Egger, 
+Johannes Haushofer, 
+Edward Miguel, 
+Paul Niehaus, 
+Michael Walker* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 1-16, November 2026.
+
+---
+
+### [Extreme Value Theory With Heterogeneous Agents](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22276?af=R)
+*Sephorah Mangin* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2149-2192, November 2026.
+
+---
+
+### [The Social Learning Barrier](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24769?af=R)
+*Florian Brandl* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 1991-2024, November 2026.
+
+---
+
+### [Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups](https://onlinelibrary.wiley.com/doi/10.3982/ECTA19299?af=R)
+*Mert Demirer* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 1951-1990, November 2026.
+
+---
+
+### [Intermediate Input Substitutability](https://onlinelibrary.wiley.com/doi/10.3982/ECTA21141?af=R)
+*Alessandra Peter, 
+Cian Ruane* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2049-2079, November 2026.
+
+---
+
+### [Informal Redistribution Through Work](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22079?af=R)
+*Elisa Macchi, 
+Jeremia Stalder* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2263-2295, November 2026.
+
+---
+
+### [Two‐Sided Markets Shaped by Platform‐Guided Search](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22288?af=R)
+*Kwok Hao Lee, 
+Leon Musolff* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2081-2115, November 2026.
+
+---
+
+### [An Exact t‐Test](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22545?af=R)
+*Guillaume A. Pouliot* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2297-2318, November 2026.
+
+---
+
+### [From Predictive Algorithms to the Automatic Generation of Anomalies](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22958?af=R)
+*Sendhil Mullainathan, 
+Ashesh Rambachan* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2025-2047, November 2026.
+
+---
+
+### [Coalitions in Repeated Games](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23921?af=R)
+*S. Nageeb Ali, 
+Ce Liu* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2193-2225, November 2026.
+
+---
+
+### [Optimal Formula Instruments](https://onlinelibrary.wiley.com/doi/10.3982/ECTA24250?af=R)
+*Kirill Borusyak, 
+Peter Hull* — **Econometrica**, 2026-11-21 — _Unclassified_
+
+Econometrica, Volume 94, Issue 6, Page 2227-2261, November 2026.
+
+---
 
 ### [Presidential Address: Human Finance: Incorporating Insights from the Life Sciences](https://onlinelibrary.wiley.com/doi/10.1111/jofi.70096?af=R)
 *ULRIKE MALMENDIER* — **Journal of Finance**, 2026-11-10 — _Unclassified_
 
 The Journal of Finance, EarlyView.
-
----
-
-### [fereg: Fast High-Dimensional Fixed-Effects Regressions in Stata](https://www.nber.org/papers/w36017#fromrss)
-*Johannes F. Schmieder* — **NBER WP**, 2026-11-21 — _Unclassified_
-
-Regressions with many fixed effects are central to applied research, but fitting them to large datasets can be slow. In this article, I present the commands fereg and feppml, which fit linear and Poisson pseudo-maximum-likelihood regressions with high-dimensional fixed effects. Both commands use familiar Stata syntax and pass the computation to a compiled plugin. The plugin chooses among projection, Krylov, and multigrid solvers according to the structure of the fixed effects, checks every result before posting it, and runs on several processor cores. The commands support multiple and interact...
-
----
-
-### [The Last Arbitrage? Capital Flows, Development, and Infrastructure as an Asset Class](https://www.nber.org/papers/w36022#fromrss)
-*Anusha Chari, Monroe Gamble, Peter Blair Henry* — **NBER WP**, 2026-11-21 — _Unclassified_
-
-Lucas (1990) asked why capital does not flow from rich to poor countries. When poor countries opened their stock markets to foreign investors in the late 1980s, it did: rich-country capital arbitraged away the excess return on emerging-market equity and created a new asset class. Infrastructure may offer the last such arbitrage. The median social return on paved roads in poor countries was 3.7 times the return on U.S. capital at the time of liberalization, but investors capture only the share of social returns that contracts, user fees, and political risk allow, a constraint we call the privat...
-
----
-
-### [Learn to Earn: The Long-Term Effects of Foundational Learning](https://www.nber.org/papers/w36030#fromrss)
-*Tahir Andrabi, Natalie Bau, Jishnu Das, Asim Ijaz Khwaja et al.* — **NBER WP**, 2026-11-21 — _Unclassified_
-
-Tracking Pakistani students over 15 years, we use two identification strategies to provide the first causal evidence linking learning in primary school to adult outcomes in a low-income country. Exposure to a school with higher test score value-added increases educational attainment and earnings 15 years later. A randomized information intervention that led to learning gains at the village level generated similar effects. Lifetime earnings gains across all students attending a 1sd better school total US$175,000, and for the information intervention, the marginal value of public funds is infini...
 
 ---
 
@@ -222,14 +252,5 @@ Tracking Pakistani students over 15 years, we use two identification strategies 
 *Nicola Gennaioli, John A. List, Matthias Rodemeier, Gregory K. Sun* — **NBER WP**, 2026-11-21 — _method:Field Experiment_
 
 Neoclassical demand obeys regularity: adding a good can only draw demand away from existing goods. In a natural field experiment with Lyft covering 7.2 million riders and 47 million choices, we randomize the presence and price of a premium ride. Contrary to regularity, the premium ride raises demand for the cheapest incumbent and for not buying. The effect grows with the premium price and with repeated exposure, and persists in sessions where the premium ride is not displayed. Rational inference and inattention cannot account for these facts. A model in which a surprisingly high price, cued on...
-
----
-
-## method:Natural Experiment
-
-### [Crash Injuries and Fatalities in the United States Following Standardization of Automatic Emergency Braking](https://www.nber.org/papers/w36028#fromrss)
-*Vishal Patel, Christopher M. Worsham, Michael Liu-Hass, Thomas Tsai et al.* — **NBER WP**, 2026-11-21 — _method:Natural Experiment_
-
-Whether vehicle safety technologies reduce crash injuries and fatalities is relevant to consumers and regulators, but rigorous real world evidence is limited because drivers who choose optional features differ from those who do not. As a natural experiment, we leveraged the staggered implementation of automatic emergency braking as standard rather than optional equipment on 39 vehicle models between 2017 and 2022. Across the United States, the percentage of crash injuries from rear-end collisions caused by the vehicle fell from 13.9% to 8.0% at the first standard model year, and the percentage...
 
 ---
