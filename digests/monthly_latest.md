@@ -39,6 +39,15 @@ Impact measurement is central to impact investing and social entrepreneurship, y
 
 ---
 
+## Financial Economics
+
+### [Long-run Uncovered Interest Parity in Emerging Markets](https://www.nber.org/papers/w36052#fromrss)
+*Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone* — **NBER WP**, 2026-11-23 — _Financial Economics_
+
+Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for all emerging market currencies for which they are available from 2000 to 2025, we find that the slope of long-horizon UIP regressions is well below one at the five-year maturity for emerging market currencies, while unity cannot be rejected for G10 currencies. However, when we augment these regression...
+
+---
+
 ## Health, Education & Welfare
 
 ### [Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23194?af=R)
@@ -243,14 +252,5 @@ Econometrica, Volume 94, Issue 6, Page 2227-2261, November 2026.
 *ULRIKE MALMENDIER* — **Journal of Finance**, 2026-11-10 — _Unclassified_
 
 The Journal of Finance, EarlyView.
-
----
-
-## method:Field Experiment
-
-### [Irregular Demand: The Anti-Compromise Effect in the Field](https://www.nber.org/papers/w36013#fromrss)
-*Nicola Gennaioli, John A. List, Matthias Rodemeier, Gregory K. Sun* — **NBER WP**, 2026-11-23 — _method:Field Experiment_
-
-Neoclassical demand obeys regularity: adding a good can only draw demand away from existing goods. In a natural field experiment with Lyft covering 7.2 million riders and 47 million choices, we randomize the presence and price of a premium ride. Contrary to regularity, the premium ride raises demand for the cheapest incumbent and for not buying. The effect grows with the premium price and with repeated exposure, and persists in sessions where the premium ride is not displayed. Rational inference and inattention cannot account for these facts. A model in which a surprisingly high price, cued on...
 
 ---
