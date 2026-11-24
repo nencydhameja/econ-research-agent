@@ -1,13 +1,13 @@
-# Economics Research Digest — 2026-11-23
+# Economics Research Digest — 2026-11-24
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
-### [Investment and Governance: Through The Lens of Sustainability](https://www.nber.org/papers/w36011#fromrss)
-*Jitendra Aswani, Roberto Rigobon* — **NBER WP**, 2026-11-23 — _Agricultural & Environmental Economics, Econometrics & Methods_
+### [Designing Low Emission Zones: Theory and Evidence](https://www.nber.org/papers/w36037#fromrss)
+*Nano Barahona, Natalia Fabra, Imelda, Juan-Pablo Montero* — **NBER WP**, 2026-11-24 — _Agricultural & Environmental Economics_
 
-Using 3,944 sustainable bond issuances by public firms from 2013 to 2022, we examine the causal effect of sustainable investment on governance adoption. A heteroskedasticity-based identification strategy reveals that a 1% increase in sustainable debt (by total debt) raises the likelihood of sustainable governance adoption by 9.2%. Such adoption improves environmental performance by 16% (structural estimates). These effects are confined to non-financial firms; for financial firms, governance adoption alone is in-sufficient, as sustainable loan borrowers environmental performance does not improv...
+Low Emission Zones (LEZs), which exclude polluting vehicles from parts of a city, are spreading. Yet how their design affects welfare is poorly understood. Unlike price instruments, LEZs ration access inefficiently, imposing costs on inframarginal drivers of restricted vehicles. In our model, welfare is quasi-convex in LEZ size, yielding bang-bang principles: LEZs should be as large as possible or not implemented at all; cleaner vehicles (e.g., hybrids) could be exempt as transition technologies but later restricted, which may require planner commitment. Using new-car purchases, we find Madrid...
 
 ---
 
@@ -32,17 +32,31 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-### [Measuring the Impact of Impact Measurement](https://www.nber.org/papers/w36009#fromrss)
-*Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth* — **NBER WP**, 2026-11-23 — _Business Economics & Innovation, method:RCT_
+### [Five Facts About Stablecoins](https://www.nber.org/papers/w36038#fromrss)
+*Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang* — **NBER WP**, 2026-11-24 — _Business Economics & Innovation, Law & Economics_
 
-Impact measurement is central to impact investing and social entrepreneurship, yet little is known about whether firms benefit privately from measuring impact. We conduct the first randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms exhibit nearly twice as much revenue growth and raise nearly twice as much capital as control firms. In a companion experiment with early-stage investors, we find that investors respond strongly to quantified impact metrics but not to generic qualitative impact statements. Together, our resu...
+We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the cost...
+
+---
+
+### [Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing](https://www.nber.org/papers/w36039#fromrss)
+*Murillo Campello, Guilherme Junqueira* — **NBER WP**, 2026-11-24 — _Business Economics & Innovation, Labor & Demographic Economics_
+
+Can tax subsidies expand the geographic reach of startup investing? Despite decades of growth, venture capital (VC) remains concentrated in a handful of metropolitan areas, leaving most of the country with limited access to startup financing. We study the 2009–2010 enhancement of the Qualified Small Business Stock (QSBS) program, which eliminated federal capital gains taxes on investments in qualifying startups. By raising the payoff to success, the reform made riskier investments more attractive, including entry into unfamiliar markets. This incentive is especially strong for VC funds. Relati...
+
+---
+
+### [The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage](https://www.nber.org/papers/w36042#fromrss)
+*Paul D. Jacobs, Timothy J. Layton* — **NBER WP**, 2026-11-24 — _Business Economics & Innovation, Health, Education & Welfare_
+
+Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantag...
 
 ---
 
 ## Financial Economics
 
 ### [Long-run Uncovered Interest Parity in Emerging Markets](https://www.nber.org/papers/w36052#fromrss)
-*Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone* — **NBER WP**, 2026-11-23 — _Financial Economics_
+*Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone* — **NBER WP**, 2026-11-24 — _Financial Economics_
 
 Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for all emerging market currencies for which they are available from 2000 to 2025, we find that the slope of long-horizon UIP regressions is well below one at the five-year maturity for emerging market currencies, while unity cannot be rejected for G10 currencies. However, when we augment these regression...
 
@@ -60,17 +74,10 @@ Econometrica, Volume 94, Issue 6, Page 2117-2148, November 2026.
 
 ---
 
-### [How Will the 340B Rebate Model Pilot Affect Covered Entity Finances?](https://www.nber.org/papers/w36006#fromrss)
-*Charles J. Courtemanche* — **NBER WP**, 2026-11-23 — _Health, Education & Welfare_
+### [Does Treating Addiction Rebuild Lives? Evidence from Buprenorphine](https://www.nber.org/papers/w36041#fromrss)
+*Sarah Eichmeyer, Aljoscha Janssen, Jonathan Zhang* — **NBER WP**, 2026-11-24 — _Health, Education & Welfare_
 
-The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the ...
-
----
-
-### [Last-Mile Delivery and the Future of Aid](https://www.nber.org/papers/w36012#fromrss)
-*Erika Deserranno, Andrea Guariso, Nancy Qian* — **NBER WP**, 2026-11-23 — _Health, Education & Welfare_
-
-Foreign aid seeks to provide basic services, such as health care and education, to poor and vulnerable populations. Its effectiveness depends on last-mile delivery: whether those services reach the people who need them. This article reviews evidence on two key aspects of last-mile delivery. The first concerns the growing role of non-state providers, especially NGOs, and its implication for state’s capacity to deliver services and coordinate across providers. The second concerns the selection, motivation, and management of frontline workers who provide the services directly to beneficiaries. We...
+Does treating addiction improve economic circumstances as well as health? Using two decades of Veterans Health Administration records on over 140,000 patients with opioid use disorder and consumer credit data, we exploit staggered facility-level buprenorphine adoption and quasi-random emergency physician assignment. A five-percentage-point increase in the share of clinicians with buprenorphine prescribing experience doubles overdose survivors’ long-term medication use and reduces two-year mortality by an estimated 3.7 percentage points. Instrumenting receipt yields a 22 percent credit score ga...
 
 ---
 
@@ -83,28 +90,12 @@ Journal of Political Economy, Ahead of Print.
 
 ---
 
-## Labor & Demographic Economics
-
-### [Horizontal Equity of Taxation: Citizen Beliefs and Policy Preferences](https://www.nber.org/papers/w36007#fromrss)
-*Pierre Bachas, Christopher A. Hoy, Anders Jensen, Mahvish Shaukat* — **NBER WP**, 2026-11-23 — _Labor & Demographic Economics, Public Economics_
-
-Taxes are harder to enforce on the self-employed than on wage earners, creating horizontal inequities among taxpayers with similar incomes. Using tax microsimulation and household survey data from 29 developing countries, we show that horizontal inequities in actual tax systems are comparable in magnitude to vertical equity and are exacerbated by progressive reforms that fall disproportionately on wage earners. We then conduct surveys and randomized information experiments in Pakistan to study public perceptions of these inequities. Although providing information raises fairness concerns, it d...
-
----
-
-### [Gambling for Goals](https://www.nber.org/papers/w36010#fromrss)
-*Costas Arkolakis, Spencer Y. Kwon, Dominic Russel, Claire Shi et al.* — **NBER WP**, 2026-11-23 — _Labor & Demographic Economics, Urban, Rural & Regional Economics_
-
-Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory using an original survey combined with millions of linked records from Korea’s leading credit bureau, telecom provider, and credit card issuer. Consistent with the theory, individuals who place greater importance on hard-to-rea...
-
----
-
 ## Macroeconomics
 
-### [Monetary policy in a Phelps–Winter Economy](https://www.nber.org/papers/w36008#fromrss)
-*Bruce C. Greenwald, Joseph E. Stiglitz* — **NBER WP**, 2026-11-23 — _Macroeconomics_
+### [Mental Models of Fiscal Policy](https://www.nber.org/papers/w36043#fromrss)
+*Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver et al.* — **NBER WP**, 2026-11-24 — _Macroeconomics, Public Economics, method:RCT_
 
-We use the Phelps-Winter customer market—providing a better theory of price determination for large parts of the economy than the standard model—to show that raising interest rates induces higher prices, as firms value current profits more, and are more willing to lose customers for short-term gains. These inflationary effects can be significant in relevant ranges of interest rates; they exist in the short run even when interest rate hikes succeed in cutting aggregate demand; and that they are amplified by policy uncertainty and the uncertainty about the effects of interest rate changes, both ...
+We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations. We classify these explanations into economic mental models, political narratives, and experience-based heuristics. Respondents reporting similar fiscal conditions nevertheless form systematically different expectations of adjustment. Economic mental models are associated with stronger expectations ...
 
 ---
 
@@ -252,5 +243,12 @@ Econometrica, Volume 94, Issue 6, Page 2227-2261, November 2026.
 *ULRIKE MALMENDIER* — **Journal of Finance**, 2026-11-10 — _Unclassified_
 
 The Journal of Finance, EarlyView.
+
+---
+
+### [The Emergence of a National Capital Market,1870–1940](https://www.nber.org/papers/w36040#fromrss)
+*Pawel Janas* — **NBER WP**, 2026-11-24 — _Unclassified_
+
+This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 1870–1940. Between 1880 and 1890 the mean distance of insurers’ bonds from home more than doubled and their home-state share fell from over half to under a quarter. The shift occurred within firms, across bond classes and charters. Mortgage lending was national wherever state law permitted it. Integration was largely complete by 1890.
 
 ---
