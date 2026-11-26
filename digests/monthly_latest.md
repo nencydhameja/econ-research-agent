@@ -1,11 +1,11 @@
-# Economics Research Digest — 2026-11-25
+# Economics Research Digest — 2026-11-26
 
-Window: last **30 days** · 30 papers across 10 fields · drawn from 2 sources.
+Window: last **30 days** · 30 papers across 9 fields · drawn from 2 sources.
 
 ## Agricultural & Environmental Economics
 
 ### [Designing Low Emission Zones: Theory and Evidence](https://www.nber.org/papers/w36037#fromrss)
-*Nano Barahona, Natalia Fabra, Imelda, Juan-Pablo Montero* — **NBER WP**, 2026-11-25 — _Agricultural & Environmental Economics_
+*Nano Barahona, Natalia Fabra, Imelda, Juan-Pablo Montero* — **NBER WP**, 2026-11-26 — _Agricultural & Environmental Economics_
 
 Low Emission Zones (LEZs), which exclude polluting vehicles from parts of a city, are spreading. Yet how their design affects welfare is poorly understood. Unlike price instruments, LEZs ration access inefficiently, imposing costs on inframarginal drivers of restricted vehicles. In our model, welfare is quasi-convex in LEZ size, yielding bang-bang principles: LEZs should be as large as possible or not implemented at all; cleaner vehicles (e.g., hybrids) could be exempt as transition technologies but later restricted, which may require planner commitment. Using new-car purchases, we find Madrid...
 
@@ -33,21 +33,21 @@ Journal of Political Economy, Ahead of Print.
 ---
 
 ### [Five Facts About Stablecoins](https://www.nber.org/papers/w36038#fromrss)
-*Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang* — **NBER WP**, 2026-11-25 — _Business Economics & Innovation, Law & Economics_
+*Lin William Cong, Gordon Y. Liao, Eswar S. Prasad, Tony Zhang* — **NBER WP**, 2026-11-26 — _Business Economics & Innovation, Law & Economics_
 
 We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the cost...
 
 ---
 
 ### [Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing](https://www.nber.org/papers/w36039#fromrss)
-*Murillo Campello, Guilherme Junqueira* — **NBER WP**, 2026-11-25 — _Business Economics & Innovation, Labor & Demographic Economics_
+*Murillo Campello, Guilherme Junqueira* — **NBER WP**, 2026-11-26 — _Business Economics & Innovation, Labor & Demographic Economics_
 
 Can tax subsidies expand the geographic reach of startup investing? Despite decades of growth, venture capital (VC) remains concentrated in a handful of metropolitan areas, leaving most of the country with limited access to startup financing. We study the 2009–2010 enhancement of the Qualified Small Business Stock (QSBS) program, which eliminated federal capital gains taxes on investments in qualifying startups. By raising the payoff to success, the reform made riskier investments more attractive, including entry into unfamiliar markets. This incentive is especially strong for VC funds. Relati...
 
 ---
 
 ### [The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage](https://www.nber.org/papers/w36042#fromrss)
-*Paul D. Jacobs, Timothy J. Layton* — **NBER WP**, 2026-11-25 — _Business Economics & Innovation, Health, Education & Welfare_
+*Paul D. Jacobs, Timothy J. Layton* — **NBER WP**, 2026-11-26 — _Business Economics & Innovation, Health, Education & Welfare_
 
 Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantag...
 
@@ -56,9 +56,16 @@ Some social insurance programs, including the Medicare program in the United Sta
 ## Financial Economics
 
 ### [Long-run Uncovered Interest Parity in Emerging Markets](https://www.nber.org/papers/w36052#fromrss)
-*Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone* — **NBER WP**, 2026-11-25 — _Financial Economics_
+*Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente, Nicolò Capirone* — **NBER WP**, 2026-11-26 — _Financial Economics_
 
 Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for all emerging market currencies for which they are available from 2000 to 2025, we find that the slope of long-horizon UIP regressions is well below one at the five-year maturity for emerging market currencies, while unity cannot be rejected for G10 currencies. However, when we augment these regression...
+
+---
+
+### [Valuing the Cost of Incomplete Global Markets](https://www.nber.org/papers/w36046#fromrss)
+*Karen K. Lewis, Edith X. Liu* — **NBER WP**, 2026-11-26 — _Financial Economics, International Economics_
+
+Deviations from complete financial markets in cross-border investments generate economic welfare costs. This paper shows how to value these costs using standard theory and data based on three main results. Our first result shows how welfare valuations can be derived from a general wealth-to-dividend ratio. Next, we establish how aggregate consumption and exchange rate data can be used to uncover diversifiable goods allocations across countries. Finally, we demonstrate how asset pricing data and models can be used to value deviations from complete markets. The paper outlines a range of applicat...
 
 ---
 
@@ -75,7 +82,7 @@ Econometrica, Volume 94, Issue 6, Page 2117-2148, November 2026.
 ---
 
 ### [Does Treating Addiction Rebuild Lives? Evidence from Buprenorphine](https://www.nber.org/papers/w36041#fromrss)
-*Sarah Eichmeyer, Aljoscha Janssen, Jonathan Zhang* — **NBER WP**, 2026-11-25 — _Health, Education & Welfare_
+*Sarah Eichmeyer, Aljoscha Janssen, Jonathan Zhang* — **NBER WP**, 2026-11-26 — _Health, Education & Welfare_
 
 Does treating addiction improve economic circumstances as well as health? Using two decades of Veterans Health Administration records on over 140,000 patients with opioid use disorder and consumer credit data, we exploit staggered facility-level buprenorphine adoption and quasi-random emergency physician assignment. A five-percentage-point increase in the share of clinicians with buprenorphine prescribing experience doubles overdose survivors’ long-term medication use and reduces two-year mortality by an estimated 3.7 percentage points. Instrumenting receipt yields a 22 percent credit score ga...
 
@@ -93,18 +100,9 @@ Journal of Political Economy, Ahead of Print.
 ## Macroeconomics
 
 ### [Mental Models of Fiscal Policy](https://www.nber.org/papers/w36043#fromrss)
-*Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver et al.* — **NBER WP**, 2026-11-25 — _Macroeconomics, Public Economics, method:RCT_
+*Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver et al.* — **NBER WP**, 2026-11-26 — _Macroeconomics, Public Economics, method:RCT_
 
 We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations. We classify these explanations into economic mental models, political narratives, and experience-based heuristics. Respondents reporting similar fiscal conditions nevertheless form systematically different expectations of adjustment. Economic mental models are associated with stronger expectations ...
-
----
-
-## Political Economy
-
-### [Collusion through Common Leadership](https://www.journals.uchicago.edu/doi/abs/10.1086/743900?af=R)
-*Alejandro Herrera-CaicedoJessica JeffersElena PragerUniversity of Wisconsin–MadisonHEC Paris and Centre for Economic Policy ResearchUniversity of Rochester and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-11-11 — _Political Economy_
-
-Journal of Political Economy, Ahead of Print.
 
 ---
 
@@ -233,14 +231,14 @@ Econometrica, Volume 94, Issue 6, Page 2227-2261, November 2026.
 ---
 
 ### [The Emergence of a National Capital Market,1870–1940](https://www.nber.org/papers/w36040#fromrss)
-*Pawel Janas* — **NBER WP**, 2026-11-25 — _Unclassified_
+*Pawel Janas* — **NBER WP**, 2026-11-26 — _Unclassified_
 
 This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 1870–1940. Between 1880 and 1890 the mean distance of insurers’ bonds from home more than doubled and their home-state share fell from over half to under a quarter. The shift occurred within firms, across bond classes and charters. Mortgage lending was national wherever state law permitted it. Integration was largely complete by 1890.
 
 ---
 
 ### [How AI Impacts the Quest for Knowledge: Evidence from AlphaFold2](https://www.nber.org/papers/w36045#fromrss)
-*Myra Mohnen, Joshua S. Gans* — **NBER WP**, 2026-11-25 — _Unclassified_
+*Myra Mohnen, Joshua S. Gans* — **NBER WP**, 2026-11-26 — _Unclassified_
 
 Scientists can respond to artificial intelligence by pushing the frontier of science and asking new questions, or by deepening their understanding of questions already studied. We study how AI shapes this choice in structural biology, where experiments examine a protein's three-dimensional structure and its function. AlphaFold2, released in 2021, predicts the structure of almost every known protein, with a confidence that varies across proteins. Linking 530,471 proteins to the experiments run on them between 2017 and 2025, we compare how experimental activity changed after 2021 across proteins...
 
@@ -249,7 +247,7 @@ Scientists can respond to artificial intelligence by pushing the frontier of sci
 ## method:RCT
 
 ### [Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics](https://www.nber.org/papers/w36044#fromrss)
-*Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji et al.* — **NBER WP**, 2026-11-25 — _method:RCT_
+*Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji et al.* — **NBER WP**, 2026-11-26 — _method:RCT_
 
 What scientists choose not to publish can be as important as what they do publish. We measure missing research results at the hypothesis level and use this approach to study under-reporting in economics. Across 5,057 pre-registered hypotheses from 317 studies registered on the American Economic Association RCT Registry between 2015 and 2017, only 42% have publicly available results eight to nine years after pre-registration. Among the available results, 64% are null, and we find little evidence that null results are disproportionately missing. In an RCT, direct engagement with authors increase...
 
