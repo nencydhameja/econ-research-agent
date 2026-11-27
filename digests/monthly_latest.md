@@ -62,13 +62,6 @@ Uncovered interest parity (UIP) tends to hold at long horizons for advanced-econ
 
 ---
 
-### [Valuing the Cost of Incomplete Global Markets](https://www.nber.org/papers/w36046#fromrss)
-*Karen K. Lewis, Edith X. Liu* — **NBER WP**, 2026-11-27 — _Financial Economics, International Economics_
-
-Deviations from complete financial markets in cross-border investments generate economic welfare costs. This paper shows how to value these costs using standard theory and data based on three main results. Our first result shows how welfare valuations can be derived from a general wealth-to-dividend ratio. Next, we establish how aggregate consumption and exchange rate data can be used to uncover diversifiable goods allocations across countries. Finally, we demonstrate how asset pricing data and models can be used to value deviations from complete markets. The paper outlines a range of applicat...
-
----
-
 ## Health, Education & Welfare
 
 ### [Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality](https://onlinelibrary.wiley.com/doi/10.3982/ECTA23194?af=R)
@@ -103,6 +96,29 @@ Journal of Political Economy, Ahead of Print.
 *Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver et al.* — **NBER WP**, 2026-11-27 — _Macroeconomics, Public Economics, method:RCT_
 
 We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations. We classify these explanations into economic mental models, political narratives, and experience-based heuristics. Respondents reporting similar fiscal conditions nevertheless form systematically different expectations of adjustment. Economic mental models are associated with stronger expectations ...
+
+---
+
+## Political Economy
+
+### [Who Values Democracy?](https://www.journals.uchicago.edu/doi/abs/10.1086/743899?af=R)
+*Max MillerHarvard Business School* — **Journal of Political Economy**, 2026-11-24 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [The Economic Dynamics of City Structure: Evidence from Hiroshima’s Recovery](https://www.journals.uchicago.edu/doi/abs/10.1086/743334?af=R)
+*Kohei TakedaAtsushi YamagishiNational University of Singapore and Centre for Economic PerformanceTohoku University* — **Journal of Political Economy**, 2026-11-24 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
+
+---
+
+### [Not Learning from Others](https://www.journals.uchicago.edu/doi/abs/10.1086/743914?af=R)
+*John J. ConlonMalavika ManiGautam RaoMatthew RidleyFrank SchilbachOhio State UniversityUniversity of WarwickUniversity of California, Berkeley, and National Bureau of Economic ResearchUniversity of WarwickMassachusetts Institute of Technology and National Bureau of Economic Research* — **Journal of Political Economy**, 2026-11-24 — _Political Economy_
+
+Journal of Political Economy, Ahead of Print.
 
 ---
 
@@ -234,21 +250,5 @@ Econometrica, Volume 94, Issue 6, Page 2227-2261, November 2026.
 *Pawel Janas* — **NBER WP**, 2026-11-27 — _Unclassified_
 
 This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 1870–1940. Between 1880 and 1890 the mean distance of insurers’ bonds from home more than doubled and their home-state share fell from over half to under a quarter. The shift occurred within firms, across bond classes and charters. Mortgage lending was national wherever state law permitted it. Integration was largely complete by 1890.
-
----
-
-### [How AI Impacts the Quest for Knowledge: Evidence from AlphaFold2](https://www.nber.org/papers/w36045#fromrss)
-*Myra Mohnen, Joshua S. Gans* — **NBER WP**, 2026-11-27 — _Unclassified_
-
-Scientists can respond to artificial intelligence by pushing the frontier of science and asking new questions, or by deepening their understanding of questions already studied. We study how AI shapes this choice in structural biology, where experiments examine a protein's three-dimensional structure and its function. AlphaFold2, released in 2021, predicts the structure of almost every known protein, with a confidence that varies across proteins. Linking 530,471 proteins to the experiments run on them between 2017 and 2025, we compare how experimental activity changed after 2021 across proteins...
-
----
-
-## method:RCT
-
-### [Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics](https://www.nber.org/papers/w36044#fromrss)
-*Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji et al.* — **NBER WP**, 2026-11-27 — _method:RCT_
-
-What scientists choose not to publish can be as important as what they do publish. We measure missing research results at the hypothesis level and use this approach to study under-reporting in economics. Across 5,057 pre-registered hypotheses from 317 studies registered on the American Economic Association RCT Registry between 2015 and 2017, only 42% have publicly available results eight to nine years after pre-registration. Among the available results, 64% are null, and we find little evidence that null results are disproportionately missing. In an RCT, direct engagement with authors increase...
 
 ---
